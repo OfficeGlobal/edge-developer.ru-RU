@@ -7,12 +7,12 @@ ms.date: 09/15/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: Edge — Chromium, Web Development, HTML, CSS, JavaScript, разработчик, расширения
-ms.openlocfilehash: 586f0427241e5f01b63a22ce204484dc5e8cf154
-ms.sourcegitcommit: d360e419b5f96f4f691cf7330b0d8dff9126f82e
+ms.openlocfilehash: fd2276c069116a7f69f06ae50f201e284b60f3ea
+ms.sourcegitcommit: 744e2ecf42bcc427ae33e5dadbf6cd48ee0ab6a5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "11015760"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "11016731"
 ---
 # Динамическое добавление изображения NASA под тегом текста страницы с помощью сценариев содержимого  
 
@@ -32,7 +32,7 @@ ms.locfileid: "11015760"
 
 ## Удаление изображения из всплывающего окна и замена его на кнопку  
 
-Сначала обновите `popup.html` файл с помощью перенаправленной текстовой разметки, в которой отображается заголовок и кнопка.  Вы запрограммироване кнопку чуть ниже, но теперь просто включите ссылку на пустой файл JavaScript `popup.js` .  Вот обновление HTML.  
+Сначала обновите `popup.html` файл с помощью перенаправленной текстовой разметки, в которой отображается заголовок и кнопка.  Эта кнопка вскоре будет программироваться, но теперь просто включите ссылку на пустой файл JavaScript `popup.js` .  Вот обновление HTML.  
 
 ```html
 <html>
