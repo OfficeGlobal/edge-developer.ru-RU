@@ -16,6 +16,8 @@
       href: concepts/distribution.md
     - name: Управление папками с данными пользователей
       href: concepts/userdatafolder.md
+    - name: Управление приложениями WebView2
+      href: concepts/enterprise.md
     - name: События навигации
       href: concepts/navigation-events.md
     - name: Модель процессов
