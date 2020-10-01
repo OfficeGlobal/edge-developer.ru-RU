@@ -41,7 +41,7 @@ ms.locfileid: "10993620"
 
 По умолчанию DevTools записывает все сетевые запросы на панели "сеть", пока не откроете DevTools.  
 
-:::image type="complex" source="../media/network-network-panel.msft.png" alt-text="Панель "сеть"" lightbox="../media/network-network-panel.msft.png":::
+:::image type="complex" source="../media/network-network-panel.msft.png" alt-text="Панель сеть" lightbox="../media/network-network-panel.msft.png":::
    Рисунок 1: панель " **сеть** "  
 :::image-end:::  
 
@@ -56,7 +56,7 @@ ms.locfileid: "10993620"
 
 **Clear** ![ ][ImageClearIcon] Чтобы очистить все запросы из таблицы "запросы", на панели "сеть" нажмите кнопку Clear Clear.  
 
-:::image type="complex" source="../media/network-network-clear-button.msft.png" alt-text="Кнопка "очистить"" lightbox="../media/network-network-clear-button.msft.png":::
+:::image type="complex" source="../media/network-network-clear-button.msft.png" alt-text="Кнопка очистить" lightbox="../media/network-network-clear-button.msft.png":::
    Рисунок 2: кнопка " **очистить** "  
 :::image-end:::  
 
@@ -64,7 +64,7 @@ ms.locfileid: "10993620"
 
 Для сохранения запросов на страницах загрузок на панели "сеть" установите флажок **сохранить журнал** .  DevTools сохраняет все запросы, пока не отключайте параметр **сохранить журнал**.  
 
-:::image type="complex" source="../media/network-network-preserve-log.msft.png" alt-text="Флажок "сохранить журнал"" lightbox="../media/network-network-preserve-log.msft.png":::
+:::image type="complex" source="../media/network-network-preserve-log.msft.png" alt-text="Флажок сохранить журнал" lightbox="../media/network-network-preserve-log.msft.png":::
    Рисунок 3: флажок " **сохранить журнал** "  
 :::image-end:::  
 
@@ -102,7 +102,7 @@ ms.locfileid: "10993620"
 
 Чтобы эмулировать, как пользователь попытается получить доступ к сайту, установите флажок **отключить кэш** .  DevTools отключает кэш браузера.  Это более точно эмулирует взаимодействие с пользователем при первом запуске, так как запросы размещаются из кэша браузера на повторных посещениях.  
 
-:::image type="complex" source="../media/network-network-disable-cache-checkbox.msft.png" alt-text="Флажок "отключить кэш"" lightbox="../media/network-network-disable-cache-checkbox.msft.png":::
+:::image type="complex" source="../media/network-network-disable-cache-checkbox.msft.png" alt-text="Флажок отключить кэш" lightbox="../media/network-network-disable-cache-checkbox.msft.png":::
    Рисунок 5: флажок **отключения кэша**  
 :::image-end:::  
 
@@ -131,7 +131,7 @@ ms.locfileid: "10993620"
 
 Щелкните раскрывающееся меню **онлайн** , выполните поиск в разделе " **стили**", а затем выберите пункт в **автономном режиме** , чтобы имитировать полностью автономный режим работы сети.  
 
-:::image type="complex" source="../media/network-network-offline-dropdown.msft.png" alt-text="Раскрывающееся меню "автономный режим"" lightbox="../media/network-network-offline-dropdown.msft.png":::
+:::image type="complex" source="../media/network-network-offline-dropdown.msft.png" alt-text="Раскрывающееся меню автономный режим" lightbox="../media/network-network-offline-dropdown.msft.png":::
    Рисунок 7: раскрывающийся список в **автономном режиме**  
 :::image-end:::  
 
@@ -183,7 +183,7 @@ DevTools отображает значок предупреждения рядо
 Если надпись не отображается, возможно, область Фильтры скрыта.  
 Посмотрите [скрыть область фильтров](#hide-the-filters-pane).  
 
-:::image type="complex" source="../media/network-network-filters-textbox.msft.png" alt-text="Текстовое поле "фильтр"" lightbox="../media/network-network-filters-textbox.msft.png":::
+:::image type="complex" source="../media/network-network-filters-textbox.msft.png" alt-text="Текстовое поле фильтр" lightbox="../media/network-network-filters-textbox.msft.png":::
    Рисунок 10: текстовое поле " **Фильтр** "  
 :::image-end:::  
 
@@ -233,7 +233,7 @@ DevTools отображает значок предупреждения рядо
 
 Установите флажок **скрыть URL-адреса данных** , чтобы скрыть запросы.  
 
-:::image type="complex" source="../media/network-network-hide-data-urls.msft.png" alt-text="Флажок "скрыть URL-адреса данных"" lightbox="../media/network-network-hide-data-urls.msft.png":::
+:::image type="complex" source="../media/network-network-hide-data-urls.msft.png" alt-text="Флажок скрыть URL-адреса данных" lightbox="../media/network-network-hide-data-urls.msft.png":::
    Рисунок 13: флажок **скрыть URL-адреса данных**  
 :::image-end:::  
 
@@ -292,7 +292,7 @@ DevTools отображает значок предупреждения рядо
 
 Наведите указатель мыши на заголовок таблицы запросы, откройте контекстное меню (щелкните правой кнопкой мыши \) и выберите один из вариантов, чтобы скрыть или отобразить его.  Параметры, отображаемые в данный момент, отмечены флажками рядом с каждым элементом.  
 
-:::image type="complex" source="../media/network-network-requests-add-column.msft.png" alt-text="Добавление столбца в таблицу "запросы"" lightbox="../media/network-network-requests-add-column.msft.png":::
+:::image type="complex" source="../media/network-network-requests-add-column.msft.png" alt-text="Добавление столбца в таблицу запросы" lightbox="../media/network-network-requests-add-column.msft.png":::
    Рисунок 16: Добавление столбца в таблицу "запросы"  
 :::image-end:::  
 
@@ -300,7 +300,7 @@ DevTools отображает значок предупреждения рядо
 
 Чтобы добавить настраиваемый столбец в таблицу запросы, наведите указатель мыши на заголовок таблицы запросы, откройте контекстное меню (щелкните правой кнопкой мыши \) и выберите **заголовки ответов**  >  .**Управление столбцами заголовков**.  
 
-:::image type="complex" source="../media/network-network-requests-add-custom.msft.png" alt-text="Добавление настраиваемого столбца в таблицу "запросы"" lightbox="../media/network-network-requests-add-custom.msft.png":::
+:::image type="complex" source="../media/network-network-requests-add-custom.msft.png" alt-text="Добавление настраиваемого столбца в таблицу запросы" lightbox="../media/network-network-requests-add-custom.msft.png":::
    Рисунок 17: Добавление настраиваемого столбца в таблицу "запросы"  
 :::image-end:::  
 
@@ -312,7 +312,7 @@ DevTools отображает значок предупреждения рядо
 
 Чтобы увидеть различные способы сортировки каскадов, просмотрите [фазу сортировки по действию](#sort-by-activity-phase) .  
 
-:::image type="complex" source="../media/network-network-requests-waterfall.msft.png" alt-text="Столбец "Каскад" на панели "запросы"" lightbox="../media/network-network-requests-waterfall.msft.png":::
+:::image type="complex" source="../media/network-network-requests-waterfall.msft.png" alt-text="Столбец Каскад на панели запросы" lightbox="../media/network-network-requests-waterfall.msft.png":::
    Рисунок 18: столбец "Каскад" на панели " **запросы** "  
 :::image-end:::  
 
