@@ -41,13 +41,13 @@ ms.locfileid: "10992801"
     
 1.  Начните вводить текст, нажмите кнопку `javascript` **отключить JavaScript**, а затем нажмите `Enter` , чтобы выполнить команду.  JavaScript теперь отключен.  
     
-    :::image type="complex" source="../media/javascript-console-command-javascript.msft.png" alt-text="Выбор пункта "отключить JavaScript" в меню команд" lightbox="../media/javascript-console-command-javascript.msft.png":::
+    :::image type="complex" source="../media/javascript-console-command-javascript.msft.png" alt-text="Меню команд" lightbox="../media/javascript-console-command-javascript.msft.png":::
        Выбор пункта " **отключить JavaScript** " в **меню команд**  
     :::image-end:::  
     
     Значок желтого предупреждения рядом с последующими **источниками** напоминает, что JavaScript отключен.  
     
-    :::image type="complex" source="../media/javascript-console-javascript-disabled-warning.msft.png" alt-text="Значок предупреждения рядом с пунктом «источники»" lightbox="../media/javascript-console-javascript-disabled-warning.msft.png":::
+    :::image type="complex" source="../media/javascript-console-javascript-disabled-warning.msft.png" alt-text="Меню команд" lightbox="../media/javascript-console-javascript-disabled-warning.msft.png":::
        Значок предупреждения рядом с пунктом « **источники** »  
     :::image-end:::  
     

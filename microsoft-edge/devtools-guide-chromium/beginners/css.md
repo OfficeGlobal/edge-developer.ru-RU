@@ -45,7 +45,7 @@ ms.locfileid: "10993305"
 
 После того как вы закончите обучение, сайт должен выглядеть так, как показано на рисунке ниже.  
 
-:::image type="complex" source="../media/beginners-css-intro2.msft.png" alt-text="Сведения о том, как должен выглядеть сайт в конце учебника" lightbox="../media/beginners-css-intro2.msft.png":::
+:::image type="complex" source="../media/beginners-css-intro2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-intro2.msft.png":::
    Сведения о том, как должен выглядеть сайт в конце учебника  
 :::image-end:::  
 
@@ -75,13 +75,13 @@ ms.locfileid: "10993305"
 
 1.  Откройте [Исходный код][GlitchCookedAmphibianIndex].  Ссылка на вкладку "на фокус" в браузере указана как **вкладка "Редактирование"**.  
     
-    :::image type="complex" source="../media/beginners-css-setup1.msft.png" alt-text="Вкладка "Редактирование"" lightbox="../media/beginners-css-setup1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-setup1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-setup1.msft.png":::
        Вкладка " **Редактирование** "  
     :::image-end:::  
     
 1.  Выберите **готовил-amphibian**.  Всплывающее меню.  
     
-    :::image type="complex" source="../media/beginners-css-setup2.msft.png" alt-text="Меню "Параметры проекта"" lightbox="../media/beginners-css-setup2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-setup2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-setup2.msft.png":::
        Меню "Параметры проекта"  
     :::image-end:::  
 
@@ -92,7 +92,7 @@ ms.locfileid: "10993305"
     
 1.  Нажмите кнопку **Показать** и выберите **в новом окне**.  Откроется другая вкладка с активным представлением сайта.  На вкладку, которая находится в фокусе браузера, указывается **вкладка Динамический**.  
     
-    :::image type="complex" source="../media/beginners-css-setup3.msft.png" alt-text="Вкладка "динамический"" lightbox="../media/beginners-css-setup3.msft.png":::
+    :::image type="complex" source="../media/beginners-css-setup3.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-setup3.msft.png":::
        **Вкладка "динамический"**  
     :::image-end:::  
 
@@ -100,7 +100,7 @@ ms.locfileid: "10993305"
 
 **CSS** — это язык компьютера, который определяет макет и стиль веб-страниц.  На приведенном ниже рисунке показан абзац с границей.  
 
-:::image type="complex" source="../media/beginners-css-red_paragraph.msft.png" alt-text="Текст был добавлен в таблицу каскадных стилей (CSS)" lightbox="../media/beginners-css-red_paragraph.msft.png":::
+:::image type="complex" source="../media/beginners-css-red_paragraph.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-red_paragraph.msft.png":::
    Текст был добавлен в таблицу каскадных стилей (CSS)  
 :::image-end:::  
 
@@ -120,7 +120,7 @@ ms.locfileid: "10993305"
 
 1.  Вернитесь на вкладку Правка и откройте окно `index.html` .  
     
-    :::image type="complex" source="../media/beginners-css-inline1.msft.png" alt-text="index.html" lightbox="../media/beginners-css-inline1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-inline1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-inline1.msft.png":::
        Открытие `index.html` на вкладке "Редактирование"  
     :::image-end:::  
     
@@ -140,7 +140,7 @@ ms.locfileid: "10993305"
     
 1.  Перейдите на **вкладку динамический** , чтобы увидеть изменения.  `<nav>`Теперь фон раздела синего цвета.  
     
-    :::image type="complex" source="../media/beginners-css-inline2.msft.png" alt-text="Цвет фона, который находится за домашней страницей и ссылками на контакты, стал синей" lightbox="../media/beginners-css-inline2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-inline2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-inline2.msft.png":::
        Цвет фона, который находится за **домашней страницей** и ссылками на **Контакты** , стал синей  
     :::image-end:::  
     
@@ -158,7 +158,7 @@ ms.locfileid: "10993305"
 
 1.  На вкладке "динамический" нажмите " **контакт** ", чтобы перейти на страницу контакта.  Обратите внимание на шрифт **домашних** и **контактных**данных.  
     
-    :::image type="complex" source="../media/beginners-css-internal1.msft.png" alt-text="Страница "контакт"" lightbox="../media/beginners-css-internal1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-internal1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-internal1.msft.png":::
        Страница "контакт"  
     :::image-end:::  
     
@@ -184,7 +184,7 @@ ms.locfileid: "10993305"
 1.  Вернитесь на **вкладку динамический**.  
 1.  Нажмите кнопку " **контакт** ", чтобы вернуться на страницу контакта.  Изменился шрифт " **Главная** " и " **контакт** ".  
     
-    :::image type="complex" source="../media/beginners-css-internal2.msft.png" alt-text="Изменен шрифт ссылок на домашнюю страницу и контакт контакта" lightbox="../media/beginners-css-internal2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-internal2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-internal2.msft.png":::
        Изменен шрифт ссылок на **домашнюю страницу** и **контакт контакта**  
     :::image-end:::  
     
@@ -262,7 +262,7 @@ li a {
 1.  Перейдите на **вкладку динамический**.  
 1.  Щелкните ссылку **контакт** , чтобы вернуться на страницу контакта.  Теперь **свяжитесь со мной!** имеет тот же шрифт, что и ссылки для навигации.  
     
-    :::image type="complex" source="../media/beginners-css-multiple1.msft.png" alt-text="Текстовые контакты!  Теперь тот же шрифт, что и ссылки на домашнюю и контактный" lightbox="../media/beginners-css-multiple1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-multiple1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-multiple1.msft.png":::
        Текстовые **Контакты!** Теперь тот же шрифт, что и ссылки на **домашнюю** и **контактный**  
     :::image-end:::  
     
@@ -276,7 +276,7 @@ li a {
 
 1.  Наведите указатель мыши на **домашнюю** ссылку, откройте контекстное меню, а затем выберите команду **проверить**.  
     
-    :::image type="complex" source="../media/beginners-css-add1.msft.png" alt-text="Проверка ссылки на домашнюю страницу" lightbox="../media/beginners-css-add1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-add1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-add1.msft.png":::
        Проверка ссылки на домашнюю страницу  
     :::image-end:::  
     
@@ -286,14 +286,14 @@ li a {
        :::column span="":::
           На приведенном ниже рисунке `font-family: 'Courier New', Courier, serif` объявление, добавленное ранее, отображается `contact.html` на вкладке **стили** под деревом DOM.  
           
-          :::image type="complex" source="../media/beginners-css-add2.msft.png" alt-text="Вкладка "стили" находится под деревом DOM" lightbox="../media/beginners-css-add2.msft.png":::
+          :::image type="complex" source="../media/beginners-css-add2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-add2.msft.png":::
              Вкладка " **стили** " находится под ДЕРЕВОм DOM  
           :::image-end:::  
        :::column-end:::
        :::column span="":::
           Если окно DevTools является широкой страницей, вкладка стили находится справа от дерева DOM.  
           
-          :::image type="complex" source="../media/beginners-css-add3.msft.png" alt-text="Вкладка "стили" справа от дерева DOM" lightbox="../media/beginners-css-add3.msft.png":::
+          :::image type="complex" source="../media/beginners-css-add3.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-add3.msft.png":::
              Вкладка " **стили** " справа от дерева DOM  
           :::image-end:::  
        :::column-end:::
@@ -301,19 +301,19 @@ li a {
     
 1.  Чтобы добавить новое объявление, выберите пустую строку ниже `font-family: 'Courier New', Courier, Serif` .  
     
-    :::image type="complex" source="../media/beginners-css-add4.msft.png" alt-text="Добавление нового объявления" lightbox="../media/beginners-css-add4.msft.png":::
+    :::image type="complex" source="../media/beginners-css-add4.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-add4.msft.png":::
        Добавление нового объявления  
     :::image-end:::  
     
 1.  Введите текст `color` и выберите его `Enter` .  Пользовательский интерфейс автозаполнения предлагает параметры по мере ввода.  
     
-    :::image type="complex" source="../media/beginners-css-add5.msft.png" alt-text="Введите цвет" lightbox="../media/beginners-css-add5.msft.png":::
+    :::image type="complex" source="../media/beginners-css-add5.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-add5.msft.png":::
        Тип `color`  
     :::image-end:::  
     
 1.  Введите текст `magenta` и выберите его `Enter` .  Весь текст на странице контакта стал пурпурным.  
     
-    :::image type="complex" source="../media/beginners-css-add6.msft.png" alt-text="Введите пурпурный" lightbox="../media/beginners-css-add6.msft.png":::
+    :::image type="complex" source="../media/beginners-css-add6.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-add6.msft.png":::
        Тип `magenta`  
     :::image-end:::  
     
@@ -323,13 +323,13 @@ li a {
 
 1.  Выберите пурпурный квадрат рядом с `magenta` .  Появится палитра выбора цвета.  
     
-    :::image type="complex" source="../media/beginners-css-edit1.msft.png" alt-text="Выбор цвета" lightbox="../media/beginners-css-edit1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-edit1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-edit1.msft.png":::
        Выбор цвета  
     :::image-end:::  
     
 1.  С помощью средства выбора цвета измените текст шрифта на нужный цвет.  
     
-    :::image type="complex" source="../media/beginners-css-edit2.msft.png" alt-text="Изменение цвета шрифта на фиолетовый с помощью средства выбора цвета" lightbox="../media/beginners-css-edit2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-edit2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-edit2.msft.png":::
        Изменение цвета шрифта на фиолетовый с помощью средства выбора цвета  
     :::image-end:::  
     
@@ -339,13 +339,13 @@ li a {
 
 1.  Выберите **новое правило стиля** \ ( ![ новое правило стиля ][ImageNewStyleRuleIcon] \), которое находится рядом с **. CLS**.  В качестве Selector появится пустой набор правил `a` .  
     
-    :::image type="complex" source="../media/beginners-css-rule1.msft.png" alt-text="Добавление нового правила" lightbox="../media/beginners-css-rule1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-rule1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-rule1.msft.png":::
        Добавление нового правила  
     :::image-end:::  
     
 1.  Заменить `a` на `a:hover` .  
     
-    :::image type="complex" source="../media/beginners-css-rule2.msft.png" alt-text="Замена a на a:hover" lightbox="../media/beginners-css-rule2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-rule2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-rule2.msft.png":::
        Заменить `a` на `a:hover`  
     :::image-end:::  
     
@@ -354,19 +354,19 @@ li a {
 1.  Выберите между скобками, чтобы добавить новое объявление.  
 1.  Введите `background-color` имя объявления и нажмите кнопку `Enter` .  
     
-    :::image type="complex" source="../media/beginners-css-rule3.msft.png" alt-text="Введите цвет фона" lightbox="../media/beginners-css-rule3.msft.png":::
+    :::image type="complex" source="../media/beginners-css-rule3.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-rule3.msft.png":::
        Тип `background-color`  
     :::image-end:::  
     
 1.  Введите `green` значение объявления и нажмите кнопку `Enter` .  
     
-    :::image type="complex" source="../media/beginners-css-rule4.msft.png" alt-text="Введите зеленый цвет" lightbox="../media/beginners-css-rule4.msft.png":::
+    :::image type="complex" source="../media/beginners-css-rule4.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-rule4.msft.png":::
        Тип `green`  
     :::image-end:::  
     
 1.  Наведите указатель мыши на ссылку " **Домашняя страница** ".  Фон ссылки становится зеленым.  
     
-    :::image type="complex" source="../media/beginners-css-rule5.msft.png" alt-text="Наведите указатель мыши на домашнюю ссылку, чтобы отобразить зеленый фон" lightbox="../media/beginners-css-rule5.msft.png":::
+    :::image type="complex" source="../media/beginners-css-rule5.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-rule5.msft.png":::
        Наведите указатель мыши на домашнюю ссылку, чтобы отобразить зеленый фон  
     :::image-end:::  
     
@@ -392,37 +392,37 @@ li a {
 
 1.  Сначала перезагрузите вкладку Live, чтобы удалить изменения, внесенные в DevTools.  
     
-    :::image type="complex" source="../media/beginners-css-external1.msft.png" alt-text=" После обновления страницы изменения, внесенные в DevTools, исчезают" lightbox="../media/beginners-css-external1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external1.msft.png":::
         После обновления страницы изменения, внесенные в DevTools, исчезают  
     :::image-end:::  
     
 1.  Вернитесь на **вкладку Редактор** и откройте ее `contact.html` .  
     
-    :::image type="complex" source="../media/beginners-css-external2.msft.png" alt-text="contact.html" lightbox="../media/beginners-css-external2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external2.msft.png":::
        contact.html  
     :::image-end:::  
     
 1.  Удалить все между `<style>` и `</style>` , включая `<style>` и `</style>` .  
     
-    :::image type="complex" source="../media/beginners-css-external3.msft.png" alt-text="Тег Style был удален" lightbox="../media/beginners-css-external3.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external3.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external3.msft.png":::
        Тег Style был удален  
     :::image-end:::  
     
 1.  Перейдите к `index.html` тегу и удалите `style="background-color: aliceblue;"` его `<nav>` .  Теперь вы удалили все CSS-таблицы, которые вы ранее добавили на сайт.  
     
-    :::image type="complex" source="../media/beginners-css-external4.msft.png" alt-text="Встроенный стиль удален из элемента навигации" lightbox="../media/beginners-css-external4.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external4.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external4.msft.png":::
        Встроенный стиль удален из элемента навигации  
     :::image-end:::  
     
 1.  Выберите команду **создать файл**.  
     
-    :::image type="complex" source="../media/beginners-css-external5.msft.png" alt-text="Диалоговое окно "Создание файла"" lightbox="../media/beginners-css-external5.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external5.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external5.msft.png":::
        Диалоговое окно "Создание файла"  
     :::image-end:::  
     
 1.  Замените `cool-file.js` на `style.css` и выберите команду **Добавить файл**.  
     
-    :::image type="complex" source="../media/beginners-css-external6.msft.png" alt-text="Введите Style. CSS" lightbox="../media/beginners-css-external6.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external6.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external6.msft.png":::
        Тип `style.css`  
     :::image-end:::  
     
@@ -440,7 +440,7 @@ li a {
     }
     ```  
     
-    :::image type="complex" source="../media/beginners-css-external7.msft.png" alt-text="Добавление кода в Style. CSS" lightbox="../media/beginners-css-external7.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external7.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external7.msft.png":::
        Добавление кода в `style.css`  
     :::image-end:::  
     
@@ -457,25 +457,25 @@ li a {
     </head>
     ```  
     
-    :::image type="complex" source="../media/beginners-css-external8.msft.png" alt-text="Ссылка на стиль Style. CSS" lightbox="../media/beginners-css-external8.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external8.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external8.msft.png":::
        Ссылка на `style.css`  
     :::image-end:::  
     
 1.  Откройте `contact.html` файл и добавьте ссылку на него.  
     
-    :::image type="complex" source="../media/beginners-css-external9.msft.png" alt-text="Ссылка на стиль Style. CSS в contact.html" lightbox="../media/beginners-css-external9.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external9.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external9.msft.png":::
        Ссылка `style.css` в `contact.html`  
     :::image-end:::  
     
 1.  Перейдите на **вкладку динамический**.  Домашняя страница теперь имеет тот же шрифт, что и в последнем разделе, и в синем разделе навигации.  
     
-    :::image type="complex" source="../media/beginners-css-external10.msft.png" alt-text="Домашняя страница" lightbox="../media/beginners-css-external10.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external10.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external10.msft.png":::
        Домашняя страница  
     :::image-end:::  
     
 1.  Щелкните ссылку **контакт** , чтобы перейти на страницу контакта.  Страница контакта имеет тот же формат, что и домашняя страница.  
     
-    :::image type="complex" source="../media/beginners-css-external11.msft.png" alt-text="Страница "контакт"" lightbox="../media/beginners-css-external11.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external11.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external11.msft.png":::
        Страница "контакт"  
     :::image-end:::  
     
@@ -491,19 +491,19 @@ li a {
     
 1.  Перейдите на вкладку Правка и вставьте код в `contact.html` .  
     
-    :::image type="complex" source="../media/beginners-css-framework1.msft.png" alt-text="Ссылка на платформу в contact.html" lightbox="../media/beginners-css-framework1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-framework1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-framework1.msft.png":::
        Ссылка на платформу в `contact.html`  
     :::image-end:::  
     
 1.  Откройте `index.html` файл и добавьте в него код.  
     
-    :::image type="complex" source="../media/beginners-css-framework2.msft.png" alt-text="Ссылка на платформу в index.html" lightbox="../media/beginners-css-framework2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-framework2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-framework2.msft.png":::
        Ссылка на платформу в `index.html`  
     :::image-end:::  
     
 1.  Вернитесь на вкладку динамический, чтобы просмотреть изменения.  Несмотря на то, что цвет фона `<nav>` элемента и шрифта `<li>` `<a>` элементов and одинаков, изменился шрифт остальных элементов.  
     
-    :::image type="complex" source="../media/beginners-css-framework3.msft.png" alt-text="Некоторые шрифты на домашней странице изменились из-за платформы" lightbox="../media/beginners-css-framework3.msft.png":::
+    :::image type="complex" source="../media/beginners-css-framework3.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-framework3.msft.png":::
        Некоторые шрифты на домашней странице изменились из-за платформы  
     :::image-end:::  
     
@@ -519,19 +519,19 @@ li a {
     
 1.  Добавьте предыдущий фрагмент кода в `<header>` тег `index.html` .  
     
-    :::image type="complex" source="../media/beginners-css-jumbotron1.msft.png" alt-text="Добавление классов в index.html" lightbox="../media/beginners-css-jumbotron1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-jumbotron1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-jumbotron1.msft.png":::
        Добавление классов в `index.html`  
     :::image-end:::  
     
 1.  Добавьте код в `<header>` тег `contact.html` .  
     
-    :::image type="complex" source="../media/beginners-css-jumbotron2.msft.png" alt-text="Добавление классов в contact.html" lightbox="../media/beginners-css-jumbotron2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-jumbotron2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-jumbotron2.msft.png":::
        Добавление классов в `contact.html`  
     :::image-end:::  
     
 1.  Просмотрите изменения на вкладке "живые".  Вокруг заголовка есть большое затененное поле.  
     
-    :::image type="complex" source="../media/beginners-css-jumbotron3.msft.png" alt-text="Теперь верхний колонтитул имеет большой серый прямоугольник вокруг него." lightbox="../media/beginners-css-jumbotron3.msft.png":::
+    :::image type="complex" source="../media/beginners-css-jumbotron3.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-jumbotron3.msft.png":::
        Теперь верхний колонтитул имеет большой серый прямоугольник вокруг него.  
     :::image-end:::  
     
@@ -572,25 +572,25 @@ li a {
 1.  Вернитесь на вкладку Редактор и откройте ее `index.html` .  
 1.  Добавьте `class="container-fluid"` в свой `<body>` тег.  
     
-    :::image type="complex" source="../media/beginners-css-align1.msft.png" alt-text="Добавление класса Container-жидкости" lightbox="../media/beginners-css-align1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-align1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-align1.msft.png":::
        Добавьте `container-fluid` класс  
     :::image-end:::  
     
 1.  Обтекание `<nav>` `<main>` элементов `<div class="row">` .  `</div>`Чтобы правильно закрыть новый тег, убедитесь в том, что вы хотите сделать `</main>` это.  
     
-    :::image type="complex" source="../media/beginners-css-align2.msft.png" alt-text="Добавление строки" lightbox="../media/beginners-css-align2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-align2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-align2.msft.png":::
        Добавление строки  
     :::image-end:::  
     
 1.  Добавьте `class="col-3"` теги в тег `<nav>` и `class="col-9"` в `<main>` тег.  
     
-    :::image type="complex" source="../media/beginners-css-align3.msft.png" alt-text="Добавление классов Col-3 и Col-9" lightbox="../media/beginners-css-align3.msft.png":::
+    :::image type="complex" source="../media/beginners-css-align3.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-align3.msft.png":::
        Добавление `col-3` классов и `col-9`  
     :::image-end:::  
     
 1.  Просмотрите изменения на вкладке "живые".  
     
-    :::image type="complex" source="../media/beginners-css-align4.msft.png" alt-text="Содержимое элемента навигации теперь находится слева от основного содержимого." lightbox="../media/beginners-css-align4.msft.png":::
+    :::image type="complex" source="../media/beginners-css-align4.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-align4.msft.png":::
        Содержимое элемента навигации теперь находится слева от основного содержимого.  
     :::image-end:::  
     

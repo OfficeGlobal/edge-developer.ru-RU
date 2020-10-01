@@ -53,7 +53,7 @@ $_
 
 На приведенном ниже рисунке вычисленное выражение изначально включает массив имен.  Вычисление `$_.length` для определения длины массива, значение, хранящееся в `$_` изменениях, становится последним вычисленным выражением `4` .  
 
-:::image type="complex" source="../media/console-array-length.msft.png" alt-text="$ _ изменения при вычислении новых команд" lightbox="../media/console-array-length.msft.png":::
+:::image type="complex" source="../media/console-array-length.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-array-length.msft.png":::
    Рисунок 2:  `$_` изменения при вычислении новых команд  
 :::image-end:::  
 
@@ -99,13 +99,13 @@ $0
 
 На рисунке ниже показан элемент, `img` выбранный на панели **элементы** .  В ящике **консоли** `$0` вычисляется и отображается один и тот же элемент.  
 
-:::image type="complex" source="../media/console-image-highlighted-$0.msft.png" alt-text="$0" lightbox="../media/console-image-highlighted-$0.msft.png":::
+:::image type="complex" source="../media/console-image-highlighted-$0.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-image-highlighted-$0.msft.png":::
    Рис. 3: `$0`  
 :::image-end:::  
 
 На приведенном ниже рисунке показано, как на изображении показан другой элемент, выбранный на той же странице.  `$0`Теперь он ссылается на только что выбранный элемент, то `$1` есть возвращает ранее выбранное.  
 
-:::image type="complex" source="../media/console-image-highlighted-$1.msft.png" alt-text="$1" lightbox="../media/console-image-highlighted-$1.msft.png":::
+:::image type="complex" source="../media/console-image-highlighted-$1.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-image-highlighted-$1.msft.png":::
    На рисунке 4: `$1`  
 :::image-end:::  
 
@@ -119,7 +119,7 @@ $(selector, [startNode])
 
 На приведенном ниже рисунке возвращается ссылка на первый `<img>` элемент в документе.  
 
-:::image type="complex" source="../media/console-element-selector-image.msft.png" alt-text="$ ("Img")" lightbox="../media/console-element-selector-image.msft.png":::
+:::image type="complex" source="../media/console-element-selector-image.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-element-selector-image.msft.png":::
    На рисунке 5: `$('img')`  
 :::image-end:::  
 
@@ -127,7 +127,7 @@ $(selector, [startNode])
 
 На приведенном ниже рисунке возвращается ссылка на элемент, выбранный в данный момент, и отображается свойство src.  
 
-:::image type="complex" source="../media/console-element-selector-image-source.msft.png" alt-text="$ ("Img"). src" lightbox="../media/console-element-selector-image-source.msft.png":::
+:::image type="complex" source="../media/console-element-selector-image-source.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-element-selector-image-source.msft.png":::
    На рисунке 6: `$('img').src`  
 :::image-end:::  
 
@@ -135,7 +135,7 @@ $(selector, [startNode])
 
 На приведенном ниже рисунке первый `img` элемент найден после элемента `title--image` и отображается `src` правильно.  
 
-:::image type="complex" source="../media/console-element-selector-image-filter-source.msft.png" alt-text="$ ("Img", Document. querySelector ("Title--Image")). src" lightbox="../media/console-element-selector-image-filter-source.msft.png":::
+:::image type="complex" source="../media/console-element-selector-image-filter-source.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-element-selector-image-filter-source.msft.png":::
    На рисунке 7: `$('img', document.querySelector('title--image')).src`  
 :::image-end:::  
 
@@ -159,7 +159,7 @@ for (each in images) {
 }
 ```  
 
-:::image type="complex" source="../media/console-element-selector-image-all.msft.png" alt-text="Использование $ $ () для выбора всех изображений в документе и отображения источников" lightbox="../media/console-element-selector-image-all.msft.png":::
+:::image type="complex" source="../media/console-element-selector-image-all.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-element-selector-image-all.msft.png":::
    Рисунок 8: использование `$$()` для выделения всех изображений в документе и отображения источников  
 :::image-end:::  
 
@@ -174,7 +174,7 @@ for (each in images) {
 }
 ```  
 
-:::image type="complex" source="../media/console-element-selector-image-filter-all.msft.png" alt-text="Использование $ $ () для выбора всех изображений, которые отображаются после указанного <div> элемента в документе и отображения источников" lightbox="../media/console-element-selector-image-filter-all.msft.png":::
+:::image type="complex" source="../media/console-element-selector-image-filter-all.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-element-selector-image-filter-all.msft.png":::
    Рисунок 9: использование `$$()` для выбора всех изображений, которые отображаются после указанного `<div>` элемента в документе, и отображения источников  
 :::image-end:::  
 
@@ -195,7 +195,7 @@ $x(path, [startNode])
 $x("//p")
 ```  
 
-:::image type="complex" source="../media/console-array-xpath.msft.png" alt-text="Использование селектора XPath" lightbox="../media/console-array-xpath.msft.png":::
+:::image type="complex" source="../media/console-array-xpath.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-array-xpath.msft.png":::
    Рисунок 10: использование селектора XPath  
 :::image-end:::  
 
@@ -205,13 +205,13 @@ $x("//p")
 $x("//p[a]")
 ```  
 
-:::image type="complex" source="../media/console-array-xpath-sub-element.msft.png" alt-text="Использование более сложного селектора XPath" lightbox="../media/console-array-xpath-sub-element.msft.png":::
+:::image type="complex" source="../media/console-array-xpath-sub-element.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-array-xpath-sub-element.msft.png":::
    Рисунок 11: использование более сложного селектора XPath  
 :::image-end:::  
 
 Как и другие команды Selector, `$x(path)` имеет дополнительный второй параметр, `startNode` указывающий на элемент или узел, из которого нужно выполнить поиск элементов.  
 
-:::image type="complex" source="../media/console-array-xpath-startnode.msft.png" alt-text="Использование селектора XPath с startNode" lightbox="../media/console-array-xpath-startnode.msft.png":::
+:::image type="complex" source="../media/console-array-xpath-startnode.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-array-xpath-startnode.msft.png":::
    Рисунок 12: использование селектора XPath с `startNode`  
 :::image-end:::  
 
@@ -254,7 +254,7 @@ debug(method)
 debug("debug");
 ```  
 
-:::image type="complex" source="../media/console-debug-text.msft.png" alt-text="Прерывание в методе с помощью Debug ()" lightbox="../media/console-debug-text.msft.png":::
+:::image type="complex" source="../media/console-debug-text.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-debug-text.msft.png":::
    Рисунок 13: прерывание внутри метода с `debug()`  
 :::image-end:::  
 
@@ -277,7 +277,7 @@ document.head;
 dir(document.head);
 ```  
 
-:::image type="complex" source="../media/console-dir-document-head-expanded.msft.png" alt-text="Ведение журнала. Head с помощью метода dir ()" lightbox="../media/console-dir-document-head-expanded.msft.png":::
+:::image type="complex" source="../media/console-dir-document-head-expanded.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-dir-document-head-expanded.msft.png":::
    Рисунок 14: ведение журнала `document.head` с помощью `dir()` метода  
 :::image-end:::  
 
@@ -305,7 +305,7 @@ inspect(object/method)
 inspect(document.body);
 ```  
 
-:::image type="complex" source="../media/console-inspect-document-body.msft.png" alt-text="Проверка элемента с помощью проверки ()" lightbox="../media/console-inspect-document-body.msft.png":::
+:::image type="complex" source="../media/console-inspect-document-body.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-inspect-document-body.msft.png":::
    Рис. 15: Проверка элемента с помощью `inspect()`  
 :::image-end:::  
 
@@ -323,19 +323,19 @@ getEventListeners(object)
 getEventListeners(document);
 ```  
 
-:::image type="complex" source="../media/console-elements-event-listeners-console-get-event-listeners-document.msft.png" alt-text="Вывод на печать с использованием getEventListeners (документ)" lightbox="../media/console-elements-event-listeners-console-get-event-listeners-document.msft.png":::
+:::image type="complex" source="../media/console-elements-event-listeners-console-get-event-listeners-document.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-elements-event-listeners-console-get-event-listeners-document.msft.png":::
    Рисунок 16: результат использования `getEventListeners(document)`  
 :::image-end:::  
 
 Если в указанном объекте зарегистрировано более одного прослушивателя, то массив содержит элемент для каждого прослушивателя.  На рисунке ниже показано, как в элементе Document для события зарегистрированы два прослушивателя событий `click` .  
 
-:::image type="complex" source="../media/console-elements-event-listeners-console-get-event-listeners-document-expanded-1.msft.png" alt-text="Несколько прослушивателей" lightbox="../media/console-elements-event-listeners-console-get-event-listeners-document-expanded-1.msft.png":::
+:::image type="complex" source="../media/console-elements-event-listeners-console-get-event-listeners-document-expanded-1.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-elements-event-listeners-console-get-event-listeners-document-expanded-1.msft.png":::
    Рисунок 17: несколько прослушивателей  
 :::image-end:::  
 
 Вы можете расширить каждый из указанных ниже объектов, чтобы просмотреть свойства.  
 
-:::image type="complex" source="../media/console-elements-event-listeners-console-get-event-listeners-document-2.msft.png" alt-text="Развернутое представление объекта прослушивателя" lightbox="../media/console-elements-event-listeners-console-get-event-listeners-document-2.msft.png":::
+:::image type="complex" source="../media/console-elements-event-listeners-console-get-event-listeners-document-2.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-elements-event-listeners-console-get-event-listeners-document-2.msft.png":::
    Рисунок 18: развернутое представление объекта прослушивателя  
 :::image-end:::  
 
@@ -361,7 +361,7 @@ keys(player1)
 values(player1)
 ```  
 
-:::image type="complex" source="../media/console-keys-values.msft.png" alt-text="Команды Keys () и Values ()" lightbox="../media/console-keys-values.msft.png":::
+:::image type="complex" source="../media/console-keys-values.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-keys-values.msft.png":::
    На рисунке 19: `keys()` `values()` команды и  
 :::image-end:::  
 
@@ -380,7 +380,7 @@ function sum(x, y) {
 monitor(sum);
 ```  
 
-:::image type="complex" source="../media/console-function-monitor-sum.msft.png" alt-text="Метод Monitor ()" lightbox="../media/console-function-monitor-sum.msft.png":::
+:::image type="complex" source="../media/console-function-monitor-sum.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-function-monitor-sum.msft.png":::
    Рис. 20: `monitor()` метод  
 :::image-end:::  
 
@@ -400,7 +400,7 @@ monitorEvents(object[, events])
 monitorEvents(window, "resize");
 ```  
 
-:::image type="complex" source="../media/console-monitor-events-resize-window.msft.png" alt-text="Наблюдение за событиями изменения размера окна" lightbox="../media/console-monitor-events-resize-window.msft.png":::
+:::image type="complex" source="../media/console-monitor-events-resize-window.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-monitor-events-resize-window.msft.png":::
    Рисунок 21: наблюдение за событиями изменения размера окна  
 :::image-end:::  
 
@@ -427,7 +427,7 @@ monitorEvents($0, "key");
 
 На приведенном ниже рисунке показан пример выходных данных после ввода символа в текстовом поле.  
 
-:::image type="complex" source="../media/console-monitor-events-type-t-y.msft.png" alt-text="Контроль событий ключа" lightbox="../media/console-monitor-events-type-t-y.msft.png":::
+:::image type="complex" source="../media/console-monitor-events-type-t-y.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-monitor-events-type-t-y.msft.png":::
    Рис. 22: Отслеживание ключевых событий  
 :::image-end:::  
 
@@ -485,7 +485,7 @@ profileEnd('B');
 
 Результат появится в виде снимка кучи на панели " **память** ".  
 
-:::image type="complex" source="../media/console-memory-multiple-cpu-profiles.msft.png" alt-text="Сгруппированные профили" lightbox="../media/console-memory-multiple-cpu-profiles.msft.png":::
+:::image type="complex" source="../media/console-memory-multiple-cpu-profiles.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-memory-multiple-cpu-profiles.msft.png":::
    Рисунок 23: сгруппированные профили  
 :::image-end:::  
 
@@ -548,7 +548,7 @@ var names = {
 table(names);
 ```  
 
-:::image type="complex" source="../media/console-table-display.msft.png" alt-text="Результат выполнения метода Table ()" lightbox="../media/console-table-display.msft.png":::
+:::image type="complex" source="../media/console-table-display.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-table-display.msft.png":::
    Рисунок 24: результат выполнения `table()` метода  
 :::image-end:::  
 

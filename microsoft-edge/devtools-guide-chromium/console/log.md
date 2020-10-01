@@ -56,7 +56,7 @@ ms.locfileid: "10993151"
     > [!TIP]
     > Move the demo to a separate window.  
     > 
-    > :::image type="complex" source="../media/log-set-up-1.msft.png" alt-text="The tutorial on the left, and the demo on the right" lightbox="../media/log-set-up-1.msft.png":::
+    > :::image type="complex" source="../media/log-set-up-1.msft.png" alt-text="Сообщения на консоли" lightbox="../media/log-set-up-1.msft.png":::
     >    The tutorial on the left, and the demo on the right  
     > :::image-end:::  
     -->
@@ -65,7 +65,7 @@ ms.locfileid: "10993151"
     
     :::row:::
        :::column span="":::
-          :::image type="complex" source="../media/console-example-devtools-right-console.msft.png" alt-text="DevTools открывается справа от демонстрации" lightbox="../media/console-example-devtools-right-console.msft.png":::
+          :::image type="complex" source="../media/console-example-devtools-right-console.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-example-devtools-right-console.msft.png":::
              DevTools открывается справа от демонстрации  
           :::image-end:::  
        :::column-end:::
@@ -73,7 +73,7 @@ ms.locfileid: "10993151"
           > [!TIP]
           > [Закрепите DevTools в нижней части окна][DevToolsCustomizePlacement].  
           
-          :::image type="complex" source="../media/console-example-devtools-bottom-console.msft.png" alt-text="DevTools закреплено в нижней части демонстрации" lightbox="../media/console-example-devtools-bottom-console.msft.png":::
+          :::image type="complex" source="../media/console-example-devtools-bottom-console.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-example-devtools-bottom-console.msft.png":::
              DevTools закреплено в нижней части демонстрации  
           :::image-end:::  
        :::column-end:::
@@ -83,7 +83,7 @@ ms.locfileid: "10993151"
           > [!TIP]
           > [Открепите DevTools в отдельном окне][DevToolsCustomizePlacement].  
           
-          :::image type="complex" source="../media/console-example-devtools-separate-console-browse.msft.png" alt-text="Браузер в отдельном окне" lightbox="../media/console-example-devtools-separate-console-browse.msft.png":::
+          :::image type="complex" source="../media/console-example-devtools-separate-console-browse.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-example-devtools-separate-console-browse.msft.png":::
              Браузер в отдельном окне  
           :::image-end:::  
        :::column-end:::
@@ -91,7 +91,7 @@ ms.locfileid: "10993151"
           > [!TIP]
           > [Открепите DevTools в отдельном окне][DevToolsCustomizePlacement].  
           
-          :::image type="complex" source="../media/console-example-devtools-separate-console-devtools.msft.png" alt-text="DevTools отсоединяется в отдельном окне" lightbox="../media/console-example-devtools-separate-console-devtools.msft.png":::
+          :::image type="complex" source="../media/console-example-devtools-separate-console-devtools.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-example-devtools-separate-console-devtools.msft.png":::
              DevTools отсоединяется в отдельном окне  
           :::image-end:::  
        :::column-end:::
@@ -103,13 +103,13 @@ ms.locfileid: "10993151"
 
 1.  Нажмите кнопку " **сведения о журнале** " в демонстрационной версии.  `Hello, Console!` Получает запись в журнал консоли.
     
-    :::image type="complex" source="../media/console-log-info.msft.png" alt-text="Консоль после нажатия кнопки "сведения о журнале"" lightbox="../media/console-log-info.msft.png":::
+    :::image type="complex" source="../media/console-log-info.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-log-info.msft.png":::
        **Консоль** после нажатия кнопки " **сведения о журнале** "  
     :::image-end:::  
     
 1.  Рядом с `Hello, Console!` сообщением на консоли щелкните **log.js:2**.  Откроется панель источники, в которой выделена строка кода, которая привела к тому, что сообщение будет записано на консоль.  Сообщение было занесено в журнал при выполнении кода JavaScript на странице `console.log('Hello, Console!')` .
     
-    :::image type="complex" source="../media/console-sources-logjs.msft.png" alt-text="DevTools открывает панель «источники» после нажатия log.js:2" lightbox="../media/console-sources-logjs.msft.png":::
+    :::image type="complex" source="../media/console-sources-logjs.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-sources-logjs.msft.png":::
        DevTools открывает панель « **источники** » после нажатия кнопки `log.js:2`  
     :::image-end:::  
     
@@ -121,7 +121,7 @@ ms.locfileid: "10993151"
     
 1.  Нажмите кнопку **предупреждение журнала** в демонстрационной версии.  `Abandon Hope All Ye Who Enter` Получает запись в журнал консоли.  Сообщения, которые форматируются таким образом, представляют собой предупреждения.  
     
-    :::image type="complex" source="../media/console-log-warning.msft.png" alt-text="Консоль после нажатия кнопки "записать предупреждение"" lightbox="../media/console-log-warning.msft.png":::
+    :::image type="complex" source="../media/console-log-warning.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-log-warning.msft.png":::
        **Консоль** после нажатия кнопки " **записать предупреждение** "  
     :::image-end:::  
     
@@ -130,7 +130,7 @@ ms.locfileid: "10993151"
 
 1.  Щелкните значок **expand** ( ![ Развернуть ][ImageExpandIcon] ) перед `Abandon Hope All Ye Who Enter` .  DevTools показывает [трассировку стека][WikiStackTrace] , ведущая к вызову.  
     
-    :::image type="complex" source="../media/console-log-warning-expanded.msft.png" alt-text="Трассировка стека" lightbox="../media/console-log-warning-expanded.msft.png":::
+    :::image type="complex" source="../media/console-log-warning-expanded.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-log-warning-expanded.msft.png":::
        Трассировка стека  
     :::image-end:::  
     
@@ -138,7 +138,7 @@ ms.locfileid: "10993151"
 
 1.  Нажмите " **журнал ошибок**".  Регистрируется следующее сообщение об ошибке: `I'm sorry, Dave.  I'm afraid I can't do that.`  
     
-    :::image type="complex" source="../media/console-log-error.msft.png" alt-text="Сообщение об ошибке" lightbox="../media/console-log-error.msft.png":::
+    :::image type="complex" source="../media/console-log-error.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-log-error.msft.png":::
        Сообщение об ошибке  
     :::image-end:::  
     
@@ -147,19 +147,19 @@ ms.locfileid: "10993151"
     > [!NOTE]
     > `birthday`Столбец заполняется только для одной строки.  Проверьте код, чтобы определить причину.
     
-    :::image type="complex" source="../media/console-log-table.msft.png" alt-text="Таблица в консоли" lightbox="../media/console-log-table.msft.png":::
+    :::image type="complex" source="../media/console-log-table.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-log-table.msft.png":::
        Таблица в **консоли**  
     :::image-end:::  
     
 1.  Нажмите кнопку **Группа журналов**.  Названия четырех знаменитых turtlesных, преступных, группируются под `Adolescent Irradiated Espionage Tortoises` меткой.  
     
-    :::image type="complex" source="../media/console-log-group.msft.png" alt-text="Группа сообщений на консоли" lightbox="../media/console-log-group.msft.png":::
+    :::image type="complex" source="../media/console-log-group.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-log-group.msft.png":::
        Группа сообщений на **консоли**  
     :::image-end:::  
     
 1.  Выберите пункт **Журнал настраиваемого**.  Сообщение с красной рамкой и синим фоном записываются в консоль.  
     
-    :::image type="complex" source="../media/console-log-custom.msft.png" alt-text="Сообщение с настраиваемым форматированием в консоли" lightbox="../media/console-log-custom.msft.png":::
+    :::image type="complex" source="../media/console-log-custom.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-log-custom.msft.png":::
        Сообщение с настраиваемым форматированием в **консоли**  
     :::image-end:::  
     
@@ -173,13 +173,13 @@ ms.locfileid: "10993151"
 
 1.  Нажмите кнопку **причина 404**.  Браузер регистрирует код состояния HTTP `404` ошибки сети, так как сценарий JavaScript пытается получить несуществующий файл.  
     
-    :::image type="complex" source="../media/console-cause-404.msft.png" alt-text="Ошибка 404 в консоли" lightbox="../media/console-cause-404.msft.png":::
+    :::image type="complex" source="../media/console-cause-404.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-cause-404.msft.png":::
        `404`Ошибка в **консоли**  
     :::image-end:::  
     
 1.  Нажмите кнопку **Причина ошибки**.  Браузер регистрирует неперехваченные записи, `TypeError` так как JavaScript пытается обновить несуществующий узел DOM.  
     
-    :::image type="complex" source="../media/console-cause-error.msft.png" alt-text="TypeError на консоли" lightbox="../media/console-cause-error.msft.png":::
+    :::image type="complex" source="../media/console-cause-error.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-cause-error.msft.png":::
        А на `TypeError` **консоли**  
     :::image-end:::  
     
@@ -188,13 +188,13 @@ ms.locfileid: "10993151"
     > [!NOTE]
     > Если раскрывающийся список уровни по умолчанию отключен, может потребоваться закрыть панель **консоли** .  Отфильтровать по источнику сообщения, чтобы получить дополнительные сведения о боковой панели **консоли** .
     
-    :::image type="complex" source="../media/console-cause-error-log-levels.msft.png" alt-text="Включение подробного уровня ведения журнала" lightbox="../media/console-cause-error-log-levels.msft.png":::
+    :::image type="complex" source="../media/console-cause-error-log-levels.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-cause-error-log-levels.msft.png":::
        Включение подробного уровня ведения журнала  
     :::image-end:::  
     
 1.  Нажмите кнопку **вызвать нарушение**.  Страница перестает отвечать на запросы в течение нескольких секунд, а затем браузер заносит сообщение `[Violation] 'click' handler took 3000ms` на консоль.  Точная длительность может отличаться.  
     
-    :::image type="complex" source="../media/console-cause-violation.msft.png" alt-text="Нарушение в консоли" lightbox="../media/console-cause-violation.msft.png":::
+    :::image type="complex" source="../media/console-cause-violation.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-cause-violation.msft.png":::
        Нарушение в **консоли**  
     :::image-end:::  
     
@@ -208,7 +208,7 @@ ms.locfileid: "10993151"
 
 1.  Щелкните раскрывающийся список **уровни журнала** и отключите **ошибки**.  Уровень отключается, если рядом с ним больше нет метки.  `Error`Сообщения на уровне пропадают.  
     
-    :::image type="complex" source="../media/console-cause-violation-log-levels.msft.png" alt-text="Отключение сообщений уровня ошибки на консоли" lightbox="../media/console-cause-violation-log-levels.msft.png":::
+    :::image type="complex" source="../media/console-cause-violation-log-levels.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-cause-violation-log-levels.msft.png":::
        Отключение сообщений уровня ошибки на **консоли**  
     :::image-end:::  
     
@@ -220,7 +220,7 @@ ms.locfileid: "10993151"
 
 1.  Введите `Dave` текст в текстовое поле **Фильтр** .  Все сообщения, в которых не указана строка `Dave` , скрыты.  Кроме того, вы можете увидеть `Adolescent Irradiated Espionage Tortoises` метку.  Это ошибка.  
     
-    :::image type="complex" source="../media/console-all-messages-text-filter.msft.png" alt-text="Фильтрация сообщений, которые не включают Дэйв" lightbox="../media/console-all-messages-text-filter.msft.png":::
+    :::image type="complex" source="../media/console-all-messages-text-filter.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-all-messages-text-filter.msft.png":::
        Фильтрация сообщений, которые не включают `Dave`  
     :::image-end:::  
     
@@ -232,7 +232,7 @@ ms.locfileid: "10993151"
 
 1.  Введите `/^[AH]/` текст в текстовое поле **Фильтр** .  Введите этот шаблон в [Regex][|::ref1::|Main] , чтобы узнать, что он делает.  
     
-    :::image type="complex" source="../media/console-all-messages-regex-filter.msft.png" alt-text="Фильтрация сообщений, не соответствующих шаблону" lightbox="../media/console-all-messages-regex-filter.msft.png":::
+    :::image type="complex" source="../media/console-all-messages-regex-filter.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-all-messages-regex-filter.msft.png":::
        Фильтрация сообщений, не соответствующих шаблону `/^[AH]/`  
     :::image-end:::  
     
@@ -244,13 +244,13 @@ ms.locfileid: "10993151"
 
 1.  Нажмите кнопку **Показать боковую панель консоли** \ ( ![ Показать боковую панель консоли ][ImageShowConsoleSidebarIcon] ).  
     
-    :::image type="complex" source="../media/console-sidebar-all-messages.msft.png" alt-text="Боковая панель" lightbox="../media/console-sidebar-all-messages.msft.png":::
+    :::image type="complex" source="../media/console-sidebar-all-messages.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-sidebar-all-messages.msft.png":::
        Боковая панель  
     :::image-end:::  
     
 1.  Щелкните значок " **развернуть** " и " ![ Развернуть" ][ImageExpandIcon] рядом с количеством сообщений.  На приведенном ниже рисунке количество сообщений обозначено **13 сообщениями**.  На **боковой панели** отображается список URL-адресов, которые привели к тому, что сообщения записываются в журнал.  Например, это `log.js` связано с 11 сообщениями.  
     
-    :::image type="complex" source="../media/console-sidebar-expanded-all-messages.msft.png" alt-text="Просмотр источника сообщений на боковой панели" lightbox="../media/console-sidebar-expanded-all-messages.msft.png":::
+    :::image type="complex" source="../media/console-sidebar-expanded-all-messages.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-sidebar-expanded-all-messages.msft.png":::
        Просмотр источника сообщений на боковой панели  
     :::image-end:::  
     
@@ -260,7 +260,7 @@ ms.locfileid: "10993151"
 
 1.  Выберите **9 пользовательских сообщений**.  Сообщения браузера скрыты.  
     
-    :::image type="complex" source="../media/console-sidebar-user-messages.msft.png" alt-text="Фильтрация сообщений браузера" lightbox="../media/console-sidebar-user-messages.msft.png":::
+    :::image type="complex" source="../media/console-sidebar-user-messages.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-sidebar-user-messages.msft.png":::
        Фильтрация сообщений браузера  
     :::image-end:::  
     
@@ -273,7 +273,7 @@ ms.locfileid: "10993151"
 1.  Откройте вкладку **элементы** .  
 1.  Нажмите клавишу `Escape` .  Откроется вкладка "консоль" для **ящика** .  У него есть все функции панели консоли, которые использовались в этом учебнике.  
     
-    :::image type="complex" source="../media/console-elements-drawer-console-sidebar-all-messages.msft.png" alt-text="Вкладка «консоль» в ящике" lightbox="../media/console-elements-drawer-console-sidebar-all-messages.msft.png":::
+    :::image type="complex" source="../media/console-elements-drawer-console-sidebar-all-messages.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-elements-drawer-console-sidebar-all-messages.msft.png":::
          Вкладка « **консоль** » в **ящике**  
     :::image-end:::  
     

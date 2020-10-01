@@ -46,7 +46,7 @@ ms.locfileid: "10993200"
 
 Нажмите клавиши `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \). Или нажмите кнопку **Настройка DevTools** `...` и выберите **команду выполнить**.  
 
-:::image type="complex" source="../media/command-menu-options-run-command.msft.png" alt-text="Команда "выполнить"" lightbox="../media/command-menu-options-run-command.msft.png":::
+:::image type="complex" source="../media/command-menu-options-run-command.msft.png" alt-text="Отключение JavaScript с помощью меню команд" lightbox="../media/command-menu-options-run-command.msft.png":::
    Команда "выполнить"  
 :::image-end:::  
 
@@ -54,13 +54,13 @@ ms.locfileid: "10993200"
 
 Если вы используете рабочий процесс, описанный в разделе [Открыть меню команд](#open-the-command-menu), откроется меню команд с `>` символом, предварительно заданным в текстовом поле меню команды.  
 
-:::image type="complex" source="../media/command-menu-run-command.msft.png" alt-text="Символ команды" lightbox="../media/command-menu-run-command.msft.png":::
+:::image type="complex" source="../media/command-menu-run-command.msft.png" alt-text="Отключение JavaScript с помощью меню команд" lightbox="../media/command-menu-run-command.msft.png":::
    Символ команды  
 :::image-end:::  
 
 Удалите `>` символ и введите текст `?` , чтобы просмотреть другие действия, доступные в меню команд.  
 
-:::image type="complex" source="../media/command-menu-help.msft.png" alt-text="Другие доступные действия" lightbox="../media/command-menu-help.msft.png":::
+:::image type="complex" source="../media/command-menu-help.msft.png" alt-text="Отключение JavaScript с помощью меню команд" lightbox="../media/command-menu-help.msft.png":::
    Другие доступные действия  
 :::image-end:::  
 

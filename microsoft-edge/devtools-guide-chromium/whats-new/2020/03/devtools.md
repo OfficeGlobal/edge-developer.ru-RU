@@ -52,13 +52,13 @@ ms.locfileid: "11015484"
 
 Существует множество параметров для DevTools, которые можно настроить таким образом, чтобы DevTools внешний вид, оформление и работу. В Microsoft Edge 83 доступ к [параметрам][DevtoolsCustomizeIndexSettings] в DevTools теперь стал более простым. Откройте параметры с помощью значка шестеренки рядом с пунктом оповещения консоли и главное меню.  
 
-:::image type="complex" source="../../media/2020/03/settings.msft.png" alt-text="Значок шестеренки, чтобы открыть параметры в DevTools" lightbox="../../media/2020/03/settings.msft.png":::
+:::image type="complex" source="../../media/2020/03/settings.msft.png" alt-text="Приложение Remote Tools для Microsoft EDGE (бета-версия), доступное в Microsoft Store" lightbox="../../media/2020/03/settings.msft.png":::
    Значок шестеренки, чтобы открыть **Параметры** в DevTools  
 :::image-end:::  
 
 Вы также можете открыть [Параметры][DevtoolsCustomizeIndexSettings] из **главного меню** в разделе **Дополнительные инструменты**.
 
-:::image type="complex" source="../../media/2020/03/settings2.msft.png" alt-text="Главное меню > другие инструменты > параметры" lightbox="../../media/2020/03/settings2.msft.png":::
+:::image type="complex" source="../../media/2020/03/settings2.msft.png" alt-text="Приложение Remote Tools для Microsoft EDGE (бета-версия), доступное в Microsoft Store" lightbox="../../media/2020/03/settings2.msft.png":::
    **Главное меню**  >  **Дополнительные инструменты**  >  **Параметры**  
 :::image-end:::  
 
@@ -68,7 +68,7 @@ ms.locfileid: "11015484"
 
 В DevTools теперь есть улучшенные возможности, которые появятся на панелях уведомлений \ (infobars \) на информационной панели. В Microsoft Edge 83 infobars более удобны для чтения и предоставляют кнопки, чтобы можно было принять нужное действие прямо сейчас.  
 
-:::image type="complex" source="../../media/2020/03/infobar.msft.png" alt-text="Информационная панель для печати файла minified в Microsoft Edge 83" lightbox="../../media/2020/03/infobar.msft.png":::
+:::image type="complex" source="../../media/2020/03/infobar.msft.png" alt-text="Приложение Remote Tools для Microsoft EDGE (бета-версия), доступное в Microsoft Store" lightbox="../../media/2020/03/infobar.msft.png":::
    Информационная панель для печати файла minified в Microsoft Edge версии 83  
 :::image-end:::  
 
@@ -78,7 +78,7 @@ ms.locfileid: "11015484"
 
 [Палитра цветов][DevtoolsCssReferenceColorPicker] — это графический интерфейс пользователя на [панели «элементы»][DevtoolsCssIndex] для изменения `color` и `background-color` объявлений.  В предыдущих версиях Microsoft Edge вы не смогли перемещаться по разделу " **тени** " в [палитре цветов][DevtoolsCssReferenceColorPicker] с помощью клавиатуры.  
 
-:::image type="complex" source="../../media/2020/03/color-picker.msft.png" alt-text="Теперь вы можете использовать клавиатуру для перемещения селектора в разделе "тени" палитры цветов" lightbox="../../media/2020/03/color-picker.msft.png":::
+:::image type="complex" source="../../media/2020/03/color-picker.msft.png" alt-text="Приложение Remote Tools для Microsoft EDGE (бета-версия), доступное в Microsoft Store" lightbox="../../media/2020/03/color-picker.msft.png":::
    Теперь вы можете использовать клавиатуру для перемещения селектора в разделе " **тени** " [палитры цветов][DevtoolsCssReferenceColorPicker]  
 :::image-end:::  
 
@@ -90,13 +90,13 @@ ms.locfileid: "11015484"
 
 В Microsoft Edge 81 и более ранних версий **вкладка Свойства** на [панели элементы][DevtoolsCssIndex] была разорвана обновлениями страницы.  После обновления страницы на **вкладке Свойства** не заполнятся свойства элемента, выбранного в данный момент.  
 
-:::image type="complex" source="../../media/2020/03/properties-in-81.msft.png" alt-text="В Microsoft Edge 81 и более ранних версий вкладка Свойства была пуста после обновления страницы" lightbox="../../media/2020/03/properties-in-81.msft.png":::
+:::image type="complex" source="../../media/2020/03/properties-in-81.msft.png" alt-text="Приложение Remote Tools для Microsoft EDGE (бета-версия), доступное в Microsoft Store" lightbox="../../media/2020/03/properties-in-81.msft.png":::
    В Microsoft Edge 81 и более ранних версий **вкладка Свойства** была пуста после обновления страницы  
 :::image-end:::  
 
 В Microsoft Edge 83 теперь вы можете видеть свойства элемента, выбранного в данный момент, после обновления страницы на **вкладке Свойства**.  
 
-:::image type="complex" source="../../media/2020/03/properties-in-82.msft.png" alt-text="В Microsoft Edge 83 на вкладке Свойства отображаются свойства элемента, выбранного в данный момент, после обновления страницы." lightbox="../../media/2020/03/properties-in-82.msft.png":::
+:::image type="complex" source="../../media/2020/03/properties-in-82.msft.png" alt-text="Приложение Remote Tools для Microsoft EDGE (бета-версия), доступное в Microsoft Store" lightbox="../../media/2020/03/properties-in-82.msft.png":::
    В Microsoft Edge 83 на **вкладке Свойства** отображаются свойства элемента, выбранного в данный момент, после обновления страницы.  
 :::image-end:::  
 
@@ -110,7 +110,7 @@ ms.locfileid: "11015484"
 
 После внесения изменений в файл minified **инструмент "изменения** " позволяет выполнить горизонтальную прокрутку для просмотра всего кода minified.  Начиная с Microsoft Edge 83, теперь можно прокручивать по горизонтали с помощью клавиш со стрелками на клавиатуре.  
 
-:::image type="complex" source="../../media/2020/03/changes.msft.png" alt-text="В Microsoft Edge 83 можно выполнить прокрутку по горизонтали с помощью клавиш со стрелками, чтобы просмотреть код minified в инструменте "изменения"." lightbox="../../media/2020/03/changes.msft.png":::
+:::image type="complex" source="../../media/2020/03/changes.msft.png" alt-text="Приложение Remote Tools для Microsoft EDGE (бета-версия), доступное в Microsoft Store" lightbox="../../media/2020/03/changes.msft.png":::
    В Microsoft Edge 83 вы можете выполнить горизонтальную прокрутку с помощью клавиш со стрелками, чтобы просмотреть изменения, внесенные в код minified в **инструменте "изменения** ".  
 :::image-end:::  
 
@@ -126,7 +126,7 @@ ms.locfileid: "11015484"
 
 Откройте [вкладку рендеринг][DevtoolsEvaluatePreformanceReferenceAnalyzeRenderingTab] и воспользуйтесь новой функцией **эмуляции deficiencies** , чтобы лучше понять, как люди с разными типами концепций deficienciesют свой сайт.  
 
-:::image type="complex" source="../../media/2020/03/vision.msft.png" alt-text="Имитация размытого видения" lightbox="../../media/2020/03/vision.msft.png":::
+:::image type="complex" source="../../media/2020/03/vision.msft.png" alt-text="Приложение Remote Tools для Microsoft EDGE (бета-версия), доступное в Microsoft Store" lightbox="../../media/2020/03/vision.msft.png":::
    Имитация размытого видения  
 :::image-end:::  
 
@@ -160,7 +160,7 @@ DevTools может эмулировать размытое видение и с
 > [!NOTE]
 > Обновляются `navigator.language` и `navigator.languages` не отображаются немедленно, но только после следующей навигации или обновления страницы.  Изменения в `Accept-Language` заголовке HTTP отражаются только для последующих запросов.  
 
-:::image type="complex" source="../../media/2020/03/locale.msft.png" alt-text="Эмуляция языкового стандарта" lightbox="../../media/2020/03/locale.msft.png":::
+:::image type="complex" source="../../media/2020/03/locale.msft.png" alt-text="Приложение Remote Tools для Microsoft EDGE (бета-версия), доступное в Microsoft Store" lightbox="../../media/2020/03/locale.msft.png":::
    Эмуляция языкового стандарта  
 :::image-end:::  
 
@@ -174,13 +174,13 @@ DevTools может эмулировать размытое видение и с
 
 Столбец **Status** теперь содержит краткое описание причины блокировки запроса, а также ссылку на просмотр заголовков этого запроса для дальнейшей отладки.  
 
-:::image type="complex" source="../../media/2020/03/status.msft.png" alt-text="Заблокированные запросы в столбце * * Состояние * *" lightbox="../../media/2020/03/status.msft.png":::
+:::image type="complex" source="../../media/2020/03/status.msft.png" alt-text="Приложение Remote Tools для Microsoft EDGE (бета-версия), доступное в Microsoft Store" lightbox="../../media/2020/03/status.msft.png":::
    Заблокированные запросы в столбце " **состояние** "  
 :::image-end:::  
 
 В разделе **заголовки ответа** вкладки **заголовки** содержатся дополнительные инструкции по устранению проблем.  
 
-:::image type="complex" source="../../media/2020/03/guidance.msft.png" alt-text="Другие рекомендации в разделе "заголовки ответа"" lightbox="../../media/2020/03/guidance.msft.png":::
+:::image type="complex" source="../../media/2020/03/guidance.msft.png" alt-text="Приложение Remote Tools для Microsoft EDGE (бета-версия), доступное в Microsoft Store" lightbox="../../media/2020/03/guidance.msft.png":::
    Другие рекомендации в разделе " **заголовки ответа** "  
 :::image-end:::  
 
@@ -210,7 +210,7 @@ DevTools может эмулировать размытое видение и с
 
 Откройте [меню команд][DevToolsCommandMenuIndex] и выполните команду, `Dock to left` чтобы переместить DevTools в левой части окна просмотра.  
 
-:::image type="complex" source="../../media/2020/03/dock-to-left.msft.png" alt-text="DevTools закреплен в левой части окна просмотра" lightbox="../../media/2020/03/dock-to-left.msft.png":::
+:::image type="complex" source="../../media/2020/03/dock-to-left.msft.png" alt-text="Приложение Remote Tools для Microsoft EDGE (бета-версия), доступное в Microsoft Store" lightbox="../../media/2020/03/dock-to-left.msft.png":::
    DevTools закреплен в левой части окна просмотра  
 :::image-end:::  
 
@@ -225,7 +225,7 @@ DevTools может эмулировать размытое видение и с
 
 Группа DevTools часто получила отзыв от веб-разработчиков, которые могли бы запустить [Lighthouse][GithubGoogleChromeLighthouse] из DevTools, когда они могли бы не найти панель "Lighthouse", и панель **аудиторий** стала на панели " **Lighthouse** ".  
 
-:::image type="complex" source="../../media/2020/03/lighthouse.msft.png" alt-text="Панель Lighthouse" lightbox="../../media/2020/03/lighthouse.msft.png":::
+:::image type="complex" source="../../media/2020/03/lighthouse.msft.png" alt-text="Приложение Remote Tools для Microsoft EDGE (бета-версия), доступное в Microsoft Store" lightbox="../../media/2020/03/lighthouse.msft.png":::
    Панель Lighthouse  
 :::image-end:::  
 
@@ -236,7 +236,7 @@ DevTools может эмулировать размытое видение и с
 
 После настройки **локальных переопределений** вы можете щелкнуть папку правой кнопкой мыши и выбрать команду создать **все переопределение** для удаления всех локальных переопределений в этой папке.  
 
-:::image type="complex" source="../../media/2020/03/overrides.msft.png" alt-text="Удаление всех переопределений" lightbox="../../media/2020/03/overrides.msft.png":::
+:::image type="complex" source="../../media/2020/03/overrides.msft.png" alt-text="Приложение Remote Tools для Microsoft EDGE (бета-версия), доступное в Microsoft Store" lightbox="../../media/2020/03/overrides.msft.png":::
    Удаление всех переопределений  
 :::image-end:::  
 
@@ -250,7 +250,7 @@ DevTools может эмулировать размытое видение и с
 
 На панели производительности вы можете [визуализировать длинные задачи][DevtoolsEvaluatePerformanceReferenceViewMainThreadActivity] , но в Microsoft Edge 83 пользовательский интерфейс визуализации задач на панели производительности обновлен.  Область задач "Долгая задача" теперь окрашена на красный фон с чередованием.  
 
-:::image type="complex" source="../../media/2020/03/long-task.msft.png" alt-text="Новый пользовательский интерфейс длительной задачи" lightbox="../../media/2020/03/long-task.msft.png":::
+:::image type="complex" source="../../media/2020/03/long-task.msft.png" alt-text="Приложение Remote Tools для Microsoft EDGE (бета-версия), доступное в Microsoft Store" lightbox="../../media/2020/03/long-task.msft.png":::
    Новый пользовательский интерфейс длительной задачи  
 :::image-end:::  
 
@@ -266,7 +266,7 @@ DevTools может эмулировать размытое видение и с
 
 <!-- Check out [Are my current icons ready?] to learn more.  -->  
 
-:::image type="complex" source="../../media/2020/03/maskable-icons.msft.png" alt-text="Флажок "Показывать только минимальный безопасный участок" для маскированных значков" lightbox="../../media/2020/03/maskable-icons.msft.png":::
+:::image type="complex" source="../../media/2020/03/maskable-icons.msft.png" alt-text="Приложение Remote Tools для Microsoft EDGE (бета-версия), доступное в Microsoft Store" lightbox="../../media/2020/03/maskable-icons.msft.png":::
    Флажок **Показать только минимальную безопасную область для маскированных значков**  
 :::image-end:::  
 

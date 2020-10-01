@@ -91,7 +91,7 @@ console.log('c');
 1.  Введите условие в диалоговом окне.  
 1.  Нажмите `Enter` , чтобы активировать точку останова.  Значок рядом со столбцом "номер строки".  
     
-    :::image type="complex" source="../media/javascript-sources-page-js-conditional-breakpoint.msft.png" alt-text="Условная точка останова для строки кода" lightbox="../media/javascript-sources-page-js-conditional-breakpoint.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-page-js-conditional-breakpoint.msft.png" alt-text="Точка останова строки кода" lightbox="../media/javascript-sources-page-js-conditional-breakpoint.msft.png":::
        Условная точка останова для строки кода  
     :::image-end:::  
     
@@ -99,7 +99,7 @@ console.log('c');
 
 С помощью области " **точки останова** " можно отключить или удалить точки останова для строк кода из одного места.  
 
-:::image type="complex" source="../media/javascript-sources-page-js-breakpoints-16-33.msft.png" alt-text="Панель «точки останова»" lightbox="../media/javascript-sources-page-js-breakpoints-16-33.msft.png":::
+:::image type="complex" source="../media/javascript-sources-page-js-breakpoints-16-33.msft.png" alt-text="Точка останова строки кода" lightbox="../media/javascript-sources-page-js-breakpoints-16-33.msft.png":::
    Панель « **точки останова** »  
 :::image-end:::  
 
@@ -107,7 +107,7 @@ console.log('c');
 *   Щелкните правой кнопкой мыши запись для удаления точки останова.  
 *   Щелкните правой кнопкой мыши в любом месте области **точки останова** , чтобы отключить все точки останова, отключить все точки останова или удалить все точки останова.  Отключение всех точек останова эквивалентно депроверке каждого из них.  Отключение всех точек останова дает указание DevTools игнорировать все точки останова для строк кода, а также поддерживать состояние включения, чтобы каждый из них нав одном и том же состоянии до повторной активации каждой из них.  
     
-    :::image type="complex" source="../media/javascript-sources-page-js-breakpoints-deactivate-breakpoints.msft.png" alt-text="Деактивированные точки останова на панели "точки останова"" lightbox="../media/javascript-sources-page-js-breakpoints-deactivate-breakpoints.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-page-js-breakpoints-deactivate-breakpoints.msft.png" alt-text="Точка останова строки кода" lightbox="../media/javascript-sources-page-js-breakpoints-deactivate-breakpoints.msft.png":::
        Деактивированные точки останова на панели " **точки останова** "  
     :::image-end:::  
     
@@ -122,7 +122,7 @@ console.log('c');
 1.  Щелкните элемент правой кнопкой мыши.  
 1.  Наведите указатель мыши **на пункт разрыв**, а затем выберите **изменения поддерева**, **изменения атрибутов**или **Удаление узла**.  
     
-    :::image type="complex" source="../media/javascript-elements-break-on-subtree-modifications.msft.png" alt-text="Контекстное меню для создания точки останова по изменению модели DOM" lightbox="../media/javascript-elements-break-on-subtree-modifications.msft.png":::
+    :::image type="complex" source="../media/javascript-elements-break-on-subtree-modifications.msft.png" alt-text="Точка останова строки кода" lightbox="../media/javascript-elements-break-on-subtree-modifications.msft.png":::
        Контекстное меню для создания точки останова по изменению модели DOM  
     :::image-end:::  
     
@@ -149,7 +149,7 @@ console.log('c');
 1.  Введите строку, на которой вы хотите приостановить.  DevTools приостанавливает работу, когда эта строка отображается в любом месте URL-адреса запроса XHR.  
 1.  Нажмите кнопку `Enter` , чтобы подтвердить.  
     
-    :::image type="complex" source="../media/javascript-sources-page-js-xhr-fetch-breakpoints-org.msft.png" alt-text="Создание точки останова XHR" lightbox="../media/javascript-sources-page-js-xhr-fetch-breakpoints-org.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-page-js-xhr-fetch-breakpoints-org.msft.png" alt-text="Точка останова строки кода" lightbox="../media/javascript-sources-page-js-xhr-fetch-breakpoints-org.msft.png":::
        Создание точки останова XHR  
     :::image-end:::  
     
@@ -161,7 +161,7 @@ console.log('c');
 1.  Разверните область **точки останова для прослушивателя событий** .  DevTools отображает список категорий событий, например **анимацию**.  
 1.  Отметьте одну из этих категорий, чтобы приостановить любое событие из этой категории, или развернуть категорию и проверить определенное событие.  
     
-    :::image type="complex" source="../media/javascript-sources-page-js-event-listener-breakpoints-device-deviceorientation.msft.png" alt-text="Создание точки останова для прослушивателя событий" lightbox="../media/javascript-sources-page-js-event-listener-breakpoints-device-deviceorientation.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-page-js-event-listener-breakpoints-device-deviceorientation.msft.png" alt-text="Точка останова строки кода" lightbox="../media/javascript-sources-page-js-event-listener-breakpoints-device-deviceorientation.msft.png":::
        Создание точки останова для прослушивателя событий  
     :::image-end:::  
     
@@ -172,13 +172,13 @@ console.log('c');
 1.  Откройте вкладку **источники** .  
 1.  Нажмите кнопку **Pause on Exceptions** \ ( ![ Pause on Exceptions ][ImagePauseOnExceptionsIcon] \).  При включении значок становится синей.  
     
-    :::image type="complex" source="../media/javascript-sources-page-js-pause-on-exceptions.msft.png" alt-text="Кнопка "Пауза при исключениях"" lightbox="../media/javascript-sources-page-js-pause-on-exceptions.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-page-js-pause-on-exceptions.msft.png" alt-text="Точка останова строки кода" lightbox="../media/javascript-sources-page-js-pause-on-exceptions.msft.png":::
        Кнопка " **Пауза при исключениях** "  
     :::image-end:::  
     
 1.  **Необязательный**.  Установите флажок **приостановить на перехваченных исключениях** , если вы также хотите приостанавливать на перехваченных исключениях помимо неперехваченных.  
     
-    :::image type="complex" source="../media/javascript-sources-page-js-paused-on-exception.msft.png" alt-text="Приостановлено при неперехваченном исключении" lightbox="../media/javascript-sources-page-js-paused-on-exception.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-page-js-paused-on-exception.msft.png" alt-text="Точка останова строки кода" lightbox="../media/javascript-sources-page-js-paused-on-exception.msft.png":::
        Приостановлено при неперехваченном исключении  
     :::image-end:::  
     

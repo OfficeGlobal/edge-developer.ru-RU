@@ -28,7 +28,7 @@ ms.locfileid: "11015463"
 
 Группа Microsoft Edge DevTools — совместная работа с группой Chrome DevTools и Chromium, чтобы добавить в DevTools новые функции отладки сетки каскадных стилей.  Теперь вы можете отображать номера линий сетки, зазоры сетки и дополнительные линии сетки в качестве наложений на страницы.  Кроме того, в скором времени становятся более улучшены инструменты сетки.  
 
-:::image type="complex" source="../../media/2020/06/experiments-grid.msft.png" alt-text="Функции отладки сетки каскадных стилей" lightbox="../../media/2020/06/experiments-grid.msft.png":::
+:::image type="complex" source="../../media/2020/06/experiments-grid.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/experiments-grid.msft.png":::
    Функции отладки сетки каскадных стилей
 :::image-end:::  
 
@@ -41,13 +41,9 @@ ms.locfileid: "11015463"
 
 ### Изменение и повторное воспроизведение запросов с помощью сетевой консоли  
 
-:::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Экспериментальная функция":::
-   Экспериментальная функция  
-:::image-end:::  
+:::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Экспериментальная функция" на запросах в [сетевом журнале][DevtoolsNetworkIndexLogActivity] с помощью **сетевой консоли**.  
 
-Теперь вы можете использовать команду " **изменить и воспроизвести** " на запросах в [сетевом журнале][DevtoolsNetworkIndexLogActivity] с помощью **сетевой консоли**.  
-
-:::image type="complex" source="../../media/2020/06/experiments-network-console-edit-and-replay.msft.png" alt-text="Изменение и повторное воспроизведение запроса в NetworkLog с помощью сетевой консоли" lightbox="../../media/2020/06/experiments-network-console-edit-and-replay.msft.png":::
+:::image type="complex" source="../../media/2020/06/experiments-network-console-edit-and-replay.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/experiments-network-console-edit-and-replay.msft.png":::
    Изменение и повторное воспроизведение запроса в [NetworkLog][DevtoolsNetworkIndexLogActivity] с помощью **сетевой консоли**  
 :::image-end:::  
 
@@ -55,7 +51,7 @@ ms.locfileid: "11015463"
 
 Вы также можете использовать **консоль сети** для создания и отправки HTTP-запросов непосредственно из DevTools.  
 
-:::image type="complex" source="../../media/2020/06/experiments-network-console.msft.png" alt-text="Панель "Сетевая консоль"" lightbox="../../media/2020/06/experiments-network-console.msft.png":::
+:::image type="complex" source="../../media/2020/06/experiments-network-console.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/experiments-network-console.msft.png":::
    Панель " **Сетевая консоль** "  
 :::image-end:::  
 
@@ -73,13 +69,13 @@ ms.locfileid: "11015463"
 
 Вкладка **время** на панели " **сеть** " теперь включает `respondWith` события рабочих процессов служб.  `respondWith`Событие "сотрудник службы" показывает продолжительность, начиная с момента, `fetch` когда обработчик событий сотрудника службы начнет выполняться до того момента, когда `respondWith` `fetch` будет сопоставлено обещание обработчика.  
 
-:::image type="complex" source="../../media/2020/06/timing-tab.msft.png" alt-text="Событие "Рабочий процесс службы respondWith" на вкладке "время" на панели "сеть"" lightbox="../../media/2020/06/timing-tab.msft.png":::
+:::image type="complex" source="../../media/2020/06/timing-tab.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/timing-tab.msft.png":::
    `respondWith`Событие "сотрудник службы" на вкладке " **время** " на панели " **сеть** "  
 :::image-end:::  
 
 Развернутый **ответ получен** , чтобы просмотреть дополнительные сведения из `fetch` ответа, например, `CacheStorageCacheName` `serviceWorkerResponseSource` и `ResponseTime` .  
 
-:::image type="complex" source="../../media/2020/06/timing-tab2.msft.png" alt-text="Получен ответ на запрос Expand для просмотра дополнительных сведений из ответа на выборку" lightbox="../../media/2020/06/timing-tab2.msft.png":::
+:::image type="complex" source="../../media/2020/06/timing-tab2.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/timing-tab2.msft.png":::
    **Получен ответ на запрос** Expand для просмотра дополнительных сведений из `fetch` ответа  
 :::image-end:::  
 
@@ -87,13 +83,9 @@ ms.locfileid: "11015463"
 
 ### Обратная связь по этой подсказке на панели "вопросы"  
 
-:::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Экспериментальная функция":::
-   Экспериментальная функция  
-:::image-end:::  
+:::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Экспериментальная функция" [вопросы][DevtoolsIssues] ".  
 
-веб- [Подсказка][WebhintMain] — это средство с открытым исходным кодом, которое обеспечивает обратную связь в режиме реального времени для обеспечения специальных возможностей, совместимости, безопасности, производительности, PWAs и других распространенных проблем, возникающих при работе в Интернете.  Теперь вы можете увидеть отзыв по этой подсказке на панели " [вопросы][DevtoolsIssues] ".  
-
-:::image type="complex" source="../../media/2020/06/experiments-webhint.msft.png" alt-text="Обратная связь по этой подсказке на панели "вопросы"" lightbox="../../media/2020/06/experiments-webhint.msft.png":::
+:::image type="complex" source="../../media/2020/06/experiments-webhint.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/experiments-webhint.msft.png":::
    Обратная связь по этой подсказке на панели "вопросы"  
 :::image-end:::  
 
@@ -112,7 +104,7 @@ ms.locfileid: "11015463"
 
 Обычно такие инструменты, как **элементы** и **сеть** , можно открывать только на главной панели \ (Top \) DevTools.  Аналогичным образом такие инструменты, как **трехмерный вид** и **проблемы** , можно открывать только на панели ящик \ (Нижняя \) DevTools.  Теперь вы можете настраивать макет DevTools, перемещая инструменты между верхней и нижней панелями.  
 
-:::image type="complex" source="../../media/2020/06/experiments-move-panels.msft.png" alt-text="Перемещение вкладок между панелями" lightbox="../../media/2020/06/experiments-move-panels.msft.png":::
+:::image type="complex" source="../../media/2020/06/experiments-move-panels.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/experiments-move-panels.msft.png":::
    Перемещение вкладок между панелями  
 :::image-end:::  
 
@@ -125,13 +117,13 @@ ms.locfileid: "11015463"
 
 В Microsoft Edge 83 и 84 с помощью всплывающих подсказок для столбца инициаторов, в котором отображается причина запроса ресурсов, в [сетевом журнале][DevtoolsNetworkIndexLogActivity] отображается горизонтальная полоса прокрутки.  Вы можете видеть стек вызовов, который инициировал запрос, прокручивать по горизонтали в подсказке.  
 
-:::image type="complex" source="../../media/2020/06/initiator-tooltip-84.msft.png" alt-text="Всплывающая подсказка инициатора в Microsoft Edge 84" lightbox="../../media/2020/06/initiator-tooltip-84.msft.png":::
+:::image type="complex" source="../../media/2020/06/initiator-tooltip-84.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/initiator-tooltip-84.msft.png":::
    Всплывающая подсказка инициатора в Microsoft Edge 84  
 :::image-end:::  
 
 Начиная с Microsoft Edge 85, теперь вы можете видеть стек вызовов инициаторов в подсказке без горизонтальной прокрутки.  
 
-:::image type="complex" source="../../media/2020/06/initiator-tooltip-85.msft.png" alt-text="Всплывающая подсказка инициатора в Microsoft Edge 85" lightbox="../../media/2020/06/initiator-tooltip-85.msft.png":::
+:::image type="complex" source="../../media/2020/06/initiator-tooltip-85.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/initiator-tooltip-85.msft.png":::
    Всплывающая подсказка инициатора в Microsoft Edge 85
 :::image-end:::  
 
@@ -149,7 +141,7 @@ ms.locfileid: "11015463"
 
 Например, стили, `h1` добавленные с помощью `CSSStyleSheet` \ (CSSOM API \), не были изменены ранее.  Теперь стили доступны для редактирования в области **стили** .  
 
-:::image type="complex" source="../../media/2020/06/css-in-js.msft.png" alt-text="Изменение свойства Background для стилей H1, добавленных с CSSStyleSheet из розового в LightBlue" lightbox="../../media/2020/06/css-in-js.msft.png":::
+:::image type="complex" source="../../media/2020/06/css-in-js.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/css-in-js.msft.png":::
    Изменение `background` свойства `h1` стиля, добавленного в значение `CSSStyleSheet` FROM `pink` `lightblue` .
 :::image-end:::  
 
@@ -218,7 +210,7 @@ Lighthouse 6,0 предлагает три новые метрики для от
 * Значки сочетаний клавиш приложения меньше 96x96 пикселей  
 * Значки сочетаний клавиш приложения и манифеста не квадратны \ (так как значки игнорируются)  
 
-:::image type="complex" source="../../media/2020/06/app-shortcut-warnings.msft.png" alt-text="Предупреждения о сочетаниях клавиш для приложения" lightbox="../../media/2020/06/app-shortcut-warnings.msft.png":::
+:::image type="complex" source="../../media/2020/06/app-shortcut-warnings.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/app-shortcut-warnings.msft.png":::
    Предупреждения о сочетаниях клавиш для приложения  
 :::image-end:::  
 
@@ -228,7 +220,7 @@ Lighthouse 6,0 предлагает три новые метрики для от
 
 **Вычисляемая** область на панели " **элементы** " теперь отображается единообразно в виде области на всех размерах окна просмотра.  Ранее **Вычисляемая** область была объединена в области " **стили** ", когда ширина окна просмотра DevTools была узкой.  
 
-:::image type="complex" source="../../media/2020/06/computed-pane.msft.png" alt-text="Вычисляемая область последовательно отображается как отдельная область, даже если DevTools узким" lightbox="../../media/2020/06/computed-pane.msft.png":::
+:::image type="complex" source="../../media/2020/06/computed-pane.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/computed-pane.msft.png":::
    **Вычисляемая** область последовательно отображается как отдельная область, даже если DevTools узким.
 :::image-end:::  
 
@@ -245,7 +237,7 @@ DevTools теперь использует смещения байт-кода д
 
 При копировании или вырезании без выделения в [редакторе палитры «источники][DevtoolsSourcesEditCssJavascript]» DevTools копирует или вырезает текущую строку содержимого.  
 
-:::image type="complex" source="../../media/2020/06/line-wise-cut.msft.png" alt-text="С курсором в конце строки 5 копируется вся строка из pen.js в DevTools и вставляется в код Visual Studio." lightbox="../../media/2020/06/line-wise-cut.msft.png":::
+:::image type="complex" source="../../media/2020/06/line-wise-cut.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/line-wise-cut.msft.png":::
    С курсором в конце строки 5 копируется вся строка из **pen.js** в DevTools и вставляется в [код Visual Studio][VSCode].
 :::image-end:::  
 
@@ -259,7 +251,7 @@ DevTools теперь использует смещения байт-кода д
 
 Например, ранее DevTools не разгруппирование сообщений, несмотря на то, что `hello` флажок **Group похоже** не установлен.  Теперь `hello` сообщения разгруппированы.  
 
-:::image type="complex" source="../../media/2020/06/ungroup-similar.msft.png" alt-text="Если флажок "Группировать" не установлен, сообщения приветствия разгруппированы не будут" lightbox="../../media/2020/06/ungroup-similar.msft.png":::
+:::image type="complex" source="../../media/2020/06/ungroup-similar.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/ungroup-similar.msft.png":::
    Если флажок " **Группировать как** " не установлен, `hello` сообщения разносятся в разгруппирование
 :::image-end:::  
 
@@ -271,7 +263,7 @@ DevTools теперь использует смещения байт-кода д
 
 **Выбранный контекст** теперь сохраняется только в параметрах консоли.  Ранее параметры были сброшены каждый раз при закрытии и повторном открытии DevTools.  Изменение приводит к поведению параметров с другими параметрами консоли.  
 
-:::image type="complex" source="../../media/2020/06/selected-context.msft.png" alt-text="Параметр "только выбранный контекст"" lightbox="../../media/2020/06/selected-context.msft.png":::
+:::image type="complex" source="../../media/2020/06/selected-context.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/selected-context.msft.png":::
    Параметр " **только выбранный контекст** "  
 :::image-end:::  
 
@@ -283,7 +275,7 @@ DevTools теперь использует смещения байт-кода д
 
 [Данные кэша компиляции для JavaScript][V8DevCodeCaching] теперь всегда отображаются на вкладке "Сводка" на панели "производительность".  Ранее DevTools не показывает ничего, связанного с кэшированием кода, если кэширование кода не произошло.  
 
-:::image type="complex" source="../../media/2020/06/js-compilation-cache.msft.png" alt-text="Данные кэша компиляции для JavaScript" lightbox="../../media/2020/06/js-compilation-cache.msft.png":::
+:::image type="complex" source="../../media/2020/06/js-compilation-cache.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/js-compilation-cache.msft.png":::
    Данные кэша компиляции для JavaScript  
 :::image-end:::  
 
@@ -293,7 +285,7 @@ DevTools теперь использует смещения байт-кода д
 
 Панель **производительности** , используемая для отображения времени на линейках на основе начала записи.  Время ожидания изменилось для записей, в которых пользователь осуществляет переход, где DevTools теперь показывает время линейки относительно навигации.  
 
-:::image type="complex" source="../../media/2020/06/nav-timing.msft.png" alt-text="Выравнивание времени навигации на панели «производительность»" lightbox="../../media/2020/06/nav-timing.msft.png":::
+:::image type="complex" source="../../media/2020/06/nav-timing.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/nav-timing.msft.png":::
    Выравнивание времени навигации на панели « **производительность** »  
 :::image-end:::  
 
@@ -305,7 +297,7 @@ DevTools теперь использует смещения байт-кода д
 
 На панели « **источники** » есть новые дизайны для точек останова, условных точек останова и logpoints.  Точки останова представлены на красном круге, точно так же, как и в [Visual Studio][VSCode] , и в [Visual Studio][VS].  Значки добавляются для различения условных точек останова и logpoints.  
 
-:::image type="complex" source="../../media/2020/06/breakpoints.msft.png" alt-text="Точки останова" lightbox="../../media/2020/06/breakpoints.msft.png":::
+:::image type="complex" source="../../media/2020/06/breakpoints.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/breakpoints.msft.png":::
    Точки останова  
 :::image-end:::  
 

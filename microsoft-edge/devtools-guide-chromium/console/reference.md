@@ -54,7 +54,7 @@ ms.locfileid: "10993144"
 
 Чтобы открыть панель консоли из [меню команд][DevToolsCommandMenu], начните вводить текст, `Console` а затем запустите команду **Показать консоль** с индикатором **панели** рядом с ним.  
 
-:::image type="complex" source="../media/console-command-menu-show-console.msft.png" alt-text="Команда для отображения панели консоли" lightbox="../media/console-command-menu-show-console.msft.png":::
+:::image type="complex" source="../media/console-command-menu-show-console.msft.png" alt-text="Панель консоли" lightbox="../media/console-command-menu-show-console.msft.png":::
    Команда для отображения панели **консоли**  
 :::image-end:::  
 
@@ -62,19 +62,19 @@ ms.locfileid: "10993144"
 
 Нажмите `Escape` или щелкните **настроить DevTools** \ ( `...` \) и выберите пункт **Показать входной ящик консоли**.  
 
-:::image type="complex" source="../media/console-elements-customize-control-devtools-show-console-drawer.msft.png" alt-text="Показать консольный ящик" lightbox="../media/console-elements-customize-control-devtools-show-console-drawer.msft.png":::
+:::image type="complex" source="../media/console-elements-customize-control-devtools-show-console-drawer.msft.png" alt-text="Панель консоли" lightbox="../media/console-elements-customize-control-devtools-show-console-drawer.msft.png":::
    **Показать консольный ящик**  
 :::image-end:::  
 
 Ящик появляется в нижней части окна DevTools и открывается вкладка **консоли** .  
 
-:::image type="complex" source="../media/console-elements-console-drawer-hello-world.msft.png" alt-text="Вкладка «консоль» в ящике" lightbox="../media/console-elements-console-drawer-hello-world.msft.png":::
+:::image type="complex" source="../media/console-elements-console-drawer-hello-world.msft.png" alt-text="Панель консоли" lightbox="../media/console-elements-console-drawer-hello-world.msft.png":::
    Вкладка « **консоль** » в **ящике**  
 :::image-end:::  
 
 Чтобы открыть вкладку консоль в [меню команд][DevToolsCommandMenu], начните вводить текст, `Console` а затем запустите команду **Показать консоль** с индикатором **ящика** рядом с ним.  
 
-:::image type="complex" source="../media/console-command-menu-show-console.msft.png" alt-text="Команда для отображения вкладки "консоль" в ящике" lightbox="../media/console-command-menu-show-console.msft.png":::
+:::image type="complex" source="../media/console-command-menu-show-console.msft.png" alt-text="Панель консоли" lightbox="../media/console-command-menu-show-console.msft.png":::
    Команда для отображения вкладки " **консоль** " в **ящике**  
 :::image-end:::  
 
@@ -82,7 +82,7 @@ ms.locfileid: "10993144"
 
 Нажмите кнопку **Параметры консоли** \ ( ![ Параметры консоли ][ImageSettingsButtonIcon] \).  
 
-:::image type="complex" source="../media/console-settings-group-similar-empty.msft.png" alt-text="Параметры консоли" lightbox="../media/console-settings-group-similar-empty.msft.png":::
+:::image type="complex" source="../media/console-settings-group-similar-empty.msft.png" alt-text="Панель консоли" lightbox="../media/console-settings-group-similar-empty.msft.png":::
    **Параметры консоли**  
 :::image-end:::  
 
@@ -100,7 +100,7 @@ ms.locfileid: "10993144"
 
 Нажмите кнопку **Показать боковую панель консоли** \ ( ![ Показать боковую панель консоли ][ImageShowConsoleSidebarIcon] ), чтобы отобразить боковую панель, которая удобна для фильтрации.  
 
-:::image type="complex" source="../media/console-sidebar-drawer-empty.msft.png" alt-text="Боковая панель консоли" lightbox="../media/console-sidebar-drawer-empty.msft.png":::
+:::image type="complex" source="../media/console-sidebar-drawer-empty.msft.png" alt-text="Панель консоли" lightbox="../media/console-sidebar-drawer-empty.msft.png":::
    **Console (консоль** ) Врезка  
 :::image-end:::  
 
@@ -116,7 +116,7 @@ ms.locfileid: "10993144"
 
 [Откройте параметры консоли](#open-console-settings) и включите в **журнал записи XMLHttpRequest** , чтобы регистрировать все `XMLHttpRequest` и `Fetch` запросы на консоли по мере их появления.  
 
-:::image type="complex" source="../media/console-xhr-fetch.msft.png" alt-text="Запись запросов на XMLHttpRequest и выборке" lightbox="../media/console-xhr-fetch.msft.png":::
+:::image type="complex" source="../media/console-xhr-fetch.msft.png" alt-text="Панель консоли" lightbox="../media/console-xhr-fetch.msft.png":::
    Журналы `XMLHttpRequest` и `Fetch` запросы  
 :::image-end:::  
 Верхнее сообщение на предыдущем рисунке показывает поведение группировки по умолчанию для **консоли**.  <!--  In the following figure, the same log is displayed after [disabling message grouping](#disable-message-grouping).  -->  
@@ -124,7 +124,7 @@ ms.locfileid: "10993144"
 <!--  
 > ##### Old Figure 9  
 > How the logged `XMLHttpRequest` and `Fetch` requests look after ungrouping  
-> :::image type="complex" source="../media/console-xhr-fetch-all.msft.png" alt-text="How the logged XMLHttpRequest and Fetch requests look after ungrouping" lightbox="../media/console-xhr-fetch-all.msft.png":::
+> :::image type="complex" source="../media/console-xhr-fetch-all.msft.png" alt-text="Панель консоли" lightbox="../media/console-xhr-fetch-all.msft.png":::
 >    How the logged XMLHttpRequest and Fetch requests look after ungrouping  
 > :::image-end:::  
 -->  
@@ -139,7 +139,7 @@ ms.locfileid: "10993144"
 
 По умолчанию браузер записывает сетевые сообщения на **консоль**.  На приведенном ниже рисунке выбранное сообщение представляет код состояния HTTP `429` .  
 
-:::image type="complex" source="../media/console-show-network.msft.png" alt-text="Сообщение 429 в консоли" lightbox="../media/console-show-network.msft.png":::
+:::image type="complex" source="../media/console-show-network.msft.png" alt-text="Панель консоли" lightbox="../media/console-show-network.msft.png":::
    `429`Сообщение на **консоли**  
 :::image-end:::  
 Чтобы скрыть сетевые сообщения, выполните указанные ниже действия.  
@@ -155,7 +155,7 @@ ms.locfileid: "10993144"
 
 [Откройте панель консоли](#open-the-console-sidebar) и выберите пункт **сообщения пользователя** , чтобы отображались только те сообщения, которые были получены на странице JavaScript.  
 
-:::image type="complex" source="../media/console-sidebar-drawer-user-messages.msft.png" alt-text="Просмотр сообщений пользователя" lightbox="../media/console-sidebar-drawer-user-messages.msft.png":::
+:::image type="complex" source="../media/console-sidebar-drawer-user-messages.msft.png" alt-text="Панель консоли" lightbox="../media/console-sidebar-drawer-user-messages.msft.png":::
    Просмотр сообщений пользователя  
 :::image-end:::  
 
@@ -165,13 +165,13 @@ DevTools назначает каждому `console.*` методу уровен
 
 Щелкните раскрывающийся список **уровни журнала** , чтобы включить или отключить `Verbose` , `Info` `Warning` или `Error` сообщения.  
 
-:::image type="complex" source="../media/console-log-level-default-levels.msft.png" alt-text="Раскрывающийся список уровней журнала" lightbox="../media/console-log-level-default-levels.msft.png":::
+:::image type="complex" source="../media/console-log-level-default-levels.msft.png" alt-text="Панель консоли" lightbox="../media/console-log-level-default-levels.msft.png":::
    Раскрывающийся список **уровней журнала**  
 :::image-end:::  
 
 Вы также можете отфильтровать по уровню журнала, [открыв боковую панель консоли](#open-the-console-sidebar) и выбрав пункт **ошибки**, **предупреждения**, **сведения**или **подробный**.  
 
-:::image type="complex" source="../media/console-sidebar-warnings.msft.png" alt-text="Использование боковой панели для просмотра предупреждений" lightbox="../media/console-sidebar-warnings.msft.png":::
+:::image type="complex" source="../media/console-sidebar-warnings.msft.png" alt-text="Панель консоли" lightbox="../media/console-sidebar-warnings.msft.png":::
    Использование боковой панели для просмотра предупреждений  
 :::image-end:::  
 
@@ -179,19 +179,19 @@ DevTools назначает каждому `console.*` методу уровен
 
 Введите и `url:` URL-адрес, чтобы просматривать только те сообщения, которые были отправлены из этого URL-адреса.  После ввода `url:` DevTools появятся все нужные URL-адреса.  Домены также работают.  Например, если `https://example.com/a.js` `https://example.com/b.js` сообщения записываются в журнал, `url:https://example.com` вы можете сосредоточиться на сообщениях из этих 2 сценариев.  
 
-:::image type="complex" source="../media/console-filter-text.msft.png" alt-text="Фильтр URL-адреса" lightbox="../media/console-filter-text.msft.png":::
+:::image type="complex" source="../media/console-filter-text.msft.png" alt-text="Панель консоли" lightbox="../media/console-filter-text.msft.png":::
    Фильтр URL-адреса  
 :::image-end:::  
 
 Введите текст `-url:` , чтобы скрыть сообщения от этого URL-адреса.  Это называется фильтром отрицательных URL-адресов.  
 
-:::image type="complex" source="../media/console-negative-filter-text.msft.png" alt-text="Фильтр отрицательных URL-адресов, в котором скрываются все сообщения, соответствующие https://b.wal.co URL-адресу." lightbox="../media/console-negative-filter-text.msft.png":::
+:::image type="complex" source="../media/console-negative-filter-text.msft.png" alt-text="Панель консоли" lightbox="../media/console-negative-filter-text.msft.png":::
    Фильтр отрицательных URL-адресов, в котором скрываются все сообщения, соответствующие `https://b.wal.co` URL-адресу.
 :::image-end:::  
 
 Вы также можете показывать сообщения с одного URL-адреса, [открыв боковую панель консоли](#open-the-console-sidebar), развернув раздел " **пользовательские сообщения** ", а затем щелкнув URL-адрес сценария, содержащего сообщения, на которые нужно обратить внимание.  
 
-:::image type="complex" source="../media/console-filter-text-specified.msft.png" alt-text="Просмотр сообщений, которые поставляются с wp-ad.min.js" lightbox="../media/console-filter-text-specified.msft.png":::
+:::image type="complex" source="../media/console-filter-text-specified.msft.png" alt-text="Панель консоли" lightbox="../media/console-filter-text-specified.msft.png":::
    Просмотр сообщений, которые были получены `wp-ad.min.js`  
 :::image-end:::  
 
@@ -203,7 +203,7 @@ DevTools назначает каждому `console.*` методу уровен
 
 Введите регулярное выражение, например `/[gm][ta][mi]/` в текстовое поле **Фильтр** , чтобы отфильтровать сообщения, которые не соответствуют этому шаблону.  DevTools проверяет, найден ли шаблон в тексте сообщения или сценарий, который привел к занесению в журнал сообщения.  
 
-:::image type="complex" source="../media/console-filter-regex.msft.png" alt-text="Фильтрация сообщений, не соответствующих выражению Regex" lightbox="../media/console-filter-regex.msft.png":::
+:::image type="complex" source="../media/console-filter-regex.msft.png" alt-text="Панель консоли" lightbox="../media/console-filter-regex.msft.png":::
    Фильтрация сообщений, не соответствующих `/[gm][ta][mi]/` выражению регулярного выражения  
 :::image-end:::  
 
@@ -230,7 +230,7 @@ DevTools назначает каждому `console.*` методу уровен
 > [!NOTE]
 > На приведенном ниже рисунке, `document.querySelector('a')` а `document.querySelector('img')` также выражения, которые были оценены ранее.  
 
-:::image type="complex" source="../media/console-filter-text-autofilter-history.msft.png" alt-text="В всплывающем окне "Автозаполнение" отображаются выражения из истории" lightbox="../media/console-filter-text-autofilter-history.msft.png":::
+:::image type="complex" source="../media/console-filter-text-autofilter-history.msft.png" alt-text="Панель консоли" lightbox="../media/console-filter-text-autofilter-history.msft.png":::
    В всплывающем окне "Автозаполнение" отображаются выражения из истории  
 :::image-end:::  
 
@@ -238,13 +238,13 @@ DevTools назначает каждому `console.*` методу уровен
 
 По умолчанию раскрывающийся список **контекстов JavaScript** имеет значение **Top**, которое представляет [контекст просмотра][MDNBrowsingContext] основного документа.  
 
-:::image type="complex" source="../media/console-dom-level-top.msft.png" alt-text="Раскрывающийся список контекстов JavaScript" lightbox="../media/console-dom-level-top.msft.png":::
+:::image type="complex" source="../media/console-dom-level-top.msft.png" alt-text="Панель консоли" lightbox="../media/console-dom-level-top.msft.png":::
    Раскрывающийся список **контекстов JavaScript**  
 :::image-end:::  
 
 Предположим, что у вас есть реклама на странице, внедренная в `<iframe>` .  Вы хотите запустить JavaScript, чтобы настроить модель DOM рекламы.  Сначала необходимо выбрать контекст обзора рекламы из раскрывающегося списка **контекстов JavaScript** .  
 
-:::image type="complex" source="../media/console-dom-level-multiple.msft.png" alt-text="Выбор другого контекста JavaScript" lightbox="../media/console-dom-level-multiple.msft.png":::
+:::image type="complex" source="../media/console-dom-level-multiple.msft.png" alt-text="Панель консоли" lightbox="../media/console-dom-level-multiple.msft.png":::
    Выбор другого контекста JavaScript  
 :::image-end:::  
 

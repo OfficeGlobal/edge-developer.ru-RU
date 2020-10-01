@@ -53,7 +53,7 @@ Microsoft Edge DevTools теперь отображается в режиме в
 
 Из вашего [отзыва](#getting-in-touch-with-microsoft-edge-devtools-team) и средства [отслеживания общедоступных проблем Chromium][CRIssuesList]в Microsoft Edge DevTools была рассказано о том, что вы решили настроить сочетания клавиш в DevTools.  В Microsoft Edge 84 теперь вы можете сопоставить сочетания клавиш в DevTools с [кодом Visual Studio][VSCode], который является только одной из функций, над которыми работает команда для настройки ярлыков.  
 
-:::image type="complex" source="../../media/2020/05/keyboard-shortcut.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/05/keyboard-shortcut.msft.png":::
+:::image type="complex" source="../../media/2020/05/keyboard-shortcut.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/keyboard-shortcut.msft.png":::
    Microsoft Edge DevTools в режиме высокой контрастности  
 :::image-end:::  
 
@@ -73,13 +73,13 @@ Microsoft Edge DevTools теперь отображается в режиме в
 
 С помощью [эмулятора Surface Duo][DualScreensAndroidEmulator]вы можете протестировать отображение веб-содержимого в новом классе складная и на устройствах с двумя экранами.  Эмулятор запускает операционную систему Android и предоставляет [приложение Microsoft Edge Android][AndroidEdge].  Загрузи веб-содержимое в [приложении Microsoft Edge][AndroidEdge] и отлаживать его с помощью [Microsoft Edge DevTools][DevToolsChromiumGuide].  
 
-:::image type="complex" source="../../media/2020/05/surface-duo-emulator.msft.png" alt-text="Приложение Microsoft EDGE, запущенное в эмуляторе Duo Surface" lightbox="../../media/2020/05/surface-duo-emulator.msft.png":::
+:::image type="complex" source="../../media/2020/05/surface-duo-emulator.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/surface-duo-emulator.msft.png":::
    Приложение Microsoft EDGE на эмуляторе Duo Surface  
 :::image-end:::  
 
 `edge://inspect`Страница в экземпляре [Microsoft Edge][DesktopEdge] на рабочем столе показывает **SurfaceDuoEmulator** со списком открытых вкладок или [PWAs][PwaIndex] , которые выполняются в [эмуляторе Duo Surface][DualScreensAndroidEmulator].  
 
-:::image type="complex" source="../../media/2020/05/edge-inspect.msft.png" alt-text="На странице edge://inspect отображается список вкладок в приложении Microsoft EDGE, работающем в эмуляторе." lightbox="../../media/2020/05/edge-inspect.msft.png":::
+:::image type="complex" source="../../media/2020/05/edge-inspect.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/edge-inspect.msft.png":::
    На `edge://inspect` странице отображается список вкладок в приложении Microsoft EDGE, работающем в эмуляторе.
 :::image-end:::  
 
@@ -89,7 +89,7 @@ Microsoft Edge DevTools теперь отображается в режиме в
 
 В Microsoft Edge 83 или более ранней версии вы смогли изменить размер [DevToolsого ящика][DevToolsDrawer] , наведя указатель мыши на панель инструментов ящика.  Денежный ящик ведет себя иначе, чем другие элементы управления изменением размера для областей в DevTools, где вы наводите указатель мыши на границу области, чтобы изменить ее размер.  Чтобы узнать, как изменить размер ящика, который работал в версии 83 или более ранней версии Microsoft EDGE, выберите приведенный ниже рисунок.  
 
-:::image type="complex" source="../../media/2020/05/drawer-83.msft.png" alt-text="Изменение размера DevTools денежных средств в Microsoft Edge 83" lightbox="../../media/2020/05/drawer-83.msft.gif":::
+:::image type="complex" source="../../media/2020/05/drawer-83.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/drawer-83.msft.gif":::
    Изменение размера DevTools денежных средств в Microsoft Edge 83
 :::image-end:::  
 
@@ -97,7 +97,7 @@ Microsoft Edge DevTools теперь отображается в режиме в
 
 Начиная с Microsoft Edge 84, вы можете изменить размер денежного ящика, наведя указатель мыши на границу денежного ящика.  Это изменение выровнять поведение, изменяя размер DevToolsого ящика с учетом того, как вы измените размеры других областей в DevTools.  Чтобы изменить размер в действии в Microsoft Edge 84, выберите приведенный ниже рисунок.  
 
-:::image type="complex" source="../../media/2020/05/drawer-84.msft.png" alt-text="Изменение размера DevTools денежных средств в Microsoft Edge 84" lightbox="../../media/2020/05/drawer-84.msft.gif":::
+:::image type="complex" source="../../media/2020/05/drawer-84.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/drawer-84.msft.gif":::
    Изменение размера DevTools денежных средств в Microsoft Edge 84
 :::image-end:::  
 
@@ -109,7 +109,7 @@ Microsoft Edge DevTools теперь отображается в режиме в
 
 При удаленной отладке [устройства с Android][DevToolsRemoteDebugAndroid], [устройства с Windows 10][DevToolsRemoteDebugWindows]или [эмулятора Surface Duo][DevToolsRemoteDebugDuoEmulator]вы можете переключаться между экранной презентацией с помощью ![ значка "Показать презентацию" ][ImageScreencastingIcon] в левом верхнем углу окна DevTools.  При включенной презентации вы можете перемещаться по вкладке в Microsoft EDGE на удаленном устройстве из окна DevTools.  В Microsoft Edge 84 эти кнопки навигации теперь также доступны для клавиатуры.  
 
-:::image type="complex" source="../../media/2020/05/screencasting-nav.msft.png" alt-text="Нажатие клавиш SHIFT + TAB на панели экранных URL-адресов показывает, что кнопка "Обновить" находится в фокусе" lightbox="../../media/2020/05/screencasting-nav.msft.png":::
+:::image type="complex" source="../../media/2020/05/screencasting-nav.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/screencasting-nav.msft.png":::
    При нажатии на `Shift` + `Tab` отрезке экранного URL-адреса появляется фокус на кнопке " **Обновить** "
 :::image-end:::  
 
@@ -119,7 +119,7 @@ Microsoft Edge DevTools теперь отображается в режиме в
 
 В Microsoft Edge 84 [область сведений][DevToolsNetworkDetails] на панели " **сеть** " теперь получает фокус при открытии ресурса в [сетевом журнале][DevToolsNetworkLog].  Это изменение позволяет средствам чтения с экрана читать и взаимодействовать с содержимым области **сведений** .  
 
-:::image type="complex" source="../../media/2020/05/network-details.msft.png" alt-text="При открытии области сведений на панели "сеть" выводится фокус" lightbox="../../media/2020/05/network-details.msft.png":::
+:::image type="complex" source="../../media/2020/05/network-details.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/network-details.msft.png":::
    При открытии области **сведений** на панели " **сеть** " выводится фокус
 :::image-end:::  
 
@@ -135,7 +135,7 @@ Microsoft Edge DevTools теперь отображается в режиме в
 
 Чтобы приступить к работе, ознакомьтесь со статьей [Поиск и устранение проблем с помощью средства Microsoft Edge DevToolss][DevtoolsIssuesIndex].  
 
-:::image type="complex" source="../../media/2020/05/issues.msft.png" alt-text="Инструмент "проблемы" в DevTools ящике" lightbox="../../media/2020/05/issues.msft.png":::
+:::image type="complex" source="../../media/2020/05/issues.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/issues.msft.png":::
    Инструмент " **проблемы** " в DevTools ящике  
 :::image-end:::  
 
@@ -149,7 +149,7 @@ Microsoft Edge DevTools теперь отображается в режиме в
 <!--todo:  add link name and role (WebdevLabelsText) when section is live  -->  
 <!--todo:  add link keyboard-focusable (WebdevControlFocus) when section is live  -->  
 
-:::image type="complex" source="../../media/2020/05/a11y.msft.png" alt-text="Всплывающая подсказка режима проверки с информацией о специальных возможностях" lightbox="../../media/2020/05/a11y.msft.png":::
+:::image type="complex" source="../../media/2020/05/a11y.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/a11y.msft.png":::
   Всплывающая подсказка **режима проверки** с информацией о специальных возможностях  
 :::image-end:::  
 
@@ -171,7 +171,7 @@ Microsoft Edge DevTools теперь отображается в режиме в
 
 Если вы видите `Total Blocking Time: Unavailable` , Microsoft Edge DevTools не получил нужные сведения из внутренних данных профилирования в Microsoft Edge.  
 
-:::image type="complex" source="../../media/2020/05/tbt.msft.png" alt-text="Общие сведения о времени блокировки в нижнем колонтитуле записи панели "производительность"" lightbox="../../media/2020/05/tbt.msft.png":::
+:::image type="complex" source="../../media/2020/05/tbt.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/tbt.msft.png":::
    Общие сведения о времени блокировки в нижнем колонтитуле записи панели " **производительность** "  
 :::image-end:::  
 
@@ -186,7 +186,7 @@ Microsoft Edge DevTools теперь отображается в режиме в
 
 Выберите событие **сдвиг макета** , чтобы просмотреть сведения о смене макета в области **Сводка** .  Наведите указатель мыши на поле **переместить из** и **переместили в** поля, чтобы увидеть, где произошел сдвиг макета.  
 
-:::image type="complex" source="../../media/2020/05/cls.msft.png" alt-text="Сведения о смене макета" lightbox="../../media/2020/05/cls.msft.png":::
+:::image type="complex" source="../../media/2020/05/cls.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/cls.msft.png":::
    Сведения о смене макета  
 :::image-end:::  
 
@@ -194,13 +194,13 @@ Microsoft Edge DevTools теперь отображается в режиме в
 
 При входе в систему `Promise` **консоль** неправильно предоставила `PromiseStatus` значение, равное `resolved` .  
 
-:::image type="complex" source="../../media/2020/05/resolved.msft.png" alt-text="Пример консоли, использующей старую распознанную терминологию" lightbox="../../media/2020/05/resolved.msft.png":::
+:::image type="complex" source="../../media/2020/05/resolved.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/resolved.msft.png":::
    Пример **консоли** с помощью старой `resolved` терминологии  
 :::image-end:::  
 
 Теперь **консоль** использует термин, который выводится `fulfilled` в соответствии со `Promise` спецификацией.  Дополнительные сведения о `Promise` спецификации можно найти в статьях [состояния и Fates на GitHub](https://github.com/domenic/promises-unwrapping/blob/master/docs/states-and-fates.md).  
 
-:::image type="complex" source="../../media/2020/05/fulfilled.msft.png" alt-text="Пример консоли, в которой используется новая терминология" lightbox="../../media/2020/05/fulfilled.msft.png":::
+:::image type="complex" source="../../media/2020/05/fulfilled.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/fulfilled.msft.png":::
   Пример **консоли** , в которой используется новая `fulfilled` терминология  
 :::image-end:::  
 
@@ -212,7 +212,7 @@ Microsoft Edge DevTools теперь отображается в режиме в
 
 Пользовательский интерфейс "Автозаполнение" области " **стили** " теперь определяет ключевое слово " [вернуть][MDNRevert] CSS", которое возвращает каскадное значение свойства к предыдущему значению, примененному к стилю элемента.  
 
-:::image type="complex" source="../../media/2020/05/revert.msft.png" alt-text="Установка значения свойства "вернуть"" lightbox="../../media/2020/05/revert.msft.png":::
+:::image type="complex" source="../../media/2020/05/revert.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/revert.msft.png":::
   Установка значения свойства "вернуть"  
 :::image-end:::  
 
@@ -222,7 +222,7 @@ Microsoft Edge DevTools теперь отображается в режиме в
 
 Наведите указатель мыши на `background-image` значение в области **стили** , чтобы просмотреть изображение во всплывающей подсказке.  
 
-:::image type="complex" source="../../media/2020/05/image-preview.msft.png" alt-text="Наведение указателя мыши на значение фонового изображения" lightbox="../../media/2020/05/image-preview.msft.png":::
+:::image type="complex" source="../../media/2020/05/image-preview.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/image-preview.msft.png":::
   Наведение указателя мыши на `background-image` значение  
 :::image-end:::  
 
@@ -234,7 +234,7 @@ Microsoft Edge DevTools теперь отображается в режиме в
 
 При выборе цветов с помощью [палитры][DevtoolsCssReferenceColorPicker] цветов или переключения между цветовыми представлениями в области **стили** при нажатии `Shift` и выделении `background-color` значения должен отобразиться синтаксис аргументов, разделенных пробелами.  
 
-:::image type="complex" source="../../media/2020/05/color.msft.png" alt-text="Использование аргументов, разделенных пробелами, в области "стили"" lightbox="../../media/2020/05/color.msft.png":::
+:::image type="complex" source="../../media/2020/05/color.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/color.msft.png":::
   Использование аргументов, разделенных пробелами, в области " **стили** "  
 :::image-end:::  
 
@@ -250,7 +250,7 @@ Microsoft Edge DevTools использует новый синтаксис, та
 
 Область " **Свойства** " на панели " **элементы** " устарела.  Запустите `console.dir($0)` на **консоли** .  
 
-:::image type="complex" source="../../media/2020/05/properties.msft.png" alt-text="Область "устаревшие свойства"" lightbox="../../media/2020/05/properties.msft.png":::
+:::image type="complex" source="../../media/2020/05/properties.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/properties.msft.png":::
    Область "устаревшие **Свойства** "  
 :::image-end:::  
 
@@ -267,7 +267,7 @@ Microsoft Edge DevTools использует новый синтаксис, та
 
 <!--todo:  add link Get things done quickly with app shortcuts (WebdevAppShortcuts) when section is live -->  
 
-:::image type="complex" source="../../media/2020/05/app-shortcuts.msft.png" alt-text="Ярлыки приложений в области манифеста" lightbox="../../media/2020/05/app-shortcuts.msft.png":::
+:::image type="complex" source="../../media/2020/05/app-shortcuts.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/app-shortcuts.msft.png":::
   Ярлыки приложений в области **манифеста**  
 :::image-end:::  
 

@@ -51,7 +51,7 @@ ms.locfileid: "10986082"
 
 ### Элементы управления на экране  
 
-:::image type="complex" source="../media/controls-small.png" alt-text="Элементы управления на экране" lightbox="../media/controls-small.png":::
+:::image type="complex" source="../media/controls-small.png" alt-text="Холст трехмерного представления" lightbox="../media/controls-small.png":::
    Элементы управления на экране  
 :::image-end:::  
 
@@ -60,7 +60,7 @@ ms.locfileid: "10986082"
 
 ## Z-индекс  
 
-:::image type="complex" source="../media/z-index-view-box.png" alt-text="Представление "Z-индекс"" lightbox="../media/z-index-view-box.png":::
+:::image type="complex" source="../media/z-index-view-box.png" alt-text="Холст трехмерного представления" lightbox="../media/z-index-view-box.png":::
    Представление "Z-индекс"  
 :::image-end:::  
 
@@ -94,7 +94,7 @@ ms.locfileid: "10986082"
 
 ## ТРЕХМЕРНАЯ МОДЕЛЬ DOM  
 
-:::image type="complex" source="../media/dom-purple-box.png" alt-text="Представление DOM" lightbox="../media/dom-purple-box.png":::
+:::image type="complex" source="../media/dom-purple-box.png" alt-text="Холст трехмерного представления" lightbox="../media/dom-purple-box.png":::
    Представление DOM  
 :::image-end:::  
 

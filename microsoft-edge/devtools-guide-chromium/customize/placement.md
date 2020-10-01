@@ -40,24 +40,24 @@ ms.locfileid: "10993011"
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/customize-elements-styles-right-docked.msft.png" alt-text="Нажмите кнопку "закрепить на левой панели"" lightbox="../media/customize-elements-styles-right-docked.msft.png":::
+      :::image type="complex" source="../media/customize-elements-styles-right-docked.msft.png" alt-text="Нажмите кнопку &quot;закрепить на левой панели&quot;" lightbox="../media/customize-elements-styles-right-docked.msft.png":::
          Выбор `Dock To Left`  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
-      :::image type="complex" source="../media/customize-elements-styles-bottom-docked.msft.png" alt-text="Выберите пункт закрепить в нижней части экрана" lightbox="../media/customize-elements-styles-bottom-docked.msft.png":::
+      :::image type="complex" source="../media/customize-elements-styles-bottom-docked.msft.png" alt-text="Нажмите кнопку &quot;закрепить на левой панели&quot;" lightbox="../media/customize-elements-styles-bottom-docked.msft.png":::
          Выбор `Dock To Bottom`  
       :::image-end:::  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/customize-elements-styles-options-dock-side-highlight-browser.msft.png" alt-text="Браузер в отдельном окне" lightbox="../media/customize-elements-styles-options-dock-side-highlight-browser.msft.png":::
+      :::image type="complex" source="../media/customize-elements-styles-options-dock-side-highlight-browser.msft.png" alt-text="Нажмите кнопку &quot;закрепить на левой панели&quot;" lightbox="../media/customize-elements-styles-options-dock-side-highlight-browser.msft.png":::
          Браузер в отдельном окне  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
-      :::image type="complex" source="../media/customize-elements-styles-options-dock-side-highlight-devtools.msft.png" alt-text="Незакрепленные DevTools в отдельном окне" lightbox="../media/customize-elements-styles-options-dock-side-highlight-devtools.msft.png":::
+      :::image type="complex" source="../media/customize-elements-styles-options-dock-side-highlight-devtools.msft.png" alt-text="Нажмите кнопку &quot;закрепить на левой панели&quot;" lightbox="../media/customize-elements-styles-options-dock-side-highlight-devtools.msft.png":::
          Незакрепленные DevTools в отдельном окне  
       :::image-end:::  
    :::column-end:::
@@ -67,7 +67,7 @@ ms.locfileid: "10993011"
 
 1.  Нажмите кнопку **настроить DevTools** \ ( `...` \) и выберите пункт **открепить в отдельном окне** \ (открепить к концу ![ ][ImageUndockIcon] ), **прикрепить к концу** \ ( ![ закрепить к низу) ][ImageBottomIcon] или **Закрепить слева** ( ![ ][ImageLeftIcon] Закрепить слева направо).  
     
-    :::image type="complex" source="../media/customize-elements-styles-options-dock-side-highlight.msft.png" alt-text="Выберите пункт открепить в отдельном окне" lightbox="../media/customize-elements-styles-options-dock-side-highlight.msft.png":::
+    :::image type="complex" source="../media/customize-elements-styles-options-dock-side-highlight.msft.png" alt-text="Нажмите кнопку &quot;закрепить на левой панели&quot;" lightbox="../media/customize-elements-styles-options-dock-side-highlight.msft.png":::
        Выберите пункт **открепить в отдельном окне**  
     :::image-end:::  
     
@@ -76,7 +76,7 @@ ms.locfileid: "10993011"
 1.  [Открытие меню команд][DevtoolsCommandMenu].  
 1.  Выполните одну из указанных ниже `Dock To Bottom` команд. `Undock Into Separate Window`  В настоящее время нет команды для закрепления слева, но вы можете получить доступ к ней из [главного меню](#change-placement-from-the-main-menu).  
     
-    :::image type="complex" source="../media/customize-elements-styles-command-menu-undo.msft.png" alt-text="Команда "отменить закрепление"" lightbox="../media/customize-elements-styles-command-menu-undo.msft.png":::
+    :::image type="complex" source="../media/customize-elements-styles-command-menu-undo.msft.png" alt-text="Нажмите кнопку &quot;закрепить на левой панели&quot;" lightbox="../media/customize-elements-styles-command-menu-undo.msft.png":::
        Команда "отменить закрепление"  
     :::image-end:::  
     

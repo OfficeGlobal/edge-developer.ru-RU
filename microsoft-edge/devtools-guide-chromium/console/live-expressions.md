@@ -43,7 +43,7 @@ ms.locfileid: "10993116"
 1.  [Открытие консоли][DevToolsConsoleReferenceOpenConsole].  
 1.  Щелкните **создать выражение в реальном времени** \ ( ![ создать выражение в реальном времени ][ImageCreateLiveExpressionIcon] ).  Появится текстовое поле " **выражение в реальном времени** ".  
     
-    :::image type="complex" source="../media/console-create-live-expression.msft.png" alt-text="Ввод данных Document. activeElement в текстовое поле "Интерактивное выражение"" lightbox="../media/console-create-live-expression.msft.png":::
+    :::image type="complex" source="../media/console-create-live-expression.msft.png" alt-text="Ввод данных Document. activeElement в текстовое поле &quot;Интерактивное выражение&quot;" lightbox="../media/console-create-live-expression.msft.png":::
        Ввод `document.activeElement` текста в текстовое поле " **интерактивное выражение** "  
     :::image-end:::  
     

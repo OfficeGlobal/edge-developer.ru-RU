@@ -63,26 +63,26 @@ ms.locfileid: "10993284"
 
 1.  Откройте [Исходный код][GlitchAlluringShockIndex].  Эта вкладка будет называться **вкладкой "редактор"** в рамках этого учебника.  
     
-    :::image type="complex" source="../media/beginners-html-setup1.msft.png" alt-text="Вкладка "редактор"" lightbox="../media/beginners-html-setup1.msft.png":::
+    :::image type="complex" source="../media/beginners-html-setup1.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-setup1.msft.png":::
        Вкладка "редактор"  
     :::image-end:::  
     
 1.  Щелкните **alluring-удар**.  В левом верхнем углу откроется меню "Параметры проекта".  
     
-    :::image type="complex" source="../media/beginners-html-setup2.msft.png" alt-text="Меню "Параметры проекта"" lightbox="../media/beginners-html-setup2.msft.png":::
+    :::image type="complex" source="../media/beginners-html-setup2.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-setup2.msft.png":::
        Меню "Параметры проекта"  
     :::image-end:::  
     
 1.  Щелкните **Remix Project (проект**).  При возникновении недостаточной версии создается копия проекта, которую можно редактировать и случайным образом создает новое имя для проекта.  Содержимое будет таким же, как и раньше.  
     
-    :::image type="complex" source="../media/beginners-html-setup3.msft.png" alt-text="Смешанный проект" lightbox="../media/beginners-html-setup3.msft.png":::
+    :::image type="complex" source="../media/beginners-html-setup3.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-setup3.msft.png":::
        Смешанный проект  
     :::image-end:::  
     
 1.  Если вы планируете выполнить следующий учебник в этой серии, нажмите **Вход** и войдите в систему, чтобы завершить работу с учетной записью GitHub или Facebook.  Если вы не входите в свою учетную запись, то после закрытия вкладки Правка вы потеряли возможность изменить этот проект.  
 1.  Нажмите кнопку **Показать** и выберите **в новом окне**.  Откроется новая вкладка, на которой отображается активная страница.  Эта вкладка будет называться на **вкладке динамический** в рамках этого учебника.  
     
-    :::image type="complex" source="../media/beginners-html-setup4.msft.png" alt-text="Вкладка "динамический"" lightbox="../media/beginners-html-setup4.msft.png":::
+    :::image type="complex" source="../media/beginners-html-setup4.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-setup4.msft.png":::
        Вкладка "динамический"  
     :::image-end:::  
     
@@ -108,7 +108,7 @@ ms.locfileid: "10993284"
           ```  
        :::column-end:::
        :::column span="":::
-          :::image type="complex" source="../media/beginners-html-add1.msft.png" alt-text="На вкладке "редактор" выделена новая программа" lightbox="../media/beginners-html-add1.msft.png":::
+          :::image type="complex" source="../media/beginners-html-add1.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-add1.msft.png":::
              На вкладке "редактор" выделена новая программа  
           :::image-end:::  
        :::column-end:::
@@ -116,7 +116,7 @@ ms.locfileid: "10993284"
     
 1.  Просмотрите изменения на **вкладке "живые"**.  Текст `About Me` будет отображаться на странице.  Он больше, чем оставшаяся часть текста, так как `<h1>` элемент представляет заголовок раздела.  В веб-браузере стили заголовков автоматически заменяются на более крупные размеры шрифта.  
     
-    :::image type="complex" source="../media/beginners-html-add2.msft.png" alt-text="Новый заголовок отображается на вкладке "живые"" lightbox="../media/beginners-html-add2.msft.png":::
+    :::image type="complex" source="../media/beginners-html-add2.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-add2.msft.png":::
        Новый заголовок отображается на вкладке "живые"  
     :::image-end:::  
     
@@ -139,7 +139,7 @@ ms.locfileid: "10993284"
           ```  
        :::column-end:::
        :::column span="":::
-          :::image type="complex" source="../media/beginners-html-add3.msft.png" alt-text="На вкладке "редактор" выделена новая программа" lightbox="../media/beginners-html-add3.msft.png":::
+          :::image type="complex" source="../media/beginners-html-add3.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-add3.msft.png":::
              На вкладке "редактор" выделена новая программа  
           :::image-end:::  
        :::column-end:::
@@ -167,7 +167,7 @@ ms.locfileid: "10993284"
           ```  
        :::column-end:::
        :::column span="":::
-          :::image type="complex" source="../media/beginners-html-add4.msft.png" alt-text="На вкладке "редактор" выделена новая программа" lightbox="../media/beginners-html-add4.msft.png":::
+          :::image type="complex" source="../media/beginners-html-add4.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-add4.msft.png":::
              На вкладке "редактор" выделена новая программа  
           :::image-end:::  
        :::column-end:::
@@ -175,7 +175,7 @@ ms.locfileid: "10993284"
     
 1.  Опять же, вернитесь на **вкладку динамический** , чтобы убедиться, что новое содержимое отображается правильно.  
     
-    :::image type="complex" source="../media/beginners-html-add5.msft.png" alt-text="Новый список отображается на вкладке "живые"" lightbox="../media/beginners-html-add5.msft.png":::
+    :::image type="complex" source="../media/beginners-html-add5.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-add5.msft.png":::
        Новый список отображается на вкладке "живые"  
     :::image-end:::  
     
@@ -189,25 +189,25 @@ ms.locfileid: "10993284"
 
 1.  Перейдите на **вкладку динамический**.  В нижней части страницы отображается текст `A new element!?!` .  
     
-    :::image type="complex" source="../media/beginners-html-dom1.msft.png" alt-text="В нижней части страницы текст — это новый элемент!?! может отображаться" lightbox="../media/beginners-html-dom1.msft.png":::
+    :::image type="complex" source="../media/beginners-html-dom1.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-dom1.msft.png":::
        В нижней части страницы текст — это новый элемент!?! может отображаться  
     :::image-end:::  
     
 1.  Вернитесь на **вкладку Редактор** и попробуйте найти этот текст в `index.html` .  Это не так!  
     
-    :::image type="complex" source="../media/beginners-html-dom2.msft.png" alt-text="Текст "Загадка" — новый элемент!?! не удается найти в index.html" lightbox="../media/beginners-html-dom2.msft.png":::
+    :::image type="complex" source="../media/beginners-html-dom2.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-dom2.msft.png":::
        Текст загадкы `A new element!?!` не удается найти в `index.html`  
     :::image-end:::  
     
 1.  Вернитесь на **вкладку динамический**, щелкните правой кнопкой мыши `A new element!?!` и выберите команду **проверить**.  
     
-    :::image type="complex" source="../media/beginners-html-dom3.msft.png" alt-text="Проверка текста" lightbox="../media/beginners-html-dom3.msft.png":::
+    :::image type="complex" source="../media/beginners-html-dom3.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-dom3.msft.png":::
        Проверка текста  
     :::image-end:::  
     
     DevTools открывается вместе со страницей.  `<div>A new element!?!</div>` выделяется синим цветом.  Несмотря на то, что структура в DevTools выглядит так же, как и у вашего HTML-кода, она действительно является **деревом DOM**.  
     
-    :::image type="complex" source="../media/beginners-html-dom4.msft.png" alt-text="DevTools открывается вместе со страницей" lightbox="../media/beginners-html-dom4.msft.png":::
+    :::image type="complex" source="../media/beginners-html-dom4.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-dom4.msft.png":::
        DevTools открывается вместе со страницей  
     :::image-end:::  
     
@@ -219,7 +219,7 @@ ms.locfileid: "10993284"
 
 1.  В DevTools щелкните правой кнопкой мыши `Your site!` и выберите команду **изменить в HTML**.  
     
-    :::image type="complex" source="../media/beginners-html-edit1.msft.png" alt-text="Редактирование узла в формате HTML" lightbox="../media/beginners-html-edit1.msft.png":::
+    :::image type="complex" source="../media/beginners-html-edit1.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-edit1.msft.png":::
        Редактирование узла в формате HTML  
     :::image-end:::  
     
@@ -241,7 +241,7 @@ ms.locfileid: "10993284"
           ```  
        :::column-end:::
        :::column span="":::
-          :::image type="complex" source="../media/beginners-html-edit2.msft.png" alt-text="Редактирование узла в формате HTML" lightbox="../media/beginners-html-edit2.msft.png":::
+          :::image type="complex" source="../media/beginners-html-edit2.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-edit2.msft.png":::
              Редактирование узла в формате HTML  
           :::image-end:::  
        :::column-end:::
@@ -249,7 +249,7 @@ ms.locfileid: "10993284"
     
 1.  Нажмите клавиши `Control` + `Enter` \ (Windows \) или `Command` + `Enter` \ (macOS \), чтобы сохранить изменения, или щелкните любое место за пределами поля.  Изменения автоматически отображаются в режиме реального времени на странице.  Текст `Your site!` заменен новым содержимым.  
     
-    :::image type="complex" source="../media/beginners-html-edit3.msft.png" alt-text="Новое содержимое немедленно появляется на странице" lightbox="../media/beginners-html-edit3.msft.png":::
+    :::image type="complex" source="../media/beginners-html-edit3.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-edit3.msft.png":::
        Новое содержимое немедленно появляется на странице  
     :::image-end:::  
     
@@ -261,7 +261,7 @@ ms.locfileid: "10993284"
 
 1.  Найдите `<nav>` узел в **дереве DOM** DevTools.  
     
-    :::image type="complex" source="../media/beginners-html-reorder1.msft.png" alt-text="Узел навигации выделяется синим цветом в DevTools" lightbox="../media/beginners-html-reorder1.msft.png":::
+    :::image type="complex" source="../media/beginners-html-reorder1.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-reorder1.msft.png":::
        Узел навигации выделяется синим цветом в DevTools  
     :::image-end:::  
     
@@ -269,14 +269,14 @@ ms.locfileid: "10993284"
     
     :::row:::
        :::column span="":::
-          :::image type="complex" source="../media/beginners-html-reorder2.msft.png" alt-text="Перетаскивание узла навигации в начало" lightbox="../media/beginners-html-reorder2.msft.png":::
+          :::image type="complex" source="../media/beginners-html-reorder2.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-reorder2.msft.png":::
              Перетаскивание узла навигации в начало  
           :::image-end:::  
        :::column-end:::
        :::column span="":::
           `<nav>`Теперь узел отображается в верхней части страницы.  
           
-          :::image type="complex" source="../media/beginners-html-reorder3.msft.png" alt-text="Узел навигации находится в верхней части страницы" lightbox="../media/beginners-html-reorder3.msft.png":::
+          :::image type="complex" source="../media/beginners-html-reorder3.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-reorder3.msft.png":::
              Узел навигации находится в верхней части страницы  
           :::image-end:::  
        :::column-end:::
@@ -288,13 +288,13 @@ ms.locfileid: "10993284"
 
 1.  В **дереве DOM**щелкните `<div>A new element!?!</div>` .  DevTools выделяет узел синим цветом.  
     
-    :::image type="complex" source="../media/beginners-html-delete1.msft.png" alt-text="Выбор узла для удаления" lightbox="../media/beginners-html-delete1.msft.png":::
+    :::image type="complex" source="../media/beginners-html-delete1.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-delete1.msft.png":::
        Выбор узла для удаления  
     :::image-end:::  
     
 1.  Нажмите клавишу `Delete` на клавиатуре.  `<div>A new element!?!</div>`Узел удаляется из дерева DOM.  
     
-    :::image type="complex" source="../media/beginners-html-delete2.msft.png" alt-text="Узел удален" lightbox="../media/beginners-html-delete2.msft.png":::
+    :::image type="complex" source="../media/beginners-html-delete2.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-delete2.msft.png":::
        Узел удален  
     :::image-end:::  
     
@@ -304,7 +304,7 @@ ms.locfileid: "10993284"
 
 1.  Обновите **вкладку Live**.  Изменения, внесенные в дереве DOM, исчезнут.  В частности, текст `Your site!` возвращается в верхней части страницы, а текст `A new element!?!` возвращается в нижнюю часть.  
     
-    :::image type="complex" source="../media/beginners-html-copy1.msft.png" alt-text="Внесенные вами изменения исчезли" lightbox="../media/beginners-html-copy1.msft.png":::
+    :::image type="complex" source="../media/beginners-html-copy1.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-copy1.msft.png":::
        Внесенные вами изменения исчезли  
     :::image-end:::  
     
@@ -344,7 +344,7 @@ ms.locfileid: "10993284"
     
 1.  Вернитесь на **вкладку Редактор** и замените содержимое `index.html` файла кодом, который вы только что скопировали.  
     
-    :::image type="complex" source="../media/beginners-html-copy2.msft.png" alt-text="Как должен выглядеть файл index.html" lightbox="../media/beginners-html-copy2.msft.png":::
+    :::image type="complex" source="../media/beginners-html-copy2.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-copy2.msft.png":::
        Как `index.html` должен выглядеть файл  
     :::image-end:::  
     

@@ -48,19 +48,19 @@ ms.locfileid: "10993550"
     
 1.  Разверните меню **хранилище сеанса** .  
     
-    :::image type="complex" source="../media/storage-application-storage-session-storage.msft.png" alt-text="Меню «хранилище сеанса»" lightbox="../media/storage-application-storage-session-storage.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-session-storage.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-session-storage.msft.png":::
        Меню « **хранилище сеанса** »  
     :::image-end:::  
     
 1.  Выберите домен, чтобы просмотреть пары "ключ-значение".  
     
-    :::image type="complex" source="../media/storage-application-storage-session-storage-domain.msft.png" alt-text="Пары "sessionStorage" "ключ-значение"" lightbox="../media/storage-application-storage-session-storage-domain.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-session-storage-domain.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-session-storage-domain.msft.png":::
        `sessionStorage`Пары "ключ-значение"  
     :::image-end:::  
     
 1.  Выделите строку таблицы, чтобы просмотреть ее значение в представлении под таблицей.  
     
-    :::image type="complex" source="../media/storage-application-storage-session-storage-domain-key-value-selected.msft.png" alt-text="Просмотр значения ключа x-SID" lightbox="../media/storage-application-storage-session-storage-domain-key-value-selected.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-session-storage-domain-key-value-selected.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-session-storage-domain-key-value-selected.msft.png":::
        Просмотр значения `x-sid` ключа  
     :::image-end:::  
     
@@ -69,7 +69,7 @@ ms.locfileid: "10993550"
 1.  [Просмотр `sessionStorage` пар "ключ-значение" домена](#view-sessionstorage-keys-and-values).  
 1.  Дважды щелкните пустую часть таблицы.  DevTools создает новую строку и нафокусирует указатель мыши на **ключевом** столбце.  
     
-    :::image type="complex" source="../media/storage-application-storage-session-storage-domain-key-value-new.msft.png" alt-text="Пустая часть таблицы для двойного щелчка, чтобы создать новую пару ключ-значение." lightbox="../media/storage-application-storage-session-storage-domain-key-value-new.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-session-storage-domain-key-value-new.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-session-storage-domain-key-value-new.msft.png":::
        Пустая часть таблицы для двойного щелчка, чтобы создать новую пару ключ-значение.  
     :::image-end:::  
     
@@ -78,7 +78,7 @@ ms.locfileid: "10993550"
 1.  [Просмотр `sessionStorage` пар "ключ-значение" домена](#view-sessionstorage-keys-and-values).  
 1.  Дважды щелкните ячейку в столбце " **раздел** " или " **значение** ", чтобы изменить этот раздел или значение.  
     
-    :::image type="complex" source="../media/storage-application-storage-session-storage-domain-key-value-edit.msft.png" alt-text="Изменение ключа sessionStorage" lightbox="../media/storage-application-storage-session-storage-domain-key-value-edit.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-session-storage-domain-key-value-edit.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-session-storage-domain-key-value-edit.msft.png":::
        Изменение `sessionStorage` ключа  
     :::image-end:::  
     
@@ -99,13 +99,13 @@ ms.locfileid: "10993550"
 
 1.  Используйте меню "контексты **JavaScript** " для изменения контекста JavaScript на **консоли** , если вы хотите получить доступ к `sessionStorage` парам "ключ-значение" домена, отличного от страницы, на которой вы являетесь.  
     
-    :::image type="complex" source="../media/storage-console-domain-selection.msft.png" alt-text="Изменение контекста JavaScript консоли" lightbox="../media/storage-console-domain-selection.msft.png":::
+    :::image type="complex" source="../media/storage-console-domain-selection.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-console-domain-selection.msft.png":::
        Изменение контекста JavaScript консоли  
     :::image-end:::  
     
 1.  Выполняйте `sessionStorage` выражения на консоли так же, как и в JavaScript.  
     
-    :::image type="complex" source="../media/storage-console-session-storage-keys.msft.png" alt-text="Взаимодействие с sessionStorage с помощью консоли" lightbox="../media/storage-console-session-storage-keys.msft.png":::
+    :::image type="complex" source="../media/storage-console-session-storage-keys.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-console-session-storage-keys.msft.png":::
        Взаимодействие с `sessionStorage` **консолью**  
     :::image-end:::  
     

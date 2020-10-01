@@ -49,7 +49,7 @@ ms.locfileid: "10997145"
 
 Нажмите кнопку **Переключить эмуляцию устройства**  \ ( ![ Переключить панель инструментов устройства ][ImageDeviceToolbarIcon] ) или щелкните **настроить DevTools** \ ( `...` \) > **эмуляцию устройства** , чтобы открыть пользовательский интерфейс, позволяющий имитировать окно просмотра для мобильных устройств.  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-highlighted.msft.png" alt-text="Панель инструментов "устройства"" lightbox="../media/device-mode-toggle-device-toolbar-highlighted.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-highlighted.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-highlighted.msft.png":::
     Панель инструментов "устройства"  
 :::image-end:::  
 
@@ -59,7 +59,7 @@ ms.locfileid: "10997145"
 
 Чтобы быстро проверить внешний вид страницы на нескольких размерах экрана, перетащите маркеры, чтобы изменить размер окна просмотра до нужных размеров.  Вы также можете ввести определенные значения в полях Ширина и высота.  На приведенном ниже рисунке задана ширина `626` и высота задана `516` .  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-handles-highlighted.msft.png" alt-text="Дескрипторы для изменения размеров окна просмотра в отклике режима просмотра" lightbox="../media/device-mode-toggle-device-toolbar-handles-highlighted.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-handles-highlighted.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-handles-highlighted.msft.png":::
     Дескрипторы для изменения размеров окна просмотра в отклике режима просмотра  
 :::image-end:::  
 
@@ -67,13 +67,13 @@ ms.locfileid: "10997145"
 
 Если вы определили на странице запросы мультимедиа, переходите к измерениям просмотра, в которых эти запросы мультимедиа вступают в силу, отображая точки останова в запросах мультимедиа над окном просмотра.  Нажмите кнопку **Дополнительные параметры**  >  , чтобы**отобразить запросы мультимедиа**.  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-more-options-show-media-queries.msft.png" alt-text="Показать мультимедийные запросы" lightbox="../media/device-mode-toggle-device-toolbar-more-options-show-media-queries.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-more-options-show-media-queries.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-more-options-show-media-queries.msft.png":::
    **Показать мультимедийные запросы**  
 :::image-end:::  
 
 Выберите точку останова, чтобы изменить ширину окна просмотра таким образом, чтобы был запущен запрос мультимедиа.  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-click-breakpoint.msft.png" alt-text="Выбор точки останова для изменения ширины окна просмотра" lightbox="../media/device-mode-toggle-device-toolbar-click-breakpoint.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-click-breakpoint.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-click-breakpoint.msft.png":::
    Выбор точки останова для изменения ширины окна просмотра  
 :::image-end:::  
 
@@ -81,7 +81,7 @@ ms.locfileid: "10997145"
 
 Используйте список **типов устройств** для имитации мобильного устройства или настольного устройства.  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-device-type-list.msft.png" alt-text="Список типов устройств" lightbox="../media/device-mode-toggle-device-toolbar-device-type-list.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-device-type-list.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-device-type-list.msft.png":::
    Список **типов устройств**  
 :::image-end:::  
 
@@ -101,7 +101,7 @@ ms.locfileid: "10997145"
 
 Чтобы смоделировать размеры определенного мобильного устройства, выберите нужное устройство из списка **устройств** .  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-device-list.msft.png" alt-text="Список устройств" lightbox="../media/device-mode-toggle-device-toolbar-device-list.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-device-list.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-device-list.msft.png":::
    Список **устройств**  
 :::image-end:::  
 
@@ -111,14 +111,14 @@ ms.locfileid: "10997145"
 
 *   Чтобы повернуть окно просмотра на альбомную ориентацию, нажмите кнопку **повернуть** \ ( ![ повернуть ][ImageRotateIcon] \).  
     
-    :::image type="complex" source="../media/device-mode-toggle-device-toolbar-landscape.msft.png" alt-text="Страница отображается в альбомной ориентации" lightbox="../media/device-mode-toggle-device-toolbar-landscape.msft.png":::
+    :::image type="complex" source="../media/device-mode-toggle-device-toolbar-landscape.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-landscape.msft.png":::
        Страница отображается в альбомной ориентации  
     :::image-end:::  
     
 > [!NOTE]
 > Кнопка **повернуть** исчезнет, если **панель инструментов на устройстве** является узкой.  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-highlighted.msft.png" alt-text="Панель инструментов "устройства"" lightbox="../media/device-mode-toggle-device-toolbar-highlighted.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-highlighted.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-highlighted.msft.png":::
    **Панель инструментов "устройства** "  
 :::image-end:::  
 
@@ -136,12 +136,12 @@ ms.locfileid: "10997145"
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-option-show-device-frame.msft.png" alt-text="Показать рамку устройства" lightbox="../media/device-mode-toggle-device-toolbar-option-show-device-frame.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-option-show-device-frame.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-option-show-device-frame.msft.png":::
          Показать рамку устройства  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-options-device-frame-iphone-6.msft.png" alt-text="Рамка устройства для iPhone 6" lightbox="../media/device-mode-toggle-device-toolbar-options-device-frame-iphone-6.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-options-device-frame-iphone-6.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-options-device-frame-iphone-6.msft.png":::
          Рамка устройства для iPhone 6  
       :::image-end:::  
    :::column-end:::
@@ -153,14 +153,14 @@ ms.locfileid: "10997145"
 
 1.  Выберите список **устройств** > **изменить**.  
     
-    :::image type="complex" source="../media/device-mode-toggle-device-toolbar-device-list-edit.msft.png" alt-text="Нажмите кнопку Изменить." lightbox="../media/device-mode-toggle-device-toolbar-device-list-edit.msft.png":::
+    :::image type="complex" source="../media/device-mode-toggle-device-toolbar-device-list-edit.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-device-list-edit.msft.png":::
        Нажмите кнопку **изменить** .  
     :::image-end:::  
     
 1.  Выберите **Добавить настраиваемое устройство**.  
 1.  На **эмулированных устройствах**введите имя устройства, ширину экрана и высоту экрана для настраиваемого устройства.  Поля « [отношение к пикселям][MDNWindowDevicePixelRatio]», « [строка агента пользователя][MDNUserAgent]» и « [тип устройства](#set-the-device-type) » являются необязательными.  Поле «Тип устройства» по умолчанию имеет значение **мобильный**.  
     
-    :::image type="complex" source="../media/device-mode-toggle-device-toolbar-settings-emulated-devices-add.msft.png" alt-text="Создание настраиваемого устройства" lightbox="../media/device-mode-toggle-device-toolbar-settings-emulated-devices-add.msft.png":::
+    :::image type="complex" source="../media/device-mode-toggle-device-toolbar-settings-emulated-devices-add.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-settings-emulated-devices-add.msft.png":::
        Создание настраиваемого устройства  
     :::image-end:::  
     
@@ -170,12 +170,12 @@ ms.locfileid: "10997145"
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-options-show-rulers.msft.png" alt-text="Элемент меню для отображения линеек" lightbox="../media/device-mode-toggle-device-toolbar-options-show-rulers.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-options-show-rulers.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-options-show-rulers.msft.png":::
          Элемент меню для отображения линеек  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-rulers.msft.png" alt-text="Линейки сверху и слева от окна просмотра" lightbox="../media/device-mode-toggle-device-toolbar-rulers.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-rulers.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-rulers.msft.png":::
          Линейки сверху и слева от окна просмотра  
       :::image-end:::  
    :::column-end:::
@@ -185,7 +185,7 @@ ms.locfileid: "10997145"
 
 Для проверки внешнего вида страницы на нескольких уровнях масштабирования используйте в списке **масштаб** , чтобы увеличить или уменьшить масштаб.  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-zoom.msft.png" alt-text="Масштаб" lightbox="../media/device-mode-toggle-device-toolbar-zoom.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-zoom.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-zoom.msft.png":::
    **Масштаб**  
 :::image-end:::  
 
@@ -201,14 +201,14 @@ ms.locfileid: "10997145"
     
 Все регулировки зависят от нормальной работы ноутбука или настольного компьютера.  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-throttle.msft.png" alt-text="Список регулирования на панели инструментов устройства" lightbox="../media/device-mode-toggle-device-toolbar-throttle.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-throttle.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-throttle.msft.png":::
    Список **регулирования** на панели инструментов устройства  
 :::image-end:::  
 
 > [!NOTE]
 > Если **список регулирования** скрыт, **панель инструментов устройства** слишком мала.  Чтобы получить доступ к **списку регулирования**, увеличите ширину **панели инструментов устройства**.  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-highlighted.msft.png" alt-text="Панель инструментов "устройства"" lightbox="../media/device-mode-toggle-device-toolbar-highlighted.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-highlighted.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-highlighted.msft.png":::
    **Панель инструментов "устройства** "  
 :::image-end:::  
 
@@ -219,7 +219,7 @@ ms.locfileid: "10997145"
 1.  Выберите панель " **производительность** " и нажмите кнопку " **Параметры** захвата ![ " (параметры записи ][ImageCaptureIcon] ).
 1.  Выберите **ЦП**  >  **4X** или **6X замедление**.
     
-    :::image type="complex" source="../media/device-mode-performance-cpu-throttle.msft.png" alt-text="Список ЦП на панели "производительность"" lightbox="../media/device-mode-performance-cpu-throttle.msft.png":::
+    :::image type="complex" source="../media/device-mode-performance-cpu-throttle.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-performance-cpu-throttle.msft.png":::
        Список **ЦП** на панели " **производительность** "  
     :::image-end:::  
     
@@ -230,13 +230,13 @@ ms.locfileid: "10997145"
 1.  Выберите панель **Network (сеть** ).
 1.  Выберите **онлайновый режим**  >  **3G** или **медленное 3G**.
     
-    :::image type="complex" source="../media/device-mode-network-throttle.msft.png" alt-text="Список регулирования на панели "сеть"" lightbox="../media/device-mode-network-throttle.msft.png":::
+    :::image type="complex" source="../media/device-mode-network-throttle.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-network-throttle.msft.png":::
        Список **регулирования** на панели "сеть"  
     :::image-end:::  
     
     Или выберите `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \), чтобы открыть **меню команд**, введите `3G` и выберите **включить быстрое регулирование сети 3G** или **включить медленное регулирование сети 3G**.  
     
-    :::image type="complex" source="../media/device-mode-command-menu-throttle.msft.png" alt-text="Меню команд" lightbox="../media/device-mode-command-menu-throttle.msft.png":::
+    :::image type="complex" source="../media/device-mode-command-menu-throttle.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-command-menu-throttle.msft.png":::
        **Меню команд**  
     :::image-end:::  
     
@@ -244,7 +244,7 @@ ms.locfileid: "10997145"
 
 1.  Выберите **Параметры захвата** \ ( ![ Параметры захвата ][ImageCaptureIcon] ) и щелкните список **сетей** и измените стиль на " **Быстрый 3G** " или " **медленный 3G**".  
     
-    :::image type="complex" source="../media/device-mode-performance-network-throttle.msft.png" alt-text="Настройка регулирования сети с помощью панели "производительность"" lightbox="../media/device-mode-performance-network-throttle.msft.png":::
+    :::image type="complex" source="../media/device-mode-performance-network-throttle.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-performance-network-throttle.msft.png":::
        Настройка регулирования сети с помощью панели " **производительность** "  
     :::image-end:::  
     
@@ -256,7 +256,7 @@ ms.locfileid: "10997145"
 
       1.  Нажмите кнопку **Настройка и** выберите пункт DevTools \ ( `...` \) > **другие инструменты**  >  **датчики**.  
       
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-more-tools-sensors.msft.png" alt-text="Датчики для географического местоположения" lightbox="../media/device-mode-toggle-device-toolbar-more-tools-sensors.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-more-tools-sensors.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-more-tools-sensors.msft.png":::
          **Датчики** для географического местоположения  
       :::image-end:::  
    :::column-end:::
@@ -265,7 +265,7 @@ ms.locfileid: "10997145"
           *   Выберите `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \).  
       1. Введите текст `Sensors` и выберите пункт **Показать датчики**.  
       
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png" alt-text="Показать датчики для географического положения" lightbox="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png":::
          **Показать датчики** для географического положения  
       :::image-end:::  
    :::column-end:::
@@ -273,7 +273,7 @@ ms.locfileid: "10997145"
 
 На панели **Sensors (датчики** ) вы можете выбрать одно из расположений, указанных в DevTools, с помощью раскрывающегося меню **Расположение** .  Чтобы ввести другое расположение, выберите пункт **другие...** и введите координаты вашего собственного местоположения.  Чтобы протестировать страницу в состоянии ошибки, если сведения о расположении недоступны, выберите пункт **расположение недоступно**.  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-sensors-tokyo.msft.png" alt-text="Панель «датчики» с выбранным расположением" lightbox="../media/device-mode-toggle-device-toolbar-sensors-tokyo.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-sensors-tokyo.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-sensors-tokyo.msft.png":::
     Панель « **датчики** » с выбранным расположением.  
 :::image-end:::
 
@@ -285,7 +285,7 @@ ms.locfileid: "10997145"
 
       1.  Нажмите кнопку **Настройка и** выберите пункт DevTools \ ( `...` \) > **другие инструменты**  >  **датчики**.  
       
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-more-tools-sensors.msft.png" alt-text="Датчики для ориентации" lightbox="../media/device-mode-toggle-device-toolbar-more-tools-sensors.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-more-tools-sensors.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-more-tools-sensors.msft.png":::
          **Датчики** для ориентации  
       :::image-end:::  
    :::column-end:::
@@ -294,7 +294,7 @@ ms.locfileid: "10997145"
           *   Выберите `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \).  
       1. Введите текст `Sensors` и выберите пункт **Показать датчики**.  
       
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png" alt-text="Отображение датчиков для ориентации" lightbox="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png":::
          **Отображение датчиков** для ориентации  
       :::image-end:::  
    :::column-end:::
@@ -302,7 +302,7 @@ ms.locfileid: "10997145"
 
 На панели **Sensors (датчики** ) можно выбрать стандартную ориентацию в раскрывающемся меню **ориентация** .  Чтобы задать собственную ориентацию, выберите пункт **Настраиваемая ориентация**и введите значения [альфа][MDNDeviceOrientaitonAlpha], [бета][MDNDeviceOrientaitonBeta]и [гамма][MDNDeviceOrientaitonGamma] .  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-sensors-tokyo-portrait-upside-down.msft.png" alt-text="Параметры ориентации на панели датчиков" lightbox="../media/device-mode-toggle-device-toolbar-sensors-tokyo-portrait-upside-down.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-sensors-tokyo-portrait-upside-down.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-sensors-tokyo-portrait-upside-down.msft.png":::
     Параметры **ориентации** на панели **датчиков**  
 :::image-end:::  
 
@@ -314,7 +314,7 @@ ms.locfileid: "10997145"
       
       1.  Нажмите кнопку **Настройка и** выберите пункт DevTools \ ( `...` \), > **Дополнительные инструменты**,  >  **сетевые условия**.  
       
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-more-tools-network-conditions.msft.png" alt-text="Элемент "условия сети" в меню "другие инструменты"" lightbox="../media/device-mode-toggle-device-toolbar-more-tools-network-conditions.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-more-tools-network-conditions.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-more-tools-network-conditions.msft.png":::
          Элемент " **условия сети** " в меню " **другие инструменты** "  
       :::image-end:::  
    :::column-end:::
@@ -323,7 +323,7 @@ ms.locfileid: "10997145"
           *   Выберите `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \).  
       1. Введите текст `Network conditions` и выберите пункт **Показать условия сети**.  
       
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-command-menu-network-conditions.msft.png" alt-text="Показывать условия сети" lightbox="../media/device-mode-toggle-device-toolbar-command-menu-network-conditions.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-command-menu-network-conditions.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-command-menu-network-conditions.msft.png":::
          **Показывать условия сети**  
       :::image-end:::  
    :::column-end:::
@@ -331,7 +331,7 @@ ms.locfileid: "10997145"
 
 Рядом с **агентом пользователя**снимите флажок **выбрать автоматически** .  Затем выберите пункт **Настраиваемая...** , чтобы выбрать из списка предварительно заданных строк агента пользователя.  Чтобы ввести собственную строку агента пользователя, введите ее в поле **введите настраиваемый агент пользователя**.  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-network-conditions-macos.msft.png" alt-text="Установка строки агента пользователя в Microsoft EDGE на macOS" lightbox="../media/device-mode-toggle-device-toolbar-network-conditions-macos.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-network-conditions-macos.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-network-conditions-macos.msft.png":::
     Установка строки агента пользователя в Microsoft EDGE на macOS  
 :::image-end:::  
 

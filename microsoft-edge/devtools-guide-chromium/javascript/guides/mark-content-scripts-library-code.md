@@ -37,7 +37,7 @@ ms.locfileid: "10992794"
 1.  Откройте вкладку **код библиотеки** , которая открывает раздел **код библиотеки Framework** **параметров**.  
 1.  Установите флажок **помечать сценарии содержимого как библиотечный код** .  
     
-    :::image type="complex" source="../../media/javascript-settings-library-code-mark-content-scripts-library-code.msft.png" alt-text="Флажок "помечать сценарии содержимого как библиотеку кода"" lightbox="../../media/javascript-settings-library-code-mark-content-scripts-library-code.msft.png":::
+    :::image type="complex" source="../../media/javascript-settings-library-code-mark-content-scripts-library-code.msft.png" alt-text="Флажок &quot;помечать сценарии содержимого как библиотеку кода&quot;" lightbox="../../media/javascript-settings-library-code-mark-content-scripts-library-code.msft.png":::
        Флажок " **помечать сценарии содержимого как библиотеку кода** "  
     :::image-end:::  
     

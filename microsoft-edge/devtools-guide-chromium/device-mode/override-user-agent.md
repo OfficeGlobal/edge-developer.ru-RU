@@ -41,7 +41,7 @@ ms.locfileid: "10992927"
 1.  Введите и `network conditions` выберите **Показывать условия сети**, а затем `Enter` откройте вкладку **условия сети** .  
 1.  В разделе **Агент пользователя** отключите флажок **выбрать автоматически** .  
     
-    :::image type="complex" source="../media/device-mode-console-network-conditions-user-agent-select-automatically-deselected.msft.png" alt-text="Отключить функцию "выбрать автоматически"" lightbox="../media/device-mode-console-network-conditions-user-agent-select-automatically-deselected.msft.png":::
+    :::image type="complex" source="../media/device-mode-console-network-conditions-user-agent-select-automatically-deselected.msft.png" alt-text="Меню команд" lightbox="../media/device-mode-console-network-conditions-user-agent-select-automatically-deselected.msft.png":::
        Отключить функцию " **выбрать автоматически** "  
     :::image-end:::  
     

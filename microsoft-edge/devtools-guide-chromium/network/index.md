@@ -70,26 +70,26 @@ ms.locfileid: "10993452"
     <!--You may prefer to move the demo to a separate window.  -->  
     
     <!--
-    :::image type="complex" source="../media/network-tutorial/windows.msft.png" alt-text="The demo in one window and this tutorial in a different window" lightbox="../media/network-tutorial/windows.msft.png":::
+    :::image type="complex" source="../media/network-tutorial/windows.msft.png" alt-text="Демонстрация" lightbox="../media/network-tutorial/windows.msft.png":::
        The demo in one window and this tutorial in a different window  
     :::image-end:::  
     -->
     
 1.  [Откройте DevTools][DevToolsOpen] , нажав клавиши `Control` + `Shift` + `J` \ (Windows \) или `Command` + `Option` + `J` \ (macOS \).  Откроется панель **консоли** .  
     
-    :::image type="complex" source="../media/network-glitch-console.msft.png" alt-text="На консоли" lightbox="../media/network-glitch-console.msft.png":::
+    :::image type="complex" source="../media/network-glitch-console.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-console.msft.png":::
        На **консоли**  
     :::image-end:::  
     
     Вы можете [закрепить DevTools в нижней части окна][DevToolsCustomizePlacement].  
     
-    :::image type="complex" source="../media/network-glitch-console-bottom.msft.png" alt-text="DevTools закреплено в нижней части окна" lightbox="../media/network-glitch-console-bottom.msft.png":::
+    :::image type="complex" source="../media/network-glitch-console-bottom.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-console-bottom.msft.png":::
        DevTools закреплено в нижней части окна  
     :::image-end:::  
     
 1.  Откройте вкладку **сеть** .  Откроется панель Network (сеть).  
     
-    :::image type="complex" source="../media/network-glitch-network-bottom.msft.png" alt-text="DevTools закреплено в нижней части окна" lightbox="../media/network-glitch-network-bottom.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-bottom.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-bottom.msft.png":::
        DevTools закреплено в нижней части окна  
     :::image-end:::  
     
@@ -101,7 +101,7 @@ ms.locfileid: "10993452"
 
 1.  Перезагрузите страницу.  На панели Network (сеть) регистрируются все сетевые активности в **журнале сети**.  
     
-    :::image type="complex" source="../media/network-glitch-network.msft.png" alt-text="Журнал сети" lightbox="../media/network-glitch-network.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network.msft.png":::
        **Журнал сети**  
     :::image-end:::  
     
@@ -123,7 +123,7 @@ ms.locfileid: "10993452"
 1.  Теперь нажмите кнопку " **получить данные** " в демонстрационной версии.  
 1.  Снова посмотрите на нижнюю часть **сетевого журнала** .  Вы должны увидеть новый ресурс под названием "" `getstarted.json` .  Нажатие кнопки " **получить данные** " привела к тому, что страница запрашивает этот файл.  
     
-    :::image type="complex" source="../media/network-glitch-network-new-resource.msft.png" alt-text="Новый ресурс в сетевом журнале" lightbox="../media/network-glitch-network-new-resource.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-new-resource.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-new-resource.msft.png":::
        Новый ресурс в **сетевом журнале**  
     :::image-end:::  
     
@@ -134,7 +134,7 @@ ms.locfileid: "10993452"
 
 1.  Щелкните правой кнопкой мыши заголовок таблицы журнала сети и выберите команду **Domain (домен**).  Теперь отображается домен каждого ресурса.  
     
-    :::image type="complex" source="../media/network-glitch-network-edit-column.msft.png" alt-text="Включение столбца Domain (домен)" lightbox="../media/network-glitch-network-edit-column.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-edit-column.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-edit-column.msft.png":::
        Включение столбца Domain (домен)  
     :::image-end:::  
     
@@ -147,19 +147,19 @@ ms.locfileid: "10993452"
 
 1.  Выберите раскрывающийся список **регулирования** , для которого по умолчанию установлено значение в **сети** .  
     
-    :::image type="complex" source="../media/network-glitch-network-throttling.msft.png" alt-text="Включение регулирования" lightbox="../media/network-glitch-network-throttling.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-throttling.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-throttling.msft.png":::
        Включение регулирования  
     :::image-end:::  
     
 1.  Выберите **медленное 3G**.  
     
-    :::image type="complex" source="../media/network-glitch-network-throttling-slow-3g.msft.png" alt-text="Выбор медленной сети 3G" lightbox="../media/network-glitch-network-throttling-slow-3g.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-throttling-slow-3g.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-throttling-slow-3g.msft.png":::
        Выбор медленной сети 3G  
     :::image-end:::  
     
 1.  Нажмите кнопку **перезагрузить** ![ ][ImageRefreshIcon] , а затем выберите **пустой кэш и принудительную перезагрузку**.  
     
-    :::image type="complex" source="../media/network-glitch-empty-cache-and-hard-reset.msft.png" alt-text="Пустой кэш и окончательная перезагрузка" lightbox="../media/network-glitch-empty-cache-and-hard-reset.msft.png":::
+    :::image type="complex" source="../media/network-glitch-empty-cache-and-hard-reset.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-empty-cache-and-hard-reset.msft.png":::
        **Пустой кэш и окончательная перезагрузка**  
     :::image-end:::  
     
@@ -176,13 +176,13 @@ ms.locfileid: "10993452"
 1.  Снова загрузите страницу с помощью **пустого кэша и окончательной повторной загрузки** .  Если вам нужно напоминание о том, как это сделать, ознакомьтесь [с](#simulate-a-slower-network-connection) разрешениями.  
     В области снимков экрана представлены эскизы того, как страница рассмотрелась на разных этапах процесса загрузки.  
     
-    :::image type="complex" source="../media/network-glitch-network-screenshots.msft.png" alt-text="Снимки экрана загрузки страницы" lightbox="../media/network-glitch-network-screenshots.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-screenshots.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-screenshots.msft.png":::
        Снимки экрана загрузки страницы  
     :::image-end:::  
     
 1.  Выберите первый эскиз.  DevTools показывает, какая сетевая активность происходила в данный момент времени.  
     
-    :::image type="complex" source="../media/network-glitch-network-screenshots-first.msft.png" alt-text="Сетевая активность, происходящий на первом снимке экрана" lightbox="../media/network-glitch-network-screenshots-first.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-screenshots-first.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-screenshots-first.msft.png":::
        Сетевая активность, происходящий на первом снимке экрана  
     :::image-end:::  
     
@@ -195,13 +195,13 @@ ms.locfileid: "10993452"
 
 1.  Выберите `getstarted.html` .  Показана вкладка " **заголовки** ".  Используйте эту вкладку для проверки заголовков HTTP.  
     
-    :::image type="complex" source="../media/network-glitch-network-resources-headers.msft.png" alt-text="Вкладка "заголовки"" lightbox="../media/network-glitch-network-resources-headers.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-resources-headers.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-resources-headers.msft.png":::
        Вкладка " **заголовки** "  
     :::image-end:::  
     
 1.  Откройте вкладку **Предварительный просмотр** .  Отобразится основной рендеринг HTML-кода.  
     
-    :::image type="complex" source="../media/network-glitch-network-resources-preview.msft.png" alt-text="Вкладка "предварительный просмотр"" lightbox="../media/network-glitch-network-resources-preview.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-resources-preview.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-resources-preview.msft.png":::
        Вкладка " **Предварительный просмотр** "  
     :::image-end:::  
     
@@ -209,7 +209,7 @@ ms.locfileid: "10993452"
 
 1.  Откройте вкладку **ответ** .  Отобразится исходный код HTML.  
     
-    :::image type="complex" source="../media/network-glitch-network-resources-response.msft.png" alt-text="Вкладка "ответ"" lightbox="../media/network-glitch-network-resources-response.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-resources-response.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-resources-response.msft.png":::
        Вкладка " **ответ** "  
     :::image-end:::  
     
@@ -218,13 +218,13 @@ ms.locfileid: "10993452"
     
 1.  Откройте вкладку **время** .  Показана сетевая подразделение активности для этого ресурса.  
     
-    :::image type="complex" source="../media/network-glitch-network-resources-timing.msft.png" alt-text="Вкладка время" lightbox="../media/network-glitch-network-resources-timing.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-resources-timing.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-resources-timing.msft.png":::
        Вкладка **время**  
     :::image-end:::  
     
 1.  **Close** ![ ][ImageCloseIcon] Чтобы снова просмотреть журнал сети, нажмите кнопку Закрыть, а затем — закрыть.  
     
-    :::image type="complex" source="../media/network-glitch-network-resources-close-tabs.msft.png" alt-text="Кнопка "Закрыть"" lightbox="../media/network-glitch-network-resources-close-tabs.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-resources-close-tabs.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-resources-close-tabs.msft.png":::
        Кнопка " **Закрыть** "  
     :::image-end:::  
     
@@ -238,25 +238,25 @@ ms.locfileid: "10993452"
 
 1.  Нажмите **Поиск** \ ( ![ Поиск ][ImageSearchIcon] \).  Область поиска откроется слева от сетевого журнала.  
     
-    :::image type="complex" source="../media/network-glitch-network-search-empty.msft.png" alt-text="Область "Поиск"" lightbox="../media/network-glitch-network-search-empty.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-search-empty.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-search-empty.msft.png":::
        Область " **Поиск** "  
     :::image-end:::  
     
 1.  Введите текст `Cache-Control` и нажмите клавишу `Enter` .  В области поиска перечислены все вхождения `Cache-Control` , найденные в заголовках или содержимом ресурсов.  
     
-    :::image type="complex" source="../media/network-glitch-network-search-cache-control.msft.png" alt-text="Результаты поиска для Cache-Control" lightbox="../media/network-glitch-network-search-cache-control.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-search-cache-control.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-search-cache-control.msft.png":::
        Результаты поиска по запросу  `Cache-Control`  
     :::image-end:::  
     
 1.  Выберите результат, чтобы просмотреть ресурс, в котором был найден результат.  Если вы видите сведения о ресурсе, выберите результат, чтобы перейти непосредственно к нему.  Например, если запрос был найден в заголовке, откроется вкладка Заголовки.   Если запрос найден в содержимом, откроется вкладка **ответ** .  
     
-    :::image type="complex" source="../media/network-glitch-network-search-cache-control-headers-response-headers.msft.png" alt-text="Результат поиска, выделенный на вкладке "заголовки"" lightbox="../media/network-glitch-network-search-cache-control-headers-response-headers.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-search-cache-control-headers-response-headers.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-search-cache-control-headers-response-headers.msft.png":::
        Результат поиска, выделенный на вкладке " **заголовки** "  
     :::image-end:::  
     
 1.  Закройте область поиска и вкладку заголовки.  
     
-    :::image type="complex" source="../media/network-glitch-network-search-close.msft.png" alt-text="Кнопки "Закрыть"" lightbox="../media/network-glitch-network-search-close.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-search-close.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-search-close.msft.png":::
        Кнопки " **Закрыть** "  
     :::image-end:::  
     
@@ -264,7 +264,7 @@ ms.locfileid: "10993452"
 
 DevTools предоставляет множество рабочих процессов для фильтрации ресурсов, не относящихся к поставленной задаче.  
 
-:::image type="complex" source="../media/network-glitch-network-filter-empty.msft.png" alt-text="Панель инструментов "фильтры"" lightbox="../media/network-glitch-network-filter-empty.msft.png":::
+:::image type="complex" source="../media/network-glitch-network-filter-empty.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-filter-empty.msft.png":::
    Панель инструментов " **фильтры** "  
 :::image-end:::  
 
@@ -278,25 +278,25 @@ DevTools предоставляет множество рабочих проце
 
 1.  Введите `png` текст в текстовое поле **Фильтр** .  Отображаются только файлы, содержащие текст `png` .  В этом случае только файлы, соответствующие фильтру, являются изображениями в формате PNG.  
     
-    :::image type="complex" source="../media/network-glitch-network-filter-png.msft.png" alt-text="Строковый фильтр" lightbox="../media/network-glitch-network-filter-png.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-filter-png.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-filter-png.msft.png":::
        Строковый фильтр  
     :::image-end:::  
     
 1.  Введите `/.*\.[cj]s+$/`.  DevTools отфильтровать все ресурсы с именем файла, которое не оканчивается на a, а `j` `c` затем с 1 или более `s` символами.  
     
-    :::image type="complex" source="../media/network-glitch-network-filter-regex.msft.png" alt-text="Фильтр регулярных выражений" lightbox="../media/network-glitch-network-filter-regex.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-filter-regex.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-filter-regex.msft.png":::
        Фильтр регулярных выражений  
     :::image-end:::  
     
 1.  Введите `-main.css`.  DevTools отфильтровать `main.css` .  Если какой – либо другой файл соответствует шаблону, он также будет исключен.  
     
-    :::image type="complex" source="../media/network-glitch-network-filter-negative-statement.msft.png" alt-text="Отрицательный фильтр" lightbox="../media/network-glitch-network-filter-negative-statement.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-filter-negative-statement.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-filter-negative-statement.msft.png":::
        Отрицательный фильтр  
     :::image-end:::  
     
 1.  Введите `domain:cdn.glitch.com` текст в текстовое поле **Фильтр** .  DevTools отфильтровать все ресурсы с URL-адресом, который не соответствует этому домену.  
     
-    :::image type="complex" source="../media/network-glitch-network-filter-property-value.msft.png" alt-text="Фильтр свойств" lightbox="../media/network-glitch-network-filter-property-value.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-filter-property-value.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-filter-property-value.msft.png":::
        Фильтр свойств  
     :::image-end:::  
     
@@ -310,13 +310,13 @@ DevTools предоставляет множество рабочих проце
 
 1.  Выберите **CSS**.  Все остальные типы файлов будут отфильтрованы.  
     
-    :::image type="complex" source="../media/network-glitch-network-filter-file-type-css.msft.png" alt-text="Показывать только CSS – файлы" lightbox="../media/network-glitch-network-filter-file-type-css.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-filter-file-type-css.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-filter-file-type-css.msft.png":::
        Показывать только CSS – файлы  
     :::image-end:::  
     
 1.  Чтобы также просмотреть сценарии, удерживайте клавишу `Control` \ (Windows \) или `Command` \ (macOS \), а затем выберите **JS**.  
     
-    :::image type="complex" source="../media/network-glitch-network-filter-file-type-css-js.msft.png" alt-text="Показывать только файлы CSS и JS" lightbox="../media/network-glitch-network-filter-file-type-css-js.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-filter-file-type-css-js.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-filter-file-type-css-js.msft.png":::
        Показывать только файлы CSS и JS  
     :::image-end:::  
     
@@ -330,20 +330,20 @@ DevTools предоставляет множество рабочих проце
 
 1.  `Control` + `Shift` + `P` Чтобы открыть меню команд, нажмите клавиши \ (Windows \) или `Command` + `Shift` + `P` \ ( **Command Menu**macOS \).  
     
-    :::image type="complex" source="../media/network-glitch-network-cli-empty.msft.png" alt-text="Меню команд" lightbox="../media/network-glitch-network-cli-empty.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-cli-empty.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-cli-empty.msft.png":::
        **Меню команд**  
     :::image-end:::  
     
 1.  Введите `block` команду **Показать блокировку запросов**и нажмите кнопку `Enter` .  
     
-    :::image type="complex" source="../media/network-glitch-network-cli-block.msft.png" alt-text="Показать блокировку запросов" lightbox="../media/network-glitch-network-cli-block.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-cli-block.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-cli-block.msft.png":::
        **Показать блокировку запросов**  
     :::image-end:::  
     
 1.  Нажмите кнопку **Добавить узор** \ ( ![ Добавить шаблон ][ImageAddIcon] \).  
 1.  Введите `main.css`.  
     
-    :::image type="complex" source="../media/network-glitch-network-cli-block-add-pattern.msft.png" alt-text="Блокировка Main. CSS" lightbox="../media/network-glitch-network-cli-block-add-pattern.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-cli-block-add-pattern.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-cli-block-add-pattern.msft.png":::
        Снижающи `main.css`  
     :::image-end:::  
     
@@ -353,7 +353,7 @@ DevTools предоставляет множество рабочих проце
     > [!NOTE]
     > `main.css`Строка в сетевом журнале.  Красный текст означает, что ресурс заблокирован.
     
-    :::image type="complex" source="../media/network-glitch-network-cli-block-main-css.msft.png" alt-text="Главный. CSS заблокирован" lightbox="../media/network-glitch-network-cli-block-main-css.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-cli-block-main-css.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-cli-block-main-css.msft.png":::
        `main.css` заблокирован  
     :::image-end:::  
     

@@ -25,7 +25,7 @@ ms.locfileid: "11003945"
     *   Выберите `Shift` + `?` .  
 1.  Перейдите на страницу " **сочетания клавиш** ".  
     
-    :::image type="complex" source="../media/settings-shortcuts.msft.png" alt-text="Страница "ярлыки" в разделе "Параметры"" lightbox="../media/settings-shortcuts.msft.png":::
+    :::image type="complex" source="../media/settings-shortcuts.msft.png" alt-text="Страница &quot;ярлыки&quot; в разделе &quot;Параметры&quot;" lightbox="../media/settings-shortcuts.msft.png":::
        Страница " **ярлыки** " в разделе " **Параметры** "  
     :::image-end:::  
     
@@ -36,7 +36,7 @@ ms.locfileid: "11003945"
 1.  Открытие страницы " **сочетания клавиш** ".
 1.  Выберите **сочетание клавиш из предустановленного** раскрывающегося списка и измените **DevTools (по умолчанию)** на **код Visual Studio**.  
     
-    :::image type="complex" source="../media/match-keyboard-shortcuts-visual-studio-code.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../media/match-keyboard-shortcuts-visual-studio-code.msft.png":::
+    :::image type="complex" source="../media/match-keyboard-shortcuts-visual-studio-code.msft.png" alt-text="Страница &quot;ярлыки&quot; в разделе &quot;Параметры&quot;" lightbox="../media/match-keyboard-shortcuts-visual-studio-code.msft.png":::
        Соответствие сочетаний клавиш в DevTools с кодом Visual Studio  
     :::image-end:::  
 

@@ -36,7 +36,7 @@ ms.locfileid: "11004228"
 
 ### Эмуляция Surface Duo и Samsung Galaxy сгиб  
 
-:::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Экспериментальная функция":::
+:::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio":::
    Экспериментальная функция  
 :::image-end:::  
 
@@ -48,7 +48,7 @@ ms.locfileid: "11004228"
 *   [Отрисовка стыка][DualScreenIntroductionHowWorkSeam], то есть расстояния между двумя экранами.
 *   [Включение API экспериментальной веб-платформы][DevtoolsExperimentalFeaturesEnableExperimentalApis] для доступа к новой [функции многофункционального экрана CSS][DualScreenWebCssMediaSpanning] и [API JavaScript getWindowSegments][DualScreenWebJavascriptGetwindowsegments].  
 
-:::image type="complex" source="../../media/2020/08/surface-duo-device-emulation.msft.png" alt-text="Эмуляция устройства для ИБП Surface Duo" lightbox="../../media/2020/08/surface-duo-device-emulation.msft.png":::
+:::image type="complex" source="../../media/2020/08/surface-duo-device-emulation.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/surface-duo-device-emulation.msft.png":::
    Эмуляция устройства для ИБП Surface Duo  
 :::image-end:::  
 
@@ -62,7 +62,7 @@ ms.locfileid: "11004228"
 
 Благодарим вас за позитивную обратную связь об улучшенных наложения сетки CSS.  Наложения сетки CSS теперь включены по умолчанию и не требуют включения эксперимента.  
 
-:::image type="complex" source="../../media/2020/08/css-grid-overlay-article.msft.png" alt-text="Наложение сетки CSS для элемента статьи" lightbox="../../media/2020/08/css-grid-overlay-article.msft.png":::
+:::image type="complex" source="../../media/2020/08/css-grid-overlay-article.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/css-grid-overlay-article.msft.png":::
    Наложение сетки CSS для `article` элемента  
 :::image-end:::  
 
@@ -83,12 +83,12 @@ ms.locfileid: "11004228"
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/console-table-beta.msft.png" alt-text="Вывод API консоли таблицы в Microsoft Edge 85 или более ранней версии" lightbox="../../media/2020/08/console-table-beta.msft.png":::
+      :::image type="complex" source="../../media/2020/08/console-table-beta.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/console-table-beta.msft.png":::
          `table` Выходные данные API консоли в Microsoft Edge 85 или более ранней версии  
       :::image-end:::  
    :::column-end:::  
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/console-table-beta-paste-visual-studio-code.msft.png" alt-text="Вывод API консоли таблицы из Microsoft Edge 85 или более ранней версии, вставленной в код Visual Studio" lightbox="../../media/2020/08/console-table-beta-paste-visual-studio-code.msft.png":::
+      :::image type="complex" source="../../media/2020/08/console-table-beta-paste-visual-studio-code.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/console-table-beta-paste-visual-studio-code.msft.png":::
          `table` Выходные данные API консоли из Microsoft Edge 85 или более ранней версии, вставленные в код Visual Studio  
       :::image-end:::  
    :::column-end:::
@@ -98,12 +98,12 @@ ms.locfileid: "11004228"
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/console-table-canary.msft.png" alt-text="Вывод API консоли таблицы в Microsoft Edge 86 или более поздней версии" lightbox="../../media/2020/08/console-table-canary.msft.png":::
+      :::image type="complex" source="../../media/2020/08/console-table-canary.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/console-table-canary.msft.png":::
          `table` Выходные данные API консоли в Microsoft Edge 86 или более поздней версии  
       :::image-end:::  
    :::column-end:::  
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/console-table-canary-paste-visual-studio-code.msft.png" alt-text="Вывод API консоли таблицы из Microsoft Edge 86 или более поздней версии в код Visual Studio" lightbox="../../media/2020/08/console-table-canary-paste-visual-studio-code.msft.png":::
+      :::image type="complex" source="../../media/2020/08/console-table-canary-paste-visual-studio-code.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/console-table-canary-paste-visual-studio-code.msft.png":::
          `table` Выходные данные API консоли из Microsoft Edge 86 или более поздней версии, вставленные в код Visual Studio  
       :::image-end:::  
    :::column-end:::
@@ -113,13 +113,13 @@ ms.locfileid: "11004228"
 
 ### Средство просмотра заказов исходного кода для упрощения тестирования специальных возможностей  
 
-:::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Экспериментальная функция":::
+:::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio":::
    Экспериментальная функция  
 :::image-end:::  
 
 Новый вспомогательный модуль специальных возможностей отображает порядок элементов в источнике.  
 
-:::image type="complex" source="../../media/2020/08/source-order-viewer.msft.png" alt-text="Активация порядка отображения исходного кода" lightbox="../../media/2020/08/source-order-viewer.msft.png":::
+:::image type="complex" source="../../media/2020/08/source-order-viewer.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/source-order-viewer.msft.png":::
    Активация **порядка отображения исходного кода**  
 :::image-end:::  
 
@@ -138,12 +138,12 @@ Your feedback and internal discoveries uncovered which text strings used in the 
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/localization-improvements-chinese-complex-stable.msft.png" alt-text="Microsoft Edge DevTools in Traditional Chinese" lightbox="localization-improvements-chinese-complex-stable.msft.png":::
+      :::image type="complex" source="../../media/2020/08/localization-improvements-chinese-complex-stable.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="localization-improvements-chinese-complex-stable.msft.png":::
          Microsoft Edge DevTools 85 and earlier in Traditional Chinese  
       :::image-end:::  
    :::column-end:::  
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/localization-improvements-chinese-complex-canary.msft.png" alt-text="Microsoft Edge DevTools in Japanese" lightbox="../../media/2020/08/localization-improvements-chinese-complex-canary.msft.png":::
+      :::image type="complex" source="../../media/2020/08/localization-improvements-chinese-complex-canary.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/localization-improvements-chinese-complex-canary.msft.png":::
          Microsoft Edge DevTools 86  or later in Traditional Chinese  
       :::image-end:::  
    :::column-end:::
@@ -160,7 +160,7 @@ The current effort to improve translation quality enables easier support for mor
 
 Благодарим вас за отправку отзыва и помощь в улучшении Chromium.  В проекте Chromium Open-Source возникла ошибка, связанная с [не#1103316ой][CR1103316] отзыва.  
 
-:::image type="complex" source="../../media/2020/08/elements- search-highlight-fixed.msft.png" alt-text="Выделенный первый результат поиска на панели "элементы" в Microsoft Edge 84 или более поздней версии" lightbox="../../media/2020/08/elements- search-highlight-fixed.msft.png":::
+:::image type="complex" source="../../media/2020/08/elements- search-highlight-fixed.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/elements- search-highlight-fixed.msft.png":::
    Выделенный первый результат поиска на панели " **элементы** " в Microsoft Edge 84 или более поздней версии  
 :::image-end:::  
 
@@ -180,7 +180,7 @@ DevTools теперь отображает сведения о проигрыв�
 
 1.  Нажмите кнопку **Настройка и выберите DevTools** \ ( `...` \) > **другие инструменты**  >  **мультимедиа**.  
     
-    :::image type="complex" source="../../media/2020/08/media-panel.msft.png" alt-text="Новая панель мультимедиа" lightbox="../../media/2020/08/media-panel.msft.png":::
+    :::image type="complex" source="../../media/2020/08/media-panel.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/media-panel.msft.png":::
        Новая панель **мультимедиа**  
     :::image-end:::  
 
@@ -197,7 +197,7 @@ DevTools теперь отображает сведения о проигрыв�
 
 Например, чтобы сделать снимок экрана оглавлением, наведите на него указатель мыши, откройте контекстное меню, а затем выберите пункт **захватить снимок экрана узла**.  
 
-:::image type="complex" source="../../media/2020/08/capture-node-screenshot.msft.png" alt-text="Снимок экрана захвата узлов" lightbox="../../media/2020/08/capture-node-screenshot.msft.png":::
+:::image type="complex" source="../../media/2020/08/capture-node-screenshot.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/capture-node-screenshot.msft.png":::
    Снимок экрана захвата узлов  
 :::image-end:::  
 
@@ -209,13 +209,13 @@ DevTools теперь отображает сведения о проигрыв�
 
 <!--todo: this figure need to be updated  -->  
 
-:::image type="complex" source="../../media/2020/08/issue-console-msg.msft.png" alt-text="Проблемы в сообщении консоли" lightbox="../../media/2020/08/issue-console-msg.msft.png":::
+:::image type="complex" source="../../media/2020/08/issue-console-msg.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/issue-console-msg.msft.png":::
    Проблемы в сообщении консоли  
 :::image-end:::  
 
 Сторонние файлы cookie теперь по умолчанию скрыты в инструменте " **вопросы** ".  Чтобы просмотреть список проблем, установите флажок **Включить сторонние файлы cookie** .  
 
-:::image type="complex" source="../../media/2020/08/third-party-cookies.msft.png" alt-text="флажок "вопросы и сторонние файлы cookie"" lightbox="../../media/2020/08/third-party-cookies.msft.png":::
+:::image type="complex" source="../../media/2020/08/third-party-cookies.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/third-party-cookies.msft.png":::
    флажок "вопросы и сторонние файлы cookie"  
 :::image-end:::  
 
@@ -229,7 +229,7 @@ DevTools теперь отображает сведения о проигрыв�
 
 При включении функции **Отключить локальные шрифты** DevTools игнорирует `local()` шрифты и извлекает их из сети.  
 
-:::image type="complex" source="../../media/2020/08/disable-font.msft.png" alt-text="Эмуляция отсутствующих локальных шрифтов" lightbox="../../media/2020/08/disable-font.msft.png":::
+:::image type="complex" source="../../media/2020/08/disable-font.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/disable-font.msft.png":::
    Эмуляция отсутствующих локальных шрифтов  
 :::image-end:::  
 
@@ -250,7 +250,7 @@ DevTools теперь отображает сведения о проигрыв�
 
 [API обнаружения простоя][WebDevIdleDetection] позволяет разработчикам обнаруживать неактивные пользователи и реагировать на изменения состояния простоя.  Теперь вы можете использовать DevTools для эмуляции изменений состояния простоя в инструменте " **датчики** " и для состояния пользователя, и для состояния экрана вместо того, чтобы ждать изменения фактического состояния простоя.  Вы можете открыть инструмент **Sensors (датчики** ) из [ящика][DevtoolsCustomizeIndexDrawer].  
 
-:::image type="complex" source="../../media/2020/08/emulate-idle.msft.png" alt-text="Эмуляция неактивных пользователей" lightbox="../../media/2020/08/emulate-idle.msft.png":::
+:::image type="complex" source="../../media/2020/08/emulate-idle.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/emulate-idle.msft.png":::
    Эмуляция неактивных пользователей  
 :::image-end:::  
 
@@ -265,7 +265,7 @@ DevTools теперь отображает сведения о проигрыв�
 
 Теперь вы можете использовать DevTools для эмуляции `prefers-reduced-data` запроса мультимедиа.  
 
-:::image type="complex" source="../../media/2020/08/emulate-prefers-reduced-data.msft.png" alt-text="Предпочтительные эмуляции — сокращенные данные" lightbox="../../media/2020/08/emulate-prefers-reduced-data.msft.png":::
+:::image type="complex" source="../../media/2020/08/emulate-prefers-reduced-data.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/emulate-prefers-reduced-data.msft.png":::
    Предпочтительные эмуляции — сокращенные данные  
 :::image-end:::  
 
@@ -294,7 +294,7 @@ DevTools теперь предоставляет ссылку из област�
 
 Ранее DevTools отображал список, вложенный в панель **приложения** , > области "работа с **сотрудниками службы** ".  
 
-:::image type="complex" source="../../media/2020/08/sw-other-origins.msft.png" alt-text="Ссылка на другие источники" lightbox="../../media/2020/08/sw-other-origins.msft.png":::
+:::image type="complex" source="../../media/2020/08/sw-other-origins.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/sw-other-origins.msft.png":::
    Ссылка на другие источники  
 :::image-end:::  
 
@@ -308,12 +308,12 @@ DevTools сейчас пересчитайте и отобразите свод�
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/coverage-compare.msft.png" alt-text="Сводка о покрытии" lightbox="../../media/2020/08/coverage-compare.msft.png":::
+      :::image type="complex" source="../../media/2020/08/coverage-compare.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/coverage-compare.msft.png":::
          Сводка о покрытии  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/coverage-compare-css-filter.msft.png" alt-text="Сводка покрытия для отфильтрованных элементов" lightbox="../../media/2020/08/coverage-compare-css-filter.msft.png":::
+      :::image type="complex" source="../../media/2020/08/coverage-compare-css-filter.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/coverage-compare-css-filter.msft.png":::
          Сводка покрытия для отфильтрованных элементов  
       :::image-end:::  
    :::column-end:::
@@ -325,7 +325,7 @@ DevTools сейчас пересчитайте и отобразите свод�
 
 DevTools теперь показывать подробное представление для каждого кадра.  Для доступа к нему выберите рамку в меню " **кадры** " на панели **приложения** .  
 
-:::image type="complex" source="../../media/2020/08/frame-details.msft.png" alt-text="Новый подробный вид рамки на панели приложения" lightbox="../../media/2020/08/frame-details.msft.png":::
+:::image type="complex" source="../../media/2020/08/frame-details.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/frame-details.msft.png":::
    Новый подробный вид рамки на панели **приложения**  
 :::image-end:::  
 
@@ -335,7 +335,7 @@ DevTools теперь показывать подробное представл
 
 Теперь в дереве фреймов отображаются открытые окна и всплывающие окна.  Подробное представление открытых окон включает дополнительные сведения о безопасности.  
 
-:::image type="complex" source="../../media/2020/08/window-opener.msft.png" alt-text="Подробный обзор нового кадра для открытых окон" lightbox="../../media/2020/08/window-opener.msft.png":::
+:::image type="complex" source="../../media/2020/08/window-opener.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/window-opener.msft.png":::
    Подробный обзор нового кадра для открытых окон  
 :::image-end:::  
 
@@ -345,7 +345,7 @@ DevTools теперь показывать подробное представл
 
 В разделе сведения о кадре отображаются безопасный контекст, [Политика встраивания с Межисточниками (COEP)][WebDevCoopCoep], а также меж- [Openerная политика (Coop)][WebDevCoopCoep] .  
 
-:::image type="complex" source="../../media/2020/08/coep-coop.msft.png" alt-text="Сведения о безопасности и изоляции" lightbox="../../media/2020/08/coep-coop.msft.png":::
+:::image type="complex" source="../../media/2020/08/coep-coop.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/coep-coop.msft.png":::
    Сведения о безопасности и изоляции  
 :::image-end:::  
 
@@ -361,7 +361,7 @@ DevTools теперь предлагает варианты цветов для 
 
 В примере ниже `h1` есть текст с низким контрастом.  Чтобы исправить ошибку, откройте окно выбора цвета `color` свойства в области **стили** .  После того как вы развернете раздел **коэффициент контрастности** , DevTools предоставляет варианты цветов AA и AAA.  Выберите предложенный цвет, чтобы применить его.  
 
-:::image type="complex" source="../../media/2020/08/contrast-color-suggestion.msft.png" alt-text="Средство выбора цвета предлагает варианты цветов AA и AAA" lightbox="../../media/2020/08/contrast-color-suggestion.msft.png":::
+:::image type="complex" source="../../media/2020/08/contrast-color-suggestion.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/contrast-color-suggestion.msft.png":::
    Средство выбора цвета предлагает варианты цветов AA и AAA  
 :::image-end:::  
 
@@ -371,7 +371,7 @@ DevTools теперь предлагает варианты цветов для 
 
 Область **свойств** будет возвращена.  Она была [признана устаревшей в Microsoft Edge 84][DevtoolsWhatsnew200205DevtoolsDeprecationPropertiesPaneElementsPanel].  Группа Microsoft Edge DevTools и группа "Chrome DevTools" предназначены для планирования улучшений для проверки свойств элементов.  
 
-:::image type="complex" source="../../media/2020/08/properties-pane.msft.png" alt-text="Область "Свойства" на панели "элементы"" lightbox="../../media/2020/08/properties-pane.msft.png":::
+:::image type="complex" source="../../media/2020/08/properties-pane.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/properties-pane.msft.png":::
    Область " **Свойства** " на панели " **элементы** "  
 :::image-end:::  
 
@@ -384,7 +384,7 @@ When inspecting a network resource in the Network panel, DevTools now formats an
 
 The `X-Client-Data` HTTP header contains a list of experiment IDs and Microsoft Edge flags that are enabled in your browser.  The raw header values look like opaque strings since the values are `base-64-encoded`, serialized [protocol buffers][GoogleDevelopersProtocolBuffers].  To make the contents more transparent to developers, DevTools now shows the decoded values.  
 
-:::image type="complex" source="../../media/2020/08/x-client-data.msft.png" alt-text="Human-readable `X-Client-Data` header values" lightbox="../../media/2020/08/x-client-data.msft.png":::
+:::image type="complex" source="../../media/2020/08/x-client-data.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/x-client-data.msft.png":::
    Human-readable `X-Client-Data` header values  
 :::image-end:::  
 
@@ -397,7 +397,7 @@ Chromium issue: [#1103854][CR1103854]
 
 Например, если `monospace` на локальном компьютере установлен настраиваемый шрифт, он отображается в списке завершения CSS. В предыдущих версиях Microsoft Edge шрифт не отображался.
 
-:::image type="complex" source="../../media/2020/08/font-auto-complete.msft.png" alt-text="Автозаполнение настраиваемых шрифтов" lightbox="../../media/2020/08/font-auto-complete.msft.png":::
+:::image type="complex" source="../../media/2020/08/font-auto-complete.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/font-auto-complete.msft.png":::
    Автозаполнение настраиваемых шрифтов  
 :::image-end:::  
 
@@ -409,7 +409,7 @@ DevTools теперь будет отображать тот же тип рес�
 
 Ранее DevTools изменил тип на " `Other` иногда".  
 
-:::image type="complex" source="../../media/2020/08/network-redirect.msft.png" alt-text="Вывод типа ресурса перенаправления" lightbox="../../media/2020/08/network-redirect.msft.png":::
+:::image type="complex" source="../../media/2020/08/network-redirect.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/network-redirect.msft.png":::
    Вывод типа ресурса перенаправления  
 :::image-end:::  
 
@@ -426,12 +426,12 @@ DevTools теперь будет отображать тот же тип рес�
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/clear-button-elements.msft.png" alt-text="Кнопки "очистить" на панелях элементов" lightbox="../../media/2020/08/clear-button-elements.msft.png":::
+      :::image type="complex" source="../../media/2020/08/clear-button-elements.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/clear-button-elements.msft.png":::
          Кнопки "очистить" на панелях **элементов**  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/clear-button-network.msft.png" alt-text="Кнопки "очистить" на панели "сеть"" lightbox="../../media/2020/08/clear-button-network.msft.png":::
+      :::image type="complex" source="../../media/2020/08/clear-button-network.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/clear-button-network.msft.png":::
          Кнопки "очистить" на панели "  **сеть** "  
       :::image-end:::  
    :::column-end:::

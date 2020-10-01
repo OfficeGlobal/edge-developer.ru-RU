@@ -49,7 +49,7 @@ ms.locfileid: "10993375"
 
 На **каскаде** на приведенном ниже рисунке первые шесть запросов `edge-iconx1024.msft.png` актива запускаются одновременно.  Последующие запросы загружаются до тех пор, пока не завершится один из этих шести первоначальных элементов.  
 
-:::image type="complex" source="../media/network-network-disabled-cache-resources-queue.msft.png" alt-text="Пример списка в очереди или остановленного ряда на панели "сеть"" lightbox="../media/network-network-disabled-cache-resources-queue.msft.png":::
+:::image type="complex" source="../media/network-network-disabled-cache-resources-queue.msft.png" alt-text="Пример списка в очереди или остановленного ряда на панели &quot;сеть&quot;" lightbox="../media/network-network-disabled-cache-resources-queue.msft.png":::
    Пример списка в очереди или остановленного ряда на панели " **сеть** "  
 :::image-end:::  
 
@@ -71,7 +71,7 @@ ms.locfileid: "10993375"
 
 На рисунке ниже показана длинная зеленая полоса в **каскаде** , указывающая на то, что запрос был выполнен в течение длительного времени.  Это было смоделировано с помощью профиля, ограничивающего скорость сети и добавляя задержку.  
 
-:::image type="complex" source="../media/network-network-resources-using-dial-up-profile.msft.png" alt-text="Пример запроса с медленным временем до получения первого байта" lightbox="../media/network-network-resources-using-dial-up-profile.msft.png":::
+:::image type="complex" source="../media/network-network-resources-using-dial-up-profile.msft.png" alt-text="Пример списка в очереди или остановленного ряда на панели &quot;сеть&quot;" lightbox="../media/network-network-resources-using-dial-up-profile.msft.png":::
    Пример запроса с медленным временем до получения первого байта  
 :::image-end:::  
 
@@ -93,7 +93,7 @@ ms.locfileid: "10993375"
 
 На приведенном ниже рисунке показана длинная синяя полоса в **каскаде** рядом с форматом PNG, поэтому загрузка занимает много времени.  
 
-:::image type="complex" source="../media/network-network-resources-edge-devtools.msft.png" alt-text="Пример запроса, загрузка которого занимает много времени" lightbox="../media/network-network-resources-edge-devtools.msft.png":::
+:::image type="complex" source="../media/network-network-resources-edge-devtools.msft.png" alt-text="Пример списка в очереди или остановленного ряда на панели &quot;сеть&quot;" lightbox="../media/network-network-resources-edge-devtools.msft.png":::
    Пример запроса, загрузка которого занимает много времени  
 :::image-end:::  
 

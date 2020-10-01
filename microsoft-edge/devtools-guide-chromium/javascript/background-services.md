@@ -61,20 +61,20 @@ Microsoft Edge DevTools может записывать события фоно�
 1.  Откройте панель **приложения** .  
 1.  Открытие области " **Фоновая выборка** ".  
     
-    :::image type="complex" source="../media/javascript-application-background-services-background-fetch-empty.msft.png" alt-text="Область "Фоновая выборка"" lightbox="../media/javascript-application-background-services-background-fetch-empty.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-background-fetch-empty.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-background-fetch-empty.msft.png":::
        Область " **Фоновая выборка** "  
     :::image-end:::  
     
 1.  Нажмите **запись** \ ( ![ запись ][ImageRecordIcon] \).  
    После запуска некоторых операций фоновой выборки DevTools регистрирует события в таблице.  
     
-    :::image type="complex" source="../media/javascript-application-background-services-background-fetch.msft.png" alt-text="Журнал событий в области "Фоновая выборка"" lightbox="../media/javascript-application-background-services-background-fetch.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-background-fetch.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-background-fetch.msft.png":::
        Журнал событий в области " **Фоновая выборка** "  
     :::image-end:::  
     
 1.  Щелкните событие, чтобы просмотреть сведения о нем в пространстве под таблицей.  
     
-    :::image type="complex" source="../media/javascript-application-background-services-background-fetch-details.msft.png" alt-text="Просмотр сведений о событии в области "Фоновая выборка"" lightbox="../media/javascript-application-background-services-background-fetch-details.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-background-fetch-details.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-background-fetch-details.msft.png":::
        Просмотр сведений о событии в области " **Фоновая выборка** "  
     :::image-end:::  
     
@@ -88,20 +88,20 @@ Microsoft Edge DevTools может записывать события фоно�
 1.  Откройте панель **приложения** .  
 1.  Откройте область **фоновая синхронизация** .  
     
-    :::image type="complex" source="../media/javascript-application-background-services-background-sync-empty.msft.png" alt-text="Область "фоновая синхронизация"" lightbox="../media/javascript-application-background-services-background-sync-empty.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-background-sync-empty.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-background-sync-empty.msft.png":::
        Область " **фоновая синхронизация** "  
     :::image-end:::  
     
 1.  Нажмите **запись** \ ( ![ запись ][ImageRecordIcon] \).  
    После запуска некоторых операций синхронизации в фоновом режиме DevTools регистрирует события в таблице.  
     
-    :::image type="complex" source="../media/javascript-application-background-services-background-sync.msft.png" alt-text="Журнал событий в области "фоновая синхронизация"" lightbox="../media/javascript-application-background-services-background-sync.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-background-sync.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-background-sync.msft.png":::
        Журнал событий в области " **фоновая синхронизация** "  
     :::image-end:::  
     
 1.  Щелкните событие, чтобы просмотреть сведения о нем в пространстве под таблицей.  
     
-    :::image type="complex" source="../media/javascript-application-background-services-background-sync-details.msft.png" alt-text="Просмотр сведений о событии в области фоновой синхронизации" lightbox="../media/javascript-application-background-services-background-sync-details.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-background-sync-details.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-background-sync-details.msft.png":::
        Просмотр сведений о событии в области **фоновой синхронизации**  
     :::image-end:::  
     
@@ -113,20 +113,20 @@ Microsoft Edge DevTools может записывать события фоно�
 1.  Откройте панель **приложения** .  
 1.  Открытие области **уведомлений** .  
     
-    :::image type="complex" source="../media/javascript-application-background-services-notifications-empty.msft.png" alt-text="Область уведомлений" lightbox="../media/javascript-application-background-services-notifications-empty.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-notifications-empty.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-notifications-empty.msft.png":::
        Область **уведомлений**  
     :::image-end:::  
     
 1.  Нажмите **запись** \ ( ![ запись ][ImageRecordIcon] \).  
    После запуска некоторых действий с уведомлениями DevTools регистрирует события в таблице.  
     
-    :::image type="complex" source="../media/javascript-application-background-services-notifications.msft.png" alt-text="Журнал событий в области уведомлений" lightbox="../media/javascript-application-background-services-notifications.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-notifications.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-notifications.msft.png":::
        Журнал событий в области **уведомлений**  
     :::image-end:::  
     
 1.  Щелкните событие, чтобы просмотреть сведения о нем в пространстве под таблицей.  
     
-    :::image type="complex" source="../media/javascript-application-background-services-notifications-details.msft.png" alt-text="Просмотр сведений о событии в области уведомлений" lightbox="../media/javascript-application-background-services-notifications-details.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-notifications-details.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-notifications-details.msft.png":::
        Просмотр сведений о событии в области **уведомлений**  
     :::image-end:::  
     
@@ -138,14 +138,14 @@ Microsoft Edge DevTools может записывать события фоно�
 1.  Откройте панель **приложения** .  
 1.  Открыть область **Push-сообщений** .  
     
-    :::image type="complex" source="../media/javascript-application-background-services-push-messaging-empty.msft.png" alt-text="Область Push-сообщений" lightbox="../media/javascript-application-background-services-push-messaging-empty.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-push-messaging-empty.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-push-messaging-empty.msft.png":::
        Область **Push-сообщений**  
     :::image-end:::  
     
 1.  Нажмите **запись** \ ( ![ запись ][ImageRecordIcon] \).  
     После запуска некоторых действий Push-сообщений DevTools регистрирует события в таблице.  
     
-    :::image type="complex" source="../media/javascript-application-background-services-push-messaging.msft.png" alt-text="Журнал событий в области Push-сообщений" lightbox="../media/javascript-application-background-services-push-messaging.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-push-messaging.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-push-messaging.msft.png":::
        Журнал событий в области Push- **сообщений**  
     :::image-end:::  
     

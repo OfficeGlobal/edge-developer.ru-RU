@@ -48,7 +48,7 @@ ms.locfileid: "10993424"
 
 При приостановке в строке кода, содержащей функцию, которая не связана с проблемой, которую вы используете для отладки, нажмите кнопку **шаг за** шагом \ ( ![ Шаг с заходом ][ImageStepOverIcon] в конце), чтобы запустить функцию без пошагового выполнения.  
 
-:::image type="complex" source="../media/javascript-source-page-debugger-step-over-next-function-call.msft.png" alt-text="Нажмите кнопку "шаг за шагом"" lightbox="../media/javascript-source-page-debugger-step-over-next-function-call.msft.png":::
+:::image type="complex" source="../media/javascript-source-page-debugger-step-over-next-function-call.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-source-page-debugger-step-over-next-function-call.msft.png":::
    Нажмите кнопку " **шаг за шагом** "  
 :::image-end:::  
 
@@ -72,7 +72,7 @@ function getName() {
 
 При приостановке в строке кода, содержащей вызов функции, связанный с проблемой, в которой выполняется отладка, нажмите кнопку **Шаг с заходом** \ (шаг с заходом в начало ![ ), ][ImageStepIntoIcon] чтобы более подробно изучить эту функцию.  
 
-:::image type="complex" source="../media/javascript-source-page-debugger-step-into-next-function-call.msft.png" alt-text="Нажмите кнопку "шаг с заходом"" lightbox="../media/javascript-source-page-debugger-step-into-next-function-call.msft.png":::
+:::image type="complex" source="../media/javascript-source-page-debugger-step-into-next-function-call.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-source-page-debugger-step-into-next-function-call.msft.png":::
    Нажмите кнопку " **Шаг с заходом** "  
 :::image-end:::  
 
@@ -96,7 +96,7 @@ function getName() {
 
 При приостановке внутри функции, которая не связана с проблемой, которую вы выполняете Отладка, нажмите кнопку **шаг** с выходом \ ( ![ Шаг с выходом ][ImageStepOutIcon] ), чтобы выполнить оставшуюся часть кода функции.  
 
-:::image type="complex" source="../media/javascript-source-page-debugger-step-out-of-current-function.msft.png" alt-text="Нажмите кнопку "шаг с выходом"" lightbox="../media/javascript-source-page-debugger-step-out-of-current-function.msft.png":::
+:::image type="complex" source="../media/javascript-source-page-debugger-step-out-of-current-function.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-source-page-debugger-step-out-of-current-function.msft.png":::
    Нажмите кнопку " **Шаг с выходом** "  
 :::image-end:::  
 
@@ -124,7 +124,7 @@ function getName() {
 
 Щелкните правой кнопкой мыши строку кода, в которой вы хотите заинтересовать, и выберите команду **продолжить**.  DevTools запускает весь код до этого момента, а затем приостанавливает выполнение на этой линии.  
 
-:::image type="complex" source="../media/javascript-source-page-continue-to-here.msft.png" alt-text="Нажмите кнопку "перейти сюда"" lightbox="../media/javascript-source-page-continue-to-here.msft.png":::
+:::image type="complex" source="../media/javascript-source-page-continue-to-here.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-source-page-continue-to-here.msft.png":::
    Нажмите кнопку **"перейти сюда"**  
 :::image-end:::  
 
@@ -146,7 +146,7 @@ function factorial(n) {
 
 Вы приостанавливаете `A` .  После нажатия кнопки **перезапустить**вы должны быть приостановлены `B` , пока не задана точка останова или нажата клавиша **возобновления выполнения сценария**.  
 
-:::image type="complex" source="../media/javascript-source-page-debugger-restart-frame.msft.png" alt-text="Нажмите кнопку "перезапустить рамку"" lightbox="../media/javascript-source-page-debugger-restart-frame.msft.png":::
+:::image type="complex" source="../media/javascript-source-page-debugger-restart-frame.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-source-page-debugger-restart-frame.msft.png":::
    Нажмите кнопку " **перезапустить рамку** "  
 :::image-end:::  
 
@@ -154,7 +154,7 @@ function factorial(n) {
 
 Чтобы продолжить выполнение после паузы в сценарии, нажмите кнопку **возобновить исполнение сценария** \ ( ![ возобновить выполнение сценария \ ][ImageResumeScriptExecutionIcon] ).  DevTools запускает сценарий до следующей точки останова (при наличии).  
 
-:::image type="complex" source="../media/javascript-sources-get-started-js-resume-script-runtime.msft.png" alt-text="Выбор выполнения сценария возобновления" lightbox="../media/javascript-sources-get-started-js-resume-script-runtime.msft.png":::
+:::image type="complex" source="../media/javascript-sources-get-started-js-resume-script-runtime.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-sources-get-started-js-resume-script-runtime.msft.png":::
    Выбор **выполнения сценария возобновления**  
 :::image-end:::  
 
@@ -162,7 +162,7 @@ function factorial(n) {
 
 Чтобы пропустить все точки останова и принудительно возобновить выполнение сценария, нажмите и удерживайте кнопку запустить выполнение **сценария** \ ( ![ возобновить выполнение скрипта \ ][ImageResumeScriptExecutionIcon] ) и выберите команду **принудительное** выполнение сценария \ ( ![ принудительное выполнение сценария \ ][ImageForceScriptExecutionIcon] ).  
 
-:::image type="complex" source="../media/javascript-sources-get-started-js-force-script-runtime.msft.png" alt-text="Выберите принудительное выполнение сценария" lightbox="../media/javascript-sources-get-started-js-force-script-runtime.msft.png":::
+:::image type="complex" source="../media/javascript-sources-get-started-js-force-script-runtime.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-sources-get-started-js-force-script-runtime.msft.png":::
    Выберите **принудительное выполнение сценария**  
 :::image-end:::  
 
@@ -170,7 +170,7 @@ function factorial(n) {
 
 При работе с веб-сотрудниками или сотрудниками служб щелкните контекст, указанный в области **потоки** , чтобы переключиться на этот контекст.  Синий значок стрелки соответствует контексту, выбранному в данный момент.  
 
-:::image type="complex" source="../media/javascript-sources-main-min-js-threads.msft.png" alt-text="Область «потоки»" lightbox="../media/javascript-sources-main-min-js-threads.msft.png":::
+:::image type="complex" source="../media/javascript-sources-main-min-js-threads.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-sources-main-min-js-threads.msft.png":::
    Область « **потоки** »  
 :::image-end:::  
 
@@ -183,7 +183,7 @@ function factorial(n) {
 *   Дважды щелкните значение свойства, чтобы изменить его.  
 *   Неперечислимые свойства затенены.  
 
-:::image type="complex" source="../media/javascript-sources-get-started-js-scope.msft.png" alt-text="Область "область"" lightbox="../media/javascript-sources-get-started-js-scope.msft.png":::
+:::image type="complex" source="../media/javascript-sources-get-started-js-scope.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-sources-get-started-js-scope.msft.png":::
    Область " **область** "  
 :::image-end:::  
 
@@ -195,7 +195,7 @@ function factorial(n) {
 
 Щелкните запись, чтобы перейти к строке кода, в которой была вызвана эта функция.  Синий значок стрелки показывает, какая функция DevTools выделяется в данный момент.  
 
-:::image type="complex" source="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty.msft.png" alt-text="Область «стек вызовов»" lightbox="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty.msft.png":::
+:::image type="complex" source="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty.msft.png":::
    Область « **Стек вызовов** »  
 :::image-end:::  
 
@@ -210,7 +210,7 @@ This should be moved to an "Export debug data" H2 section when there is enough c
 
 Щелкните правой кнопкой мыши в любом месте области **стека звонков** и выберите команду **Копировать трассировку стека** , чтобы скопировать текущий стек вызовов в буфер обмена.  
 
-:::image type="complex" source="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-copy-stack-trace.msft.png" alt-text="Нажмите кнопку Копировать трассировку стека." lightbox="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-copy-stack-trace.msft.png":::
+:::image type="complex" source="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-copy-stack-trace.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-copy-stack-trace.msft.png":::
    Нажмите кнопку **Копировать трассировку стека** .  
 :::image-end:::  
 
@@ -246,7 +246,7 @@ function animate() {
 1.  Щелкните правой кнопкой мыши в любом месте.  
 1.  Нажмите кнопку **помечать как код библиотеки**.  
     
-    :::image type="complex" source="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-editor-mark-as-library-code.msft.png" alt-text="Пометка сценария как кода библиотеки в области "редактор"" lightbox="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-editor-mark-as-library-code.msft.png":::
+    :::image type="complex" source="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-editor-mark-as-library-code.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-editor-mark-as-library-code.msft.png":::
        Пометка сценария как **кода библиотеки** в области " **Редактор** "  
     :::image-end:::  
     
@@ -257,7 +257,7 @@ Compelte действия folliwng, чтобы помечать сценарий
 1.  Щелкните правой кнопкой мыши функцию в сценарии.  
 1.  Нажмите кнопку **помечать как код библиотеки**.  
     
-    :::image type="complex" source="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-call-stack-mark-as-library-code.msft.png" alt-text="Пометка сценария как кода библиотеки на панели «стек вызовов»" lightbox="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-call-stack-mark-as-library-code.msft.png":::
+    :::image type="complex" source="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-call-stack-mark-as-library-code.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-call-stack-mark-as-library-code.msft.png":::
        Пометка сценария как **кода библиотеки** на панели « **Стек вызовов** »  
     :::image-end:::  
     
@@ -271,7 +271,7 @@ Compelte действия folliwng, чтобы помечать сценарий
 1.  Введите имя сценария или шаблон регулярного выражения для имен сценариев, чтобы помечать его как **код библиотеки**.  
 1.  Щелкните **Добавить**.  
     
-    :::image type="complex" source="../media/javascript-framework-library-code.msft.png" alt-text="Пометка сценария как кода библиотеки из параметров" lightbox="../media/javascript-framework-library-code.msft.png":::
+    :::image type="complex" source="../media/javascript-framework-library-code.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-framework-library-code.msft.png":::
        Пометка сценария как **кода библиотеки** из **параметров**  
     :::image-end:::  
     
@@ -285,7 +285,7 @@ Compelte действия folliwng, чтобы помечать сценарий
 
 Используйте область **контрольных** значений для просмотра значений настраиваемых выражений.  Вы можете просмотреть любое допустимое выражение JavaScript.  
 
-:::image type="complex" source="../media/javascript-sources-get-started-js-watch.msft.png" alt-text="Область контрольных значений" lightbox="../media/javascript-sources-get-started-js-watch.msft.png":::
+:::image type="complex" source="../media/javascript-sources-get-started-js-watch.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-sources-get-started-js-watch.msft.png":::
    Область **контрольных значений**  
 :::image-end:::  
 
@@ -297,7 +297,7 @@ Compelte действия folliwng, чтобы помечать сценарий
 
 Нажмите кнопку **Формат** \ ( ![ Формат ][ImageFormatIcon] \), чтобы сделать файл minified удобным для восприятия.  
 
-:::image type="complex" source="../media/javascript-sources-html-non-minified.msft.png" alt-text="Кнопка "формат"" lightbox="../media/javascript-sources-html-non-minified.msft.png":::
+:::image type="complex" source="../media/javascript-sources-html-non-minified.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-sources-html-non-minified.msft.png":::
    Кнопка " **Формат** "  
 :::image-end:::  
 
@@ -311,7 +311,7 @@ Compelte действия folliwng, чтобы помечать сценарий
 1.  Внесите изменения в область " **Редактор** ".  
 1.  Чтобы сохранить, нажмите клавиши `Ctrl` + `S` \ (Windows \) или `Command` + `S` \ (macOS \).  DevTools заменяет весь JS – файл в механизме JavaScript Microsoft Edge.  
     
-    :::image type="complex" source="../media/javascript-sources-html-minified.msft.png" alt-text="Область "редактор"" lightbox="../media/javascript-sources-html-minified.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-html-minified.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-sources-html-minified.msft.png":::
        Область " **Редактор** "  
     :::image-end:::  
      

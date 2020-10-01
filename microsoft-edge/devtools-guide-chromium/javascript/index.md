@@ -62,19 +62,19 @@ DevTools предоставляет множество различных инс
 
 1.  Откройте DevTools, нажав клавиши `Control` + `Shift` + `J` \ (Windows \) или `Command` + `Option` + `J` \ (macOS \).  С помощью этого ярлыка открывается панель **консоли** .  
     
-    :::image type="complex" source="../media/javascript-console-empty.msft.png" alt-text="Панель консоли" lightbox="../media/javascript-console-empty.msft.png":::
+    :::image type="complex" source="../media/javascript-console-empty.msft.png" alt-text="Результатом 5 + 1 является 51, а должно быть 6." lightbox="../media/javascript-console-empty.msft.png":::
        Панель **консоли**  
     :::image-end:::  
     
 1.  Откройте вкладку **источники** .  
     
-    :::image type="complex" source="../media/javascript-sources-sections.msft.png" alt-text="Панель «источники»" lightbox="../media/javascript-sources-sections.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-sections.msft.png" alt-text="Результатом 5 + 1 является 51, а должно быть 6." lightbox="../media/javascript-sources-sections.msft.png":::
        Панель « **источники** »  
     :::image-end:::  
     
 В пользовательском интерфейсе панели « **источники** » есть 3 части.  
 
-:::image type="complex" source="../media/javascript-sources-sections-annotated.msft.png" alt-text="3 части пользовательского интерфейса панели «источники»" lightbox="../media/javascript-sources-sections-annotated.msft.png":::
+:::image type="complex" source="../media/javascript-sources-sections-annotated.msft.png" alt-text="Результатом 5 + 1 является 51, а должно быть 6." lightbox="../media/javascript-sources-sections-annotated.msft.png":::
    3 части пользовательского интерфейса панели « **источники** »  
 :::image-end:::  
 
@@ -111,7 +111,7 @@ function updateLabel() {
 1.  Рядом с категорией событие **мыши** нажмите кнопку **развернуть** \ ( ![ развернуть значок ][ImageExpandIcon] \).  DevTools открывает список событий мыши, например **Click** и **MouseDown**.  Рядом с каждым событием установлен флажок.  
 1.  Установите флажок **щелкнуть** .  DevTools теперь настроен на автоматическую приостановку при запуске *любого* `click` прослушивателя событий.  
     
-    :::image type="complex" source="../media/javascript-sources-event-listener-breakpoint-mouse-click.msft.png" alt-text="Флажок "нажатие кнопки" включен" lightbox="../media/javascript-sources-event-listener-breakpoint-mouse-click.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-event-listener-breakpoint-mouse-click.msft.png" alt-text="Результатом 5 + 1 является 51, а должно быть 6." lightbox="../media/javascript-sources-event-listener-breakpoint-mouse-click.msft.png":::
        Флажок " **Нажатие кнопки** " включен  
     :::image-end:::  
     
@@ -160,7 +160,7 @@ function updateLabel() {
 1.  Слева от кода отображается номер строки данной строки кода, **33**.  Щелкните **33**.  DevTools помещает красный значок слева от **33**.  Это означает, что в этой строке есть точка останова из строки кода.  DevTools теперь всегда задерживается перед выполнением этой строки кода.  
 1.  Нажмите кнопку **возобновить выполнение сценария** ( ![ возобновить выполнение сценария ][ImageResumeIcon] ).  Сценарий продолжит работу, пока не достигнет строки 33.  В строках с 30, 31 и 32 DevTools распечатывает значения и `addend1` `addend2` `sum` справа от точки с запятой в каждой строке.  
     
-    :::image type="complex" source="../media/javascript-sources-breakpoint-paused.msft.png" alt-text="DevTools приостанавливается на точке останова строки кода в строке 32" lightbox="../media/javascript-sources-breakpoint-paused.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-breakpoint-paused.msft.png" alt-text="Результатом 5 + 1 является 51, а должно быть 6." lightbox="../media/javascript-sources-breakpoint-paused.msft.png":::
        DevTools приостанавливается на точке останова строки кода в строке 32  
     :::image-end:::  
     
@@ -172,7 +172,7 @@ function updateLabel() {
 
 Когда вы наводите указатель на строку кода, область " **область** " показывает, какие локальные и глобальные переменные определяются в настоящее время, а также значения каждой переменной.  Кроме того, при необходимости отображаются переменные замыкания.  Дважды щелкните значение переменной, чтобы изменить его.  Если вы не надерживаетесь в строке кода, область " **область** " пуста.  
 
-:::image type="complex" source="../media/javascript-sources-breakpoint-paused-scope.msft.png" alt-text="Область "область"" lightbox="../media/javascript-sources-breakpoint-paused-scope.msft.png":::
+:::image type="complex" source="../media/javascript-sources-breakpoint-paused-scope.msft.png" alt-text="Результатом 5 + 1 является 51, а должно быть 6." lightbox="../media/javascript-sources-breakpoint-paused-scope.msft.png":::
    Область " **область** "  
 :::image-end:::  
 
@@ -188,7 +188,7 @@ function updateLabel() {
 > [!NOTE]
 > В области выражения для контрольных значений \ (внизу справа) на рисунке ниже `typeof sum` показано выражение Watch.  Если окно DevTools велико, область выражения контрольных значений находится справа над областью **точки останова прослушивателя событий** .  
 
-:::image type="complex" source="../media/javascript-sources-breakpoint-paused-watch.msft.png" alt-text="Область "выражение контрольного значения"" lightbox="../media/javascript-sources-breakpoint-paused-watch.msft.png":::
+:::image type="complex" source="../media/javascript-sources-breakpoint-paused-watch.msft.png" alt-text="Результатом 5 + 1 является 51, а должно быть 6." lightbox="../media/javascript-sources-breakpoint-paused-watch.msft.png":::
    Область " **выражение контрольного значения** "  
 :::image-end:::  
 
@@ -202,7 +202,7 @@ function updateLabel() {
 1.  В окне консоли введите `parseInt(addend1) + parseInt(addend2)` .  Эта инструкция работает, так как вы придерживаетесь к строке кода, `addend1` в которой и `addend2` находятся в области.  
 1.  Нажмите клавишу `Enter` .  DevTools оценивает оператор и печатает `6` результаты, что является результатом, который вы ожидаете.  
     
-    :::image type="complex" source="../media/javascript-sources-breakpoint-paused-console.msft.png" alt-text="Входной ящик консоли после оценки parseInt (addend1) + parseInt (addend2)" lightbox="../media/javascript-sources-breakpoint-paused-console.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-breakpoint-paused-console.msft.png" alt-text="Результатом 5 + 1 является 51, а должно быть 6." lightbox="../media/javascript-sources-breakpoint-paused-console.msft.png":::
        Входной ящик **консоли** после оценки `parseInt(addend1) + parseInt(addend2)`  
     :::image-end:::  
     
