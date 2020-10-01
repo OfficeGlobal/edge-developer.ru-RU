@@ -48,19 +48,19 @@ ms.locfileid: "10993557"
     
 1.  <span data-ttu-id="3b701-111">Разверните меню **Локальное хранилище** .</span><span class="sxs-lookup"><span data-stu-id="3b701-111">Expand the **Local Storage** menu.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-local-storage.msft.png" alt-text="Меню «локальное хранилище»" lightbox="../media/storage-application-local-storage.msft.png":::
+    :::image type="complex" source="../media/storage-application-local-storage.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-local-storage.msft.png":::
        <span data-ttu-id="3b701-113">Меню « **Локальное хранилище** »</span><span class="sxs-lookup"><span data-stu-id="3b701-113">The **Local Storage** menu</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="3b701-114">Выберите домен, чтобы просмотреть пары "ключ-значение".</span><span class="sxs-lookup"><span data-stu-id="3b701-114">Select a domain to view the key-value pairs.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-local-storage-view-key-value.msft.png" alt-text="LocalStorage пары "ключ-значение" для https://www.bing.com домена" lightbox="../media/storage-application-local-storage-view-key-value.msft.png":::
+    :::image type="complex" source="../media/storage-application-local-storage-view-key-value.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-local-storage-view-key-value.msft.png":::
        <span data-ttu-id="3b701-116">`localStorage`Пары "ключ-значение" для `https://www.bing.com` домена</span><span class="sxs-lookup"><span data-stu-id="3b701-116">The `localStorage` key-value pairs for the `https://www.bing.com` domain</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="3b701-117">Выделите строку таблицы, чтобы просмотреть ее значение в представлении под таблицей.</span><span class="sxs-lookup"><span data-stu-id="3b701-117">Select a row of the table to view the value in the viewer below the table.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-local-storage-view-key-value-selected.msft.png" alt-text="Просмотр значения ключа eventLogQueue_Online" lightbox="../media/storage-application-local-storage-view-key-value-selected.msft.png":::
+    :::image type="complex" source="../media/storage-application-local-storage-view-key-value-selected.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-local-storage-view-key-value-selected.msft.png":::
        <span data-ttu-id="3b701-119">Просмотр значения `eventLogQueue_Online` ключа</span><span class="sxs-lookup"><span data-stu-id="3b701-119">View the value of the `eventLogQueue_Online` key</span></span>  
     :::image-end:::  
     
@@ -69,7 +69,7 @@ ms.locfileid: "10993557"
 1.  <span data-ttu-id="3b701-121">[Просмотр `localStorage` пар "ключ-значение" домена](#view-localstorage-keys-and-values).</span><span class="sxs-lookup"><span data-stu-id="3b701-121">[View the `localStorage` key-value pairs of a domain](#view-localstorage-keys-and-values).</span></span>  
 1.  <span data-ttu-id="3b701-122">Дважды щелкните пустую часть таблицы.</span><span class="sxs-lookup"><span data-stu-id="3b701-122">Double-click the empty part of the table.</span></span>  <span data-ttu-id="3b701-123">DevTools создает новую строку и нафокусирует указатель мыши на **ключевом** столбце.</span><span class="sxs-lookup"><span data-stu-id="3b701-123">DevTools creates a new row and focuses your cursor in the **Key** column.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-local-storage-new-key-value.msft.png" alt-text="Пустая часть таблицы для двойного щелчка, чтобы создать новую пару ключ-значение." lightbox="../media/storage-application-local-storage-new-key-value.msft.png":::
+    :::image type="complex" source="../media/storage-application-local-storage-new-key-value.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-local-storage-new-key-value.msft.png":::
        <span data-ttu-id="3b701-125">Пустая часть таблицы для двойного щелчка, чтобы создать новую пару ключ-значение.</span><span class="sxs-lookup"><span data-stu-id="3b701-125">The empty part of the table to double-click in order to create a new key-value pair</span></span>  
     :::image-end:::  
     
@@ -78,7 +78,7 @@ ms.locfileid: "10993557"
 1.  <span data-ttu-id="3b701-127">[Просмотр `localStorage` пар "ключ-значение" домена](#view-localstorage-keys-and-values).</span><span class="sxs-lookup"><span data-stu-id="3b701-127">[View the `localStorage` key-value pairs of a domain](#view-localstorage-keys-and-values).</span></span>  
 1.  <span data-ttu-id="3b701-128">Дважды щелкните ячейку в столбце " **раздел** " или " **значение** ", чтобы изменить этот раздел или значение.</span><span class="sxs-lookup"><span data-stu-id="3b701-128">Double-click a cell in the **Key** or **Value** column to edit that key or value.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-local-storage-edit-key-value.msft.png" alt-text="Изменение ключа localStorage" lightbox="../media/storage-application-local-storage-edit-key-value.msft.png":::
+    :::image type="complex" source="../media/storage-application-local-storage-edit-key-value.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-local-storage-edit-key-value.msft.png":::
        <span data-ttu-id="3b701-130">Изменение `localStorage` ключа</span><span class="sxs-lookup"><span data-stu-id="3b701-130">Edit a `localStorage` key</span></span>  
     :::image-end:::  
     
@@ -99,13 +99,13 @@ ms.locfileid: "10993557"
 
 1.  <span data-ttu-id="3b701-141">Используйте меню "контексты **JavaScript** " для изменения контекста JavaScript на **консоли** , если требуется получить доступ к `localStorage` парам "ключ-значение" домена, отличного от отображаемой страницы.</span><span class="sxs-lookup"><span data-stu-id="3b701-141">Use the **JavaScript contexts** menu to change the JavaScript context of the **Console** if you want to access the `localStorage` key-value pairs of a domain other than the page that is displayed.</span></span>  
     
-    :::image type="complex" source="../media/storage-console-local-storage.msft.png" alt-text="Изменение контекста JavaScript консоли" lightbox="../media/storage-console-local-storage.msft.png":::
+    :::image type="complex" source="../media/storage-console-local-storage.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-console-local-storage.msft.png":::
        <span data-ttu-id="3b701-143">Изменение контекста JavaScript консоли</span><span class="sxs-lookup"><span data-stu-id="3b701-143">Change the JavaScript context of the Console</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="3b701-144">Выполняйте `localStorage` выражения на консоли так же, как и в JavaScript.</span><span class="sxs-lookup"><span data-stu-id="3b701-144">Run your `localStorage` expressions in the Console, the same as you do in your JavaScript.</span></span>  
     
-    :::image type="complex" source="../media/storage-console-local-storage-interaction.msft.png" alt-text="Взаимодействие с localStorage с помощью консоли" lightbox="../media/storage-console-local-storage-interaction.msft.png":::
+    :::image type="complex" source="../media/storage-console-local-storage-interaction.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-console-local-storage-interaction.msft.png":::
        <span data-ttu-id="3b701-146">Взаимодействие с `localStorage` **консолью**</span><span class="sxs-lookup"><span data-stu-id="3b701-146">Interact with `localStorage` from the **Console**</span></span>  
     :::image-end:::  
     

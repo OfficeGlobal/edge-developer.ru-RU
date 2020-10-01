@@ -48,7 +48,7 @@ ms.locfileid: "10993564"
     
 1.  <span data-ttu-id="43fdf-114">Разверните меню **IndexedDB** , чтобы узнать, какие базы данных доступны.</span><span class="sxs-lookup"><span data-stu-id="43fdf-114">Expand the **IndexedDB** menu to see which databases are available.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-storage-indexeddb.msft.png" alt-text="Меню IndexedDB" lightbox="../media/storage-application-storage-indexeddb.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb.msft.png":::
        <span data-ttu-id="43fdf-116">Меню **IndexedDB**</span><span class="sxs-lookup"><span data-stu-id="43fdf-116">The **IndexedDB** menu</span></span>  
     :::image-end:::  
     
@@ -61,7 +61,7 @@ ms.locfileid: "10993564"
     
 1.  <span data-ttu-id="43fdf-123">Выберите базу данных, чтобы увидеть источник и номер версии.</span><span class="sxs-lookup"><span data-stu-id="43fdf-123">Select a database to see the origin and version number.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db.msft.png" alt-text="База данных Notes" lightbox="../media/storage-application-storage-indexeddb-notes_db.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db.msft.png":::
        <span data-ttu-id="43fdf-125">База данных **Notes**</span><span class="sxs-lookup"><span data-stu-id="43fdf-125">The **notes** database</span></span>  
     :::image-end:::  
     
@@ -70,7 +70,7 @@ ms.locfileid: "10993564"
     > [!NOTE]
     > <span data-ttu-id="43fdf-127">Данные IndexedDB не обновляются в режиме реального времени.</span><span class="sxs-lookup"><span data-stu-id="43fdf-127">IndexedDB data does not update in real-time.</span></span>  <span data-ttu-id="43fdf-128">Смотрите раздел [Обновление данных IndexedDB](#refresh-indexeddb-data).</span><span class="sxs-lookup"><span data-stu-id="43fdf-128">See [Refresh IndexedDB data](#refresh-indexeddb-data).</span></span>  
     
-    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os.msft.png" alt-text="Хранилище объектов "Заметки"" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os.msft.png":::
        <span data-ttu-id="43fdf-130">Хранилище объектов " **заметки** "</span><span class="sxs-lookup"><span data-stu-id="43fdf-130">The **notes** object store</span></span>  
     :::image-end:::  
     
@@ -79,13 +79,13 @@ ms.locfileid: "10993564"
     
 1.  <span data-ttu-id="43fdf-134">Выберите ячейку в столбце **значение** , чтобы развернуть это значение.</span><span class="sxs-lookup"><span data-stu-id="43fdf-134">Select a cell in the **Value** column to expand that value.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-edge-chromium.msft.png" alt-text="Просмотр значения IndexedDB" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-edge-chromium.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-edge-chromium.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-edge-chromium.msft.png":::
        <span data-ttu-id="43fdf-136">Просмотр значения **IndexedDB**</span><span class="sxs-lookup"><span data-stu-id="43fdf-136">View an **IndexedDB** value</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="43fdf-137">Выберите индекс (например, **заголовок** или **текст** ) на приведенном ниже рисунке, чтобы отсортировать хранилище объектов согласно значениям этого индекса.</span><span class="sxs-lookup"><span data-stu-id="43fdf-137">Select an index, such as **title** or **body** in the following figure, to sort the object store according to the values of that index.</span></span>  
    
-    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-title.msft.png" alt-text="Сортировка хранилища объектов по индексу" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-title.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-title.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-title.msft.png":::
        <span data-ttu-id="43fdf-139">Сортировка хранилища объектов по индексу</span><span class="sxs-lookup"><span data-stu-id="43fdf-139">Sort an object store by an index</span></span>  
     :::image-end:::  
     
@@ -93,7 +93,7 @@ ms.locfileid: "10993564"
 
 <span data-ttu-id="43fdf-141">Значения IndexedDB на панели **приложения** не обновляются в режиме реального времени.</span><span class="sxs-lookup"><span data-stu-id="43fdf-141">IndexedDB values in the **Application** panel do not update in real-time.</span></span>  <span data-ttu-id="43fdf-142">Выберите команду **Обновить** \ ( ![ обновить ][ImageReloadIcon] \) при просмотре хранилища объектов, чтобы обновить данные, или просмотрите базу данных и нажмите **обновить базу данных** , чтобы обновить все данные.</span><span class="sxs-lookup"><span data-stu-id="43fdf-142">Select **Refresh** \(![Refresh][ImageReloadIcon]\) when viewing an object store to refresh the data, or view a database and click **Refresh database** to refresh all data.</span></span>  
 
-:::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-refresh-database.msft.png" alt-text="Просмотр базы данных" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-refresh-database.msft.png":::
+:::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-refresh-database.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-refresh-database.msft.png":::
    <span data-ttu-id="43fdf-144">Просмотр базы данных</span><span class="sxs-lookup"><span data-stu-id="43fdf-144">View a database</span></span>  
 :::image-end:::  
 
@@ -105,7 +105,7 @@ ms.locfileid: "10993564"
 
 <span data-ttu-id="43fdf-149">[Фрагменты][DevtoolsJavascriptSnippets] — это способ хранения и выполнения блоков кода JavaScript в DevTools.</span><span class="sxs-lookup"><span data-stu-id="43fdf-149">[Snippets][DevtoolsJavascriptSnippets] are a way to store and run blocks of JavaScript code within DevTools.</span></span>  <span data-ttu-id="43fdf-150">При выполнении фрагмента на **консоль**выписывается результат.</span><span class="sxs-lookup"><span data-stu-id="43fdf-150">When you run a Snippet, the result is logged to the **Console**.</span></span>  <span data-ttu-id="43fdf-151">Вы можете использовать сниппет для выполнения кода JavaScript, чтобы изменить базу данных IndexedDB.</span><span class="sxs-lookup"><span data-stu-id="43fdf-151">You may use a Snippet to run JavaScript code to edit an IndexedDB database.</span></span>  
 
-:::image type="complex" source="../media/storage-sources-snippets-indexeddb-output.msft.png" alt-text="Использование фрагмента для взаимодействия с IndexedDB" lightbox="../media/storage-sources-snippets-indexeddb-output.msft.png":::
+:::image type="complex" source="../media/storage-sources-snippets-indexeddb-output.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-sources-snippets-indexeddb-output.msft.png":::
    <span data-ttu-id="43fdf-153">Использование фрагмента для взаимодействия с IndexedDB</span><span class="sxs-lookup"><span data-stu-id="43fdf-153">Use a Snippet to interact with IndexedDB</span></span>  
 :::image-end:::  
 
@@ -116,13 +116,13 @@ ms.locfileid: "10993564"
 1.  <span data-ttu-id="43fdf-156">[Просмотр хранилища объектов IndexedDB](#view-indexeddb-data).</span><span class="sxs-lookup"><span data-stu-id="43fdf-156">[View an IndexedDB object store](#view-indexeddb-data).</span></span>  
 1.  <span data-ttu-id="43fdf-157">Выберите пару "ключ-значение", которую вы хотите удалить.</span><span class="sxs-lookup"><span data-stu-id="43fdf-157">Select the key-value pair that you want to delete.</span></span>  <span data-ttu-id="43fdf-158">DevTools выделит ее, чтобы показать, что она выбрана.</span><span class="sxs-lookup"><span data-stu-id="43fdf-158">DevTools highlights it to indicate that it is selected.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os2.msft.png" alt-text="Выберите пару "ключ-значение", чтобы удалить ее" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os2.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os2.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os2.msft.png":::
        <span data-ttu-id="43fdf-160">Выберите пару "ключ-значение", чтобы удалить ее</span><span class="sxs-lookup"><span data-stu-id="43fdf-160">Select a key-value pair in order to delete it</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="43fdf-161">Нажмите клавишу `Delete` или нажмите кнопку **Удалить выделенные** \ ( ![ Удалить выбранные \ ][ImageDeleteIcon] ).</span><span class="sxs-lookup"><span data-stu-id="43fdf-161">Press the `Delete` key or click **Delete Selected** \(![Delete Selected][ImageDeleteIcon]\).</span></span>  
     
-    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-delete-selected.msft.png" alt-text="Как выглядит хранилище объектов после удаления пары "ключ-значение"" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-delete-selected.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-delete-selected.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-delete-selected.msft.png":::
        <span data-ttu-id="43fdf-163">Как выглядит хранилище объектов после удаления пары "ключ-значение"</span><span class="sxs-lookup"><span data-stu-id="43fdf-163">How the object store looks after the key-value pair has been deleted</span></span>  
     :::image-end:::  
     
@@ -130,7 +130,7 @@ ms.locfileid: "10993564"
 
 1.  <span data-ttu-id="43fdf-165">[Просмотр хранилища объектов IndexedDB](#view-indexeddb-data).</span><span class="sxs-lookup"><span data-stu-id="43fdf-165">[View an IndexedDB object store](#view-indexeddb-data).</span></span>  
     
-    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-clear-object-store.msft.png" alt-text="Просмотр хранилища объектов" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-clear-object-store.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-clear-object-store.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-clear-object-store.msft.png":::
        <span data-ttu-id="43fdf-167">Просмотр хранилища объектов</span><span class="sxs-lookup"><span data-stu-id="43fdf-167">View an object store</span></span>  
     :::image-end:::  
     
@@ -141,7 +141,7 @@ ms.locfileid: "10993564"
 1.  <span data-ttu-id="43fdf-170">[Просмотрите базу данных IndexedDB](#view-indexeddb-data) , которую вы хотите удалить.</span><span class="sxs-lookup"><span data-stu-id="43fdf-170">[View the IndexedDB database](#view-indexeddb-data) that you want to delete.</span></span>  
 1.  <span data-ttu-id="43fdf-171">Выберите команду **Удалить базу данных**.</span><span class="sxs-lookup"><span data-stu-id="43fdf-171">Select **Delete database**.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-delete-database.msft.png" alt-text="Кнопка "удалить базу данных"" lightbox="../media/storage-application-storage-indexeddb-notes_db-delete-database.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-delete-database.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db-delete-database.msft.png":::
        <span data-ttu-id="43fdf-173">Кнопка " **Удалить базу данных** "</span><span class="sxs-lookup"><span data-stu-id="43fdf-173">The **Delete database** button</span></span>  
     :::image-end:::  
     
@@ -151,7 +151,7 @@ ms.locfileid: "10993564"
 1.  <span data-ttu-id="43fdf-176">Убедитесь, что флажок **IndexedDB** установлен.</span><span class="sxs-lookup"><span data-stu-id="43fdf-176">Make sure that the **IndexedDB** checkbox is enabled.</span></span>  
 1.  <span data-ttu-id="43fdf-177">Нажмите кнопку **Очистить данные сайта**.</span><span class="sxs-lookup"><span data-stu-id="43fdf-177">Select **Clear site data**.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-clear-storage-indexeddb-clear-site-data.msft.png" alt-text="Область "Очистка хранилища"" lightbox="../media/storage-application-clear-storage-indexeddb-clear-site-data.msft.png":::
+    :::image type="complex" source="../media/storage-application-clear-storage-indexeddb-clear-site-data.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-clear-storage-indexeddb-clear-site-data.msft.png":::
        <span data-ttu-id="43fdf-179">Область " **Очистка хранилища** "</span><span class="sxs-lookup"><span data-stu-id="43fdf-179">The **Clear storage** pane</span></span>  
     :::image-end:::  
     

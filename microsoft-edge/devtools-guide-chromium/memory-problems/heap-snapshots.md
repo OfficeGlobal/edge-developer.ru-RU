@@ -46,7 +46,7 @@ ms.locfileid: "10993473"
 
 <span data-ttu-id="d5111-116">После того как вы загрузили моментальный снимок в DevTools и проанализируете его, появится число под заголовком снимка, в котором будет показан [Общий размер достижимых объектов JavaScript][DevtoolsMemoryProblems101ObjectSizes].</span><span class="sxs-lookup"><span data-stu-id="d5111-116">After the snapshot has been loaded into DevTools and has been parsed, the number below the snapshot title appears and shows the [total size of the reachable JavaScript objects][DevtoolsMemoryProblems101ObjectSizes].</span></span>  
 
-:::image type="complex" source="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-all.msft.png" alt-text="Общий размер достижимых объектов" lightbox="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-all.msft.png":::
+:::image type="complex" source="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-all.msft.png" alt-text="Выбор типа профилирования" lightbox="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-all.msft.png":::
    <span data-ttu-id="d5111-118">Общий размер достижимых объектов</span><span class="sxs-lookup"><span data-stu-id="d5111-118">Total size of reachable objects</span></span>  
 :::image-end:::  
 
@@ -57,7 +57,7 @@ ms.locfileid: "10993473"
 
 <span data-ttu-id="d5111-122">Нажмите кнопку **Очистить все профили** , чтобы удалить снимки \ (как из DevTools, так и из памяти, связанной с процессом рендеринга \).</span><span class="sxs-lookup"><span data-stu-id="d5111-122">Click **Clear all profiles** icon to remove snapshots \(both from DevTools and any memory associated with the renderer process\).</span></span>  
 
-:::image type="complex" source="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-all-hover-clear-all-profiles.msft.png" alt-text="Удаление снимков" lightbox="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-all-hover-clear-all-profiles.msft.png":::
+:::image type="complex" source="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-all-hover-clear-all-profiles.msft.png" alt-text="Выбор типа профилирования" lightbox="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-all-hover-clear-all-profiles.msft.png":::
    <span data-ttu-id="d5111-124">Удаление снимков</span><span class="sxs-lookup"><span data-stu-id="d5111-124">Remove snapshots</span></span>  
 :::image-end:::  
 
@@ -80,7 +80,7 @@ ms.locfileid: "10993473"
 
 <span data-ttu-id="d5111-142">Для переключения между представлениями Используйте селектор в верхней части представления.</span><span class="sxs-lookup"><span data-stu-id="d5111-142">To switch between views, use the selector at the top of the view.</span></span>  
 
-:::image type="complex" source="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-view-dropdown.msft.png" alt-text="Переключатель выбора представлений" lightbox="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-view-dropdown.msft.png":::
+:::image type="complex" source="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-view-dropdown.msft.png" alt-text="Выбор типа профилирования" lightbox="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-view-dropdown.msft.png":::
    <span data-ttu-id="d5111-144">Переключатель выбора представлений</span><span class="sxs-lookup"><span data-stu-id="d5111-144">Switch views selector</span></span>  
 :::image-end:::  
 
@@ -91,7 +91,7 @@ ms.locfileid: "10993473"
 
 <span data-ttu-id="d5111-149">Изначально в представлении сводки открывается моментальный снимок, в котором отображаются итоговые объекты, которые могут быть развернуты для отображения экземпляров.</span><span class="sxs-lookup"><span data-stu-id="d5111-149">Initially, a snapshot opens in the Summary view, displaying object totals, which may be expanded to show instances:</span></span>  
 
-:::image type="complex" source="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-constructor-retainers.msft.png" alt-text="Представление сводки" lightbox="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-constructor-retainers.msft.png":::
+:::image type="complex" source="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-constructor-retainers.msft.png" alt-text="Выбор типа профилирования" lightbox="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-constructor-retainers.msft.png":::
    <span data-ttu-id="d5111-151">Представление **сводки**</span><span class="sxs-lookup"><span data-stu-id="d5111-151">**Summary** view</span></span>  
 :::image-end:::  
 
@@ -112,7 +112,7 @@ ms.locfileid: "10993473"
 
 **<span data-ttu-id="d5111-171">Что в профилировщике кучи соотносятся различные элементы конструктора \ (Group \)?</span><span class="sxs-lookup"><span data-stu-id="d5111-171">What do the various constructor \(group\) entries in the Heap profiler correspond to?</span></span>**  
 
-:::image type="complex" source="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-constructor-highlight.msft.png" alt-text="Группы конструкторов" lightbox="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-constructor-highlight.msft.png":::
+:::image type="complex" source="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-constructor-highlight.msft.png" alt-text="Выбор типа профилирования" lightbox="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-constructor-highlight.msft.png":::
    <span data-ttu-id="d5111-173">Группы **конструкторов**</span><span class="sxs-lookup"><span data-stu-id="d5111-173">**Constructor** groups</span></span>  
 :::image-end:::  
 
@@ -138,7 +138,7 @@ ms.locfileid: "10993473"
     
 <span data-ttu-id="d5111-204">В представлении **Сравнение** отображается разница между двумя снимками.</span><span class="sxs-lookup"><span data-stu-id="d5111-204">In the **Comparison** view, the difference between two snapshots is displayed.</span></span>  <span data-ttu-id="d5111-205">При развертывании элемента общего типа отображаются добавленные и удаленные экземпляры объекта.</span><span class="sxs-lookup"><span data-stu-id="d5111-205">When expanding a total entry, added and deleted object instances are shown.</span></span>  
 
-:::image type="complex" source="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-comparison-dropdown.msft.png" alt-text="Представление "Сравнение"" lightbox="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-comparison-dropdown.msft.png":::
+:::image type="complex" source="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-comparison-dropdown.msft.png" alt-text="Выбор типа профилирования" lightbox="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-comparison-dropdown.msft.png":::
    <span data-ttu-id="d5111-207">Представление " **Сравнение** "</span><span class="sxs-lookup"><span data-stu-id="d5111-207">**Comparison** view</span></span>  
 :::image-end:::  
 
@@ -154,7 +154,7 @@ ms.locfileid: "10993473"
 | **<span data-ttu-id="d5111-215">Корни GC</span><span class="sxs-lookup"><span data-stu-id="d5111-215">GC roots</span></span>** | <span data-ttu-id="d5111-216">Фактические корни GC, используемые сборкой мусора ВМ.</span><span class="sxs-lookup"><span data-stu-id="d5111-216">The actual GC roots used by the garbage of the VM.</span></span>  <span data-ttu-id="d5111-217">Корни GC состоят из встроенных карт объектов, таблиц символов, стеков потоков виртуальной машины, кэшей компиляций, областей обработки и глобальных дескрипторов.</span><span class="sxs-lookup"><span data-stu-id="d5111-217">GC roots are comprised of built-in object maps, symbol tables, VM thread stacks, compilation caches, handle scopes, and global handles.</span></span>  |  
 | **<span data-ttu-id="d5111-218">Собственные объекты</span><span class="sxs-lookup"><span data-stu-id="d5111-218">Native objects</span></span>** | <span data-ttu-id="d5111-219">Объекты браузера "отправили" на виртуальной машине JavaScript \ (JavaScript VM \), чтобы разрешить автоматизацию, например узлы DOM, правила CSS.</span><span class="sxs-lookup"><span data-stu-id="d5111-219">Browser objects "pushed" inside the JavaScript virtual machine \(JavaScript VM\) to allow automation, for example, DOM nodes, CSS rules.</span></span>  |  
 
-:::image type="complex" source="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-containment-dropdown.msft.png" alt-text="Представление "вложение"" lightbox="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-containment-dropdown.msft.png":::
+:::image type="complex" source="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-containment-dropdown.msft.png" alt-text="Выбор типа профилирования" lightbox="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots-containment-dropdown.msft.png":::
    <span data-ttu-id="d5111-221">Представление " **вложение** "</span><span class="sxs-lookup"><span data-stu-id="d5111-221">**Containment** view</span></span>  
 :::image-end:::  
 
@@ -186,7 +186,7 @@ ms.locfileid: "10993473"
 > ```  
 > 
 > <!--  
-> :::image type="complex" source="../media/memory-problems-domleaks.msft.png" alt-text="Name functions to distinguish between closures" lightbox="../media/memory-problems-domleaks.msft.png":::
+> :::image type="complex" source="../media/memory-problems-domleaks.msft.png" alt-text="Выбор типа профилирования" lightbox="../media/memory-problems-domleaks.msft.png":::
 >    Name functions to distinguish between closures  
 > :::image-end:::  
 > -->  
@@ -235,7 +235,7 @@ leafRef = null;
 
 <span data-ttu-id="d5111-253">Функция `#leaf` хранит ссылку на подходящую родительскую структуру \ (ParentNode \) и рекурсивно `#tree` дополнить, так что только в том случае, если leafRef является nullified — это всего лишь дерево с `#tree` кандидатом на сборку мусора.</span><span class="sxs-lookup"><span data-stu-id="d5111-253">The `#leaf` maintains a reference to the relevant parent \(parentNode\) and recursively up to `#tree`, so only when leafRef is nullified is the WHOLE tree under `#tree` a candidate for GC.</span></span>  
 
-:::image type="complex" source="../media/memory-problems-tree-gc.msft.png" alt-text="Поддерево DOM" lightbox="../media/memory-problems-tree-gc.msft.png":::
+:::image type="complex" source="../media/memory-problems-tree-gc.msft.png" alt-text="Выбор типа профилирования" lightbox="../media/memory-problems-tree-gc.msft.png":::
    <span data-ttu-id="d5111-255">Поддерево DOM</span><span class="sxs-lookup"><span data-stu-id="d5111-255">DOM subtrees</span></span>  
 :::image-end:::  
 

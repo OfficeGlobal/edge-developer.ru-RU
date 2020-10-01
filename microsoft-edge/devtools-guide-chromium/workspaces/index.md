@@ -83,7 +83,7 @@ ms.locfileid: "10992724"
     <!--1.  Choose the project name.  -->  
     <!--1.  Select **Advanced Options** > **Download Project**.  
     
-    :::image type="complex" source="../media/workspaces-glitch-advanced-options-download-project.msft.png" alt-text="The Download Project button" lightbox="../media/workspaces-glitch-advanced-options-download-project.msft.png":::
+    :::image type="complex" source="../media/workspaces-glitch-advanced-options-download-project.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-glitch-advanced-options-download-project.msft.png":::
        The Download Project button  
     :::image-end:::  
 
@@ -111,7 +111,7 @@ ms.locfileid: "10992724"
     
 1.  <span data-ttu-id="ce2fc-139">Откройте вкладку в Microsoft EDGE и перейдите на веб-сайт с локально размещенной версией.</span><span class="sxs-lookup"><span data-stu-id="ce2fc-139">Open a tab in Microsoft Edge and go to locally-hosted version of the site.</span></span>  <span data-ttu-id="ce2fc-140">Доступ к ней можно получить с помощью URL-адреса, например `localhost:8080` или `http://0.0.0.0:8080` .</span><span class="sxs-lookup"><span data-stu-id="ce2fc-140">You should be able to access it using a URL like `localhost:8080` or `http://0.0.0.0:8080`.</span></span>  <span data-ttu-id="ce2fc-141">Точный [номер порта][WikiPortURLs] может отличаться от остальных.</span><span class="sxs-lookup"><span data-stu-id="ce2fc-141">The exact [port number][WikiPortURLs] may be different.</span></span>  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo.msft.png" alt-text="Демонстрация" lightbox="../media/workspaces-workspaces-demo.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo.msft.png":::
        <span data-ttu-id="ce2fc-143">Демонстрация</span><span class="sxs-lookup"><span data-stu-id="ce2fc-143">The demo</span></span>  
     :::image-end:::  
     
@@ -119,14 +119,14 @@ ms.locfileid: "10992724"
 
 1.  <span data-ttu-id="ce2fc-145">Выберите `Control` + `Shift` + `J` \ (Windows \) или `Command` + `Option` + `J` \ (macOS \), чтобы открыть панель **консоли** DevTools.</span><span class="sxs-lookup"><span data-stu-id="ce2fc-145">Select `Control`+`Shift`+`J` \(Windows\) or `Command`+`Option`+`J` \(macOS\) to open the **Console** panel of DevTools.</span></span>  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-console.msft.png" alt-text="Панель консоли" lightbox="../media/workspaces-workspaces-demo-console.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-console.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-console.msft.png":::
        <span data-ttu-id="ce2fc-147">Панель **консоли**</span><span class="sxs-lookup"><span data-stu-id="ce2fc-147">The **Console** panel</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="ce2fc-148">Перейдите на вкладку **источники** .</span><span class="sxs-lookup"><span data-stu-id="ce2fc-148">Choose the **Sources** tab.</span></span>  
 1.  <span data-ttu-id="ce2fc-149">Перейдите на вкладку **FileSystem (файловая система** ).</span><span class="sxs-lookup"><span data-stu-id="ce2fc-149">Choose the **Filesystem** tab.</span></span>  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-sources-filesystem.msft.png" alt-text="Вкладка "файловая система"" lightbox="../media/workspaces-workspaces-demo-sources-filesystem.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-sources-filesystem.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-sources-filesystem.msft.png":::
        <span data-ttu-id="ce2fc-151">Вкладка " **Файловая система** "</span><span class="sxs-lookup"><span data-stu-id="ce2fc-151">The **Filesystem** tab</span></span>  
     :::image-end:::  
     
@@ -135,7 +135,7 @@ ms.locfileid: "10992724"
 1.  <span data-ttu-id="ce2fc-154">Нажмите кнопку **Разрешить** , чтобы предоставить DevTools разрешение на чтение и запись в каталог.</span><span class="sxs-lookup"><span data-stu-id="ce2fc-154">Choose **Allow** to give DevTools permission to read and write to the directory.</span></span>  
     <span data-ttu-id="ce2fc-155">На вкладке **FileSystem** теперь есть зеленая точка рядом с `index.html` , `script.js` и `styles.css` .</span><span class="sxs-lookup"><span data-stu-id="ce2fc-155">In the **Filesystem** tab, there is now a green dot next to `index.html`, `script.js`, and `styles.css`.</span></span>  <span data-ttu-id="ce2fc-156">Эти зеленые точки означают, что в DevTools установлено соответствие между сетевыми ресурсами страницы и файлами в `~/Desktop/app` .</span><span class="sxs-lookup"><span data-stu-id="ce2fc-156">These green dots mean that DevTools has established a mapping between the network resources of the page, and the files in `~/Desktop/app`.</span></span>  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-sources-filesystem-folder.msft.png" alt-text="На вкладке FileSystem теперь показано соответствие между локальными и сетевыми файлами." lightbox="../media/workspaces-workspaces-demo-sources-filesystem-folder.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-sources-filesystem-folder.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-sources-filesystem-folder.msft.png":::
        <span data-ttu-id="ce2fc-158">На вкладке **FileSystem** теперь показано соответствие между локальными и сетевыми файлами.</span><span class="sxs-lookup"><span data-stu-id="ce2fc-158">The **Filesystem** tab now shows a mapping between the local files and the network ones</span></span>  
     :::image-end:::  
     
@@ -146,7 +146,7 @@ ms.locfileid: "10992724"
     > [!NOTE]
     > <span data-ttu-id="ce2fc-161">`color` `h1` Для свойства элементы задано значение `fuchsia` .</span><span class="sxs-lookup"><span data-stu-id="ce2fc-161">The `color` property of `h1` elements is set to `fuchsia`.</span></span>  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-sources-filesystem-css.msft.png" alt-text="Просмотр стилей. CSS в текстовом редакторе" lightbox="../media/workspaces-workspaces-demo-sources-filesystem-css.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-sources-filesystem-css.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-sources-filesystem-css.msft.png":::
        <span data-ttu-id="ce2fc-163">Просмотр `styles.css` в текстовом редакторе</span><span class="sxs-lookup"><span data-stu-id="ce2fc-163">View `styles.css` in a text editor</span></span>  
     :::image-end:::  
     
@@ -154,7 +154,7 @@ ms.locfileid: "10992724"
 1.  <span data-ttu-id="ce2fc-165">Измените значение `color` свойства `<h1>` элемента на предпочтительный цвет.</span><span class="sxs-lookup"><span data-stu-id="ce2fc-165">Change the value of the `color` property of the `<h1>` element to your favorite color.</span></span>  
     <span data-ttu-id="ce2fc-166">Помните о том, что для `<h1>` просмотра примененных к нему правил CSS в области **стили** необходимо выбрать элемент в **дереве DOM** .</span><span class="sxs-lookup"><span data-stu-id="ce2fc-166">Remember that you need to choose the `<h1>` element in the **DOM Tree** in order to see the CSS rules applied to it in the **Styles** pane.</span></span>  <span data-ttu-id="ce2fc-167">Зеленая точка рядом с `styles.css:1` ней означает, что все изменения, внесенные вами, сопоставлены `~/Desktop/app/styles.css` .</span><span class="sxs-lookup"><span data-stu-id="ce2fc-167">The green dot next to `styles.css:1` means that any change that you make are mapped to `~/Desktop/app/styles.css`.</span></span>  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-elements-styles-css.msft.png" alt-text="Зеленый индикатор, связанный с файлом" lightbox="../media/workspaces-workspaces-demo-elements-styles-css.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-elements-styles-css.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-elements-styles-css.msft.png":::
        <span data-ttu-id="ce2fc-169">Зеленый индикатор, связанный с файлом</span><span class="sxs-lookup"><span data-stu-id="ce2fc-169">The green indicator that the file is linked</span></span>  
     :::image-end:::  
     
@@ -177,7 +177,7 @@ ms.locfileid: "10992724"
 1.  Choose the **Elements** tab.  
 1.  Choose and edit the text content of the `h1` element, which says `Workspaces Demo`, and replace it with `I ❤️  Cake`.  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-change-h1.msft.png" alt-text="Attempt to change html from the DOM Tree of the Elements panel" lightbox="../media/workspaces-workspaces-demo-change-h1.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-change-h1.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-change-h1.msft.png":::
        Attempt to change html from the DOM Tree of the **Elements** panel  
     :::image-end:::  
     
@@ -210,7 +210,7 @@ In short, the **DOM Tree** `!==` HTML.
 1.  <span data-ttu-id="ce2fc-188">Выберите `Control` + `S` \ (Windows \) или `Command` + `S` \ (macOS \), чтобы сохранить изменения.</span><span class="sxs-lookup"><span data-stu-id="ce2fc-188">Select `Control`+`S` \(Windows\) or `Command`+`S` \(macOS\) to save the change.</span></span>  
 1.  <span data-ttu-id="ce2fc-189">Обновите страницу.</span><span class="sxs-lookup"><span data-stu-id="ce2fc-189">Refresh the page.</span></span>  <span data-ttu-id="ce2fc-190">`<h1>`Элемент по-прежнему отображается в новом тексте.</span><span class="sxs-lookup"><span data-stu-id="ce2fc-190">The `<h1>` element is still displaying the new text.</span></span>  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-sources-page-h1.msft.png" alt-text="Изменение HTML на панели «источники»" lightbox="../media/workspaces-workspaces-demo-sources-page-h1.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-sources-page-h1.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-sources-page-h1.msft.png":::
        <span data-ttu-id="ce2fc-192">Изменение HTML на панели « **источники** »</span><span class="sxs-lookup"><span data-stu-id="ce2fc-192">Change HTML from the **Sources** panel</span></span>  
     :::image-end:::  
     
@@ -224,14 +224,14 @@ In short, the **DOM Tree** `!==` HTML.
 1.  <span data-ttu-id="ce2fc-200">Выберите `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \).</span><span class="sxs-lookup"><span data-stu-id="ce2fc-200">Select `Control`+`Shift`+`P` \(Windows\) or `Command`+`Shift`+`P` \(macOS\).</span></span>  <span data-ttu-id="ce2fc-201">Откроется **меню команд** .</span><span class="sxs-lookup"><span data-stu-id="ce2fc-201">The **Command Menu** opens.</span></span>  
 1.  <span data-ttu-id="ce2fc-202">Введите текст `QS` и выберите параметр **Показать быстрый источник**.</span><span class="sxs-lookup"><span data-stu-id="ce2fc-202">Type `QS`, then select **Show Quick Source**.</span></span>  <span data-ttu-id="ce2fc-203">В нижней части окна DevTools теперь есть вкладка **быстрый источник** .  На вкладке отображается содержимое `index.html` , которое является последним файлом, измененным на панели « **источники** ».</span><span class="sxs-lookup"><span data-stu-id="ce2fc-203">At the bottom of your DevTools window there is now a **Quick Source** tab.  The tab is displaying the contents of `index.html`, which is the last file you edited in the **Sources** panel.</span></span>  <span data-ttu-id="ce2fc-204">На вкладке **быстрый источник** вы можете открыть редактор из панели **источники** , чтобы можно было редактировать файлы, не открывая другие панели.</span><span class="sxs-lookup"><span data-stu-id="ce2fc-204">The **Quick Source** tab gives you the editor from the **Sources** panel, so that you are able to edit files while having other panels open.</span></span>  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-search-show-quick-source.msft.png" alt-text="Открытие вкладки "быстрый источник" с помощью командного меню" lightbox="../media/workspaces-workspaces-demo-search-show-quick-source.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-search-show-quick-source.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-search-show-quick-source.msft.png":::
        <span data-ttu-id="ce2fc-206">Открытие вкладки " **быстрый источник** " с помощью **командного меню**</span><span class="sxs-lookup"><span data-stu-id="ce2fc-206">Open the **Quick Source** tab using **Command Menu**</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="ce2fc-207">`Control` + `P` `Command` + `P` Чтобы открыть диалоговое окно " **Открытие файла** ", выберите \ (Windows \) или \ (macOS \).</span><span class="sxs-lookup"><span data-stu-id="ce2fc-207">Select `Control`+`P` \(Windows\) or `Command`+`P` \(macOS\) to open the **Open File** dialog.</span></span>  <span data-ttu-id="ce2fc-208">Смотрите на рисунке ниже.</span><span class="sxs-lookup"><span data-stu-id="ce2fc-208">See the following figure.</span></span>  
 1.  <span data-ttu-id="ce2fc-209">Введите текст и `script` выберите **приложение/script.js**.</span><span class="sxs-lookup"><span data-stu-id="ce2fc-209">Type `script`, then select **app/script.js**.</span></span>  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-search-script.msft.png" alt-text="Открытие script.js с помощью диалогового окна "Открытие файла"" lightbox="../media/workspaces-workspaces-demo-search-script.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-search-script.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-search-script.msft.png":::
        <span data-ttu-id="ce2fc-211">Открытие `script.js` с помощью диалогового окна " **Открыть файл** "</span><span class="sxs-lookup"><span data-stu-id="ce2fc-211">Open `script.js` using the **Open File** dialog</span></span>  
     :::image-end:::  
     
@@ -251,7 +251,7 @@ In short, the **DOM Tree** `!==` HTML.
     > [!NOTE]
     > <span data-ttu-id="ce2fc-216">Ссылка на странице теперь будет курсивной.</span><span class="sxs-lookup"><span data-stu-id="ce2fc-216">The link on the page is now italicized.</span></span>  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-elements-styles-quick-source-script.msft.png" alt-text="Ссылка на странице теперь выделена курсивом" lightbox="../media/workspaces-workspaces-demo-elements-styles-quick-source-script.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-elements-styles-quick-source-script.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-elements-styles-quick-source-script.msft.png":::
        <span data-ttu-id="ce2fc-218">Ссылка на странице теперь выделена курсивом</span><span class="sxs-lookup"><span data-stu-id="ce2fc-218">The link on the page is now italicized</span></span>  
     :::image-end:::  
     

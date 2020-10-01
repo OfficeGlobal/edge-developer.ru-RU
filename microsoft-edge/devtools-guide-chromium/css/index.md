@@ -63,7 +63,7 @@ ms.locfileid: "10993067"
         
     1.  <span data-ttu-id="82fec-124">В `aloha` классе найдите значение для `padding` стиля и скопируйте его.</span><span class="sxs-lookup"><span data-stu-id="82fec-124">In the `aloha` class, find the value for the `padding` style and copy it.</span></span>  
         
-        :::image type="complex" source="../media/css-elements-inspect-me-styles.msft.png" alt-text="Классы CSS, примененные к проверяемому элементу, выделяются на вкладке "стили"" lightbox="../media/css-elements-inspect-me-styles.msft.png":::
+        :::image type="complex" source="../media/css-elements-inspect-me-styles.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-inspect-me-styles.msft.png":::
            <span data-ttu-id="82fec-126">Рисунок 2: классы CSS, примененные к выбранному элементу, такие как `aloha` , отображаются на вкладке **стили**</span><span class="sxs-lookup"><span data-stu-id="82fec-126">Figure 2:  CSS classes being applied to the selected element, such as `aloha`, are displayed in the **Styles** tab</span></span>  
         :::image-end:::  
         
@@ -82,7 +82,7 @@ ms.locfileid: "10993067"
 1.  <span data-ttu-id="82fec-134">Введите текст `background-color` и нажмите клавишу `Enter` .</span><span class="sxs-lookup"><span data-stu-id="82fec-134">Type `background-color` and press `Enter`.</span></span>  
 1.  <span data-ttu-id="82fec-135">Введите текст `honeydew` и нажмите клавишу `Enter` .</span><span class="sxs-lookup"><span data-stu-id="82fec-135">Type `honeydew` and press `Enter`.</span></span>  <span data-ttu-id="82fec-136">В **дереве DOM** вы увидите, что к элементу применено объявление встроенного стиля.</span><span class="sxs-lookup"><span data-stu-id="82fec-136">In the **DOM Tree** you should see that an inline style declaration was applied to the element.</span></span>  
     
-    :::image type="complex" source="../media/css-elements-add-background-color-to-me-styles-p.msft.png" alt-text="Добавление объявления CSS к элементу с помощью вкладки "стили"" lightbox="../media/css-elements-add-background-color-to-me-styles-p.msft.png":::
+    :::image type="complex" source="../media/css-elements-add-background-color-to-me-styles-p.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-add-background-color-to-me-styles-p.msft.png":::
        <span data-ttu-id="82fec-138">Рисунок 3: `background-color:honeydew` объявление применено к элементу с помощью `element.style` раздела вкладки " **стили** "</span><span class="sxs-lookup"><span data-stu-id="82fec-138">Figure 3:  The `background-color:honeydew` declaration has been applied to the element using the `element.style` section of the **Styles** tab</span></span>  
     :::image-end:::  
     
@@ -98,7 +98,7 @@ ms.locfileid: "10993067"
 1.  <span data-ttu-id="82fec-144">Выберите **. CLS**.</span><span class="sxs-lookup"><span data-stu-id="82fec-144">Select **.cls**.</span></span>  <span data-ttu-id="82fec-145">DevTools открывает текстовое поле, в котором можно добавлять классы к выбранному элементу.</span><span class="sxs-lookup"><span data-stu-id="82fec-145">DevTools reveals a text box where you may add classes to the selected element.</span></span>  
 1.  <span data-ttu-id="82fec-146">Введите `color_me` текст в текстовом поле **Добавить новый класс** и нажмите клавишу `Enter` .</span><span class="sxs-lookup"><span data-stu-id="82fec-146">Type `color_me` in the **Add new class** text box and then press `Enter`.</span></span>  <span data-ttu-id="82fec-147">Флажок отображается под текстовым полем " **Добавить новый класс** ", в котором можно включить или отключить класс.</span><span class="sxs-lookup"><span data-stu-id="82fec-147">A checkbox appears below the **Add new class** text box, where you may toggle the class on and off.</span></span>  <span data-ttu-id="82fec-148">Если `Add A Class To Me!` к элементу применены другие классы, вы также можете переключаться между ними.</span><span class="sxs-lookup"><span data-stu-id="82fec-148">If the `Add A Class To Me!` element has any other classes applied to it, you are also able to toggle each from here.</span></span>  
     
-    :::image type="complex" source="../media/css-elements-add-a-class-to-me-styles-cls.msft.png" alt-text="Применение класса color_me к элементу" lightbox="../media/css-elements-add-a-class-to-me-styles-cls.msft.png":::
+    :::image type="complex" source="../media/css-elements-add-a-class-to-me-styles-cls.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-add-a-class-to-me-styles-cls.msft.png":::
        <span data-ttu-id="82fec-150">Рисунок 4: `color_me` класс применен к элементу с помощью раздела **. CLS** на вкладке " **стили** ".</span><span class="sxs-lookup"><span data-stu-id="82fec-150">Figure 4:  The `color_me` class has been applied to the element using the **.cls** section of the **Styles** tab</span></span>  
     :::image-end:::  
     
@@ -115,7 +115,7 @@ ms.locfileid: "10993067"
 1.  <span data-ttu-id="82fec-159">На вкладке **стили** выберите **: Hov**.</span><span class="sxs-lookup"><span data-stu-id="82fec-159">In the **Styles** tab, select **:hov**.</span></span>  
 1.  <span data-ttu-id="82fec-160">Установите флажок **: наведение указателя мыши** .</span><span class="sxs-lookup"><span data-stu-id="82fec-160">Check the **:hover** checkbox.</span></span>  <span data-ttu-id="82fec-161">Цвет фона изменится так же, как и раньше, несмотря на то, что вы не наводите указатель мыши на элемент.</span><span class="sxs-lookup"><span data-stu-id="82fec-161">The background color changes like before, even though you are not actually hovering over the element.</span></span>  
     
-    :::image type="complex" source="../media/css-elements-hover-over-me-styles-hov-hover.msft.png" alt-text="Переключение наведения указателя на PseudoState элемента" lightbox="../media/css-elements-hover-over-me-styles-hov-hover.msft.png":::
+    :::image type="complex" source="../media/css-elements-hover-over-me-styles-hov-hover.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-hover-over-me-styles-hov-hover.msft.png":::
        <span data-ttu-id="82fec-163">Рисунок 5: Переключение `:hover` PseudoState на элементе</span><span class="sxs-lookup"><span data-stu-id="82fec-163">Figure 5:  Toggling the `:hover` pseudostate on an element</span></span>  
     :::image-end:::  
     
@@ -138,12 +138,12 @@ ms.locfileid: "10993067"
     
     :::row:::
        :::column span="":::
-          :::image type="complex" source="../media/css-elements-change-my-margin-styles-padding.msft.png" alt-text="Наведение указателя мыши на заполнение элемента" lightbox="../media/css-elements-change-my-margin-styles-padding.msft.png":::
+          :::image type="complex" source="../media/css-elements-change-my-margin-styles-padding.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-change-my-margin-styles-padding.msft.png":::
              <span data-ttu-id="82fec-176">Рисунок 6: наведение указателя мыши на заполнение элемента</span><span class="sxs-lookup"><span data-stu-id="82fec-176">Figure 6:  Hovering over the padding of the element</span></span>  
           :::image-end:::  
        :::column-end:::
        :::column span="":::
-          :::image type="complex" source="../media/css-elements-change-my-margin-styles-margin-edit.msft.png" alt-text="Изменение левого поля элемента" lightbox="../media/css-elements-change-my-margin-styles-margin-edit.msft.png":::
+          :::image type="complex" source="../media/css-elements-change-my-margin-styles-margin-edit.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-change-my-margin-styles-margin-edit.msft.png":::
              <span data-ttu-id="82fec-178">Рисунок 7: изменение левого поля элемента</span><span class="sxs-lookup"><span data-stu-id="82fec-178">Figure 7:  Changing the left-margin of the element</span></span>  
           :::image-end:::  
        :::column-end:::
@@ -157,25 +157,25 @@ ms.locfileid: "10993067"
 
 1.  <span data-ttu-id="82fec-184">Откройте Инструменты разработчика и выберите значок **Переключить панель инструментов** на вкладке на верхнем левом углу или нажмите клавиши `Ctrl` + `Shift` + `M` \ ( `Cmd` + `Shift` + `M` на macOS \).</span><span class="sxs-lookup"><span data-stu-id="82fec-184">Open the developer tools and select the **Toggle device toolbar** icon second on the top-left, or press `Ctrl`+`Shift`+`M` \(`Cmd`+`Shift`+`M` on macOS\).</span></span>  
     
-    :::image type="complex" source="../media/css-elements-media-queries-open-device-toolbar.msft.png" alt-text="Открытие панели инструментов устройства" lightbox="../media/css-elements-media-queries-open-device-toolbar.msft.png":::
+    :::image type="complex" source="../media/css-elements-media-queries-open-device-toolbar.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-media-queries-open-device-toolbar.msft.png":::
        <span data-ttu-id="82fec-186">Рисунок 8: Открытие панели инструментов устройства</span><span class="sxs-lookup"><span data-stu-id="82fec-186">Figure 8:  Opening the device toolbar</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="82fec-187">На панели инструментов устройства откройте `...` меню в правом верхнем углу и выберите **просмотреть запросы мультимедиа**.</span><span class="sxs-lookup"><span data-stu-id="82fec-187">With the device toolbar open, select the `...` menu on the top-right and select **View Media Queries**.</span></span>  <span data-ttu-id="82fec-188">На экран выводится цветная полоса, представляющая различные запросы мультимедиа.</span><span class="sxs-lookup"><span data-stu-id="82fec-188">You should see colored bars above the display of the page that represent the different media queries.</span></span>  
     
-    :::image type="complex" source="../media/css-elements-media-queries-showing-mq.msft.png" alt-text="Отображение запросов мультимедиа на панели инструментов устройства" lightbox="../media/css-elements-media-queries-showing-mq.msft.png":::
+    :::image type="complex" source="../media/css-elements-media-queries-showing-mq.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-media-queries-showing-mq.msft.png":::
        <span data-ttu-id="82fec-190">Рис. 9: отображение запросов мультимедиа на панели инструментов устройства</span><span class="sxs-lookup"><span data-stu-id="82fec-190">Figure 9:  Showing Media Queries in Device Toolbar</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="82fec-191">Наведите указатель мыши на границу линии, чтобы просмотреть значения различных запросов мультимедиа.</span><span class="sxs-lookup"><span data-stu-id="82fec-191">Hover over the boundaries in the bars to see the values of the different media queries.</span></span> <span data-ttu-id="82fec-192">Выберите каждый из них, чтобы изменить размер веб-страницы.</span><span class="sxs-lookup"><span data-stu-id="82fec-192">Select each to resize the web page to match.</span></span>  
     
-    :::image type="complex" source="../media/css-elements-media-queries-select-bar.msft.png" alt-text="Выбор запроса мультимедиа из панели предварительного просмотра" lightbox="../media/css-elements-media-queries-select-bar.msft.png":::
+    :::image type="complex" source="../media/css-elements-media-queries-select-bar.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-media-queries-select-bar.msft.png":::
        <span data-ttu-id="82fec-194">Рисунок 10: выбор запроса мультимедиа из панели предварительного просмотра</span><span class="sxs-lookup"><span data-stu-id="82fec-194">Figure 10:  Selecting Media Query from preview bar</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="82fec-195">Чтобы выполнить отладку запросов мультимедиа и открыть CSS-файл в `Sources` редакторе, наведите указатель мыши на любой из сегментов отрезков, откройте контекстное меню, а затем выберите команду `reveal in source code` .</span><span class="sxs-lookup"><span data-stu-id="82fec-195">To debug media queries and open the CSS file in the `Sources` editor; hover on any of the bar segments, open the contextual menu \(right-click\), and select `reveal in source code`.</span></span>  
     
-    :::image type="complex" source="../media/css-elements-media-queries-reveal-in-sources.msft.png" alt-text="Открываются запросы мультимедиа в редакторе источников" lightbox="../media/css-elements-media-queries-reveal-in-sources.msft.png":::
+    :::image type="complex" source="../media/css-elements-media-queries-reveal-in-sources.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-media-queries-reveal-in-sources.msft.png":::
        <span data-ttu-id="82fec-197">Рисунок 11: отображение запросов мультимедиа в редакторе источников</span><span class="sxs-lookup"><span data-stu-id="82fec-197">Figure 11:  Revealing Media Queries in Sources Editor</span></span>  
     :::image-end:::  
     

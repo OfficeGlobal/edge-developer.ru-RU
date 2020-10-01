@@ -47,14 +47,14 @@ ms.locfileid: "10992822"
        :::column span="":::
           <span data-ttu-id="73a4d-114">Нажмите кнопку **Перейти к разделу "проблемы** " на желтой панели предупреждения.</span><span class="sxs-lookup"><span data-stu-id="73a4d-114">Select the **Go to Issues** button in the yellow warning bar.</span></span>  
           
-          :::image type="complex" source="../media/issues-open-issues-tab.msft.png" alt-text="Нажатие кнопки "проблемы" на желтой полосе предупреждения при обнаружении проблем" lightbox="../media/issues-open-issues-tab.msft.png":::
+          :::image type="complex" source="../media/issues-open-issues-tab.msft.png" alt-text="Нажатие кнопки &quot;проблемы&quot; на желтой полосе предупреждения при обнаружении проблем" lightbox="../media/issues-open-issues-tab.msft.png":::
              <span data-ttu-id="73a4d-116">Кнопка **Перейти к проблемам** на желтой полосе предупреждения при обнаружении проблем.</span><span class="sxs-lookup"><span data-stu-id="73a4d-116">The **Go to Issues** button in the yellow warning bar when Issues are detected.</span></span>  
           :::image-end:::  
        :::column-end:::
        :::column span="":::
           <span data-ttu-id="73a4d-117">Кроме того, можно выбрать пункт " **проблемы** " в меню " **другие инструменты** ".</span><span class="sxs-lookup"><span data-stu-id="73a4d-117">Alternatively, select **Issues** from the **More tools** menu.</span></span>  
           
-          :::image type="complex" source="../media//issues-more-tools-menu.msft.png" alt-text="Средство "вопросы" в меню "другие инструменты"" lightbox="../media//issues-more-tools-menu.msft.png":::
+          :::image type="complex" source="../media//issues-more-tools-menu.msft.png" alt-text="Нажатие кнопки &quot;проблемы&quot; на желтой полосе предупреждения при обнаружении проблем" lightbox="../media//issues-more-tools-menu.msft.png":::
              <span data-ttu-id="73a4d-119">Средство " **вопросы** " в меню " **другие инструменты** "</span><span class="sxs-lookup"><span data-stu-id="73a4d-119">**Issues** tool in **More tools** menu</span></span>  
           :::image-end:::  
        :::column-end:::
@@ -62,13 +62,13 @@ ms.locfileid: "10992822"
     
 1.  <span data-ttu-id="73a4d-120">При необходимости нажмите кнопку **перезагрузить страницу** .</span><span class="sxs-lookup"><span data-stu-id="73a4d-120">Select the **Reload page** button, if necessary.</span></span>  
     
-    :::image type="complex" source="../media/issues-tab-before-refresh.msft.png" alt-text="Инструмент "проблемы" в DevTools ящике с кнопкой "перезагрузить страницу"" lightbox="../media/issues-tab-before-refresh.msft.png":::
+    :::image type="complex" source="../media/issues-tab-before-refresh.msft.png" alt-text="Нажатие кнопки &quot;проблемы&quot; на желтой полосе предупреждения при обнаружении проблем" lightbox="../media/issues-tab-before-refresh.msft.png":::
        <span data-ttu-id="73a4d-122">Инструмент " **проблемы** " в DevTools ящике с кнопкой " **перезагрузить страницу** "</span><span class="sxs-lookup"><span data-stu-id="73a4d-122">**Issues** tool in the DevTools Drawer with **Reload page** button</span></span>  
     :::image-end:::  
 
     <span data-ttu-id="73a4d-123">Проблемы, обнаруженные в **консоли** , довольно сложно понять, например предупреждения о cookie-файлах на рисунке ниже.</span><span class="sxs-lookup"><span data-stu-id="73a4d-123">The issues reported in the **Console** are quite hard to understand, such as the cookie warnings in the following image.</span></span>  <span data-ttu-id="73a4d-124">На основе обнаруженных проблем может быть не ясно, что необходимо сделать.</span><span class="sxs-lookup"><span data-stu-id="73a4d-124">Based upon the reported issues, it may not be clear what you must do.</span></span>  
     
-    :::image type="complex" source="../media/issues-tab-after-refresh.msft.png" alt-text="Инструмент "проблемы" в денежном ящике DevTools с тремя неполадками с файлами cookie" lightbox="../media/issues-tab-after-refresh.msft.png":::
+    :::image type="complex" source="../media/issues-tab-after-refresh.msft.png" alt-text="Нажатие кнопки &quot;проблемы&quot; на желтой полосе предупреждения при обнаружении проблем" lightbox="../media/issues-tab-after-refresh.msft.png":::
        <span data-ttu-id="73a4d-126">Инструмент " **проблемы** " в денежном ящике DevTools с тремя неполадками с файлами cookie</span><span class="sxs-lookup"><span data-stu-id="73a4d-126">**Issues** tool in the DevTools Drawer with three cookie issues</span></span>  
     :::image-end:::  
     
@@ -78,7 +78,7 @@ ms.locfileid: "10992822"
 
 1.  <span data-ttu-id="73a4d-129">Выберите элемент в инструменте " **вопросы** ", чтобы получить инструкции по устранению проблемы и поиску затронутых ресурсов.</span><span class="sxs-lookup"><span data-stu-id="73a4d-129">Select an item in the **Issues** tool to get guidance on how to fix the issue and find affected resources.</span></span>  
     
-    :::image type="complex" source="../media/issues-tab-issue-open.msft.png" alt-text="Пометка cookie-файлов другого сайта как безопасной проблемы при открытии в инструменте "вопросы"" lightbox="../media/issues-tab-issue-open.msft.png":::
+    :::image type="complex" source="../media/issues-tab-issue-open.msft.png" alt-text="Нажатие кнопки &quot;проблемы&quot; на желтой полосе предупреждения при обнаружении проблем" lightbox="../media/issues-tab-issue-open.msft.png":::
        <span data-ttu-id="73a4d-131">**Пометка cookie-файлов другого сайта как безопасной проблемы при** открытии в инструменте " **вопросы** "</span><span class="sxs-lookup"><span data-stu-id="73a4d-131">**Mark cross-site cookies as Secure** issue open in the **Issues** tool</span></span>  
     :::image-end:::  
     
@@ -91,7 +91,7 @@ ms.locfileid: "10992822"
     
 1.  <span data-ttu-id="73a4d-137">Чтобы просмотреть подробные сведения, выберите элементы в **затронутых ресурсах** .</span><span class="sxs-lookup"><span data-stu-id="73a4d-137">Select items in **AFFECTED RESOURCES** to view details.</span></span>  <span data-ttu-id="73a4d-138">В следующем примере **cookie-файлы межсайтового сайта как безопасные** вопросы влияют на один файл cookie и два запроса.</span><span class="sxs-lookup"><span data-stu-id="73a4d-138">In the following example, the **Mark cross-site cookies as Secure** issue affects one cookie and two requests.</span></span>  
     
-    :::image type="complex" source="../media/issues-tab-affected-resources.msft.png" alt-text="Затронутые ресурсы, открытые на вкладке "ящик вопросов"" lightbox="../media/issues-tab-affected-resources.msft.png":::
+    :::image type="complex" source="../media/issues-tab-affected-resources.msft.png" alt-text="Нажатие кнопки &quot;проблемы&quot; на желтой полосе предупреждения при обнаружении проблем" lightbox="../media/issues-tab-affected-resources.msft.png":::
        <span data-ttu-id="73a4d-140">Затронутые ресурсы, открытые в инструменте " **вопросы** " в ящике DevTools</span><span class="sxs-lookup"><span data-stu-id="73a4d-140">Affected resources open in the **Issues** tool in the DevTools Drawer</span></span>  
     :::image-end:::  
     
@@ -99,13 +99,13 @@ ms.locfileid: "10992822"
 
 1.  <span data-ttu-id="73a4d-142">Выберите ссылку на ресурс, чтобы просмотреть элемент в соответствующем контексте в DevTools.</span><span class="sxs-lookup"><span data-stu-id="73a4d-142">Select a resource link to view the item in the appropriate context within DevTools.</span></span>  <span data-ttu-id="73a4d-143">В следующем примере выберите `samesite-sandbox.glitch.me` в разделе **запросы** для отображения файлов cookie, вложенных в запрос.</span><span class="sxs-lookup"><span data-stu-id="73a4d-143">In the following example, select `samesite-sandbox.glitch.me` under **Requests** to show the cookies attached to that request.</span></span>  
     
-    :::image type="complex" source="../media/issues-tab-view-request.msft.png" alt-text="Просмотр затрагиваемого cookie-файла на панели DevTools Network" lightbox="../media/issues-tab-view-request.msft.png":::
+    :::image type="complex" source="../media/issues-tab-view-request.msft.png" alt-text="Нажатие кнопки &quot;проблемы&quot; на желтой полосе предупреждения при обнаружении проблем" lightbox="../media/issues-tab-view-request.msft.png":::
        <span data-ttu-id="73a4d-145">Просмотр затрагиваемого cookie-файла на панели DevTools **Network**</span><span class="sxs-lookup"><span data-stu-id="73a4d-145">View the affected cookie in the DevTools **Network** panel</span></span>  
     :::image-end:::  
 
 1.  <span data-ttu-id="73a4d-146">Прокрутите экран, чтобы просмотреть элемент с проблемой: в следующем примере показан `ck02` объект cookie.</span><span class="sxs-lookup"><span data-stu-id="73a4d-146">Scroll to view the item with a problem: for the following example, the `ck02` cookie.</span></span>  <span data-ttu-id="73a4d-147">Наведите указатель мыши на столбец **SameSite** , чтобы увидеть `None` значение, которое обнаружено проблемой.</span><span class="sxs-lookup"><span data-stu-id="73a4d-147">Hover over the **SameSite** column to see the `None` value that the issue detected.</span></span>  
     
-    :::image type="complex" source="../media/issues-tab-view-issue.msft.png" alt-text="Значение None в столбце SameSite для cookie-файла ck02 на панели DevTools Network" lightbox="../media/issues-tab-view-issue.msft.png":::
+    :::image type="complex" source="../media/issues-tab-view-issue.msft.png" alt-text="Нажатие кнопки &quot;проблемы&quot; на желтой полосе предупреждения при обнаружении проблем" lightbox="../media/issues-tab-view-issue.msft.png":::
        `None` <span data-ttu-id="73a4d-149">значение в столбце " **SameSite** " для `ck02` файла cookie на панели DevTools **Network (сеть** )</span><span class="sxs-lookup"><span data-stu-id="73a4d-149">value in the **SameSite** column for the `ck02` cookie in the DevTools **Network** panel</span></span>  
     :::image-end:::  
 

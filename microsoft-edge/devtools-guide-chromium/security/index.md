@@ -47,7 +47,7 @@ ms.locfileid: "10993578"
 1.  <span data-ttu-id="3e420-107">[Откройте DevTools][DevToolsOpen].</span><span class="sxs-lookup"><span data-stu-id="3e420-107">[Open DevTools][DevToolsOpen].</span></span>  
 1.  <span data-ttu-id="3e420-108">Щелкните вкладку " **Безопасность** ", чтобы открыть панель " **Безопасность** ".</span><span class="sxs-lookup"><span data-stu-id="3e420-108">Click the **Security** tab to open the **Security** panel.</span></span>  
     
-    :::image type="complex" source="../media/security-security-overview-secure.msft.png" alt-text="Панель "безопасность"" lightbox="../media/security-security-overview-secure.msft.png":::
+    :::image type="complex" source="../media/security-security-overview-secure.msft.png" alt-text="Панель &quot;безопасность&quot;" lightbox="../media/security-security-overview-secure.msft.png":::
        <span data-ttu-id="3e420-110">Панель " **Безопасность** "</span><span class="sxs-lookup"><span data-stu-id="3e420-110">The **Security** panel</span></span>  
     :::image-end:::  
     
@@ -57,7 +57,7 @@ ms.locfileid: "10993578"
 
 <span data-ttu-id="3e420-113">Если основной источник страницы небезопасен, в **обзоре безопасности** указано, что **Эта страница не является безопасной**.</span><span class="sxs-lookup"><span data-stu-id="3e420-113">When the main origin of a page is not secure, the **Security Overview** says **This page is not secure**.</span></span>  
 
-:::image type="complex" source="../media/security-security-overview-non-secure.msft.png" alt-text="Небезопасная страница" lightbox="../media/security-security-overview-non-secure.msft.png":::
+:::image type="complex" source="../media/security-security-overview-non-secure.msft.png" alt-text="Панель &quot;безопасность&quot;" lightbox="../media/security-security-overview-non-secure.msft.png":::
    <span data-ttu-id="3e420-115">Небезопасная страница</span><span class="sxs-lookup"><span data-stu-id="3e420-115">A non-secure page</span></span>  
 :::image-end:::  
 
@@ -74,13 +74,13 @@ ms.locfileid: "10993578"
 
 <span data-ttu-id="3e420-126">**Смешанное содержимое** указывает на то, что основной источник страницы является безопасным, но страница запрашивает ресурсы из незащищенных источников.</span><span class="sxs-lookup"><span data-stu-id="3e420-126">**Mixed content** means that the main origin of a page is secure, but the page requested resources from non-secure origins.</span></span>  <span data-ttu-id="3e420-127">Смешанные страницы содержимого защищены только частично, так как содержимое HTTP доступно для прослушивания и уязвимо для атак "злоумышленник в середине".</span><span class="sxs-lookup"><span data-stu-id="3e420-127">Mixed content pages are only partially protected because the HTTP content is accessible to sniffers and vulnerable to man-in-the-middle attacks.</span></span>  
 
-:::image type="complex" source="../media/security-security-overview-mixed-secure.msft.png" alt-text="Смешанное содержимое" lightbox="../media/security-security-overview-mixed-secure.msft.png":::
+:::image type="complex" source="../media/security-security-overview-mixed-secure.msft.png" alt-text="Панель &quot;безопасность&quot;" lightbox="../media/security-security-overview-mixed-secure.msft.png":::
    <span data-ttu-id="3e420-129">Смешанное содержимое</span><span class="sxs-lookup"><span data-stu-id="3e420-129">Mixed content</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="3e420-130">На предыдущем рисунке щелкните **Просмотреть 1 запрос на панели "сеть** ", чтобы открыть панель " **сеть** ", и примените `mixed-content:displayed` фильтр, чтобы в **журнале сети** отображались не безопасные ресурсы.</span><span class="sxs-lookup"><span data-stu-id="3e420-130">In the previous figure, click **View 1 request in Network panel** to open the **Network** panel and apply the `mixed-content:displayed` filter so that the **Network Log** only shows non-secure resources.</span></span>  
 
-:::image type="complex" source="../media/security-network-filter.msft.png" alt-text="Смешанные ресурсы в сетевом журнале" lightbox="../media/security-network-filter.msft.png":::
+:::image type="complex" source="../media/security-network-filter.msft.png" alt-text="Панель &quot;безопасность&quot;" lightbox="../media/security-network-filter.msft.png":::
    <span data-ttu-id="3e420-132">Смешанные ресурсы в **сетевом журнале**</span><span class="sxs-lookup"><span data-stu-id="3e420-132">Mixed resources in the **Network Log**</span></span>  
 :::image-end:::  
 
@@ -90,7 +90,7 @@ ms.locfileid: "10993578"
 
 <span data-ttu-id="3e420-135">В разделе " **Общие сведения о безопасности**" щелкните ссылку **Просмотр сертификата** для быстрого проверки сертификата для основного источника.</span><span class="sxs-lookup"><span data-stu-id="3e420-135">From the **Security Overview**, click **View certificate** to quickly inspect the certificate for the main origin.</span></span>  
 
-:::image type="complex" source="../media/security-security-overview-secure-view-certificate.msft.png" alt-text="Основной сертификат источника" lightbox="../media/security-security-overview-secure-view-certificate.msft.png":::
+:::image type="complex" source="../media/security-security-overview-secure-view-certificate.msft.png" alt-text="Панель &quot;безопасность&quot;" lightbox="../media/security-security-overview-secure-view-certificate.msft.png":::
    <span data-ttu-id="3e420-137">Основной сертификат источника</span><span class="sxs-lookup"><span data-stu-id="3e420-137">A main origin certificate</span></span>  
 :::image-end:::  
 
@@ -98,7 +98,7 @@ ms.locfileid: "10993578"
 
 <span data-ttu-id="3e420-139">Щелкните одну из записей на левой панели навигации, чтобы просмотреть подробные сведения об источнике.</span><span class="sxs-lookup"><span data-stu-id="3e420-139">Click one of the entries in the left-hand nav to view the details of the origin.</span></span>  <span data-ttu-id="3e420-140">На странице сведения вы можете просмотреть сведения о подключении и сертификате.</span><span class="sxs-lookup"><span data-stu-id="3e420-140">From the details page you are able to view connection and certificate information.</span></span>  <span data-ttu-id="3e420-141">Информация о прозрачности сертификата также отображается, если она доступна.</span><span class="sxs-lookup"><span data-stu-id="3e420-141">Certificate transparency information is also shown when available.</span></span>  
 
-:::image type="complex" source="../media/security-security-overview-mixed-secure-main-origin.msft.png" alt-text="Сведения о главном источнике" lightbox="../media/security-security-overview-mixed-secure-main-origin.msft.png":::
+:::image type="complex" source="../media/security-security-overview-mixed-secure-main-origin.msft.png" alt-text="Панель &quot;безопасность&quot;" lightbox="../media/security-security-overview-mixed-secure-main-origin.msft.png":::
    <span data-ttu-id="3e420-143">Сведения о главном источнике</span><span class="sxs-lookup"><span data-stu-id="3e420-143">Main origin details</span></span>  
 :::image-end:::  
 

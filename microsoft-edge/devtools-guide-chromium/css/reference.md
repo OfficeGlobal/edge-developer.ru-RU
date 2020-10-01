@@ -65,7 +65,7 @@ ms.locfileid: "10993074"
 
 <!--todo:  replace "Master" phrasing in code snippet, if possible.  -->  
 
-:::image type="complex" source="../media/css-elements-styles-h1-highlight.msft.png" alt-text="Просмотр таблицы стилей, в которой определено правило" lightbox="../media/css-elements-styles-h1-highlight.msft.png":::
+:::image type="complex" source="../media/css-elements-styles-h1-highlight.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-h1-highlight.msft.png":::
   <span data-ttu-id="0f279-128">Просмотр таблицы стилей, в которой определено правило</span><span class="sxs-lookup"><span data-stu-id="0f279-128">Viewing the stylesheet where a rule is defined</span></span>  
 :::image-end:::  
 
@@ -84,7 +84,7 @@ ms.locfileid: "10993074"
 > [!NOTE]
 > <span data-ttu-id="0f279-138">На приведенном ниже рисунке показана **Вычисляемая** вкладка, на которой ПОКАЗАНЫ свойства CSS, применяемые к текущему `h1` элементу.</span><span class="sxs-lookup"><span data-stu-id="0f279-138">In the following figure, the **Computed** tab shows the CSS properties being applied to the currently-selected `h1` element.</span></span>  
 
-:::image type="complex" source="../media/css-elements-computed-h1.msft.png" alt-text="Вычисляемая вкладка" lightbox="../media/css-elements-computed-h1.msft.png":::
+:::image type="complex" source="../media/css-elements-computed-h1.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-computed-h1.msft.png":::
    <span data-ttu-id="0f279-140">**Вычисляемая** вкладка</span><span class="sxs-lookup"><span data-stu-id="0f279-140">The **Computed** tab</span></span>  
 :::image-end:::  
 
@@ -105,7 +105,7 @@ ms.locfileid: "10993074"
 > [!NOTE]
 > <span data-ttu-id="0f279-148">На рисунке ниже показана модель Box на вкладке " **стили** " в **поле** "модель" для элемента, выбранного в данный момент `h1` .</span><span class="sxs-lookup"><span data-stu-id="0f279-148">In the following figure, the **Box Model** diagram in the **Styles** tab shows the box model for the currently selected `h1` element.</span></span>  
 
-:::image type="complex" source="../media/css-elements-styles-h1-2.msft.png" alt-text="Схема модели Box" lightbox="../media/css-elements-styles-h1-2.msft.png":::
+:::image type="complex" source="../media/css-elements-styles-h1-2.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-h1-2.msft.png":::
    <span data-ttu-id="0f279-150">Схема **модели Box**</span><span class="sxs-lookup"><span data-stu-id="0f279-150">The **Box Model** diagram</span></span>  
 :::image-end:::  
 
@@ -118,14 +118,14 @@ ms.locfileid: "10993074"
 > [!NOTE]
 > <span data-ttu-id="0f279-154">На приведенном ниже рисунке для вкладки **стили** отображаются только правила, включающие поисковый запрос `color` .</span><span class="sxs-lookup"><span data-stu-id="0f279-154">In the following figure, the **Styles** tab is filtered to only show rules that include the search query `color`.</span></span>  
 
-:::image type="complex" source="../media/css-elements-styles-filter-color.msft.png" alt-text="Фильтрация вкладки "стили"" lightbox="../media/css-elements-styles-filter-color.msft.png":::
+:::image type="complex" source="../media/css-elements-styles-filter-color.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-filter-color.msft.png":::
    <span data-ttu-id="0f279-156">Фильтрация вкладки " **стили** "</span><span class="sxs-lookup"><span data-stu-id="0f279-156">Filter the **Styles** tab</span></span>  
 :::image-end:::  
 
 > [!NOTE]
 > <span data-ttu-id="0f279-157">На приведенном ниже рисунке отфильтрованная **вкладка** фильтруется так, чтобы отображались только объявления, включающие поисковый запрос `100%` .</span><span class="sxs-lookup"><span data-stu-id="0f279-157">In the following figure, the **Computed** tab is filtered to only show declarations that include the search query `100%`.</span></span>  
 
-:::image type="complex" source="../media/css-elements-computed-filter-100.msft.png" alt-text="Фильтрация вычисляемой вкладки" lightbox="../media/css-elements-computed-filter-100.msft.png":::
+:::image type="complex" source="../media/css-elements-computed-filter-100.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-computed-filter-100.msft.png":::
    <span data-ttu-id="0f279-159">Фильтрация **вычисляемой** вкладки</span><span class="sxs-lookup"><span data-stu-id="0f279-159">Filter the **Computed** tab</span></span>  
 :::image-end:::  
 
@@ -141,7 +141,7 @@ ms.locfileid: "10993074"
 > [!NOTE]
 > <span data-ttu-id="0f279-166">На рисунке ниже показано, как переключается `:hover` псевдо-класс.</span><span class="sxs-lookup"><span data-stu-id="0f279-166">In the following figure, toggle the `:hover` pseudo-class.</span></span>  <span data-ttu-id="0f279-167">В окне просмотра убедитесь в том, что `background-color: cornflowerblue` объявление применяется к элементу, несмотря на то что элемент фактически не наведен на указатель.</span><span class="sxs-lookup"><span data-stu-id="0f279-167">In the viewport verify that the `background-color: cornflowerblue` declaration is being applied to the element, even though the element is not actually being hovered over.</span></span>  
 
-:::image type="complex" source="../media/css-elements-styles-hov-hover.msft.png" alt-text="Переключение: псевдо-класс для наведения" lightbox="../media/css-elements-styles-hov-hover.msft.png":::
+:::image type="complex" source="../media/css-elements-styles-hov-hover.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-hov-hover.msft.png":::
    <span data-ttu-id="0f279-169">Переключение `:hover` псевдо-класса</span><span class="sxs-lookup"><span data-stu-id="0f279-169">Toggle the `:hover` pseudo-class</span></span>  
 :::image-end:::  
 
@@ -164,12 +164,12 @@ ms.locfileid: "10993074"
     
     :::row:::
        :::column span="":::
-          :::image type="complex" source="../media/css-console-command-menu-coverage.msft.png" alt-text="Открытие вкладки "покрытие" в меню команд" lightbox="../media/css-console-command-menu-coverage.msft.png":::
+          :::image type="complex" source="../media/css-console-command-menu-coverage.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-console-command-menu-coverage.msft.png":::
              <span data-ttu-id="0f279-182">Открытие вкладки " **покрытие** " в **меню команд**</span><span class="sxs-lookup"><span data-stu-id="0f279-182">Open the **Coverage** tab from the **Command Menu**</span></span>  
           :::image-end:::  
        :::column-end:::
        :::column span="":::
-          :::image type="complex" source="../media/css-console-qs-coverage-empty.msft.png" alt-text="Вкладка "покрытие"" lightbox="../media/css-console-qs-coverage-empty.msft.png":::
+          :::image type="complex" source="../media/css-console-qs-coverage-empty.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-console-qs-coverage-empty.msft.png":::
              <span data-ttu-id="0f279-184">Вкладка " **покрытие** "</span><span class="sxs-lookup"><span data-stu-id="0f279-184">The **Coverage** tab</span></span>  
           :::image-end:::  
        :::column-end:::
@@ -177,7 +177,7 @@ ms.locfileid: "10993074"
     
 1.  <span data-ttu-id="0f279-185">Нажмите кнопку **начать покрытие инструментирования и обновите страницу** \ ( ![ Запуск инструментированного покрытия и обновление страницы ][ImageRefreshIcon] \).</span><span class="sxs-lookup"><span data-stu-id="0f279-185">Choose **Start instrumenting coverage and refresh the page** \(![Start instrumenting coverage and refresh the page][ImageRefreshIcon]\).</span></span>  <span data-ttu-id="0f279-186">Обновленная страница и вкладка Coverage предоставляют общие сведения о том, сколько стилей CSS и JavaScript используется для каждого файла, загружаемого браузером.</span><span class="sxs-lookup"><span data-stu-id="0f279-186">The page refreshes and the Coverage tab provides an overview of how much CSS \(and JavaScript\) is used from each file that the browser loads.</span></span>  <span data-ttu-id="0f279-187">Зеленый представляет используемые CSS.</span><span class="sxs-lookup"><span data-stu-id="0f279-187">Green represents used CSS.</span></span>  <span data-ttu-id="0f279-188">Красный — неиспользуемый CSS.</span><span class="sxs-lookup"><span data-stu-id="0f279-188">Red represents unused CSS.</span></span>  
     
-    :::image type="complex" source="../media/css-console-qs-coverage-run.msft.png" alt-text="Общие сведения о том, какая таблица CSS (и JavaScript) используется и неиспользуемая" lightbox="../media/css-console-qs-coverage-run.msft.png":::
+    :::image type="complex" source="../media/css-console-qs-coverage-run.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-console-qs-coverage-run.msft.png":::
        <span data-ttu-id="0f279-190">Общие сведения о том, сколько каскадных таблиц (и JavaScript \) использует и не используется</span><span class="sxs-lookup"><span data-stu-id="0f279-190">An overview of how much CSS \(and JavaScript\) is used and unused</span></span>  
     :::image-end:::  
 
@@ -186,7 +186,7 @@ ms.locfileid: "10993074"
     > [!NOTE]
     > <span data-ttu-id="0f279-192">На приведенном ниже рисунке строки 145 в 147 и 149 в 151 из `b66bc881.site-ltr.css` не используются, в то время как используются строки 163 — 166.</span><span class="sxs-lookup"><span data-stu-id="0f279-192">In the following figure, lines 145 to 147 and 149 to 151 of `b66bc881.site-ltr.css` are unused, whereas lines 163 to 166 are used.</span></span>  
     
-    :::image type="complex" source="../media/css-sources-css-coverage.msft.png" alt-text="Разбиение по строкам для используемых и неиспользуемых CSS" lightbox="../media/css-sources-css-coverage.msft.png":::
+    :::image type="complex" source="../media/css-sources-css-coverage.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-sources-css-coverage.msft.png":::
        <span data-ttu-id="0f279-194">Разбиение по строкам для используемых и неиспользуемых CSS</span><span class="sxs-lookup"><span data-stu-id="0f279-194">A line-by-line breakdown of used and unused CSS</span></span>  
     :::image-end:::  
     
@@ -221,7 +221,7 @@ ms.locfileid: "10993074"
 > [!NOTE]
 > <span data-ttu-id="0f279-216">На приведенном ниже рисунке к `margin-top` `background-color` выбранному элементу применены свойства и.</span><span class="sxs-lookup"><span data-stu-id="0f279-216">In the following figure, the `margin-top` and `background-color` properties have been applied to the selected element.</span></span>  <span data-ttu-id="0f279-217">В **дереве DOM** убедитесь, что объявления отражены в `style` атрибуте для элемента.</span><span class="sxs-lookup"><span data-stu-id="0f279-217">In the **DOM Tree** verify that the declarations are reflected in the `style` attribute for an element.</span></span>  
 
-:::image type="complex" source="../media/css-elements-styles-margin-top-background-color.msft.png" alt-text="Добавление встроенных объявлений" lightbox="../media/css-elements-styles-margin-top-background-color.msft.png":::
+:::image type="complex" source="../media/css-elements-styles-margin-top-background-color.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-margin-top-background-color.msft.png":::
    <span data-ttu-id="0f279-219">Добавление встроенных объявлений</span><span class="sxs-lookup"><span data-stu-id="0f279-219">Add inline declarations</span></span>  
 :::image-end:::  
 
@@ -234,7 +234,7 @@ ms.locfileid: "10993074"
 1.  <span data-ttu-id="0f279-225">Введите имя свойства и нажмите кнопку `Enter` .</span><span class="sxs-lookup"><span data-stu-id="0f279-225">Enter a property name and select `Enter`.</span></span>  
 1.  <span data-ttu-id="0f279-226">Введите допустимое значение для этого свойства и нажмите кнопку `Enter` .</span><span class="sxs-lookup"><span data-stu-id="0f279-226">Enter a valid value for that property and select `Enter`.</span></span>  
 
-:::image type="complex" source="../media/css-elements-styles-border-bottom-style.msft.png" alt-text="Добавление объявления в правило стиля" lightbox="../media/css-elements-styles-border-bottom-style.msft.png":::
+:::image type="complex" source="../media/css-elements-styles-border-bottom-style.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-border-bottom-style.msft.png":::
    <span data-ttu-id="0f279-228">Добавление `border-bottom-style:groove` объявления в правило стиля</span><span class="sxs-lookup"><span data-stu-id="0f279-228">Add the `border-bottom-style:groove` declaration to a style rule</span></span>  
 :::image-end:::  
 
@@ -242,7 +242,7 @@ ms.locfileid: "10993074"
 
 <span data-ttu-id="0f279-230">Выберите и измените имя или значение объявления, чтобы изменить его.</span><span class="sxs-lookup"><span data-stu-id="0f279-230">Choose and edit the name or value of a declaration to change it.</span></span>  <span data-ttu-id="0f279-231">Сочетания клавиш для быстрого увеличения или уменьшения значения (, или единиц) можно найти [в статье изменение значений объявлений](#change-declaration-values-with-keyboard-shortcuts) `0.1` `1` `10` `100` .</span><span class="sxs-lookup"><span data-stu-id="0f279-231">See [Change declaration values with keyboard shortcuts](#change-declaration-values-with-keyboard-shortcuts) for shortcuts for quickly incrementing or decrementing a value by `0.1`, `1`, `10`, or `100` units.</span></span>  
 
-:::image type="complex" source="../media/css-elements-styles-border-bottom-style-dropdown.msft.png" alt-text="Изменение значения объявления" lightbox="../media/css-elements-styles-border-bottom-style-dropdown.msft.png":::
+:::image type="complex" source="../media/css-elements-styles-border-bottom-style-dropdown.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-border-bottom-style-dropdown.msft.png":::
    <span data-ttu-id="0f279-233">Изменение значения `border-bottom-style` объявления</span><span class="sxs-lookup"><span data-stu-id="0f279-233">Change the value of the `border-bottom-style` declaration</span></span>  
 :::image-end:::  
 
@@ -266,7 +266,7 @@ ms.locfileid: "10993074"
 1.  <span data-ttu-id="0f279-246">Введите имя класса в текстовом поле **Добавить новый класс** .</span><span class="sxs-lookup"><span data-stu-id="0f279-246">Enter the name of the class in the **Add New Class** text box.</span></span>  
 1.  <span data-ttu-id="0f279-247">Выберите `Enter` .</span><span class="sxs-lookup"><span data-stu-id="0f279-247">Select `Enter`.</span></span>  
 
-:::image type="complex" source="../media/css-elements-styles-filter-classes.msft.png" alt-text="Область «классы элементов»" lightbox="../media/css-elements-styles-filter-classes.msft.png":::
+:::image type="complex" source="../media/css-elements-styles-filter-classes.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-filter-classes.msft.png":::
    <span data-ttu-id="0f279-249">Область « **классы элементов** »</span><span class="sxs-lookup"><span data-stu-id="0f279-249">The **Element Classes** pane</span></span>  
 :::image-end:::  
 
@@ -288,7 +288,7 @@ ms.locfileid: "10993074"
 > [!NOTE]
 > <span data-ttu-id="0f279-262">На приведенном ниже рисунке DevTools добавляет `h1.devsite-page-title` правило стиля после выбора **нового правила стиля**.</span><span class="sxs-lookup"><span data-stu-id="0f279-262">In the following figure, DevTools adds the `h1.devsite-page-title` style rule after you choose **New Style Rule**.</span></span>  
 
-:::image type="complex" source="../media/css-elements-styles-style-new.msft.png" alt-text="Добавление нового правила стиля" lightbox="../media/css-elements-styles-style-new.msft.png":::
+:::image type="complex" source="../media/css-elements-styles-style-new.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-style-new.msft.png":::
    <span data-ttu-id="0f279-264">Добавление нового правила стиля</span><span class="sxs-lookup"><span data-stu-id="0f279-264">Add a new style rule</span></span>  
 :::image-end:::  
 
@@ -296,7 +296,7 @@ ms.locfileid: "10993074"
 
 <span data-ttu-id="0f279-266">При [добавлении нового правила стиля](#add-a-style-rule)нажмите и удерживайте **новое правило** стиля \ ( ![ новое правило стиля), ][ImageNewStyleRuleIcon] чтобы выбрать таблицу стилей, к которой нужно добавить правило.</span><span class="sxs-lookup"><span data-stu-id="0f279-266">When [adding a new style rule](#add-a-style-rule), choose and hold **New Style Rule** \(![New Style Rule][ImageNewStyleRuleIcon]\) to choose which stylesheet to add the style rule to.</span></span>  
 
-:::image type="complex" source="../media/css-elements-styles-style-new-select-existing.msft.png" alt-text="Выбор таблицы стилей" lightbox="../media/css-elements-styles-style-new-select-existing.msft.png":::
+:::image type="complex" source="../media/css-elements-styles-style-new-select-existing.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-style-new-select-existing.msft.png":::
    <span data-ttu-id="0f279-268">Выбор таблицы стилей</span><span class="sxs-lookup"><span data-stu-id="0f279-268">Choose a stylesheet</span></span>  
 :::image-end:::  
 
@@ -308,7 +308,7 @@ ms.locfileid: "10993074"
 1.  <span data-ttu-id="0f279-272">[Показать панель инструментов " **другие действия** "](#reveal-the-more-actions-toolbar).</span><span class="sxs-lookup"><span data-stu-id="0f279-272">[Reveal the **More Actions** toolbar](#reveal-the-more-actions-toolbar).</span></span>  
 1.  <span data-ttu-id="0f279-273">Нажмите кнопку **Вставить правило стиля ниже** \ ( ![ Вставить правило стиля ниже ][ImageNewStyleRuleIcon] \).</span><span class="sxs-lookup"><span data-stu-id="0f279-273">Choose **Insert Style Rule Below** \(![Insert Style Rule Below][ImageNewStyleRuleIcon]\).</span></span>  
 
-:::image type="complex" source="../media/css-elements-styles-insert-style-rule-below.msft.png" alt-text="Вставить правило стиля ниже" lightbox="../media/css-elements-styles-insert-style-rule-below.msft.png":::
+:::image type="complex" source="../media/css-elements-styles-insert-style-rule-below.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-insert-style-rule-below.msft.png":::
    **<span data-ttu-id="0f279-275">Вставить правило стиля ниже</span><span class="sxs-lookup"><span data-stu-id="0f279-275">Insert Style Rule Below</span></span>**  
 :::image-end:::  
 
@@ -326,7 +326,7 @@ ms.locfileid: "10993074"
     > [!NOTE]
     > <span data-ttu-id="0f279-283">На приведенном ниже рисунке наведите указатель мыши на `.header-holder.has-default-focus` правило стиля и **другие действия** будут отображены в правом нижнем углу раздела "правило стиля".</span><span class="sxs-lookup"><span data-stu-id="0f279-283">In the following figure, hover over the `.header-holder.has-default-focus` style rule and **More Actions** is revealed in the bottom-right of the style rule section.</span></span>  
     
-    :::image type="complex" source="../media/css-elements-styles-new-rule-styles.msft.png" alt-text="Показать дополнительные действия" lightbox="../media/css-elements-styles-new-rule-styles.msft.png":::
+    :::image type="complex" source="../media/css-elements-styles-new-rule-styles.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-new-rule-styles.msft.png":::
        <span data-ttu-id="0f279-285">Показать **Дополнительные действия** \ ( `...` \)</span><span class="sxs-lookup"><span data-stu-id="0f279-285">Reveal **More Actions** \(`...`\)</span></span>  
     :::image-end:::  
     
@@ -335,7 +335,7 @@ ms.locfileid: "10993074"
     > [!NOTE]
     > <span data-ttu-id="0f279-287">**Правило стиля вставки, показанное ниже** , выводится при наведении указателя мыши на **другие действия**.</span><span class="sxs-lookup"><span data-stu-id="0f279-287">The **Insert Style Rule Below** action is revealed after hovering over **More Actions**.</span></span>  
     
-    :::image type="complex" source="../media/css-elements-styles-rule-more-options-insert-style-rule-below.msft.png" alt-text="Панель инструментов «другие действия»" lightbox="../media/css-elements-styles-rule-more-options-insert-style-rule-below.msft.png":::
+    :::image type="complex" source="../media/css-elements-styles-rule-more-options-insert-style-rule-below.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-rule-more-options-insert-style-rule-below.msft.png":::
        <span data-ttu-id="0f279-289">Панель инструментов « **другие действия** »</span><span class="sxs-lookup"><span data-stu-id="0f279-289">The **More Actions** toolbar</span></span>  
     :::image-end:::  
     
@@ -350,7 +350,7 @@ ms.locfileid: "10993074"
 > [!NOTE]
 > <span data-ttu-id="0f279-297">На приведенном ниже рисунке `margin-top` свойство для выбранного в данный момент элемента было отключено.</span><span class="sxs-lookup"><span data-stu-id="0f279-297">In the following figure, the `margin-top` property for the currently selected element has been toggled off.</span></span>  
 
-:::image type="complex" source="../media/css-elements-styles-rule-deactivated.msft.png" alt-text="Переключить объявление" lightbox="../media/css-elements-styles-rule-deactivated.msft.png":::
+:::image type="complex" source="../media/css-elements-styles-rule-deactivated.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-rule-deactivated.msft.png":::
    <span data-ttu-id="0f279-299">Переключить объявление</span><span class="sxs-lookup"><span data-stu-id="0f279-299">Toggle a declaration</span></span>  
 :::image-end:::  
 
@@ -362,7 +362,7 @@ ms.locfileid: "10993074"
 1.  <span data-ttu-id="0f279-303">[Показать панель инструментов " **другие действия** "](#reveal-the-more-actions-toolbar).</span><span class="sxs-lookup"><span data-stu-id="0f279-303">[Reveal the **More Actions** toolbar](#reveal-the-more-actions-toolbar).</span></span>  
 1.  <span data-ttu-id="0f279-304">Выберите команду **добавить цвет фона** \ ( ![ добавить цвет фона ][ImageAddBackgroundColorIcon] \).</span><span class="sxs-lookup"><span data-stu-id="0f279-304">Choose **Add Background Color** \(![Add Background Color][ImageAddBackgroundColorIcon]\).</span></span>  
 
-:::image type="complex" source="../media/css-elements-styles-rule-add-background-color.msft.png" alt-text="Добавление цвета фона" lightbox="../media/css-elements-styles-rule-add-background-color.msft.png":::
+:::image type="complex" source="../media/css-elements-styles-rule-add-background-color.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-rule-add-background-color.msft.png":::
    **<span data-ttu-id="0f279-306">Добавление цвета фона</span><span class="sxs-lookup"><span data-stu-id="0f279-306">Add Background Color</span></span>**  
 :::image-end:::  
 
@@ -374,7 +374,7 @@ ms.locfileid: "10993074"
 1.  <span data-ttu-id="0f279-310">[Показать панель инструментов " **другие действия** "](#reveal-the-more-actions-toolbar).</span><span class="sxs-lookup"><span data-stu-id="0f279-310">[Reveal the **More Actions** toolbar](#reveal-the-more-actions-toolbar).</span></span>  
 1.  <span data-ttu-id="0f279-311">Нажмите кнопку **добавить цвет** \ ( ![ добавить цвет ][ImageAddColorIcon] ).</span><span class="sxs-lookup"><span data-stu-id="0f279-311">Choose **Add Color** \(![Add Color][ImageAddColorIcon]\).</span></span>  
 
-:::image type="complex" source="../media/css-elements-styles-rule-add-color.msft.png" alt-text="Добавить цвет" lightbox="../media/css-elements-styles-rule-add-color.msft.png":::
+:::image type="complex" source="../media/css-elements-styles-rule-add-color.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-rule-add-color.msft.png":::
    **<span data-ttu-id="0f279-313">Добавить цвет</span><span class="sxs-lookup"><span data-stu-id="0f279-313">Add Color</span></span>**  
 :::image-end:::  
 
@@ -386,7 +386,7 @@ ms.locfileid: "10993074"
 1.  <span data-ttu-id="0f279-317">[Показать панель инструментов " **другие действия** "](#reveal-the-more-actions-toolbar).</span><span class="sxs-lookup"><span data-stu-id="0f279-317">[Reveal the **More Actions** toolbar](#reveal-the-more-actions-toolbar).</span></span>  
 1.  <span data-ttu-id="0f279-318">Нажмите кнопку **Добавить тень поля** \ ( ![ Добавить тень рамки ][ImageAddBoxShadowIcon] ).</span><span class="sxs-lookup"><span data-stu-id="0f279-318">Choose **Add Box Shadow** \(![Add Box Shadow][ImageAddBoxShadowIcon]\).</span></span>  
 
-:::image type="complex" source="../media/css-elements-styles-rule-add-box-shadow.msft.png" alt-text="Добавление тени для поля" lightbox="../media/css-elements-styles-rule-add-box-shadow.msft.png":::
+:::image type="complex" source="../media/css-elements-styles-rule-add-box-shadow.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-rule-add-box-shadow.msft.png":::
    **<span data-ttu-id="0f279-320">Добавление тени для поля</span><span class="sxs-lookup"><span data-stu-id="0f279-320">Add Box Shadow</span></span>**  
 :::image-end:::  
 
@@ -398,7 +398,7 @@ ms.locfileid: "10993074"
 1.  <span data-ttu-id="0f279-324">[Показать панель инструментов " **другие действия** "](#reveal-the-more-actions-toolbar).</span><span class="sxs-lookup"><span data-stu-id="0f279-324">[Reveal the **More Actions** toolbar](#reveal-the-more-actions-toolbar).</span></span>  
 1.  <span data-ttu-id="0f279-325">Нажмите кнопку **Добавить тень текста** \ ( ![ Добавить тень текста ][ImageAddTextShadowIcon] \).</span><span class="sxs-lookup"><span data-stu-id="0f279-325">Choose **Add Text Shadow** \(![Add Text Shadow][ImageAddTextShadowIcon]\).</span></span>  
 
-:::image type="complex" source="../media/css-elements-styles-rule-add-text-shadow.msft.png" alt-text="Добавление тени текста" lightbox="../media/css-elements-styles-rule-add-text-shadow.msft.png":::
+:::image type="complex" source="../media/css-elements-styles-rule-add-text-shadow.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-rule-add-text-shadow.msft.png":::
    **<span data-ttu-id="0f279-327">Добавление тени текста</span><span class="sxs-lookup"><span data-stu-id="0f279-327">Add Text Shadow</span></span>**  
 :::image-end:::  
 
@@ -414,19 +414,19 @@ ms.locfileid: "10993074"
     > [!NOTE]
     > <span data-ttu-id="0f279-334">На приведенном ниже рисунке небольшой квадрат слева от него `rgba(0, 0, 0, 0.7)` является предварительным просмотром этого цвета.</span><span class="sxs-lookup"><span data-stu-id="0f279-334">In the following figure, the small square to the left of `rgba(0, 0, 0, 0.7)` is a preview of that color.</span></span>  
     
-    :::image type="complex" source="../media/css-elements-styles-rule-overlay-color-box.msft.png" alt-text="Цвет предварительного просмотра" lightbox="../media/css-elements-styles-rule-overlay-color-box.msft.png":::
+    :::image type="complex" source="../media/css-elements-styles-rule-overlay-color-box.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-rule-overlay-color-box.msft.png":::
        <span data-ttu-id="0f279-336">Цвет предварительного просмотра</span><span class="sxs-lookup"><span data-stu-id="0f279-336">Color preview</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="0f279-337">Нажмите кнопку Предварительный просмотр, чтобы открыть окно **выбора цвета**.</span><span class="sxs-lookup"><span data-stu-id="0f279-337">Choose the preview to open the **Color Picker**.</span></span>  
     
-    :::image type="complex" source="../media/css-elements-styles-rule-color-picker.msft.png" alt-text="Выбор цвета" lightbox="../media/css-elements-styles-rule-color-picker.msft.png":::
+    :::image type="complex" source="../media/css-elements-styles-rule-color-picker.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-rule-color-picker.msft.png":::
        <span data-ttu-id="0f279-339">**Выбор цвета**</span><span class="sxs-lookup"><span data-stu-id="0f279-339">The **Color Picker**</span></span>  
     :::image-end:::  
     
 <span data-ttu-id="0f279-340">На приведенном ниже рисунке и списке описывает каждого элемента пользовательского интерфейса в **палитре цветов**.</span><span class="sxs-lookup"><span data-stu-id="0f279-340">The following figure and list descries of each of the UI elements of the **Color Picker**.</span></span>  
 
-:::image type="complex" source="../media/css-elements-styles-rule-color-picker-annotated.msft.png" alt-text="Палитра цветов с заметками" lightbox="../media/css-elements-styles-rule-color-picker-annotated.msft.png":::
+:::image type="complex" source="../media/css-elements-styles-rule-color-picker-annotated.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-rule-color-picker-annotated.msft.png":::
    <span data-ttu-id="0f279-342">**Палитра цветов**с заметками</span><span class="sxs-lookup"><span data-stu-id="0f279-342">The **Color Picker**, annotated</span></span>  
 :::image-end:::  
 
@@ -540,7 +540,7 @@ ms.locfileid: "10993074"
     > [!NOTE]
     > <span data-ttu-id="0f279-373">На приведенном ниже рисунке в **средстве выбора цвета** отображается текущее цветное значение `rgba(0,0,0,0.7)` , которое близко к черному.</span><span class="sxs-lookup"><span data-stu-id="0f279-373">In the following figure, the **Color Picker** shows a current color value of `rgba(0,0,0,0.7)`, which is close to black.</span></span>  <span data-ttu-id="0f279-374">Определенный цвет должен измениться на черную версию, которая выделена в окне просмотра, после того как вы выберете его.</span><span class="sxs-lookup"><span data-stu-id="0f279-374">The specific color should change to the version of black that is currently highlighted in the viewport after you chose it.</span></span>  
     
-    :::image type="complex" source="../media/css-color-picker-eye-dropper.msft.png" alt-text="Использование пипетки" lightbox="../media/css-color-picker-eye-dropper.msft.png":::
+    :::image type="complex" source="../media/css-color-picker-eye-dropper.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-color-picker-eye-dropper.msft.png":::
        <span data-ttu-id="0f279-376">Использование пипетки</span><span class="sxs-lookup"><span data-stu-id="0f279-376">Using the Eyedropper</span></span>  
     :::image-end:::  
     

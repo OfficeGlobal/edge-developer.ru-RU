@@ -71,7 +71,7 @@ ms.locfileid: "10993095"
 1.  <span data-ttu-id="2276c-124">[Открытие меню команд][DevToolsCommandMenu].</span><span class="sxs-lookup"><span data-stu-id="2276c-124">[Open the Command Menu][DevToolsCommandMenu].</span></span>  
 1.  <span data-ttu-id="2276c-125">Начните вводить текст `coverage` , выберите команду **Показать покрытие** , а затем нажмите `Enter` , чтобы выполнить команду.</span><span class="sxs-lookup"><span data-stu-id="2276c-125">Start typing `coverage`, select the **Show Coverage** command, and then press `Enter` to run the command.</span></span>  <span data-ttu-id="2276c-126">В **денежном ящике**откроется вкладка **покрытие** .</span><span class="sxs-lookup"><span data-stu-id="2276c-126">The **Coverage** tab opens in the **Drawer**.</span></span>  
 
-    :::image type="complex" source="../media/coverage-console-drawer-coverage-empty.msft.png" alt-text="Вкладка "покрытие"" lightbox="../media/coverage-console-drawer-coverage-empty.msft.png":::
+    :::image type="complex" source="../media/coverage-console-drawer-coverage-empty.msft.png" alt-text="Анализ объема протестированного кода" lightbox="../media/coverage-console-drawer-coverage-empty.msft.png":::
        <span data-ttu-id="2276c-128">Вкладка " **покрытие** "</span><span class="sxs-lookup"><span data-stu-id="2276c-128">The **Coverage** tab</span></span>  
     :::image-end:::  
     
@@ -86,7 +86,7 @@ ms.locfileid: "10993095"
 
 <span data-ttu-id="2276c-135">В таблице на вкладке **покрытие** показано, какие ресурсы были проанализированы, и сколько кода используется в каждом ресурсе.</span><span class="sxs-lookup"><span data-stu-id="2276c-135">The table in the **Coverage** tab shows you what resources were analyzed, and how much code is used within each resource.</span></span>  <span data-ttu-id="2276c-136">Щелкните строку, чтобы открыть ресурс на панели « **источники** » и просмотреть разбиение по строкам используемого кода и неиспользуемый код.</span><span class="sxs-lookup"><span data-stu-id="2276c-136">Click a row to open that resource in the **Sources** panel and see a line-by-line breakdown of used code and unused code.</span></span>  
 
-:::image type="complex" source="../media/coverage-sources-resource-drawer-coverage-selected.msft.png" alt-text="Отчет о покрытии кода" lightbox="../media/coverage-sources-resource-drawer-coverage-selected.msft.png":::
+:::image type="complex" source="../media/coverage-sources-resource-drawer-coverage-selected.msft.png" alt-text="Анализ объема протестированного кода" lightbox="../media/coverage-sources-resource-drawer-coverage-selected.msft.png":::
    <span data-ttu-id="2276c-138">Отчет о покрытии кода</span><span class="sxs-lookup"><span data-stu-id="2276c-138">A code coverage report</span></span>  
 :::image-end:::  
 

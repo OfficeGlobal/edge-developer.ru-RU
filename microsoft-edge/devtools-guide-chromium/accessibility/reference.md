@@ -80,19 +80,19 @@ ms.locfileid: "10993270"
 1.  <span data-ttu-id="e5817-142">Флажок **clear Storage (очистить хранилище** ) позволяет очистить все хранилище перед загрузкой страницы или сохранением хранилища между загрузкой страниц.</span><span class="sxs-lookup"><span data-stu-id="e5817-142">The **Clear Storage** checkbox lets you clear all storage before loading the page, or preserve storage between page loads.</span></span>  <span data-ttu-id="e5817-143">Этот параметр также может быть неважен для оценки доступности, поэтому вы можете использовать любой из них.</span><span class="sxs-lookup"><span data-stu-id="e5817-143">This option is also probably irrelevant to your accessibility score, so you may use whatever you prefer.</span></span>  
 1.  <span data-ttu-id="e5817-144">Нажмите кнопку **запустить аудиты**.</span><span class="sxs-lookup"><span data-stu-id="e5817-144">Click **Run Audits**.</span></span> <span data-ttu-id="e5817-145">После 10 – 30 секунд DevTools предоставляет отчет.</span><span class="sxs-lookup"><span data-stu-id="e5817-145">After 10 to 30 seconds, DevTools provides a report.</span></span>  <span data-ttu-id="e5817-146">В отчете приводятся различные советы по улучшению доступности страницы.</span><span class="sxs-lookup"><span data-stu-id="e5817-146">Your report gives you various tips on how to improve the accessibility of the page.</span></span>  
     
-    :::image type="complex" source="../media/accessibility-audits-run-audits-result.msft.png" alt-text="Отчет" lightbox="../media/accessibility-audits-run-audits-result.msft.png":::
+    :::image type="complex" source="../media/accessibility-audits-run-audits-result.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-audits-run-audits-result.msft.png":::
        <span data-ttu-id="e5817-148">Отчет</span><span class="sxs-lookup"><span data-stu-id="e5817-148">A report</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="e5817-149">Щелкните аудиторию, чтобы получить дополнительные сведения о нем.</span><span class="sxs-lookup"><span data-stu-id="e5817-149">Click an audit to learn more about it.</span></span>  
     
-    :::image type="complex" source="../media/accessibility-audits-run-audits-result-issues-expanded.msft.png" alt-text="Дополнительные сведения об аудите" lightbox="../media/accessibility-audits-run-audits-result-issues-expanded.msft.png":::
+    :::image type="complex" source="../media/accessibility-audits-run-audits-result-issues-expanded.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-audits-run-audits-result-issues-expanded.msft.png":::
        <span data-ttu-id="e5817-151">Дополнительные сведения об аудите</span><span class="sxs-lookup"><span data-stu-id="e5817-151">More information about an audit</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="e5817-152">Щелкните ссылку **Дополнительные сведения** , чтобы просмотреть документацию по аудиту.</span><span class="sxs-lookup"><span data-stu-id="e5817-152">Click **Learn More** to view the documentation of that audit.</span></span>  
     
-    :::image type="complex" source="../media/accessibility-web-dev-accessibility-audits-learn-more.msft.png" alt-text="Просмотр документации по аудиту" lightbox="../media/accessibility-web-dev-accessibility-audits-learn-more.msft.png":::
+    :::image type="complex" source="../media/accessibility-web-dev-accessibility-audits-learn-more.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-web-dev-accessibility-audits-learn-more.msft.png":::
        <span data-ttu-id="e5817-154">Просмотр документации по аудиту</span><span class="sxs-lookup"><span data-stu-id="e5817-154">View the documentation of an audit</span></span>  
     :::image-end:::  
     
@@ -102,7 +102,7 @@ ms.locfileid: "10993270"
 <span data-ttu-id="e5817-157">Расширение aXe обычно предоставляет те же сведения, так как это базовый обработчик, который включает в себя панель аудита.</span><span class="sxs-lookup"><span data-stu-id="e5817-157">The aXe extension generally provides the same information, since it is the underlying engine that powers the Audits panel.</span></span>  <span data-ttu-id="e5817-158">Расширение aXe имеет другой пользовательский интерфейс и описывает аудит слегка разными способами.</span><span class="sxs-lookup"><span data-stu-id="e5817-158">The aXe extension has a different UI and describes audits slightly differently.</span></span>  
 <span data-ttu-id="e5817-159">Одно из преимуществ, которое имеет расширение aXe на панели **аудитов** , состоит в том, что она позволяет проверять и вымечать узлы, в которых произошел сбой.</span><span class="sxs-lookup"><span data-stu-id="e5817-159">One advantage that the aXe extension has over the **Audits** panel is that it enables you to inspect and highlight failing nodes.</span></span>  
 
-:::image type="complex" source="../media/accessibility-devtools-extension-axe-panel.msft.png" alt-text="Расширение aXe" lightbox="../media/accessibility-devtools-extension-axe-panel.msft.png":::
+:::image type="complex" source="../media/accessibility-devtools-extension-axe-panel.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-devtools-extension-axe-panel.msft.png":::
    <span data-ttu-id="e5817-161">Расширение aXe</span><span class="sxs-lookup"><span data-stu-id="e5817-161">The aXe extension</span></span>  
 :::image-end:::  
 
@@ -116,7 +116,7 @@ ms.locfileid: "10993270"
 1.  <span data-ttu-id="e5817-166">В **дереве DOM**выберите элемент, который нужно проверить.</span><span class="sxs-lookup"><span data-stu-id="e5817-166">In the **DOM Tree**, select the element which you want to inspect.</span></span>  
 1.  <span data-ttu-id="e5817-167">Откройте вкладку **Специальные возможности** .  Эта вкладка может быть скрыта за кнопкой **другие вкладки** \ ( ![ другие вкладки ][ImageMoreTabsIcon] \).</span><span class="sxs-lookup"><span data-stu-id="e5817-167">Click the **Accessibility** tab.  This tab may be hidden behind the **More Tabs** \(![More Tabs][ImageMoreTabsIcon]\) button.</span></span>  
 
-:::image type="complex" source="../media/accessibility-elements-accessibility.msft.png" alt-text="Проверка элемента H1 на домашней странице DevTools в области "Специальные возможности"" lightbox="../media/accessibility-elements-accessibility.msft.png":::
+:::image type="complex" source="../media/accessibility-elements-accessibility.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-elements-accessibility.msft.png":::
    <span data-ttu-id="e5817-169">Проверка `h1` элемента домашней страницы DevTools в области " **Специальные возможности** "</span><span class="sxs-lookup"><span data-stu-id="e5817-169">Inspect the `h1` element of the DevTools homepage in the **Accessibility** pane</span></span>  
 :::image-end:::  
 
@@ -126,7 +126,7 @@ ms.locfileid: "10993270"
 
 <span data-ttu-id="e5817-173">Проверьте расположение элемента в дереве специальных возможностей в [области "Специальные возможности](#the-accessibility-pane)".</span><span class="sxs-lookup"><span data-stu-id="e5817-173">Inspect the position of an element in the accessibility tree from the [Accessibility pane](#the-accessibility-pane).</span></span>  
 
-:::image type="complex" source="../media/accessibility-elements-accessibility-tree.msft.png" alt-text="Раздел дерева специальных возможностей" lightbox="../media/accessibility-elements-accessibility-tree.msft.png":::
+:::image type="complex" source="../media/accessibility-elements-accessibility-tree.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-elements-accessibility-tree.msft.png":::
    <span data-ttu-id="e5817-175">Раздел **дерева специальных возможностей**</span><span class="sxs-lookup"><span data-stu-id="e5817-175">The **Accessibility Tree** section</span></span>  
 :::image-end:::  
 
@@ -136,7 +136,7 @@ ms.locfileid: "10993270"
 
 <span data-ttu-id="e5817-178">Просмотрите атрибуты ARIA элемента в [области "Специальные возможности](#the-accessibility-pane)".</span><span class="sxs-lookup"><span data-stu-id="e5817-178">View the ARIA attributes of an element in the [Accessibility pane](#the-accessibility-pane).</span></span>  
 
-:::image type="complex" source="../media/accessibility-elements-accessibility-aria-attributes.msft.png" alt-text="Раздел атрибутов ARIA" lightbox="../media/accessibility-elements-accessibility-aria-attributes.msft.png":::
+:::image type="complex" source="../media/accessibility-elements-accessibility-aria-attributes.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-elements-accessibility-aria-attributes.msft.png":::
    <span data-ttu-id="e5817-180">Раздел **атрибутов ARIA**</span><span class="sxs-lookup"><span data-stu-id="e5817-180">The **ARIA Attributes** section</span></span>  
 :::image-end:::  
 
@@ -149,7 +149,7 @@ ms.locfileid: "10993270"
 
 <span data-ttu-id="e5817-185">Просмотр вычисляемых свойств специальных возможностей для элемента в [области специальных возможностей](#the-accessibility-pane).</span><span class="sxs-lookup"><span data-stu-id="e5817-185">View the computed accessibility properties of an element in the [Accessibility pane](#the-accessibility-pane).</span></span>  
 
-:::image type="complex" source="../media/accessibility-elements-accessibility-computed-properties.msft.png" alt-text="Раздел "вычисляемые свойства" области "Специальные возможности"" lightbox="../media/accessibility-elements-accessibility-computed-properties.msft.png":::
+:::image type="complex" source="../media/accessibility-elements-accessibility-computed-properties.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-elements-accessibility-computed-properties.msft.png":::
    <span data-ttu-id="e5817-187">Раздел " **вычисляемые свойства** " области " **Специальные возможности** "</span><span class="sxs-lookup"><span data-stu-id="e5817-187">The **Computed Properties** section of the **Accessibility** pane</span></span>  
 :::image-end:::  
 
@@ -164,25 +164,25 @@ ms.locfileid: "10993270"
 1.  <span data-ttu-id="e5817-194">Откройте вкладку **элементы** .</span><span class="sxs-lookup"><span data-stu-id="e5817-194">Click the **Elements** tab.</span></span>  
 1.  <span data-ttu-id="e5817-195">В **дереве DOM**выделите текстовый элемент, который нужно проверить.</span><span class="sxs-lookup"><span data-stu-id="e5817-195">In the **DOM Tree**, select the text element that you want to inspect.</span></span>  
     
-    :::image type="complex" source="../media/accessibility-elements-paragraph-highlight.msft.png" alt-text="Проверка абзаца в дереве DOM" lightbox="../media/accessibility-elements-paragraph-highlight.msft.png":::
+    :::image type="complex" source="../media/accessibility-elements-paragraph-highlight.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-elements-paragraph-highlight.msft.png":::
        <span data-ttu-id="e5817-197">Проверка абзаца в **дереве DOM**</span><span class="sxs-lookup"><span data-stu-id="e5817-197">Inspect a paragraph in the **DOM Tree**</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="e5817-198">В области **стили** щелкните квадратик цвета рядом со `color` значением элемента.</span><span class="sxs-lookup"><span data-stu-id="e5817-198">In the **Styles** pane, click the color square next to the `color` value of the element.</span></span>  
     
-    :::image type="complex" source="../media/accessibility-elements-styles-paragraph-highlight-color.msft.png" alt-text="Свойство Color элемента" lightbox="../media/accessibility-elements-styles-paragraph-highlight-color.msft.png":::
+    :::image type="complex" source="../media/accessibility-elements-styles-paragraph-highlight-color.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-elements-styles-paragraph-highlight-color.msft.png":::
        <span data-ttu-id="e5817-200">`color`Свойство элемента</span><span class="sxs-lookup"><span data-stu-id="e5817-200">The `color` property of the element</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="e5817-201">Проверьте раздел **коэффициент контрастности** в палитре цветов.</span><span class="sxs-lookup"><span data-stu-id="e5817-201">Check the **Contrast Ratio** section of the Color Picker.</span></span>  <span data-ttu-id="e5817-202">Один флажок означает, что элемент соответствует [минимальным рекомендациям][W3CContrastMinimum].</span><span class="sxs-lookup"><span data-stu-id="e5817-202">One checkmark means that the element meets the [minimum recommendation][W3CContrastMinimum].</span></span>  <span data-ttu-id="e5817-203">Два флажка означают, что они соответствуют [улучшенным рекомендациям][W3CContrastEnhanced].</span><span class="sxs-lookup"><span data-stu-id="e5817-203">Two checkmarks means that it meets the [enhanced recommendation][W3CContrastEnhanced].</span></span>  
     
-    :::image type="complex" source="../media/accessibility-elements-styles-paragraph-highlight-color-picker.msft.png" alt-text="В разделе "степень контрастности" в окне выбора цвета показаны 2 метки и значение 13,97" lightbox="../media/accessibility-elements-styles-paragraph-highlight-color-picker.msft.png":::
+    :::image type="complex" source="../media/accessibility-elements-styles-paragraph-highlight-color-picker.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-elements-styles-paragraph-highlight-color-picker.msft.png":::
        <span data-ttu-id="e5817-205">В разделе " **степень контрастности** " в окне выбора цвета показаны 2 метки и значение</span><span class="sxs-lookup"><span data-stu-id="e5817-205">The **Contrast Ratio** section of the Color Picker shows 2 checkmarks and a value of</span></span> `13.97`  
     :::image-end:::  
     
 1.  <span data-ttu-id="e5817-206">Щелкните раздел **коэффициент контрастности** , чтобы просмотреть дополнительные сведения.</span><span class="sxs-lookup"><span data-stu-id="e5817-206">Click the **Contrast Ratio** section to see more information.</span></span>  <span data-ttu-id="e5817-207">В визуальном элементе выбора в верхней части окна выбора цвета появится линия.</span><span class="sxs-lookup"><span data-stu-id="e5817-207">A line appears in the visual picker at the top of the Color Picker.</span></span>  <span data-ttu-id="e5817-208">Если текущий цвет соответствует рекомендациям, то все элементы на одной и той же стороне линии также соответствуют рекомендациям.</span><span class="sxs-lookup"><span data-stu-id="e5817-208">If the current color meets recommendations, then anything on the same side of the line also meets recommendations.</span></span>  <span data-ttu-id="e5817-209">Если текущий цвет не соответствует рекомендациям, то на одном и том же стороне не будут выводится соответствие рекомендациям.</span><span class="sxs-lookup"><span data-stu-id="e5817-209">If the current color does not meet recommendations, then anything on the same side also does not meet recommendations.</span></span>  
     
-    :::image type="complex" source="../media/accessibility-elements-styles-paragraph-highlight-color-picker-contrast-ratio-details.msft.png" alt-text="Линия коэффициента контрастности в средстве выбора визуальных элементов" lightbox="../media/accessibility-elements-styles-paragraph-highlight-color-picker-contrast-ratio-details.msft.png":::
+    :::image type="complex" source="../media/accessibility-elements-styles-paragraph-highlight-color-picker-contrast-ratio-details.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-elements-styles-paragraph-highlight-color-picker-contrast-ratio-details.msft.png":::
        <span data-ttu-id="e5817-211">Линия **коэффициента контрастности** в средстве выбора визуальных элементов</span><span class="sxs-lookup"><span data-stu-id="e5817-211">The **Contrast Ratio** Line in the visual picker</span></span>  
     :::image-end:::  
     

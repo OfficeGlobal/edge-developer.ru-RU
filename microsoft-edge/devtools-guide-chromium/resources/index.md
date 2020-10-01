@@ -52,7 +52,7 @@ ms.locfileid: "10993592"
     
 1.  <span data-ttu-id="27834-115">Выберите файл из раскрывающегося списка или введите имя файла и нажмите `Enter` один раз, чтобы выделить его в поле "Автозаполнение".</span><span class="sxs-lookup"><span data-stu-id="27834-115">Select the file from the dropdown, or start typing the filename and press `Enter` once the correct file is highlighted in the autocomplete box.</span></span>  
     
-    :::image type="complex" source="../media/resources-command-menu-file-search.msft.png" alt-text="Введите имя файла в диалоговом окне "Открытие файла"" lightbox="../media/resources-command-menu-file-search.msft.png":::
+    :::image type="complex" source="../media/resources-command-menu-file-search.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-command-menu-file-search.msft.png":::
        <span data-ttu-id="27834-117">Введите имя файла в диалоговом окне " **Открытие файла** "</span><span class="sxs-lookup"><span data-stu-id="27834-117">Type a filename in the **Open File** dialog</span></span>  
     :::image-end:::  
     
@@ -60,7 +60,7 @@ ms.locfileid: "10993592"
 
 <span data-ttu-id="27834-119">Ознакомьтесь [с подробными сведениями о ресурсе][DevtoolsNetworkInspectDetailsResource].</span><span class="sxs-lookup"><span data-stu-id="27834-119">See [Inspect the details of a resource][DevtoolsNetworkInspectDetailsResource].</span></span>  
 
-:::image type="complex" source="../media/resources-network-response.msft.png" alt-text="Проверка ресурса на панели "сеть"" lightbox="../media/resources-network-response.msft.png":::
+:::image type="complex" source="../media/resources-network-response.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-network-response.msft.png":::
    <span data-ttu-id="27834-121">Проверка ресурса на панели " **сеть** "</span><span class="sxs-lookup"><span data-stu-id="27834-121">Inspect a resource in the **Network** panel</span></span>  
 :::image-end:::  
 
@@ -68,7 +68,7 @@ ms.locfileid: "10993592"
 
 <span data-ttu-id="27834-123">В разделе [Обзор ресурсов](#browse-resources) ниже показано, как просматривать ресурсы из различных частей пользовательского интерфейса DevTools.</span><span class="sxs-lookup"><span data-stu-id="27834-123">The [Browse resources](#browse-resources) section below shows you how to view resources from various parts of the DevTools UI.</span></span>  <span data-ttu-id="27834-124">Если вы когда-нибудь хотите просмотреть ресурс на панели **сеть** , щелкните ресурс правой кнопкой мыши и выберите пункт **Показать на панели "сеть**".</span><span class="sxs-lookup"><span data-stu-id="27834-124">If you ever want to inspect a resource in the **Network** panel, right-click the resource and select **Reveal in Network panel**.</span></span>  
 
-:::image type="complex" source="../media/resources-sources-page-reveal-in-network-panel.msft.png" alt-text="Панель "Показать в сети"" lightbox="../media/resources-sources-page-reveal-in-network-panel.msft.png":::
+:::image type="complex" source="../media/resources-sources-page-reveal-in-network-panel.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-sources-page-reveal-in-network-panel.msft.png":::
    **<span data-ttu-id="27834-126">Панель "Показать в сети"</span><span class="sxs-lookup"><span data-stu-id="27834-126">Reveal in Network panel</span></span>**  
 :::image-end:::  
 
@@ -78,7 +78,7 @@ ms.locfileid: "10993592"
 
 <span data-ttu-id="27834-129">Просмотр [журнала активности сети][DevtoolsNetworkLogActivity].</span><span class="sxs-lookup"><span data-stu-id="27834-129">See [Log network activity][DevtoolsNetworkLogActivity].</span></span>  
 
-:::image type="complex" source="../media/resources-network-resources.msft.png" alt-text="Ресурсы страницы в журнале сети" lightbox="../media/resources-network-resources.msft.png":::
+:::image type="complex" source="../media/resources-network-resources.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-network-resources.msft.png":::
    <span data-ttu-id="27834-131">Ресурсы страницы в журнале **сети**</span><span class="sxs-lookup"><span data-stu-id="27834-131">Page resources in the **Network** Log</span></span>  
 :::image-end:::  
 
@@ -89,7 +89,7 @@ ms.locfileid: "10993592"
 1.  <span data-ttu-id="27834-134">Перейдите на вкладку **источники** , чтобы открыть панель " **источники** ".</span><span class="sxs-lookup"><span data-stu-id="27834-134">Click the **Sources** tab to open the **Sources** panel.</span></span>  
 1.  <span data-ttu-id="27834-135">Щелкните вкладку **страницы** , чтобы показать ресурсы страницы.</span><span class="sxs-lookup"><span data-stu-id="27834-135">Click the **Page** tab to show the resources of the page.</span></span>  <span data-ttu-id="27834-136">Откроется область **страница** .</span><span class="sxs-lookup"><span data-stu-id="27834-136">The **Page** pane opens.</span></span>  
     
-    :::image type="complex" source="../media/resources-sources-page-empty.msft.png" alt-text="Область страницы" lightbox="../media/resources-sources-page-empty.msft.png":::
+    :::image type="complex" source="../media/resources-sources-page-empty.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-sources-page-empty.msft.png":::
        <span data-ttu-id="27834-138">Область **страницы**</span><span class="sxs-lookup"><span data-stu-id="27834-138">The **Page** pane</span></span>  
     :::image-end:::  
     
@@ -105,7 +105,7 @@ ms.locfileid: "10993592"
     
 1.  <span data-ttu-id="27834-149">Щелкните ресурс, чтобы просмотреть его в **редакторе**.</span><span class="sxs-lookup"><span data-stu-id="27834-149">Click a resource to view it in the **Editor**.</span></span>  
     
-    :::image type="complex" source="../media/resources-sources-page-resource.msft.png" alt-text="Просмотр файла в редакторе" lightbox="../media/resources-sources-page-resource.msft.png":::
+    :::image type="complex" source="../media/resources-sources-page-resource.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-sources-page-resource.msft.png":::
        <span data-ttu-id="27834-151">Просмотр файла в **редакторе**</span><span class="sxs-lookup"><span data-stu-id="27834-151">View a file in the **Editor**</span></span>  
     :::image-end:::  
     
@@ -116,13 +116,13 @@ ms.locfileid: "10993592"
 1.  <span data-ttu-id="27834-155">Открытие области **страницы** .</span><span class="sxs-lookup"><span data-stu-id="27834-155">Open the **Page** pane.</span></span>  <span data-ttu-id="27834-156">Просмотр [по каталогу](#browse-by-directory).</span><span class="sxs-lookup"><span data-stu-id="27834-156">See [Browse by directory](#browse-by-directory).</span></span>  
 1.  <span data-ttu-id="27834-157">Нажмите кнопку **Дополнительные параметры** `...` и отключите функцию **Группировка по папкам**.</span><span class="sxs-lookup"><span data-stu-id="27834-157">Click **More Options** `...` and disable **Group By Folder**.</span></span>  
     
-    :::image type="complex" source="../media/resources-sources-page-resource-group-by-folder.msft.png" alt-text="Параметр Группировка по папке" lightbox="../media/resources-sources-page-resource-group-by-folder.msft.png":::
+    :::image type="complex" source="../media/resources-sources-page-resource-group-by-folder.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-sources-page-resource-group-by-folder.msft.png":::
        <span data-ttu-id="27834-159">Параметр **Группировка по папке**</span><span class="sxs-lookup"><span data-stu-id="27834-159">The **Group By Folder** option</span></span>  
     :::image-end:::  
     
     <span data-ttu-id="27834-160">Ресурсы упорядочены по типам файлов.</span><span class="sxs-lookup"><span data-stu-id="27834-160">Resources are organized by file type.</span></span>  <span data-ttu-id="27834-161">В каждом типе файла ресурсы упорядочены по алфавиту.</span><span class="sxs-lookup"><span data-stu-id="27834-161">Within each file type the resources are organized alphabetically.</span></span>  
     
-    :::image type="complex" source="../media/resources-sources-page-resources-empty-not-grouped-by-folder.msft.png" alt-text="Область страницы после отключения группировки по папке" lightbox="../media/resources-sources-page-resources-empty-not-grouped-by-folder.msft.png":::
+    :::image type="complex" source="../media/resources-sources-page-resources-empty-not-grouped-by-folder.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-sources-page-resources-empty-not-grouped-by-folder.msft.png":::
        <span data-ttu-id="27834-163">Область **страницы** после отключения **группировки по папке**</span><span class="sxs-lookup"><span data-stu-id="27834-163">The **Page** pane after disabling **Group By Folder**</span></span>  
     :::image-end:::  
     
@@ -132,20 +132,20 @@ ms.locfileid: "10993592"
 
 1.  <span data-ttu-id="27834-166">Откройте вкладку **приложение** .  Откроется панель **приложения** .</span><span class="sxs-lookup"><span data-stu-id="27834-166">Click the **Application** tab.  The **Application** panel opens.</span></span>  <span data-ttu-id="27834-167">По умолчанию область **манифеста** обычно открывается в первую очередь.</span><span class="sxs-lookup"><span data-stu-id="27834-167">By default the **Manifest** pane usually opens first.</span></span>  
     
-    :::image type="complex" source="../media/resources-application-mainfest-airhorner.msft.png" alt-text="Панель приложения" lightbox="../media/resources-application-mainfest-airhorner.msft.png":::
+    :::image type="complex" source="../media/resources-application-mainfest-airhorner.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-application-mainfest-airhorner.msft.png":::
        <span data-ttu-id="27834-169">Панель **приложения**</span><span class="sxs-lookup"><span data-stu-id="27834-169">The **Application** panel</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="27834-170">Прокрутите страницу вниз до области **рамок** .</span><span class="sxs-lookup"><span data-stu-id="27834-170">Scroll down to the **Frames** pane.</span></span>  
     
-    :::image type="complex" source="../media/resources-application-mainfest-airhorner-frames-expanded.msft.png" alt-text="Область рамок" lightbox="../media/resources-application-mainfest-airhorner-frames-expanded.msft.png":::
+    :::image type="complex" source="../media/resources-application-mainfest-airhorner-frames-expanded.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-application-mainfest-airhorner-frames-expanded.msft.png":::
        <span data-ttu-id="27834-172">Область **рамок**</span><span class="sxs-lookup"><span data-stu-id="27834-172">The **Frames** pane</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="27834-173">Разверните разделы, в которых вы заинтересованы.</span><span class="sxs-lookup"><span data-stu-id="27834-173">Expand the sections in which you are interested.</span></span>  
 1.  <span data-ttu-id="27834-174">Щелкните ресурс, чтобы просмотреть его.</span><span class="sxs-lookup"><span data-stu-id="27834-174">Click a resource to view it.</span></span>  
     
-    :::image type="complex" source="../media/resources-application-mainfest-airhorner-expanded-resources.msft.png" alt-text="Просмотр ресурса на панели «приложение»" lightbox="../media/resources-application-mainfest-airhorner-expanded-resources.msft.png":::
+    :::image type="complex" source="../media/resources-application-mainfest-airhorner-expanded-resources.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-application-mainfest-airhorner-expanded-resources.msft.png":::
        <span data-ttu-id="27834-176">Просмотр ресурса на панели « **приложение** »</span><span class="sxs-lookup"><span data-stu-id="27834-176">View a resource in the **Application** panel</span></span>  
     :::image-end:::  
     
@@ -153,7 +153,7 @@ ms.locfileid: "10993592"
 
 <span data-ttu-id="27834-178">Просмотреть [Фильтр по типу ресурсов][DevtoolsNetworkFilterByResourceType].</span><span class="sxs-lookup"><span data-stu-id="27834-178">See [Filter by resource type][DevtoolsNetworkFilterByResourceType].</span></span>  
 
-:::image type="complex" source="../media/resources-network-resources-filter-css.msft.png" alt-text="Фильтр для CSS в сетевом журнале" lightbox="../media/resources-network-resources-filter-css.msft.png":::
+:::image type="complex" source="../media/resources-network-resources-filter-css.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-network-resources-filter-css.msft.png":::
    <span data-ttu-id="27834-180">Фильтр для CSS в **сетевом** журнале</span><span class="sxs-lookup"><span data-stu-id="27834-180">Filter for CSS in the **Network** Log</span></span>  
 :::image-end:::  
 

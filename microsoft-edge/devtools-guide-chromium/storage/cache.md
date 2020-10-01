@@ -50,25 +50,25 @@ ms.locfileid: "10993298"
     
 1.  <span data-ttu-id="90b1f-114">Разверните раздел **хранилище кэша** , чтобы просмотреть доступные кэши.</span><span class="sxs-lookup"><span data-stu-id="90b1f-114">Expand the **Cache Storage** section to view available caches.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-cache-storage.msft.png" alt-text="Доступные кэши" lightbox="../media/storage-application-cache-storage.msft.png":::
+    :::image type="complex" source="../media/storage-application-cache-storage.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-cache-storage.msft.png":::
        <span data-ttu-id="90b1f-116">Доступные кэши</span><span class="sxs-lookup"><span data-stu-id="90b1f-116">Available caches</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="90b1f-117">Выберите кэш, чтобы просмотреть его содержимое.</span><span class="sxs-lookup"><span data-stu-id="90b1f-117">Select a cache to view the contents.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-cache-storage-domain-root-headers.msft.png" alt-text="Просмотр содержимого кэша" lightbox="../media/storage-application-cache-storage-domain-root-headers.msft.png":::
+    :::image type="complex" source="../media/storage-application-cache-storage-domain-root-headers.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-cache-storage-domain-root-headers.msft.png":::
        <span data-ttu-id="90b1f-119">Просмотр содержимого кэша</span><span class="sxs-lookup"><span data-stu-id="90b1f-119">View the contents of a cache</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="90b1f-120">Выберите ресурс для просмотра заголовков HTTP в разделе под таблицей.</span><span class="sxs-lookup"><span data-stu-id="90b1f-120">Select a resource to view the HTTP headers in the section below the table.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-cache-storage-index-headers.msft.png" alt-text="Просмотр заголовков HTTP для ресурса" lightbox="../media/storage-application-cache-storage-index-headers.msft.png":::
+    :::image type="complex" source="../media/storage-application-cache-storage-index-headers.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-cache-storage-index-headers.msft.png":::
        <span data-ttu-id="90b1f-122">Просмотр заголовков HTTP для ресурса</span><span class="sxs-lookup"><span data-stu-id="90b1f-122">View the HTTP headers of a resource</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="90b1f-123">Нажмите кнопку **Предварительный просмотр** , чтобы просмотреть содержимое ресурса.</span><span class="sxs-lookup"><span data-stu-id="90b1f-123">Select **Preview** to view the content of a resource.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-cache-storage-domain-js-preview.msft.png" alt-text="Просмотр содержимого ресурса" lightbox="../media/storage-application-cache-storage-domain-js-preview.msft.png":::
+    :::image type="complex" source="../media/storage-application-cache-storage-domain-js-preview.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-cache-storage-domain-js-preview.msft.png":::
        <span data-ttu-id="90b1f-125">Просмотр содержимого ресурса</span><span class="sxs-lookup"><span data-stu-id="90b1f-125">View the content of a resource</span></span>  
     :::image-end:::  
     
@@ -77,7 +77,7 @@ ms.locfileid: "10993298"
 1.  <span data-ttu-id="90b1f-127">[Просмотр данных для кэша](#view-cache-data).</span><span class="sxs-lookup"><span data-stu-id="90b1f-127">[View the data for a cache](#view-cache-data).</span></span>  
 1.  <span data-ttu-id="90b1f-128">Выберите ресурс, который вы хотите обновить.</span><span class="sxs-lookup"><span data-stu-id="90b1f-128">Select the resource that you want to refresh.</span></span>  <span data-ttu-id="90b1f-129">DevTools выделит ее, чтобы показать, что она выбрана.</span><span class="sxs-lookup"><span data-stu-id="90b1f-129">DevTools highlights it to indicate that it is selected.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-cache-storage-domain-refresh.msft.png" alt-text="Выберите ресурс" lightbox="../media/storage-application-cache-storage-domain-refresh.msft.png":::
+    :::image type="complex" source="../media/storage-application-cache-storage-domain-refresh.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-cache-storage-domain-refresh.msft.png":::
        <span data-ttu-id="90b1f-131">Выберите ресурс</span><span class="sxs-lookup"><span data-stu-id="90b1f-131">Select a resource</span></span>  
     :::image-end:::  
     
@@ -88,7 +88,7 @@ ms.locfileid: "10993298"
 1.  <span data-ttu-id="90b1f-134">[Просмотр данных для кэша](#view-cache-data).</span><span class="sxs-lookup"><span data-stu-id="90b1f-134">[View the data for a cache](#view-cache-data).</span></span>  
 1.  <span data-ttu-id="90b1f-135">С помощью текстового поля **Фильтр по пути** можно отфильтровать ресурсы, которые не соответствуют указанному вами пути.</span><span class="sxs-lookup"><span data-stu-id="90b1f-135">Use the **Filter by Path** text box to filter out any resources that do not match the path that you provide.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-cache-storage-filter.msft.png" alt-text="Фильтрация ресурсов, не соответствующих указанному пути" lightbox="../media/storage-application-cache-storage-filter.msft.png":::
+    :::image type="complex" source="../media/storage-application-cache-storage-filter.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-cache-storage-filter.msft.png":::
        <span data-ttu-id="90b1f-137">Фильтрация ресурсов, не соответствующих указанному пути</span><span class="sxs-lookup"><span data-stu-id="90b1f-137">Filter out resources that do not match the specified path</span></span>  
     :::image-end:::  
     
@@ -97,7 +97,7 @@ ms.locfileid: "10993298"
 1.  <span data-ttu-id="90b1f-139">[Просмотр данных для кэша](#view-cache-data).</span><span class="sxs-lookup"><span data-stu-id="90b1f-139">[View the data for a cache](#view-cache-data).</span></span>  
 1.  <span data-ttu-id="90b1f-140">Выберите ресурс, который вы хотите удалить.</span><span class="sxs-lookup"><span data-stu-id="90b1f-140">Select the resource that you want to delete.</span></span>  <span data-ttu-id="90b1f-141">DevTools выделит ее, чтобы показать, что она выбрана.</span><span class="sxs-lookup"><span data-stu-id="90b1f-141">DevTools highlights it to indicate that it is selected.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-cache-storage-delete-selected.msft.png" alt-text="Выберите ресурс" lightbox="../media/storage-application-cache-storage-delete-selected.msft.png":::
+    :::image type="complex" source="../media/storage-application-cache-storage-delete-selected.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-cache-storage-delete-selected.msft.png":::
        <span data-ttu-id="90b1f-143">Выберите ресурс</span><span class="sxs-lookup"><span data-stu-id="90b1f-143">Select a resource</span></span>  
     :::image-end:::  
     
@@ -108,13 +108,13 @@ ms.locfileid: "10993298"
 1.  <span data-ttu-id="90b1f-146">Откройте **приложение**  >  , чтобы**Очистить хранилище**.</span><span class="sxs-lookup"><span data-stu-id="90b1f-146">Open **Application** > **Clear Storage**.</span></span>  
 1.  <span data-ttu-id="90b1f-147">Убедитесь, что флажок **хранилище кэша** включен.</span><span class="sxs-lookup"><span data-stu-id="90b1f-147">Make sure that the **Cache Storage** checkbox is enabled.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-clear-storage-cache-storage-checkbox.msft.png" alt-text="Флажок "хранилище кэша"" lightbox="../media/storage-application-clear-storage-cache-storage-checkbox.msft.png":::
+    :::image type="complex" source="../media/storage-application-clear-storage-cache-storage-checkbox.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-clear-storage-cache-storage-checkbox.msft.png":::
        <span data-ttu-id="90b1f-149">Флажок " **хранилище кэша** "</span><span class="sxs-lookup"><span data-stu-id="90b1f-149">The **Cache Storage** checkbox</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="90b1f-150">Нажмите кнопку **Очистить данные сайта**.</span><span class="sxs-lookup"><span data-stu-id="90b1f-150">Select **Clear site data**.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-clear-storage-cache-storage-checkbox-clear-site-data-button.msft.png" alt-text="Кнопка "очистить данные сайта"" lightbox="../media/storage-application-clear-storage-cache-storage-checkbox-clear-site-data-button.msft.png":::
+    :::image type="complex" source="../media/storage-application-clear-storage-cache-storage-checkbox-clear-site-data-button.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-clear-storage-cache-storage-checkbox-clear-site-data-button.msft.png":::
        <span data-ttu-id="90b1f-152">Кнопка " **Очистить данные сайта** "</span><span class="sxs-lookup"><span data-stu-id="90b1f-152">The **Clear Site Data** button</span></span>  
     :::image-end:::  
     

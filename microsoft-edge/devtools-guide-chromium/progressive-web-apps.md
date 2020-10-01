@@ -85,7 +85,7 @@ The **Add to homescreen** button on the **App Manifest** pane lets you simulate 
 <!--You can test out this feature with the [Microsoft I/O 2016 progressive web app](https://events.alpahabet.com/io2016/), which has proper support for Add to Homescreen.  Clicking on **Add to Homescreen** while the app is open prompts Microsoft Edge to display the "add this site to your shelf" banner, which is the desktop equivalent of the "add to homescreen" banner for mobile devices.  -->
 
 <!--  
-:::image type="complex" source="./media/io.msft.png" alt-text="Add to desktop shelf" lightbox="./media/io.msft.png":::
+:::image type="complex" source="./media/io.msft.png" alt-text="Область «манифест»" lightbox="./media/io.msft.png":::
    Add to desktop shelf  
 :::image-end:::
 -->  
@@ -115,7 +115,7 @@ The **Add to homescreen** button on the **App Manifest** pane lets you simulate 
 
 <span data-ttu-id="aaa46-125">Область " **сотрудники службы** " на панели **приложения** — это основное место в DevTools для проверки и отладки рабочих сотрудников.</span><span class="sxs-lookup"><span data-stu-id="aaa46-125">The **Service Workers** pane in the **Application** panel is the main place in DevTools to inspect and debug service workers.</span></span>  
 
-:::image type="complex" source="./media/service-workers-pane.msft.png" alt-text="Область "сотрудники службы"" lightbox="./media/service-workers-pane.msft.png":::
+:::image type="complex" source="./media/service-workers-pane.msft.png" alt-text="Область «манифест»" lightbox="./media/service-workers-pane.msft.png":::
    <span data-ttu-id="aaa46-127">Область " **сотрудники службы** "</span><span class="sxs-lookup"><span data-stu-id="aaa46-127">The **Service Workers** pane</span></span>  
 :::image-end:::  
 
@@ -134,7 +134,7 @@ The **Add to homescreen** button on the **App Manifest** pane lets you simulate 
 <span data-ttu-id="aaa46-153">Если сервисный рабочий процесс вызывает ошибки, появляется новая метка **ошибки** .</span><span class="sxs-lookup"><span data-stu-id="aaa46-153">If the service worker causes any errors, a new label called **Errors** shows up.</span></span>  
 
 <!--  
-:::image type="complex" source="./media/sw-error.msft.png" alt-text="Service worker with errors" lightbox="./media/sw-error.msft.png":::
+:::image type="complex" source="./media/sw-error.msft.png" alt-text="Область «манифест»" lightbox="./media/sw-error.msft.png":::
    Service worker with errors  
 :::image-end:::
 -->  
@@ -146,7 +146,7 @@ The **Add to homescreen** button on the **App Manifest** pane lets you simulate 
 
 <span data-ttu-id="aaa46-155">Область **кэширования кэша** предоставляет доступный только для чтения список ресурсов, которые были кэшированы с помощью [API кэша][MDNWebCacheAPI]\ (рабочий процесс-служба).</span><span class="sxs-lookup"><span data-stu-id="aaa46-155">The **Cache Storage** pane provides a read-only list of resources that have been cached using the \(service worker\) [Cache API][MDNWebCacheAPI].</span></span>  
 
-:::image type="complex" source="./media/cache-pane-cache-storage-resources.msft.png" alt-text="Область "хранение кэша"" lightbox="./media/cache-pane-cache-storage-resources.msft.png":::
+:::image type="complex" source="./media/cache-pane-cache-storage-resources.msft.png" alt-text="Область «манифест»" lightbox="./media/cache-pane-cache-storage-resources.msft.png":::
    <span data-ttu-id="aaa46-157">Область " **хранение кэша** "</span><span class="sxs-lookup"><span data-stu-id="aaa46-157">The **Cache Storage** Pane</span></span>  
 :::image-end:::  
 
@@ -155,7 +155,7 @@ The **Add to homescreen** button on the **App Manifest** pane lets you simulate 
 
 <span data-ttu-id="aaa46-160">Если открыто два или более кэша, вы увидите их в списке под раскрывающимся списком для **хранения кэша** .</span><span class="sxs-lookup"><span data-stu-id="aaa46-160">If you have two or more caches open, you'll see them listed below the **Cache Storage** dropdown.</span></span>  
 
-:::image type="complex" source="./media/cache-pane-cache-storage.msft.png" alt-text="Раскрывающийся список хранилища кэша" lightbox="./media/cache-pane-cache-storage.msft.png":::
+:::image type="complex" source="./media/cache-pane-cache-storage.msft.png" alt-text="Область «манифест»" lightbox="./media/cache-pane-cache-storage.msft.png":::
    <span data-ttu-id="aaa46-162">Раскрывающийся список **хранилища кэша**</span><span class="sxs-lookup"><span data-stu-id="aaa46-162">The **Cache Storage** dropdown</span></span>  
 :::image-end:::  
 

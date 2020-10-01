@@ -55,7 +55,7 @@ ms.locfileid: "11052160"
     1. <span data-ttu-id="f1639-131">В установщике Visual Studio на установленной версии нажмите кнопку **Дополнительно** , а затем выберите команду **изменить**.</span><span class="sxs-lookup"><span data-stu-id="f1639-131">In the Visual Studio Installer, on the installed version, choose the **More** button, and then choose **Modify**.</span></span>  
     1. <span data-ttu-id="f1639-132">В Visual Studio в разделе **рабочие нагрузки**выберите параметр **Разработка классической среды на C++** .</span><span class="sxs-lookup"><span data-stu-id="f1639-132">In Visual Studio, under **Workloads**, choose the **Desktop Development in C++** setting.</span></span>  
         
-        :::image type="complex" source="./media/workloads.png" alt-text="Экран изменения рабочей нагрузки в Visual Studio" lightbox="./media/workloads.png":::
+        :::image type="complex" source="./media/workloads.png" alt-text="Отладка DevTools" lightbox="./media/workloads.png":::
             <span data-ttu-id="f1639-134">Экран изменения рабочей нагрузки в Visual Studio</span><span class="sxs-lookup"><span data-stu-id="f1639-134">Visual Studio Modifying Workloads Screen</span></span> :::image-end:::  
         
     1.  <span data-ttu-id="f1639-135">Выберите **отдельные компоненты**.</span><span class="sxs-lookup"><span data-stu-id="f1639-135">Choose **Individual components**.</span></span>  
@@ -63,7 +63,7 @@ ms.locfileid: "11052160"
     1.  <span data-ttu-id="f1639-137">Выберите параметр **диагностики JavaScript** .</span><span class="sxs-lookup"><span data-stu-id="f1639-137">Choose the **JavaScript diagnostics** setting.</span></span>  
     1.  <span data-ttu-id="f1639-138">Нажмите кнопку **изменить**.</span><span class="sxs-lookup"><span data-stu-id="f1639-138">Choose **Modify**.</span></span> 
         
-        :::image type="complex" source="./media/indivcomp.png" alt-text="Вкладка "изменение отдельных компонентов" в Visual Studio" lightbox="./media/indivcomp.png":::
+        :::image type="complex" source="./media/indivcomp.png" alt-text="Отладка DevTools" lightbox="./media/indivcomp.png":::
            <span data-ttu-id="f1639-140">Вкладка "изменение отдельных компонентов" в Visual Studio</span><span class="sxs-lookup"><span data-stu-id="f1639-140">Visual Studio Modifying Individual Components Tab</span></span>  
         :::image-end:::  
         
@@ -72,7 +72,7 @@ ms.locfileid: "11052160"
     1.  <span data-ttu-id="f1639-143">В разделе **Свойства конфигурации**выберите пункт **Отладка**.</span><span class="sxs-lookup"><span data-stu-id="f1639-143">Under the **Configuration Properties**, choose **Debugging**.</span></span>  
     1.  <span data-ttu-id="f1639-144">В разделе **Тип отладчика**выберите **JavaScript (WebView2)**.</span><span class="sxs-lookup"><span data-stu-id="f1639-144">Under the **Debugger Type**, choose **JavaScript (WebView2)**.</span></span>  
         
-        :::image type="complex" source="./media/enbjs.png" alt-text="Свойство конфигурации отладки в Visual Studio" lightbox="./media/enbjs.png":::
+        :::image type="complex" source="./media/enbjs.png" alt-text="Отладка DevTools" lightbox="./media/enbjs.png":::
            <span data-ttu-id="f1639-146">Свойство конфигурации **отладки** в Visual Studio</span><span class="sxs-lookup"><span data-stu-id="f1639-146">Visual Studio **Debugging** Configuration Property</span></span>  
         :::image-end:::  
         
@@ -80,19 +80,19 @@ ms.locfileid: "11052160"
 
 1.  <span data-ttu-id="f1639-148">Чтобы задать точку останова в исходном коде, наведите указатель мыши на левый номер строки и выберите точку останова.</span><span class="sxs-lookup"><span data-stu-id="f1639-148">To set a breakpoint in your source code, hover to the left of the line number, and choose to set a breakpoint.</span></span>  <span data-ttu-id="f1639-149">Адаптеры отладки JS-и ст не выполняют сопоставление исходного пути.</span><span class="sxs-lookup"><span data-stu-id="f1639-149">The JS/TS debug adapter does not perform source path mapping.</span></span>  <span data-ttu-id="f1639-150">Вы должны открыть именно тот же путь, связанный с вашим WebView2.</span><span class="sxs-lookup"><span data-stu-id="f1639-150">You must open the exact same path associated with your WebView2.</span></span>  
     
-    :::image type="complex" source="./media/breakpoint.png" alt-text="Добавление точки останова в Visual Studio" lightbox="./media/breakpoint.png"::: 
+    :::image type="complex" source="./media/breakpoint.png" alt-text="Отладка DevTools" lightbox="./media/breakpoint.png"::: 
        <span data-ttu-id="f1639-152">Добавление точки останова в Visual Studio</span><span class="sxs-lookup"><span data-stu-id="f1639-152">Visual Studio add breakpoint</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="f1639-153">Чтобы запустить отладчик, выберите битовый Размер платформы, а затем нажмите зеленую кнопку воспроизведения рядом с **местным отладчиком Windows**.</span><span class="sxs-lookup"><span data-stu-id="f1639-153">To run the debugger, choose the bit size of the platform, and then choose the green play button next to **Local Windows Debugger**.</span></span>  <span data-ttu-id="f1639-154">Приложение запустится, и отладчик подключится к первому процессу WebView2, который вы создали.</span><span class="sxs-lookup"><span data-stu-id="f1639-154">The application runs and the debugger connects to the first WebView2 process that is created.</span></span>  
     
-    :::image type="complex" source="./media/run.png" alt-text=" Локальный отладчик Windows для Visual Studio" lightbox="./media/run.png"::: 
+    :::image type="complex" source="./media/run.png" alt-text="Отладка DevTools" lightbox="./media/run.png"::: 
        <span data-ttu-id="f1639-156">**Локальный отладчик Windows** для Visual Studio</span><span class="sxs-lookup"><span data-stu-id="f1639-156">Visual Studio **Local Windows Debugger**</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="f1639-157">В **консоли отладки**найдите выходные данные отладчика.</span><span class="sxs-lookup"><span data-stu-id="f1639-157">In the **Debug Console**, find the output from the debugger.</span></span>  
     
-    :::image type="complex" source="./media/console.png" alt-text=" Консоль отладки Visual Studio" lightbox="./media/console.png"::: 
+    :::image type="complex" source="./media/console.png" alt-text="Отладка DevTools" lightbox="./media/console.png"::: 
        <span data-ttu-id="f1639-159">**Консоль отладки** Visual Studio</span><span class="sxs-lookup"><span data-stu-id="f1639-159">Visual Studio **Debug Console**</span></span>  
     :::image-end:::  
     
@@ -119,7 +119,7 @@ ms.locfileid: "11052160"
         
 1.  <span data-ttu-id="f1639-165">Чтобы задать точку останова в исходном коде, наведите указатель мыши на строку и выберите</span><span class="sxs-lookup"><span data-stu-id="f1639-165">To set a breakpoint in your source code, hover on the line, and select</span></span> `F9`
     
-    :::image type="complex" source="./media/breakpointvs.png" alt-text="Точка останова, заданная в коде Visual Studio" lightbox="./media/breakpointvs.png":::
+    :::image type="complex" source="./media/breakpointvs.png" alt-text="Отладка DevTools" lightbox="./media/breakpointvs.png":::
        <span data-ttu-id="f1639-167">Точка останова, заданная в коде Visual Studio</span><span class="sxs-lookup"><span data-stu-id="f1639-167">Breakpoint is set in Visual Studio Code</span></span>  
     :::image-end:::
     
@@ -130,13 +130,13 @@ ms.locfileid: "11052160"
     1.  <span data-ttu-id="f1639-171">На вкладке " **выполнить** " в раскрывающемся меню выберите пункт "Настройка запуска".</span><span class="sxs-lookup"><span data-stu-id="f1639-171">On the **Run** tab, choose the launch configuration from the dropdown menu.</span></span>  
     1.  <span data-ttu-id="f1639-172">Чтобы начать отладку приложения, нажмите кнопку начать отладку, которая является зеленым треугольником рядом с раскрывающимся списком настройки запуска.</span><span class="sxs-lookup"><span data-stu-id="f1639-172">To start debugging your application, choose Start Debugging, which is the green triangle next to the launch configuration drop down.</span></span>  
         
-        :::image type="complex" source="./media/runvs.png" alt-text=" Вкладка "запуск кода" в Visual Studio" lightbox="./media/runvs.png":::
+        :::image type="complex" source="./media/runvs.png" alt-text="Отладка DevTools" lightbox="./media/runvs.png":::
            <span data-ttu-id="f1639-174">Вкладка "запуск кода" в Visual Studio</span><span class="sxs-lookup"><span data-stu-id="f1639-174">Visual Studio Code Run tab</span></span>  
         :::image-end:::  
         
 1.  <span data-ttu-id="f1639-175">Откройте **консоль отладки** , чтобы просмотреть результаты отладки и ошибки.</span><span class="sxs-lookup"><span data-stu-id="f1639-175">Open **Debug Console** to view the debug output and errors.</span></span>  
     
-    :::image type="complex" source="./media/resultsvs.png" alt-text=" Консоль отладки кода Visual Studio" lightbox="./media/resultsvs.png":::
+    :::image type="complex" source="./media/resultsvs.png" alt-text="Отладка DevTools" lightbox="./media/resultsvs.png":::
        <span data-ttu-id="f1639-177">Консоль отладки кода Visual Studio</span><span class="sxs-lookup"><span data-stu-id="f1639-177">Visual Studio Code Debug Console</span></span>  
     :::image-end:::  
     
@@ -208,7 +208,7 @@ ms.locfileid: "11052160"
                 ,"trace": true  // Turn on  debug tracing, and save the output to a log file.
               ```  
               
-              :::image type="complex" source="./media/tracelog.png" alt-text=" Сохранение выходных данных отладки в файле журнала." lightbox="./media/tracelog.png":::
+              :::image type="complex" source="./media/tracelog.png" alt-text="Отладка DevTools" lightbox="./media/tracelog.png":::
                  <span data-ttu-id="f1639-199">Сохранение выходных данных отладки в файле журнала</span><span class="sxs-lookup"><span data-stu-id="f1639-199">Save debug output to a log file</span></span>  
               :::image-end:::  
            :::column-end:::
@@ -217,7 +217,7 @@ ms.locfileid: "11052160"
               ,"trace": "verbose"  // Turn on verbose tracing in the Debug Output pane.
               ```  
               
-              :::image type="complex" source="./media/verbose.png" alt-text=" Подробный вывод" lightbox="./media/verbose.png":::
+              :::image type="complex" source="./media/verbose.png" alt-text="Отладка DevTools" lightbox="./media/verbose.png":::
                  <span data-ttu-id="f1639-201">Отладочный вывод кода Visual Studio с включенной подробной трассировкой</span><span class="sxs-lookup"><span data-stu-id="f1639-201">Visual Studio Code Debug Output with verbose tracing turned on</span></span>  
               :::image-end:::  
            :::column-end:::

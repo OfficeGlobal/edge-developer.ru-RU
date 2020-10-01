@@ -69,7 +69,7 @@ ms.locfileid: "10992948"
 1.  <span data-ttu-id="f7672-126">Выберите **Параметры захвата** \ (! [ Параметры захвата] [ImageCaptureSettingsIcon] \).</span><span class="sxs-lookup"><span data-stu-id="f7672-126">Choose **Capture Settings** \(![Capture Settings][ImageCaptureSettingsIcon]\).</span></span>  <span data-ttu-id="f7672-127">DevTools показывает параметры, связанные с тем, как они захватывают метрики производительности.</span><span class="sxs-lookup"><span data-stu-id="f7672-127">DevTools reveals settings related to how it captures performance metrics.</span></span>  
 1.  <span data-ttu-id="f7672-128">На вкладке **ЦП**выберите пункт **замедление 4X**.</span><span class="sxs-lookup"><span data-stu-id="f7672-128">For **CPU**, select **4x slowdown**.</span></span>  <span data-ttu-id="f7672-129">DevTools загружает ЦП так, чтобы он был 4 медленнее, чем обычно.</span><span class="sxs-lookup"><span data-stu-id="f7672-129">DevTools throttles your CPU so that it is 4 times slower than usual.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-capture-settings.msft.png" alt-text="Интервал регулирования ЦП" lightbox="../media/evaluate-performance-performance-capture-settings.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-capture-settings.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-capture-settings.msft.png":::
        <span data-ttu-id="f7672-131">Интервал регулирования ЦП</span><span class="sxs-lookup"><span data-stu-id="f7672-131">CPU throttle</span></span>  
     :::image-end:::  
     
@@ -95,14 +95,14 @@ ms.locfileid: "10992948"
 
 1.  <span data-ttu-id="f7672-150">В DevTools выберите **запись** \ (! [ Record] [ImageRecordIcon] \).</span><span class="sxs-lookup"><span data-stu-id="f7672-150">In DevTools, choose **Record** \(![Record][ImageRecordIcon]\).</span></span>  <span data-ttu-id="f7672-151">DevTools захватывает метрики производительности по мере выполнения страницы.</span><span class="sxs-lookup"><span data-stu-id="f7672-151">DevTools captures performance metrics as the page runs.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-profiling.msft.png" alt-text="Профилирование страницы" lightbox="../media/evaluate-performance-performance-profiling.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-profiling.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-profiling.msft.png":::
        <span data-ttu-id="f7672-153">Профилирование страницы</span><span class="sxs-lookup"><span data-stu-id="f7672-153">Profile the page</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="f7672-154">Подождите несколько секунд.</span><span class="sxs-lookup"><span data-stu-id="f7672-154">Wait a few seconds.</span></span>  
 1.  <span data-ttu-id="f7672-155">Нажмите кнопку **остановить**.</span><span class="sxs-lookup"><span data-stu-id="f7672-155">Choose **Stop**.</span></span>  <span data-ttu-id="f7672-156">DevTools останавливает запись, обрабатывает данные, а затем отображает результаты на панели Performance.</span><span class="sxs-lookup"><span data-stu-id="f7672-156">DevTools stops recording, processes the data, then displays the results on the Performance panel.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-capture-results.msft.png" alt-text="Результаты профиля" lightbox="../media/evaluate-performance-performance-capture-results.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-capture-results.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-capture-results.msft.png":::
        <span data-ttu-id="f7672-158">Результаты профиля</span><span class="sxs-lookup"><span data-stu-id="f7672-158">The results of the profile</span></span>  
     :::image-end:::  
     
@@ -118,25 +118,25 @@ ms.locfileid: "10992948"
 
 1.  <span data-ttu-id="f7672-166">Посмотрите на диаграмму в **кадре** .</span><span class="sxs-lookup"><span data-stu-id="f7672-166">Look at the **FPS** chart.</span></span>  <span data-ttu-id="f7672-167">Если вы видите красную полосу над **кадром кадров**, это означает, что частота кадров, отброшенных таким образом, что она может повредить взаимодействие с пользователем.</span><span class="sxs-lookup"><span data-stu-id="f7672-167">Whenever you see a red bar above **FPS**, it means that the framerate dropped so low that it is probably harming the user experience.</span></span>  <span data-ttu-id="f7672-168">Как правило, чем больше зеленая полоса, тем выше кадр кадров.</span><span class="sxs-lookup"><span data-stu-id="f7672-168">In general, the higher the green bar, the higher the FPS.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-fps-chart.msft.png" alt-text="Диаграмма кадр/с" lightbox="../media/evaluate-performance-performance-fps-chart.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-fps-chart.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-fps-chart.msft.png":::
        <span data-ttu-id="f7672-170">Диаграмма **кадр/** с</span><span class="sxs-lookup"><span data-stu-id="f7672-170">The **FPS** chart</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="f7672-171">Под диаграммой с **кадром кадров** вы видите диаграмму **ЦП** .</span><span class="sxs-lookup"><span data-stu-id="f7672-171">Below the **FPS** chart you see the **CPU** chart.</span></span>  <span data-ttu-id="f7672-172">Цвета на диаграмме **ЦП** соответствуют цветам на вкладке " **Сводка** " в нижней части панели "производительность".</span><span class="sxs-lookup"><span data-stu-id="f7672-172">The colors in the **CPU** chart correspond to the colors in the **Summary** tab, at the bottom of the Performance panel.</span></span>  <span data-ttu-id="f7672-173">Тот факт, что диаграмма **ЦП** заполнена цветом, означает, что ЦП был maxed во время записи.</span><span class="sxs-lookup"><span data-stu-id="f7672-173">The fact that the **CPU** chart is full of color means that the CPU was maxed out during the recording.</span></span>  <span data-ttu-id="f7672-174">Всякий раз, когда вы видите maxed ЦП в течение длительного времени, это подсказка для поиска способов уменьшения объема работы.</span><span class="sxs-lookup"><span data-stu-id="f7672-174">Whenever you see the CPU maxed out for long periods, it is a cue to find ways to do less work.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-cpu-chart.msft.png" alt-text="Вкладка "Диаграмма ЦП" и "Сводка"" lightbox="../media/evaluate-performance-performance-cpu-chart.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-cpu-chart.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-cpu-chart.msft.png":::
        <span data-ttu-id="f7672-176">Вкладка "Диаграмма **ЦП** " и " **Сводка** "</span><span class="sxs-lookup"><span data-stu-id="f7672-176">The **CPU** chart and **Summary** tab</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="f7672-177">Наведите указатель мыши на диаграммы **кадров**, **ЦП**или **нетто** .</span><span class="sxs-lookup"><span data-stu-id="f7672-177">Hover on the **FPS**, **CPU**, or **NET** charts.</span></span>  <span data-ttu-id="f7672-178">В DevTools показан снимок страницы на данный момент времени.</span><span class="sxs-lookup"><span data-stu-id="f7672-178">DevTools shows a screenshot of the page at that point in time.</span></span>  <span data-ttu-id="f7672-179">Чтобы воспроизвести запись, передвиньте указатель влево и вправо.</span><span class="sxs-lookup"><span data-stu-id="f7672-179">Move your mouse left and right to replay the recording.</span></span>  <span data-ttu-id="f7672-180">Действие, на которое указывает ссылка, используется как элемент очистки, и его можно использовать для анализа хода анимации вручную.</span><span class="sxs-lookup"><span data-stu-id="f7672-180">The action is referenced as scrubbing, and it is useful for manually analyzing the progression of animations.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-screenshot-hover.msft.png" alt-text="Просмотр снимка страницы в 2500ms отметке записи" lightbox="../media/evaluate-performance-performance-screenshot-hover.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-screenshot-hover.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-screenshot-hover.msft.png":::
        <span data-ttu-id="f7672-182">Просмотр снимка страницы в 2500ms отметке записи</span><span class="sxs-lookup"><span data-stu-id="f7672-182">View a screenshot of the page around the 2500ms mark of the recording</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="f7672-183">В разделе **кадры** наведите указатель мыши на один из зеленых квадратиков.</span><span class="sxs-lookup"><span data-stu-id="f7672-183">In the **Frames** section, hover on one of the green squares.</span></span>  <span data-ttu-id="f7672-184">DevTools показывает, что этот конкретный кадр находится в кадре/сек.</span><span class="sxs-lookup"><span data-stu-id="f7672-184">DevTools shows you the FPS for that particular frame.</span></span>  <span data-ttu-id="f7672-185">Скорее всего, каждый кадр расположен ниже целевого числа 60 кадр/с.</span><span class="sxs-lookup"><span data-stu-id="f7672-185">Each frame is probably well below the target of 60 FPS.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-frame-hover.msft.png" alt-text="Наведение указателя мыши на рамку" lightbox="../media/evaluate-performance-performance-frame-hover.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-frame-hover.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-frame-hover.msft.png":::
        <span data-ttu-id="f7672-187">Наведение указателя мыши на рамку</span><span class="sxs-lookup"><span data-stu-id="f7672-187">Hover on a frame</span></span>  
     :::image-end:::  
     
@@ -150,7 +150,7 @@ ms.locfileid: "10992948"
 1.  <span data-ttu-id="f7672-193">Начните вводить текст `Rendering` в **меню команд** и выберите пункт **Показать отрисовку**.</span><span class="sxs-lookup"><span data-stu-id="f7672-193">Start typing `Rendering` in the **Command Menu** and select **Show Rendering**.</span></span>  
 1.  <span data-ttu-id="f7672-194">На вкладке " **рендеринг** " Включите **индикатор кадров**.</span><span class="sxs-lookup"><span data-stu-id="f7672-194">In the **Rendering** tab, enable **FPS Meter**.</span></span>  <span data-ttu-id="f7672-195">В правом верхнем углу окна просмотра появится новая наложение.</span><span class="sxs-lookup"><span data-stu-id="f7672-195">A new overlay appears in the top-right of your viewport.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-fps-meter-overlay.msft.png" alt-text="Индикатор кадров в кадре" lightbox="../media/evaluate-performance-fps-meter-overlay.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-fps-meter-overlay.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-fps-meter-overlay.msft.png":::
        <span data-ttu-id="f7672-197">**Индикатор кадров в кадре**</span><span class="sxs-lookup"><span data-stu-id="f7672-197">The **FPS meter**</span></span>  
         :::image-end:::  
     
@@ -162,19 +162,19 @@ ms.locfileid: "10992948"
 
 1.  <span data-ttu-id="f7672-201">Если не выбрано ни одного события, на вкладке **Сводка** показана разбивка действий.</span><span class="sxs-lookup"><span data-stu-id="f7672-201">When no events are selected, the **Summary** tab shows you a breakdown of activity.</span></span>  <span data-ttu-id="f7672-202">Страница потратила большую часть времени на отрисовку.</span><span class="sxs-lookup"><span data-stu-id="f7672-202">The page spent most of the time rendering.</span></span>  <span data-ttu-id="f7672-203">Так как производительность — это изображение, которое уменьшает трудозатраты, цель состоит в том, чтобы уменьшить время, затраченное на обработку результатов.</span><span class="sxs-lookup"><span data-stu-id="f7672-203">Since performance is the art of doing less work, your goal is to reduce the amount of time spent doing rendering work.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-summary-tab.msft.png" alt-text="Вкладка "Сводка"" lightbox="../media/evaluate-performance-performance-summary-tab.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-summary-tab.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-summary-tab.msft.png":::
        <span data-ttu-id="f7672-205">Вкладка " **Сводка** "</span><span class="sxs-lookup"><span data-stu-id="f7672-205">The **Summary** tab</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="f7672-206">Разверните раздел **основной** .</span><span class="sxs-lookup"><span data-stu-id="f7672-206">Expand the **Main** section.</span></span>  <span data-ttu-id="f7672-207">DevTools показывает flameную диаграмму активности в главном потоке с течением времени.</span><span class="sxs-lookup"><span data-stu-id="f7672-207">DevTools shows you a flame chart of activity on the main thread, over time.</span></span>  <span data-ttu-id="f7672-208">С течением времени ось x представляет запись.</span><span class="sxs-lookup"><span data-stu-id="f7672-208">The x-axis represents the recording, over time.</span></span>  <span data-ttu-id="f7672-209">Каждая строка представляет событие.</span><span class="sxs-lookup"><span data-stu-id="f7672-209">Each bar represents an event.</span></span>  <span data-ttu-id="f7672-210">Более широкий отрезок означает, что событие занимает больше времени.</span><span class="sxs-lookup"><span data-stu-id="f7672-210">A wider bar means that event took longer.</span></span>  <span data-ttu-id="f7672-211">Ось y представляет стек вызова.</span><span class="sxs-lookup"><span data-stu-id="f7672-211">The y-axis represents the call stack.</span></span>  <span data-ttu-id="f7672-212">Если вы видите события, наложенные друг на друга, это означает, что события верхнего уровня приводили к появлению младших событий.</span><span class="sxs-lookup"><span data-stu-id="f7672-212">When you see events stacked on top of each other, it means the upper events caused the lower events.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-main.msft.png" alt-text="Основной раздел" lightbox="../media/evaluate-performance-performance-main.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-main.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-main.msft.png":::
        <span data-ttu-id="f7672-214">**Основной** раздел</span><span class="sxs-lookup"><span data-stu-id="f7672-214">The **Main** section</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="f7672-215">В записи много данных.</span><span class="sxs-lookup"><span data-stu-id="f7672-215">There is a lot of data in the recording.</span></span>  <span data-ttu-id="f7672-216">Изменение масштаба одного события; Выберите, удерживайте и наведите указатель мыши на **Обзор**, который включает в себя раздел с диаграммами в **кадрах**, **ЦП**и **сети** .</span><span class="sxs-lookup"><span data-stu-id="f7672-216">To Zoom into a single event; choose, hold, and dragg your cursor over the **Overview**, which is the section that includes the **FPS**, **CPU**, and **NET** charts.</span></span>  <span data-ttu-id="f7672-217">В **главном** разделе и на вкладке " **Сводка** " отображаются только сведения о выбранной части записи.</span><span class="sxs-lookup"><span data-stu-id="f7672-217">The **Main** section and **Summary** tab only display information for the selected portion of the recording.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-main-zoomed.msft.png" alt-text="Изменение размера события" lightbox="../media/evaluate-performance-performance-main-zoomed.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-main-zoomed.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-main-zoomed.msft.png":::
        <span data-ttu-id="f7672-219">Изменение размера события</span><span class="sxs-lookup"><span data-stu-id="f7672-219">Zoom into an event</span></span>  
     :::image-end:::  
     
@@ -188,7 +188,7 @@ ms.locfileid: "10992948"
     
 1.  <span data-ttu-id="f7672-224">Выберите событие **кадр анимации, которое активировалось** .</span><span class="sxs-lookup"><span data-stu-id="f7672-224">Choose the **Animation Frame Fired** event.</span></span>  <span data-ttu-id="f7672-225">На вкладке **Сводка** теперь отображаются сведения об этом событии.</span><span class="sxs-lookup"><span data-stu-id="f7672-225">The **Summary** tab now shows you information about that event.</span></span>  <span data-ttu-id="f7672-226">Обратите внимание на ссылку " **Показать** ".</span><span class="sxs-lookup"><span data-stu-id="f7672-226">Note the **Reveal** link.</span></span>  <span data-ttu-id="f7672-227">После того как вы выберете его, DevTools выделит событие, которое инициировало событие **кадра анимации** .</span><span class="sxs-lookup"><span data-stu-id="f7672-227">After you choose it, DevTools to highlights the event that initiated the **Animation Frame Fired** event.</span></span>  <span data-ttu-id="f7672-228">Кроме того, обратите внимание на ссылку **app.js:95** .</span><span class="sxs-lookup"><span data-stu-id="f7672-228">Also, focus on the **app.js:95** link.</span></span>  <span data-ttu-id="f7672-229">После того как вы выберете его, отобразится соответствующая строка исходного кода.</span><span class="sxs-lookup"><span data-stu-id="f7672-229">After you choose it, the relevant line in the source code is displayed.</span></span>
     
-    :::image type="complex" source="../media/evaluate-performance-performance-animation-frame-fired.msft.png" alt-text="Дополнительные сведения о событии анимации запускаемого кадра" lightbox="../media/evaluate-performance-performance-animation-frame-fired.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-animation-frame-fired.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-animation-frame-fired.msft.png":::
        <span data-ttu-id="f7672-231">Дополнительные сведения о событии **анимации запускаемого кадра**</span><span class="sxs-lookup"><span data-stu-id="f7672-231">More information about the **Animation Frame Fired** event</span></span>  
     :::image-end:::  
     
@@ -200,7 +200,7 @@ ms.locfileid: "10992948"
     
 1.  <span data-ttu-id="f7672-237">На вкладке **Сводка** щелкните ссылку **app.js:71** в разделе **Макет принудительно**.</span><span class="sxs-lookup"><span data-stu-id="f7672-237">In the **Summary** tab, choose the **app.js:71** link under **Layout Forced**.</span></span>  <span data-ttu-id="f7672-238">DevTools перенесет вас в строку кода, которая замещает макет.</span><span class="sxs-lookup"><span data-stu-id="f7672-238">DevTools takes you to the line of code that forced the layout.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-sources-app-update.msft.png" alt-text="Строка кода, вызвавшая принудительный макет." lightbox="../media/evaluate-performance-sources-app-update.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-sources-app-update.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-sources-app-update.msft.png":::
        <span data-ttu-id="f7672-240">Строка кода, вызвавшая принудительный макет.</span><span class="sxs-lookup"><span data-stu-id="f7672-240">The line of code that caused the forced layout</span></span>  
     :::image-end:::  
     
@@ -227,7 +227,7 @@ See [Measure Performance With The RAIL Model][RAIL] to learn more.  -->
 
 <span data-ttu-id="f7672-252">Для более удобного функционирования с помощью панели "производительность" лучше всего сделать это.</span><span class="sxs-lookup"><span data-stu-id="f7672-252">To get more comfortable with the Performance panel, practice makes perfect.</span></span>  <span data-ttu-id="f7672-253">Попробуйте выполнить профилирование страниц и проанализировать результаты.</span><span class="sxs-lookup"><span data-stu-id="f7672-253">Try profiling your pages and analyzing the results.</span></span>  <span data-ttu-id="f7672-254">Если у вас возникли вопросы по поводу ваших результатов, используйте значок **Отправить отзыв** , выберите `Alt` + `Shift` + `I` \ (Windows \), выберите `Option` + `Shift` + `I` \ (macOS \) или [твит в группу DevTools][TwitterEdgeDevtools].</span><span class="sxs-lookup"><span data-stu-id="f7672-254">If you have any questions about your results, use the **Send Feedback** icon, select `Alt`+`Shift`+`I` \(Windows\), select `Option`+`Shift`+`I` \(macOS\), or [tweet the DevTools team][TwitterEdgeDevtools].</span></span>  <span data-ttu-id="f7672-255">Включите снимки экрана или ссылки на воспроизводимые страницы, если это возможно.</span><span class="sxs-lookup"><span data-stu-id="f7672-255">Include screenshots or links to reproducible pages, if possible.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-feedback-icon.msft.png" alt-text="Значок \* \* Feedback \* \* в Microsoft Edge DevTools" lightbox="../media/evaluate-performance-feedback-icon.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-feedback-icon.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-feedback-icon.msft.png":::
    <span data-ttu-id="f7672-257">Значок " **Отправить отзыв** " в Microsoft Edge DevTools</span><span class="sxs-lookup"><span data-stu-id="f7672-257">The **Send Feedback** icon in the Microsoft Edge DevTools</span></span>  
 :::image-end:::  
 

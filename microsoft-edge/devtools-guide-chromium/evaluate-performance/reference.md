@@ -67,13 +67,13 @@ ms.locfileid: "10992906"
 1.  <span data-ttu-id="6ea68-121">Откройте панель " **производительность** " DevTools.</span><span class="sxs-lookup"><span data-stu-id="6ea68-121">Open the **Performance** panel of DevTools.</span></span>  
 1.  <span data-ttu-id="6ea68-122">Нажмите кнопку **обновить страницу** \ ( ![ обновить страницу ][ImageRefreshPageIcon] \).</span><span class="sxs-lookup"><span data-stu-id="6ea68-122">Click **Refresh page** \(![Refresh Page][ImageRefreshPageIcon]\).</span></span>  <span data-ttu-id="6ea68-123">DevTools записывает метрики производительности во время обновления страницы, а затем автоматически останавливает запись спустя пару секунд после завершения загрузки.</span><span class="sxs-lookup"><span data-stu-id="6ea68-123">DevTools records performance metrics while the page refreshes and then automatically stops the recording a couple seconds after the load finishes.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-refresh-button.msft.png" alt-text="Обновить страницу" lightbox="../media/evaluate-performance-performance-refresh-button.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-refresh-button.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-refresh-button.msft.png":::
        **<span data-ttu-id="6ea68-125">Обновить страницу</span><span class="sxs-lookup"><span data-stu-id="6ea68-125">Refresh page</span></span>**  
     :::image-end:::  
     
 <span data-ttu-id="6ea68-126">DevTools автоматически масштабирует часть записи, в которой возникло большинство действий.</span><span class="sxs-lookup"><span data-stu-id="6ea68-126">DevTools automatically zooms in on the portion of the recording where most of the activity occurred.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-refreshed.msft.png" alt-text="Запись загрузки страницы" lightbox="../media/evaluate-performance-performance-refreshed.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-refreshed.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-refreshed.msft.png":::
    <span data-ttu-id="6ea68-128">Запись загрузки страницы</span><span class="sxs-lookup"><span data-stu-id="6ea68-128">A page-load recording</span></span>  
 :::image-end:::  
 
@@ -81,7 +81,7 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-130">Установите флажок **снимки экрана** , чтобы зафиксировать снимок экрана для каждого кадра во время записи.</span><span class="sxs-lookup"><span data-stu-id="6ea68-130">Enable the **Screenshots** checkbox to capture a screenshot of every frame while recording.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-capture-screenshots-checkbox.msft.png" alt-text="Флажок "снимки экрана"" lightbox="../media/evaluate-performance-performance-capture-screenshots-checkbox.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-capture-screenshots-checkbox.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-capture-screenshots-checkbox.msft.png":::
    <span data-ttu-id="6ea68-132">Флажок " **снимки экрана** "</span><span class="sxs-lookup"><span data-stu-id="6ea68-132">The **Screenshots** checkbox</span></span>  
 :::image-end:::  
 
@@ -91,7 +91,7 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-135">Во время записи страницы нажмите **собрать мусор** \ ( ![ сбор мусора ][ImageCollectGarbageIcon] ) для принудительного сбора мусора.</span><span class="sxs-lookup"><span data-stu-id="6ea68-135">While you are recording a page, click **Collect garbage** \(![Collect garbage][ImageCollectGarbageIcon]\) to force garbage collection.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-collect-garbage-button.msft.png" alt-text="Сбор мусора" lightbox="../media/evaluate-performance-performance-collect-garbage-button.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-collect-garbage-button.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-collect-garbage-button.msft.png":::
    <span data-ttu-id="6ea68-137">Сбор мусора</span><span class="sxs-lookup"><span data-stu-id="6ea68-137">Collect garbage</span></span>  
 :::image-end:::  
 
@@ -99,7 +99,7 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-139">Нажмите кнопку **захвата параметров** \ ( ![ Параметры захвата ][ImageCaptureSettingsIcon] ), чтобы предоставить доступ к дополнительным параметрам, связанным с тем, как DevTools захватывает записи производительности.</span><span class="sxs-lookup"><span data-stu-id="6ea68-139">Click **Capture settings** \(![Capture settings][ImageCaptureSettingsIcon]\) to expose more settings related to how DevTools captures performance recordings.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-capture-settings-button-open-drawer.msft.png" alt-text="Раздел "Параметры захвата"" lightbox="../media/evaluate-performance-performance-capture-settings-button-open-drawer.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-capture-settings-button-open-drawer.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-capture-settings-button-open-drawer.msft.png":::
    <span data-ttu-id="6ea68-141">Раздел " **Параметры захвата** "</span><span class="sxs-lookup"><span data-stu-id="6ea68-141">The **Capture Settings** section</span></span>  
 :::image-end:::  
 
@@ -115,12 +115,12 @@ ms.locfileid: "10992906"
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-on.msft.png" alt-text="Пример записи при отключенных примерах JS" lightbox="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-on.msft.png":::
+      :::image type="complex" source="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-on.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-on.msft.png":::
          <span data-ttu-id="6ea68-152">Пример записи при отключенных примерах JS</span><span class="sxs-lookup"><span data-stu-id="6ea68-152">An example of a recording when JS samples are disabled</span></span>  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
-      :::image type="complex" source="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-off.msft.png" alt-text="Пример записи при включенных примерах JS" lightbox="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-off.msft.png":::
+      :::image type="complex" source="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-off.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-off.msft.png":::
          <span data-ttu-id="6ea68-154">Пример записи при включенных примерах JS</span><span class="sxs-lookup"><span data-stu-id="6ea68-154">An example of a recording when JS samples are enabled</span></span>  
       :::image-end:::  
    :::column-end:::
@@ -155,7 +155,7 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-175">Чтобы сохранить запись, щелкните ее правой кнопкой мыши и выберите команду **Сохранить профиль**.</span><span class="sxs-lookup"><span data-stu-id="6ea68-175">To save a recording, right-click and select **Save Profile**.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-off-save-profile.msft.png" alt-text="Сохранить профиль" lightbox="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-off-save-profile.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-off-save-profile.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-off-save-profile.msft.png":::
    **<span data-ttu-id="6ea68-177">Сохранить профиль</span><span class="sxs-lookup"><span data-stu-id="6ea68-177">Save Profile</span></span>**  
 :::image-end:::  
 
@@ -163,7 +163,7 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-179">Чтобы загрузить запись, щелкните ее правой кнопкой мыши и выберите команду " **загрузить профиль**".</span><span class="sxs-lookup"><span data-stu-id="6ea68-179">To load a recording, right-click and select **Load Profile**.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-off-load-profile.msft.png" alt-text="Загрузить профиль" lightbox="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-off-load-profile.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-off-load-profile.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-off-load-profile.msft.png":::
    **<span data-ttu-id="6ea68-181">Загрузить профиль</span><span class="sxs-lookup"><span data-stu-id="6ea68-181">Load Profile</span></span>**  
 :::image-end:::  
 
@@ -171,7 +171,7 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-183">После внесения записи нажмите **Очистить запись** и ( ![ Очистить запись ][ImageClearRecordingIcon] ), чтобы очистить эту запись на панели **производительности** .</span><span class="sxs-lookup"><span data-stu-id="6ea68-183">After making a recording, press **Clear recording** \(![Clear recording][ImageClearRecordingIcon]\) to clear that recording from the **Performance** panel.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-off-clear-button.msft.png" alt-text="Очистка записи" lightbox="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-off-clear-button.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-off-clear-button.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-refreshed-disable-javascript-samples-checkbox-off-clear-button.msft.png":::
    **<span data-ttu-id="6ea68-185">Очистка записи</span><span class="sxs-lookup"><span data-stu-id="6ea68-185">Clear recording</span></span>**  
 :::image-end:::  
 
@@ -183,7 +183,7 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-189">Чтобы выделить часть записи, перетащите указатель мыши по левому или правому краю **обзора** .</span><span class="sxs-lookup"><span data-stu-id="6ea68-189">Drag your mouse left or right across the **Overview** to select a portion of a recording.</span></span>  <span data-ttu-id="6ea68-190">**Обзор** — это раздел, содержащий диаграммы в **кадрах**, **ЦП**и **сети** .</span><span class="sxs-lookup"><span data-stu-id="6ea68-190">The **Overview** is the section that contains the **FPS**, **CPU**, and **NET** charts.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-zoom-highlighted.msft.png" alt-text="Перетащите указатель мыши по обзору, чтобы увеличить масштаб" lightbox="../media/evaluate-performance-performance-zoom-highlighted.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-zoom-highlighted.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-zoom-highlighted.msft.png":::
    <span data-ttu-id="6ea68-192">Перетащите указатель мыши по **обзору** , чтобы увеличить масштаб</span><span class="sxs-lookup"><span data-stu-id="6ea68-192">Drag the mouse across the **Overview** to zoom</span></span>  
 :::image-end:::  
 
@@ -203,7 +203,7 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-205">Нажмите клавиши `Control` + `F` \ (Windows \) или `Command` + `F` \ (macOS \), чтобы открыть поле поиска в нижней части панели " **производительность** ".</span><span class="sxs-lookup"><span data-stu-id="6ea68-205">Press `Control`+`F` \(Windows\) or `Command`+`F` \(macOS\) to open the search box at the bottom of the **Performance** panel.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-search-regex.msft.png" alt-text="Поле поиска" lightbox="../media/evaluate-performance-performance-search-regex.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-search-regex.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-search-regex.msft.png":::
    <span data-ttu-id="6ea68-207">Поле поиска</span><span class="sxs-lookup"><span data-stu-id="6ea68-207">The search box</span></span>  
 :::image-end:::  
 
@@ -223,19 +223,19 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-216">Используйте **главный** раздел для просмотра действий, которые произошли в основном потоке страницы.</span><span class="sxs-lookup"><span data-stu-id="6ea68-216">Use the **Main** section to view activity that occurred on the main thread of the page.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-main-zoomed.msft.png" alt-text="Основной раздел" lightbox="../media/evaluate-performance-performance-main-zoomed.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-main-zoomed.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-main-zoomed.msft.png":::
    <span data-ttu-id="6ea68-218">**Основной** раздел</span><span class="sxs-lookup"><span data-stu-id="6ea68-218">The **Main** section</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="6ea68-219">Щелкните событие, чтобы просмотреть дополнительные сведения о нем на вкладке **Сводка** .  DevTools выделеет выбранное событие.</span><span class="sxs-lookup"><span data-stu-id="6ea68-219">Click on an event to view more information about it in the **Summary** tab.  DevTools outlines the selected event.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-summary-me.msft.png" alt-text="Дополнительные сведения о функции Anonymous на вкладке "Сводка"" lightbox="../media/evaluate-performance-performance-summary-me.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-summary-me.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-summary-me.msft.png":::
    <span data-ttu-id="6ea68-221">Дополнительные сведения о `anonymous` функции на вкладке " **Сводка** "</span><span class="sxs-lookup"><span data-stu-id="6ea68-221">More information about the `anonymous` function in the **Summary** tab</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="6ea68-222">DevTools представляет главную активность потока с Flame диаграммой.</span><span class="sxs-lookup"><span data-stu-id="6ea68-222">DevTools represents main thread activity with a flame chart.</span></span>  <span data-ttu-id="6ea68-223">Ось x обозначает запись с течением времени.</span><span class="sxs-lookup"><span data-stu-id="6ea68-223">The x-axis represents the recording over time.</span></span>  <span data-ttu-id="6ea68-224">Ось y представляет стек вызова.</span><span class="sxs-lookup"><span data-stu-id="6ea68-224">The y-axis represents the call stack.</span></span>  <span data-ttu-id="6ea68-225">Событие Top приводит к возникновению событий, указанных ниже.</span><span class="sxs-lookup"><span data-stu-id="6ea68-225">The events on top cause the events below it.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-main-flame-chart.msft.png" alt-text="Flame диаграмма" lightbox="../media/evaluate-performance-performance-main-flame-chart.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-main-flame-chart.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-main-flame-chart.msft.png":::
    <span data-ttu-id="6ea68-227">Flame диаграмма</span><span class="sxs-lookup"><span data-stu-id="6ea68-227">A flame chart</span></span>  
 :::image-end:::  
 
@@ -272,7 +272,7 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-257">На вкладке " **дерево вызовов** " отображаются только действия в выбранной части записи.</span><span class="sxs-lookup"><span data-stu-id="6ea68-257">The **Call Tree** tab only displays activities during the selected portion of the recording.</span></span>  <span data-ttu-id="6ea68-258">Ознакомьтесь с разделом [Выбор части записи](#select-a-portion-of-a-recording) , чтобы узнать, как выделять части.</span><span class="sxs-lookup"><span data-stu-id="6ea68-258">See [Select a portion of a recording](#select-a-portion-of-a-recording) to learn how to select portions.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-call-tree.msft.png" alt-text="Вкладка "дерево вызовов"" lightbox="../media/evaluate-performance-performance-call-tree.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-call-tree.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-call-tree.msft.png":::
    <span data-ttu-id="6ea68-260">Вкладка " **дерево вызовов** "</span><span class="sxs-lookup"><span data-stu-id="6ea68-260">The **Call Tree** tab</span></span>  
 :::image-end:::  
 
@@ -294,7 +294,7 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-275">На вкладке " **снизу вверх** " отображаются только действия в выбранной части записи.</span><span class="sxs-lookup"><span data-stu-id="6ea68-275">The **Bottom-Up** tab only displays activities during the selected portion of the recording.</span></span>  <span data-ttu-id="6ea68-276">Ознакомьтесь с разделом [Выбор части записи](#select-a-portion-of-a-recording) , чтобы узнать, как выделять части.</span><span class="sxs-lookup"><span data-stu-id="6ea68-276">See [Select a portion of a recording](#select-a-portion-of-a-recording) to learn how to select portions.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-bottoms-up.msft.png" alt-text="Вкладка "снизу вверх"" lightbox="../media/evaluate-performance-performance-bottoms-up.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-bottoms-up.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-bottoms-up.msft.png":::
    <span data-ttu-id="6ea68-278">Вкладка " **снизу вверх** "</span><span class="sxs-lookup"><span data-stu-id="6ea68-278">The **Bottom-Up** tab</span></span>  
 :::image-end:::  
 
@@ -310,7 +310,7 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-286">На вкладке **журнал событий** отображаются только действия в выбранной части записи.</span><span class="sxs-lookup"><span data-stu-id="6ea68-286">The **Event Log** tab only displays activities during the selected portion of the recording.</span></span>  <span data-ttu-id="6ea68-287">Ознакомьтесь с разделом [Выбор части записи](#select-a-portion-of-a-recording) , чтобы узнать, как выделять части.</span><span class="sxs-lookup"><span data-stu-id="6ea68-287">See [Select a portion of a recording](#select-a-portion-of-a-recording) to learn how to select portions.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-event-log.msft.png" alt-text="Вкладка "журнал событий"" lightbox="../media/evaluate-performance-performance-event-log.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-event-log.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-event-log.msft.png":::
    <span data-ttu-id="6ea68-289">Вкладка " **журнал событий** "</span><span class="sxs-lookup"><span data-stu-id="6ea68-289">The **Event Log** tab</span></span>  
 :::image-end:::  
 
@@ -332,7 +332,7 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-300">Просматривайте активность GPU в разделе **GPU** .</span><span class="sxs-lookup"><span data-stu-id="6ea68-300">View GPU activity in the **GPU** section.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-gpu-zoomed.msft.png" alt-text="Раздел GPU" lightbox="../media/evaluate-performance-performance-gpu-zoomed.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-gpu-zoomed.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-gpu-zoomed.msft.png":::
    <span data-ttu-id="6ea68-302">Раздел **GPU**</span><span class="sxs-lookup"><span data-stu-id="6ea68-302">The **GPU** section</span></span>  
 :::image-end:::  
 
@@ -340,7 +340,7 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-304">Просматривайте растровые действия в разделе " **растр** ".</span><span class="sxs-lookup"><span data-stu-id="6ea68-304">View raster activity in the **Raster** section.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-raster.msft.png" alt-text="Разточечный раздел" lightbox="../media/evaluate-performance-performance-raster.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-raster.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-raster.msft.png":::
    <span data-ttu-id="6ea68-306">**Разточечный** раздел</span><span class="sxs-lookup"><span data-stu-id="6ea68-306">The **Raster** section</span></span>  
 :::image-end:::  
 
@@ -348,7 +348,7 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-308">В разделе " **взаимодействия** " можно найти и проанализировать взаимодействие с пользователями, произошедшие во время записи.</span><span class="sxs-lookup"><span data-stu-id="6ea68-308">Use the **Interactions** section to find and analyze user interactions that happened during the recording.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-interactions-animation.msft.png" alt-text="Раздел "взаимодействия"" lightbox="../media/evaluate-performance-performance-interactions-animation.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-interactions-animation.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-interactions-animation.msft.png":::
    <span data-ttu-id="6ea68-310">Раздел " **взаимодействия** "</span><span class="sxs-lookup"><span data-stu-id="6ea68-310">The **Interactions** section</span></span>  
 :::image-end:::  
 
@@ -370,7 +370,7 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-322">Красная черта над диаграммой с индикатором **кадров** — это предупреждение о том, что частота кадров отброшена настолько, что она может повредить взаимодействие с пользователем.</span><span class="sxs-lookup"><span data-stu-id="6ea68-322">A red bar above the **FPS** chart is a warning that the frame rate dropped so low that it probably harmed the user's experience.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-fps-highlight.msft.png" alt-text="Диаграмма кадр/с" lightbox="../media/evaluate-performance-performance-fps-highlight.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-fps-highlight.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-fps-highlight.msft.png":::
    <span data-ttu-id="6ea68-324">Диаграмма **кадр/** с</span><span class="sxs-lookup"><span data-stu-id="6ea68-324">The **FPS** chart</span></span>  
 :::image-end:::  
 
@@ -380,13 +380,13 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-327">Наведите указатель мыши на кадр, чтобы просмотреть всплывающую подсказку с дополнительными сведениями.</span><span class="sxs-lookup"><span data-stu-id="6ea68-327">Hover over a frame to view a tooltip with more information about it.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-frames-hover.msft.png" alt-text="Наведение указателя мыши на рамку" lightbox="../media/evaluate-performance-performance-frames-hover.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-frames-hover.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-frames-hover.msft.png":::
    <span data-ttu-id="6ea68-329">Наведение указателя мыши на рамку</span><span class="sxs-lookup"><span data-stu-id="6ea68-329">Hover over a frame</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="6ea68-330">Щелкните рамку, чтобы просмотреть дополнительные сведения о кадре на вкладке " **Сводка** ".  DevTools выделеет выделенный кадр синим цветом.</span><span class="sxs-lookup"><span data-stu-id="6ea68-330">Click on a frame to view even more information about the frame in the **Summary** tab.  DevTools outlines the selected frame in blue.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-frames-summary.msft.png" alt-text="Просмотр кадра на вкладке "Сводка"" lightbox="../media/evaluate-performance-performance-frames-summary.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-frames-summary.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-frames-summary.msft.png":::
    <span data-ttu-id="6ea68-332">Просмотр кадра на вкладке " **Сводка** "</span><span class="sxs-lookup"><span data-stu-id="6ea68-332">View a frame in the **Summary** tab</span></span>  
 :::image-end:::  
 
@@ -394,7 +394,7 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-334">Разверните раздел **сеть** , чтобы просмотреть каскадные сетевые запросы, которые произошли во время записи.</span><span class="sxs-lookup"><span data-stu-id="6ea68-334">Expand the **Network** section to view a waterfall of network requests that occurred during the recording.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-network.msft.png" alt-text="Раздел "сеть"" lightbox="../media/evaluate-performance-performance-network.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-network.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-network.msft.png":::
    <span data-ttu-id="6ea68-336">Раздел " **сеть** "</span><span class="sxs-lookup"><span data-stu-id="6ea68-336">The **Network** section</span></span>  
 :::image-end:::  
 
@@ -418,12 +418,12 @@ ms.locfileid: "10992906"
     
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/evaluate-performance-bing-performance-network.msft.png" alt-text="Представление строки запроса www.bing.com в виде линейчатой диаграммы" lightbox="../media/evaluate-performance-bing-performance-network.msft.png":::
+      :::image type="complex" source="../media/evaluate-performance-bing-performance-network.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-bing-performance-network.msft.png":::
          <span data-ttu-id="6ea68-356">Представление запроса в виде строки на строке `www.bing.com`</span><span class="sxs-lookup"><span data-stu-id="6ea68-356">The line-bar representation of the `www.bing.com` request</span></span>  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
-      :::image type="complex" source="../media/evaluate-performance-bing-network-timing.msft.png" alt-text="Раздел "сеть"" lightbox="../media/evaluate-performance-bing-network-timing.msft.png":::
+      :::image type="complex" source="../media/evaluate-performance-bing-network-timing.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-bing-network-timing.msft.png":::
          <span data-ttu-id="6ea68-358">Раздел " **сеть** "</span><span class="sxs-lookup"><span data-stu-id="6ea68-358">The **Network** section</span></span>  
 <span data-ttu-id="6ea68-359">::: Image-End:::</span><span class="sxs-lookup"><span data-stu-id="6ea68-359">:      ::image-end:::</span></span>  
    :::column-end:::
@@ -433,13 +433,13 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-361">Включите флажок **память** , чтобы просмотреть метрики памяти от последней записи.</span><span class="sxs-lookup"><span data-stu-id="6ea68-361">Enable the **Memory** checkbox to view memory metrics from the last recording.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-memory-highlight.msft.png" alt-text="Флажок "память"" lightbox="../media/evaluate-performance-performance-memory-highlight.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-memory-highlight.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-memory-highlight.msft.png":::
    <span data-ttu-id="6ea68-363">Флажок " **память** "</span><span class="sxs-lookup"><span data-stu-id="6ea68-363">The **Memory** checkbox</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="6ea68-364">DevTools выводит новую диаграмму с **памятью** над вкладкой **Сводка** .  Кроме того, вы также можете создать новую диаграмму под **чистой** диаграммой, называемой **кучей**.</span><span class="sxs-lookup"><span data-stu-id="6ea68-364">DevTools displays a new **Memory** chart, above the **Summary** tab.  There is also a new chart below the **NET** chart, called **HEAP**.</span></span>  <span data-ttu-id="6ea68-365">Диаграмма **кучи** предоставляет те же данные, что и в линии **кучи JS** в диаграмме с **памятью** .</span><span class="sxs-lookup"><span data-stu-id="6ea68-365">The **HEAP** chart provides the same information as the **JS Heap** line in the **Memory** chart.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-memory-chart.msft.png" alt-text="Метрики памяти" lightbox="../media/evaluate-performance-performance-memory-chart.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-memory-chart.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-memory-chart.msft.png":::
    <span data-ttu-id="6ea68-367">Метрики памяти</span><span class="sxs-lookup"><span data-stu-id="6ea68-367">Memory metrics</span></span>  
 :::image-end:::  
 
@@ -452,7 +452,7 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-373">При анализе раздела, например " **сеть** " или " **основной**", иногда требуется более точная оценка продолжительности определенных событий.</span><span class="sxs-lookup"><span data-stu-id="6ea68-373">When analyzing a section like **Network** or **Main**, sometimes you need a more precise estimate of how long certain events took.</span></span>  <span data-ttu-id="6ea68-374">`Shift`Чтобы выделить часть записи, перетащите указатель влево или вправо, удерживая нажатой клавишу CTRL.</span><span class="sxs-lookup"><span data-stu-id="6ea68-374">Hold `Shift`, click and hold, and drag left or right to select a portion of the recording.</span></span>  <span data-ttu-id="6ea68-375">В нижней части выделенного фрагмента DevTools показывает, сколько времени заняло эта часть.</span><span class="sxs-lookup"><span data-stu-id="6ea68-375">At the bottom of your selection, DevTools shows how long that portion took.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-main-duration.msft.png" alt-text="Просмотр длительности части записи" lightbox="../media/evaluate-performance-performance-main-duration.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-main-duration.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-main-duration.msft.png":::
    <span data-ttu-id="6ea68-377">Просмотр длительности части записи</span><span class="sxs-lookup"><span data-stu-id="6ea68-377">View the duration of a portion of a recording</span></span>  
 :::image-end:::  
 
@@ -462,19 +462,19 @@ ms.locfileid: "10992906"
 
 <span data-ttu-id="6ea68-380">Наведите указатель мыши на **Обзор** , чтобы просмотреть снимок экрана, на котором размещается страница в этот момент записи.</span><span class="sxs-lookup"><span data-stu-id="6ea68-380">Hover over the **Overview** to view a screenshot of how the page looked during that moment of the recording.</span></span>  <span data-ttu-id="6ea68-381">**Обзор** — это раздел, содержащий диаграммы **ЦП**, **кадров между кадрами**и **сети** .</span><span class="sxs-lookup"><span data-stu-id="6ea68-381">The **Overview** is the section that contains the **CPU**, **FPS**, and **NET** charts.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-screenshots-hover.msft.png" alt-text="Просмотр снимка экрана" lightbox="../media/evaluate-performance-performance-screenshots-hover.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-screenshots-hover.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-screenshots-hover.msft.png":::
    <span data-ttu-id="6ea68-383">Просмотр снимка экрана</span><span class="sxs-lookup"><span data-stu-id="6ea68-383">View a screenshot</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="6ea68-384">Вы также можете просмотреть снимки экрана, щелкнув кадр в разделе **кадры** .</span><span class="sxs-lookup"><span data-stu-id="6ea68-384">You may also view screenshots by clicking a frame in the **Frames** section.</span></span>  <span data-ttu-id="6ea68-385">DevTools отображает маленькую версию снимка экрана на вкладке " **Сводка** ".</span><span class="sxs-lookup"><span data-stu-id="6ea68-385">DevTools displays a small version of the screenshot in the **Summary** tab.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-summary-preview.msft.png" alt-text="Просмотр снимка экрана на вкладке "Сводка"" lightbox="../media/evaluate-performance-performance-summary-preview.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-summary-preview.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-summary-preview.msft.png":::
    <span data-ttu-id="6ea68-387">Просмотр снимка экрана на вкладке " **Сводка** "</span><span class="sxs-lookup"><span data-stu-id="6ea68-387">View a screenshot in the **Summary** tab</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="6ea68-388">Щелкните эскиз на вкладке " **Сводка** ", чтобы увеличить масштаб на снимке экрана.</span><span class="sxs-lookup"><span data-stu-id="6ea68-388">Click the thumbnail in the **Summary** tab to zoom in on the screenshot.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-summary-preview-select.msft.png" alt-text="Изменение масштаба экрана на вкладке "Сводка"" lightbox="../media/evaluate-performance-performance-summary-preview-select.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-summary-preview-select.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-summary-preview-select.msft.png":::
    <span data-ttu-id="6ea68-390">Изменение масштаба экрана на вкладке " **Сводка** "</span><span class="sxs-lookup"><span data-stu-id="6ea68-390">Zoom into a screenshot from the **Summary** tab</span></span>  
 :::image-end:::  
 
@@ -485,13 +485,13 @@ ms.locfileid: "10992906"
 1.  <span data-ttu-id="6ea68-393">[Включите дополнительные инструменты рисования](#enable-advanced-paint-instrumentation).</span><span class="sxs-lookup"><span data-stu-id="6ea68-393">[Enable advanced paint instrumentation](#enable-advanced-paint-instrumentation).</span></span>  
 1.  <span data-ttu-id="6ea68-394">Выберите кадр в разделе **кадры** .</span><span class="sxs-lookup"><span data-stu-id="6ea68-394">Select a frame in the **Frames** section.</span></span>  <span data-ttu-id="6ea68-395">DevTools отображает сведения о слоях на вкладке Создание **слоев** рядом с вкладкой **журнал событий** .</span><span class="sxs-lookup"><span data-stu-id="6ea68-395">DevTools displays information about the layers in the new **Layers** tab, next to the **Event Log** tab.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-layers-all.msft.png" alt-text="Область слоев" lightbox="../media/evaluate-performance-layers-all.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-layers-all.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-layers-all.msft.png":::
        <span data-ttu-id="6ea68-397">Область **слоев**</span><span class="sxs-lookup"><span data-stu-id="6ea68-397">The **Layers** pane</span></span>  
     :::image-end:::  
     
 <span data-ttu-id="6ea68-398">Наведите указатель мыши на слой, чтобы выделить его на схеме.</span><span class="sxs-lookup"><span data-stu-id="6ea68-398">Hover over a layer to highlight it in the diagram.</span></span>  
 
-:::image type="complex" source="../media/evaluate-performance-performance-frames-document-nav-bar-highlighted.msft.png" alt-text="Выделение слоя" lightbox="../media/evaluate-performance-performance-frames-document-nav-bar-highlighted.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-performance-frames-document-nav-bar-highlighted.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-performance-frames-document-nav-bar-highlighted.msft.png":::
    <span data-ttu-id="6ea68-400">Выделение слоя</span><span class="sxs-lookup"><span data-stu-id="6ea68-400">Highlight a layer</span></span>  
 :::image-end:::  
 
@@ -508,7 +508,7 @@ ms.locfileid: "10992906"
 1.  <span data-ttu-id="6ea68-407">[Включите дополнительные инструменты рисования](#enable-advanced-paint-instrumentation).</span><span class="sxs-lookup"><span data-stu-id="6ea68-407">[Enable advanced paint instrumentation](#enable-advanced-paint-instrumentation).</span></span>  
 1.  <span data-ttu-id="6ea68-408">Выберите событие **Paint** в **главном** разделе.</span><span class="sxs-lookup"><span data-stu-id="6ea68-408">Select a **Paint** event in the **Main** section.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-paint-profiler.msft.png" alt-text="Вкладка "профилировщик Paint"" lightbox="../media/evaluate-performance-paint-profiler.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-paint-profiler.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-paint-profiler.msft.png":::
        <span data-ttu-id="6ea68-410">Вкладка " **профилировщик Paint** "</span><span class="sxs-lookup"><span data-stu-id="6ea68-410">The **Paint Profiler** tab</span></span>  
     :::image-end:::  
     
@@ -521,7 +521,7 @@ ms.locfileid: "10992906"
 1.  <span data-ttu-id="6ea68-414">[Открытие меню команд][DevToolsCommandMenu].</span><span class="sxs-lookup"><span data-stu-id="6ea68-414">[Open the Command Menu][DevToolsCommandMenu].</span></span>  
 1.  <span data-ttu-id="6ea68-415">Начните вводить текст `Rendering` и выберите его `Show Rendering` .</span><span class="sxs-lookup"><span data-stu-id="6ea68-415">Start typing `Rendering` and select `Show Rendering`.</span></span>  <span data-ttu-id="6ea68-416">DevTools отображает вкладку **рендеринг** в нижней части окна DevTools.</span><span class="sxs-lookup"><span data-stu-id="6ea68-416">DevTools displays the **Rendering** tab at the bottom of your DevTools window.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-console-drawer-rendering.msft.png" alt-text="Вкладка «рендеринг»" lightbox="../media/evaluate-performance-console-drawer-rendering.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-console-drawer-rendering.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-console-drawer-rendering.msft.png":::
        <span data-ttu-id="6ea68-418">Вкладка « **рендеринг** »</span><span class="sxs-lookup"><span data-stu-id="6ea68-418">The **Rendering** tab</span></span>  
     :::image-end:::  
     
@@ -532,7 +532,7 @@ ms.locfileid: "10992906"
 1.  <span data-ttu-id="6ea68-423">Открытие вкладки " **рендеринг** ".  Ознакомьтесь с разработкой [Анализ производительности отрисовки с помощью вкладки рендеринг](#analyze-rendering-performance-with-the-rendering-tab).</span><span class="sxs-lookup"><span data-stu-id="6ea68-423">Open the **Rendering** tab.  See [Analyze rendering performance with the Rendering tab](#analyze-rendering-performance-with-the-rendering-tab).</span></span>  
 1.  <span data-ttu-id="6ea68-424">Включите флажок **индикатор кадров в кадре** .</span><span class="sxs-lookup"><span data-stu-id="6ea68-424">Enable the **FPS Meter** checkbox.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-jank-console-rendering-frame-rate.msft.png" alt-text="Индикатор кадров в кадре" lightbox="../media/evaluate-performance-jank-console-rendering-frame-rate.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-jank-console-rendering-frame-rate.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-jank-console-rendering-frame-rate.msft.png":::
        <span data-ttu-id="6ea68-426">**Индикатор кадров в кадре**</span><span class="sxs-lookup"><span data-stu-id="6ea68-426">The **FPS meter**</span></span>  
     :::image-end:::  
     
@@ -545,7 +545,7 @@ ms.locfileid: "10992906"
 1.  <span data-ttu-id="6ea68-431">Открытие вкладки " **рендеринг** ".  Ознакомьтесь с разработкой [Анализ производительности отрисовки с помощью вкладки рендеринг](#analyze-rendering-performance-with-the-rendering-tab).</span><span class="sxs-lookup"><span data-stu-id="6ea68-431">Open the **Rendering** tab.  See [Analyze rendering performance with the Rendering tab](#analyze-rendering-performance-with-the-rendering-tab).</span></span>  
 1.  <span data-ttu-id="6ea68-432">Установите флажок **закрасить мигающий** .</span><span class="sxs-lookup"><span data-stu-id="6ea68-432">Enable the **Paint Flashing** checkbox.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-jank-console-rendering-paint-flashing.msft.png" alt-text="Мигание краски" lightbox="../media/evaluate-performance-jank-console-rendering-paint-flashing.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-jank-console-rendering-paint-flashing.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-jank-console-rendering-paint-flashing.msft.png":::
        **<span data-ttu-id="6ea68-434">Мигание краски</span><span class="sxs-lookup"><span data-stu-id="6ea68-434">Paint Flashing</span></span>**  
     :::image-end:::  
     
@@ -558,7 +558,7 @@ ms.locfileid: "10992906"
 1.  <span data-ttu-id="6ea68-438">Открытие вкладки " **рендеринг** ".  Ознакомьтесь с разработкой [Анализ производительности отрисовки с помощью вкладки рендеринг](#analyze-rendering-performance-with-the-rendering-tab).</span><span class="sxs-lookup"><span data-stu-id="6ea68-438">Open the **Rendering** tab.  See [Analyze rendering performance with the Rendering tab](#analyze-rendering-performance-with-the-rendering-tab).</span></span>  
 1.  <span data-ttu-id="6ea68-439">Установите флажок **границы слоя** .</span><span class="sxs-lookup"><span data-stu-id="6ea68-439">Enable the **Layer Borders** checkbox.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-devtools-console-rendering-layer-borders.msft.png" alt-text="Границы слоев" lightbox="../media/evaluate-performance-devtools-console-rendering-layer-borders.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-devtools-console-rendering-layer-borders.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-devtools-console-rendering-layer-borders.msft.png":::
        **<span data-ttu-id="6ea68-441">Границы слоев</span><span class="sxs-lookup"><span data-stu-id="6ea68-441">Layer Borders</span></span>**  
     :::image-end:::  
     
@@ -574,7 +574,7 @@ ms.locfileid: "10992906"
 1.  <span data-ttu-id="6ea68-447">Открытие вкладки " **рендеринг** ".  Ознакомьтесь с разработкой [Анализ производительности отрисовки с помощью вкладки рендеринг](#analyze-rendering-performance-with-the-rendering-tab).</span><span class="sxs-lookup"><span data-stu-id="6ea68-447">Open the **Rendering** tab.  See [Analyze rendering performance with the Rendering tab](#analyze-rendering-performance-with-the-rendering-tab).</span></span>  
 1.  <span data-ttu-id="6ea68-448">Включите флажок **проблемы с прокруткой** .</span><span class="sxs-lookup"><span data-stu-id="6ea68-448">Enable the **Scrolling Performance Issues** checkbox.</span></span>  
     
-    :::image type="complex" source="../media/evaluate-performance-bing-console-drawer-rendering-scrolling-performance-issues.msft.png" alt-text="Прокрутка проблем с производительностью указывает на то, что объекты просмотра, не связанные с разслойю, могут повредить производительность при прокрутке." lightbox="../media/evaluate-performance-bing-console-drawer-rendering-scrolling-performance-issues.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-bing-console-drawer-rendering-scrolling-performance-issues.msft.png" alt-text="Record" lightbox="../media/evaluate-performance-bing-console-drawer-rendering-scrolling-performance-issues.msft.png":::
        <span data-ttu-id="6ea68-450">**Прокрутка проблем с производительностью** указывает на то, что объекты просмотра, не связанные с разслойю, могут повредить производительность при прокрутке.</span><span class="sxs-lookup"><span data-stu-id="6ea68-450">**Scrolling Performance Issues** indicates that non-layer viewport-constrained objects may harm scroll performance</span></span>  
     :::image-end:::  
     

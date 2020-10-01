@@ -67,32 +67,32 @@ ms.locfileid: "10993444"
 
 1.  <span data-ttu-id="34e60-126">[Откройте исходный код для сайта](https://glitch.com/edit/#!/tony).</span><span class="sxs-lookup"><span data-stu-id="34e60-126">[Open the source code for the site](https://glitch.com/edit/#!/tony).</span></span>  <span data-ttu-id="34e60-127">Эта вкладка называется **вкладкой "редактор"**.</span><span class="sxs-lookup"><span data-stu-id="34e60-127">This tab is referred to as the **editor tab**.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-server-js.msft.png" alt-text="Вкладка "редактор"" lightbox="../media/speed-glitch-tony-server-js.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-server-js.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-server-js.msft.png":::
        <span data-ttu-id="34e60-129">**Вкладка "редактор"**</span><span class="sxs-lookup"><span data-stu-id="34e60-129">The **editor tab**</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="34e60-130">Выберите **Илья**.</span><span class="sxs-lookup"><span data-stu-id="34e60-130">Select **tony**.</span></span>  <span data-ttu-id="34e60-131">Откроется меню.</span><span class="sxs-lookup"><span data-stu-id="34e60-131">A menu appears.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-server-js-remix-project.msft.png" alt-text="Меню, которое появляется после нажатия кнопки Илья" lightbox="../media/speed-glitch-tony-server-js-remix-project.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-server-js-remix-project.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-server-js-remix-project.msft.png":::
        <span data-ttu-id="34e60-133">Меню, которое появляется после нажатия кнопки **Илья**</span><span class="sxs-lookup"><span data-stu-id="34e60-133">The menu that appears after clicking **tony**</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="34e60-134">Выберите **Remix проект**.</span><span class="sxs-lookup"><span data-stu-id="34e60-134">Select **Remix Project**.</span></span>  <span data-ttu-id="34e60-135">Имя проекта меняется с **Илья** на случайное сгенерированное имя.</span><span class="sxs-lookup"><span data-stu-id="34e60-135">The name of the project changes from **tony** to some randomly-generated name.</span></span>  <span data-ttu-id="34e60-136">Теперь у вас есть Редактируемая копия кода.</span><span class="sxs-lookup"><span data-stu-id="34e60-136">You now have your own editable copy of the code.</span></span>  <span data-ttu-id="34e60-137">Позже вы можете внести изменения в этот код.</span><span class="sxs-lookup"><span data-stu-id="34e60-137">Later on, you may make changes to this code.</span></span>  
 1.  <span data-ttu-id="34e60-138">Нажмите кнопку **Показать** и выберите **в новом окне**.</span><span class="sxs-lookup"><span data-stu-id="34e60-138">Select **Show** and select **In a New Window**.</span></span>  <span data-ttu-id="34e60-139">Демонстрационный ролик откроется на новой вкладке.  Эта вкладка упоминается как **вкладка Demo**.  Загрузка сайта может занять некоторое время.</span><span class="sxs-lookup"><span data-stu-id="34e60-139">The demo opens in a new tab.  This tab is be referred to as the **demo tab**.  It may take a while for the site to load.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-show-live.msft.png" alt-text="Вкладка "демонстрация"" lightbox="../media/speed-glitch-tony-show-live.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-show-live.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-show-live.msft.png":::
        <span data-ttu-id="34e60-141">Вкладка "демонстрация"</span><span class="sxs-lookup"><span data-stu-id="34e60-141">The demo tab</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="34e60-142">Нажмите клавиши `Control` + `Shift` + `J` \ (Windows \) или `Command` + `Option` + `J` \ (macOS \).</span><span class="sxs-lookup"><span data-stu-id="34e60-142">Press `Control`+`Shift`+`J` \(Windows\) or `Command`+`Option`+`J` \(macOS\).</span></span>  <span data-ttu-id="34e60-143">Рядом с демоном DevTools откроется Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="34e60-143">Microsoft Edge DevTools opens up alongside the demo.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-show-live-console.msft.png" alt-text="DevTools и демонстрация" lightbox="../media/speed-glitch-tony-show-live-console.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-show-live-console.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-show-live-console.msft.png":::
        <span data-ttu-id="34e60-145">DevTools и демонстрация</span><span class="sxs-lookup"><span data-stu-id="34e60-145">DevTools and the demo</span></span>  
     :::image-end:::  
     
 <span data-ttu-id="34e60-146">Для остальных снимков экрана в этом учебнике DevTools отображается в отдельном окне.</span><span class="sxs-lookup"><span data-stu-id="34e60-146">For the rest of the screenshots in this tutorial, DevTools is shown in a separate window.</span></span>  <span data-ttu-id="34e60-147">Нажмите клавиши `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \), чтобы открыть меню команд, введите его `Undock` и выберите команду **открепить в отдельном окне**.</span><span class="sxs-lookup"><span data-stu-id="34e60-147">Press `Control`+`Shift`+`P` \(Windows\) or `Command`+`Shift`+`P` \(macOS\) to open the Command Menu, typing `Undock`, and then selecting **Undock into separate window**.</span></span>  
 
-:::image type="complex" source="../media/speed-console.msft.png" alt-text="Незакрепленные DevTools" lightbox="../media/speed-console.msft.png":::
+:::image type="complex" source="../media/speed-console.msft.png" alt-text="Илья CAT" lightbox="../media/speed-console.msft.png":::
    <span data-ttu-id="34e60-149">Незакрепленные DevTools</span><span class="sxs-lookup"><span data-stu-id="34e60-149">Undocked DevTools</span></span>  
 :::image-end:::  
 
@@ -104,7 +104,7 @@ ms.locfileid: "10993444"
     
     [!INCLUDE [audits-panel-note](../includes/audits-panel-note.md)]  
     
-    :::image type="complex" source="../media/speed-audits-performance.msft.png" alt-text="Панель «аудит»" lightbox="../media/speed-audits-performance.msft.png":::
+    :::image type="complex" source="../media/speed-audits-performance.msft.png" alt-text="Илья CAT" lightbox="../media/speed-audits-performance.msft.png":::
        <span data-ttu-id="34e60-155">Панель « **Аудит** »</span><span class="sxs-lookup"><span data-stu-id="34e60-155">The **Audits** panel</span></span>  
     :::image-end:::  
     
@@ -120,7 +120,7 @@ ms.locfileid: "10993444"
     
 1.  <span data-ttu-id="34e60-174">Нажмите кнопку **запустить аудиты**.</span><span class="sxs-lookup"><span data-stu-id="34e60-174">Select **Run Audits**.</span></span>  <span data-ttu-id="34e60-175">После 10 – 30 секунд на панели «аудиты» отображается отчет о быстродействии сайта.</span><span class="sxs-lookup"><span data-stu-id="34e60-175">After 10 to 30 seconds, the Audits panel shows you a report of the performance of the site.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed.msft.png" alt-text="Отчет для панели «аудит» для производительности сайта" lightbox="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed.msft.png":::
        <span data-ttu-id="34e60-177">Отчет для панели «аудит» для производительности сайта</span><span class="sxs-lookup"><span data-stu-id="34e60-177">The report for the Audits panel of the performance of the site</span></span>  
     :::image-end:::  
     
@@ -130,7 +130,7 @@ ms.locfileid: "10993444"
 
 <!--todo: add screen capture for error in audit -->  
 <!--
-:::image type="complex" source="../media/speed-.msft.png" alt-text="A report that errored" lightbox="../media/speed-.msft.png":::
+:::image type="complex" source="../media/speed-.msft.png" alt-text="Илья CAT" lightbox="../media/speed-.msft.png":::
    A report that errored  
 :::image-end:::  
 -->  
@@ -139,55 +139,55 @@ ms.locfileid: "10993444"
 
 <span data-ttu-id="34e60-183">Число в верхней части отчета является общим показателем эффективности сайта.</span><span class="sxs-lookup"><span data-stu-id="34e60-183">The number at the top of your report is the overall performance score for the site.</span></span>  <span data-ttu-id="34e60-184">После внесения изменений в код вы должны увидеть этот номер.</span><span class="sxs-lookup"><span data-stu-id="34e60-184">Later, as you make changes to the code, you should see this number rise.</span></span>  <span data-ttu-id="34e60-185">Более высокие баллы означают более высокую производительность.</span><span class="sxs-lookup"><span data-stu-id="34e60-185">A higher score means better performance.</span></span>  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed-metrics-highlighted.msft.png" alt-text="Общая оценка производительности" lightbox="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed-metrics-highlighted.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed-metrics-highlighted.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed-metrics-highlighted.msft.png":::
    <span data-ttu-id="34e60-187">Общая оценка производительности</span><span class="sxs-lookup"><span data-stu-id="34e60-187">The overall performance score</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="34e60-188">Раздел **метрики** содержит количественные измерения производительности сайта.</span><span class="sxs-lookup"><span data-stu-id="34e60-188">The **Metrics** section provides quantitative measurements of the performance of the site.</span></span>  <span data-ttu-id="34e60-189">Каждая метрика обеспечивает различные аспекты производительности.</span><span class="sxs-lookup"><span data-stu-id="34e60-189">Each metric provides insight into a different aspect of the performance.</span></span>  <span data-ttu-id="34e60-190">Например, при первом обобщении с **содержимым** появляется сообщение о том, что содержимое сначала закрашено на экран, что является важной вехой в восприятии загрузки страницы, в то время как в **интерактивном режиме** отмечается тот момент, когда страница будет готова для обработки взаимодействия с пользователем.</span><span class="sxs-lookup"><span data-stu-id="34e60-190">For example, **First Contentful Paint** tells you when content is first painted to the screen, which is an important milestone in the user's perception of the page load, whereas **Time To Interactive** marks the point at which the page appears ready enough to handle user interactions.</span></span>  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed-highlighted.msft.png" alt-text="Раздел метрики" lightbox="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed-highlighted.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed-highlighted.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed-highlighted.msft.png":::
    <span data-ttu-id="34e60-192">Раздел **метрики**</span><span class="sxs-lookup"><span data-stu-id="34e60-192">The **Metrics** section</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="34e60-193">Щелкните выделенный выключатель на приведенном ниже рисунке, чтобы просмотреть описание каждой метрики, а затем нажмите Дополнительные **сведения** , чтобы прочитать его документацию.</span><span class="sxs-lookup"><span data-stu-id="34e60-193">Select the highlighted toggle button in the following figure to see a description for each metric, and click **Learn More** to read documentation about it.</span></span>  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-metrics-expanded.msft.png" alt-text="Щелкните выделенный выключатель, чтобы развернуть элементы метрик" lightbox="../media/speed-glitch-tony-remix-audits-performance-metrics-expanded.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-metrics-expanded.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-metrics-expanded.msft.png":::
    <span data-ttu-id="34e60-195">Щелкните выделенный выключатель, чтобы развернуть элементы метрик</span><span class="sxs-lookup"><span data-stu-id="34e60-195">Select the highlighted toggle button to expand the Metrics items</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="34e60-196">Под метриками представлен набор снимков экрана, показывающий, как страница выглядит как загруженная.</span><span class="sxs-lookup"><span data-stu-id="34e60-196">Below Metrics is a collection of screenshots that show you how the page looked as it loaded.</span></span>  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-view-trace.msft.png" alt-text="Снимки экрана, посвященные загрузке страницы" lightbox="../media/speed-glitch-tony-remix-audits-performance-view-trace.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-view-trace.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-view-trace.msft.png":::
    <span data-ttu-id="34e60-198">Снимки экрана, посвященные загрузке страницы</span><span class="sxs-lookup"><span data-stu-id="34e60-198">Screenshots of how the page looked while loading</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="34e60-199">В разделе " **возможности** " представлены конкретные советы по повышению производительности загрузки данной страницы.</span><span class="sxs-lookup"><span data-stu-id="34e60-199">The **Opportunities** section provides specific tips on how to improve the load performance of this specific page.</span></span>  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-view-trace.msft.png" alt-text="Раздел "возможности"" lightbox="../media/speed-glitch-tony-remix-audits-performance-view-trace.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-view-trace.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-view-trace.msft.png":::
    <span data-ttu-id="34e60-201">Раздел " **возможности** "</span><span class="sxs-lookup"><span data-stu-id="34e60-201">The **Opportunities** section</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="34e60-202">Выберите возможность, чтобы узнать больше о ней.</span><span class="sxs-lookup"><span data-stu-id="34e60-202">Select an opportunity to learn more about it.</span></span>  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-opportunities-expanded.msft.png" alt-text="Исключение ресурсов блокировки рендеринга возможная сделка" lightbox="../media/speed-glitch-tony-remix-audits-performance-opportunities-expanded.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-opportunities-expanded.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-opportunities-expanded.msft.png":::
    <span data-ttu-id="34e60-204">**Исключение ресурсов блокировки рендеринга** возможная сделка</span><span class="sxs-lookup"><span data-stu-id="34e60-204">**Eliminate render-blocking resources** opportunity</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="34e60-205">Выберите дополнительные **сведения** , чтобы ознакомиться с документацией о важности возможной сделки, и конкретные рекомендации по ее устранению.</span><span class="sxs-lookup"><span data-stu-id="34e60-205">Select **Learn More** to see documentation about why an opportunity is important, and specific recommendations on how to fix it.</span></span>  
 
-:::image type="complex" source="../media/speed-web-dev-performance-audits.msft.png" alt-text="Документация по устранению ресурсов с блокировкой рендеринга возможная сделка" lightbox="../media/speed-web-dev-performance-audits.msft.png":::
+:::image type="complex" source="../media/speed-web-dev-performance-audits.msft.png" alt-text="Илья CAT" lightbox="../media/speed-web-dev-performance-audits.msft.png":::
    <span data-ttu-id="34e60-207">Документация по **устранению ресурсов с блокировкой рендеринга** возможная сделка</span><span class="sxs-lookup"><span data-stu-id="34e60-207">Documentation for the **Eliminate render-blocking resources** opportunity</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="34e60-208">Раздел **Диагностика** содержит дополнительные сведения о факторах, которые влияют на время загрузки страницы.</span><span class="sxs-lookup"><span data-stu-id="34e60-208">The **Diagnostics** section provides more information about factors that contribute to the load time of the page.</span></span>  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-diagnostics.msft.png" alt-text="Раздел "Диагностика"" lightbox="../media/speed-glitch-tony-remix-audits-performance-diagnostics.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-diagnostics.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-diagnostics.msft.png":::
    <span data-ttu-id="34e60-210">Раздел " **Диагностика** "</span><span class="sxs-lookup"><span data-stu-id="34e60-210">The **Diagnostics** section</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="34e60-211">В разделе **переданные аудиты** показано, что делает сайт правильно.</span><span class="sxs-lookup"><span data-stu-id="34e60-211">The **Passed Audits** section shows you what the site is doing correctly.</span></span>  <span data-ttu-id="34e60-212">Выберите этот пункт, чтобы развернуть раздел.</span><span class="sxs-lookup"><span data-stu-id="34e60-212">Select to expand the section.</span></span>  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-passed-audits.msft.png" alt-text="Раздел "пройденные аудиты"" lightbox="../media/speed-glitch-tony-remix-audits-performance-passed-audits.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-passed-audits.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-passed-audits.msft.png":::
    <span data-ttu-id="34e60-214">Раздел " **пройденные аудиты** "</span><span class="sxs-lookup"><span data-stu-id="34e60-214">The **Passed Audits** section</span></span>  
 :::image-end:::  
 
@@ -205,14 +205,14 @@ ms.locfileid: "10993444"
 
 1.  <span data-ttu-id="34e60-224">Откройте вкладку **сеть** .</span><span class="sxs-lookup"><span data-stu-id="34e60-224">Select the **Network** tab.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-network.msft.png" alt-text="Панель "сеть"" lightbox="../media/speed-glitch-tony-remix-network.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-network.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-network.msft.png":::
        <span data-ttu-id="34e60-226">Панель " **сеть** "</span><span class="sxs-lookup"><span data-stu-id="34e60-226">The **Network** panel</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="34e60-227">Выберите значок **Параметры сети** .</span><span class="sxs-lookup"><span data-stu-id="34e60-227">Select the **Network setting** icon.</span></span>  
 1.  <span data-ttu-id="34e60-228">Установите флажок **использовать строки большого запроса** .</span><span class="sxs-lookup"><span data-stu-id="34e60-228">Select the **Use Large Request Rows** checkbox.</span></span>  <span data-ttu-id="34e60-229">Высота строк в таблице сетевых запросов возрастает.</span><span class="sxs-lookup"><span data-stu-id="34e60-229">The height of the rows in the table of network requests increases.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-network-use-large-request-rows.msft.png" alt-text="Большие строки в таблице "сетевые запросы"" lightbox="../media/speed-glitch-tony-remix-network-use-large-request-rows.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-network-use-large-request-rows.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-network-use-large-request-rows.msft.png":::
        <span data-ttu-id="34e60-231">Большие строки в таблице "сетевые запросы"</span><span class="sxs-lookup"><span data-stu-id="34e60-231">Large rows in the network requests table</span></span>  
     :::image-end:::  
     
@@ -226,7 +226,7 @@ ms.locfileid: "10993444"
 1.  <span data-ttu-id="34e60-239">Выберите **bundle.js**.</span><span class="sxs-lookup"><span data-stu-id="34e60-239">Select **bundle.js**.</span></span>  
 1.  <span data-ttu-id="34e60-240">Откройте вкладку **заголовки** .</span><span class="sxs-lookup"><span data-stu-id="34e60-240">Select the **Headers** tab.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-network-use-large-request-rows-bundle-js.msft.png" alt-text="Вкладка "заголовки"" lightbox="../media/speed-glitch-tony-remix-network-use-large-request-rows-bundle-js.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-network-use-large-request-rows-bundle-js.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-network-use-large-request-rows-bundle-js.msft.png":::
        <span data-ttu-id="34e60-242">Вкладка " **заголовки** "</span><span class="sxs-lookup"><span data-stu-id="34e60-242">The **Headers** tab</span></span>  
     :::image-end:::  
     
@@ -236,7 +236,7 @@ ms.locfileid: "10993444"
 
 1.  <span data-ttu-id="34e60-250">На вкладке "редактор" нажмите кнопку " **server.js**".</span><span class="sxs-lookup"><span data-stu-id="34e60-250">In the editor tab, click **server.js**.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-server-js.msft.png" alt-text="Изменить server.js" lightbox="../media/speed-glitch-tony-remix-server-js.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-server-js.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-server-js.msft.png":::
        <span data-ttu-id="34e60-252">Edit</span><span class="sxs-lookup"><span data-stu-id="34e60-252">Edit</span></span> `server.js`  
     :::image-end:::  
     
@@ -262,7 +262,7 @@ ms.locfileid: "10993444"
 1.  <span data-ttu-id="34e60-256">Дождитесь, пока не будет развернуто новая сборка сайта.</span><span class="sxs-lookup"><span data-stu-id="34e60-256">Wait for Glitch to deploy the new build of the site.</span></span>  <span data-ttu-id="34e60-257">Неузорная анимация рядом с **инструментами** означает, что сайт перестраивается и повторно развертывается.</span><span class="sxs-lookup"><span data-stu-id="34e60-257">The fancy animation next to **Tools** means that the site is getting rebuilt and redeployed.</span></span>  <span data-ttu-id="34e60-258">Изменение будет готово, когда анимация рядом с пунктом " **инструменты** " исчезает.</span><span class="sxs-lookup"><span data-stu-id="34e60-258">The change is ready when the animation next to **Tools** goes away.</span></span>  <span data-ttu-id="34e60-259">Нажмите кнопку **Показать** и выберите **в новом окне** еще раз.</span><span class="sxs-lookup"><span data-stu-id="34e60-259">Select **Show** and select **In a New Window** again.</span></span>  
     
     <!--
-    :::image type="complex" source="../media/speed-glitch-tony-remix-server-js-edited.msft.png" alt-text="The animation that indicates that the site is getting built" lightbox="../media/speed-glitch-tony-remix-server-js-edited.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-server-js-edited.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-server-js-edited.msft.png":::
        The animation that indicates that the site is getting built  
     :::image-end:::  
     -->  
@@ -271,13 +271,13 @@ ms.locfileid: "10993444"
 
 1.  <span data-ttu-id="34e60-261">Вернитесь на вкладку Demo и повторно загрузите страницу.</span><span class="sxs-lookup"><span data-stu-id="34e60-261">Go back to the demo tab and reload the page.</span></span>  <span data-ttu-id="34e60-262">Столбец « **Размер** » теперь должен показывать 2 разных значения для текстовых ресурсов `bundle.js` , таких как.</span><span class="sxs-lookup"><span data-stu-id="34e60-262">The **Size** column should now show 2 different values for text resources like `bundle.js`.</span></span>  <span data-ttu-id="34e60-263">На рисунке после следующего значения аргумента " `256 KB` `bundle.js` равно" — Размер файла, отправленного по сети, а в качестве нижнего значения `1.2 MB` — несжатый размер файла.</span><span class="sxs-lookup"><span data-stu-id="34e60-263">In the figure after the following, the top value of `256 KB` for `bundle.js` is the size of the file that was sent over the network, and the bottom value of `1.2 MB` is the uncompressed file size.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-network-main.msft.png" alt-text="В столбце "размер" теперь показано 2 разных значения для текстовых ресурсов." lightbox="../media/speed-glitch-tony-remix-network-main.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-network-main.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-network-main.msft.png":::
        <span data-ttu-id="34e60-265">В столбце " **Размер** " теперь показано 2 разных значения для текстовых ресурсов.</span><span class="sxs-lookup"><span data-stu-id="34e60-265">The **Size** column now shows 2 different values for text resources</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="34e60-266">В разделе **заголовки ответа** `bundle.js` теперь должен быть указан `content-encoding: gzip` верхний колонтитул.</span><span class="sxs-lookup"><span data-stu-id="34e60-266">The **Response Headers** section for `bundle.js` should now include a `content-encoding: gzip` header.</span></span>
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-network-bundle-js-headers-response.msft.png" alt-text="Раздел заголовки ответа теперь содержат заголовок Content-Encoding" lightbox="../media/speed-glitch-tony-remix-network-bundle-js-headers-response.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-network-bundle-js-headers-response.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-network-bundle-js-headers-response.msft.png":::
        <span data-ttu-id="34e60-268">Раздел **заголовки ответа** теперь содержат заголовок Content-Encoding</span><span class="sxs-lookup"><span data-stu-id="34e60-268">The **Response Headers** section now contains a content-encoding header</span></span>  
     :::image-end:::  
     
@@ -288,7 +288,7 @@ ms.locfileid: "10993444"
 1.  <span data-ttu-id="34e60-272">Параметры не совпадают.</span><span class="sxs-lookup"><span data-stu-id="34e60-272">Leave the settings the same as before.</span></span>  
 1.  <span data-ttu-id="34e60-273">Нажмите кнопку **запустить аудит**.</span><span class="sxs-lookup"><span data-stu-id="34e60-273">Select **Run audit**.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance.msft.png" alt-text="Отчет "Аудит" после включения сжатия текста" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance.msft.png":::
        <span data-ttu-id="34e60-275">Отчет "Аудит" после включения сжатия текста</span><span class="sxs-lookup"><span data-stu-id="34e60-275">An Audits report after enabling text compression</span></span>  
     :::image-end:::  
     
@@ -305,7 +305,7 @@ ms.locfileid: "10993444"
 1.  <span data-ttu-id="34e60-285">В отчете выберите команду **Избегайте огромных полезных данных сети** , чтобы узнать, какие изображения нужно изменить.</span><span class="sxs-lookup"><span data-stu-id="34e60-285">In your report, click **Avoid enormous network payloads** to see which images should be resized.</span></span>  <span data-ttu-id="34e60-286">Похоже, что 2 файлов JPG — более 2000 КБ, что больше не требуется.</span><span class="sxs-lookup"><span data-stu-id="34e60-286">It looks like 2 of the jpg files are over 2000 KB, which is bigger than necessary.</span></span>  
     
     <!--
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-opportunities-expanded.msft.png" alt-text="Details about the properly size images opportunity" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-opportunities-expanded.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-opportunities-expanded.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-opportunities-expanded.msft.png":::
        Details about the properly size images opportunity  
     :::image-end:::  
     -->
@@ -314,7 +314,7 @@ ms.locfileid: "10993444"
 1.  <span data-ttu-id="34e60-288">Заменить `const dir = 'big'` на `const dir = 'small'` .</span><span class="sxs-lookup"><span data-stu-id="34e60-288">Replace `const dir = 'big'` with `const dir = 'small'`.</span></span>  <span data-ttu-id="34e60-289">Этот каталог содержит копии тех же изображений, размер которых был изменен.</span><span class="sxs-lookup"><span data-stu-id="34e60-289">This directory contains copies of the same images which have been resized.</span></span>  
 1.  <span data-ttu-id="34e60-290">Вновь проведите аудит страницы, чтобы увидеть, как это изменение влияет на производительность загрузки.</span><span class="sxs-lookup"><span data-stu-id="34e60-290">Audit the page again to see how this change affects load performance.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-compression-small-images-audits-performance.msft.png" alt-text="Отчет об аудите после изменения размеров изображений" lightbox="../media/speed-glitch-compression-small-images-audits-performance.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-compression-small-images-audits-performance.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-compression-small-images-audits-performance.msft.png":::
        <span data-ttu-id="34e60-292">Отчет об аудите после изменения размеров изображений</span><span class="sxs-lookup"><span data-stu-id="34e60-292">An Audits report after resizing images</span></span>  
     :::image-end:::  
     
@@ -345,29 +345,29 @@ ms.locfileid: "10993444"
 1.  <span data-ttu-id="34e60-313">Чтобы просмотреть блокируемые ресурсы, выберите пункт **удалить ресурсы блокировки рендеринга** .</span><span class="sxs-lookup"><span data-stu-id="34e60-313">Select **Eliminate render-blocking resources** to see the resources that are blocking:</span></span>  
     `lodash.js` <span data-ttu-id="34e60-314">и `jquery.js` .</span><span class="sxs-lookup"><span data-stu-id="34e60-314">and `jquery.js`.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded.msft.png" alt-text="Дополнительные сведения о ресурсах блокировки обработки с возможностью устранения" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded.msft.png":::
        <span data-ttu-id="34e60-316">Дополнительные сведения о **ресурсах блокировки обработки** с возможностью устранения</span><span class="sxs-lookup"><span data-stu-id="34e60-316">More information about the **Eliminate render-blocking resources** opportunity</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="34e60-317">Нажмите клавиши `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \), чтобы открыть меню команд, начните вводить текст `Coverage` и выберите пункт **Показать покрытие**.</span><span class="sxs-lookup"><span data-stu-id="34e60-317">Press `Control`+`Shift`+`P` \(Windows\) or `Command`+`Shift`+`P` \(macOS\) to open the Command Menu, start typing `Coverage`, and then select **Show Coverage**.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-command-coverage.msft.png" alt-text="Открытие меню "команд" на панели "Аудит"" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-command-coverage.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-command-coverage.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-command-coverage.msft.png":::
        <span data-ttu-id="34e60-319">Открытие меню "команд" на панели " **Аудит** "</span><span class="sxs-lookup"><span data-stu-id="34e60-319">Open the Command Menu from the **Audits** panel</span></span>  
     :::image-end:::  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-drawer-coverage.msft.png" alt-text="Вкладка "покрытие"" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-drawer-coverage.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-drawer-coverage.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-drawer-coverage.msft.png":::
        <span data-ttu-id="34e60-321">Вкладка " **покрытие** "</span><span class="sxs-lookup"><span data-stu-id="34e60-321">The **Coverage** tab</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="34e60-322">Нажмите кнопку **Обновить** \ ( ![ обновить ][ImageRefreshIcon] \).</span><span class="sxs-lookup"><span data-stu-id="34e60-322">Select **Refresh** \(![Refresh][ImageRefreshIcon]\).</span></span>  <span data-ttu-id="34e60-323">На вкладке " **покрытие** " представлены общие сведения о том, какая часть `bundle.js` кода `jquery.js` и `lodash.js` выполняется при загрузке страницы.</span><span class="sxs-lookup"><span data-stu-id="34e60-323">The **Coverage** tab provides an overview of how much of the code in `bundle.js`, `jquery.js`, and `lodash.js` runs while the page loads.</span></span>  <span data-ttu-id="34e60-324">На рисунке ниже показано, что около 76% и 30% файлов jQuery и Lodash не используются соответственно.</span><span class="sxs-lookup"><span data-stu-id="34e60-324">In the figure after the following, about 76% and 30% of the jQuery and Lodash files are not used, respectively.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-drawer-coverage-reloaded.msft.png" alt-text="Отчет о покрытии" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-drawer-coverage-reloaded.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-drawer-coverage-reloaded.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-drawer-coverage-reloaded.msft.png":::
        <span data-ttu-id="34e60-326">Отчет о покрытии</span><span class="sxs-lookup"><span data-stu-id="34e60-326">The Coverage report</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="34e60-327">Выделите строку **jquery.js** .</span><span class="sxs-lookup"><span data-stu-id="34e60-327">Select the **jquery.js** row.</span></span>  <span data-ttu-id="34e60-328">DevTools откроет файл на панели «источники».</span><span class="sxs-lookup"><span data-stu-id="34e60-328">DevTools opens the file in the Sources panel.</span></span>  <span data-ttu-id="34e60-329">Строка кода была выполнена, если рядом с ней есть синяя полоска.</span><span class="sxs-lookup"><span data-stu-id="34e60-329">A line of code ran if it has a blue bar next to it.</span></span>  <span data-ttu-id="34e60-330">Красная черта означает, что она не была выполнена и определенно не требуется при загрузке страницы.</span><span class="sxs-lookup"><span data-stu-id="34e60-330">A red bar means it was not run, and is definitely not needed on page load.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-sources-drawer-coverage-reloaded-jquery-js.msft.png" alt-text="Просмотр файла jQuery на панели «источники»" lightbox="../media/speed-glitch-tony-remix-updated-sources-drawer-coverage-reloaded-jquery-js.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-sources-drawer-coverage-reloaded-jquery-js.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-sources-drawer-coverage-reloaded-jquery-js.msft.png":::
        <span data-ttu-id="34e60-332">Просмотр файла jQuery на панели « **источники** »</span><span class="sxs-lookup"><span data-stu-id="34e60-332">Viewing the jQuery file in the **Sources** panel</span></span>  
     :::image-end:::  
     
@@ -381,19 +381,19 @@ ms.locfileid: "10993444"
 1.  <span data-ttu-id="34e60-340">Нажмите клавиши `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \), чтобы снова открыть меню команд.</span><span class="sxs-lookup"><span data-stu-id="34e60-340">Press `Control`+`Shift`+`P` \(Windows\) or `Command`+`Shift`+`P` \(macOS\) to open the Command Menu again.</span></span>  
 1.  <span data-ttu-id="34e60-341">Начните вводить данные `blocking` и установите флажок **Показать блокировку запросов**.</span><span class="sxs-lookup"><span data-stu-id="34e60-341">Start typing `blocking` and then select **Show Request Blocking**.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-network-drawer-request-blocking-empty.msft.png" alt-text="Вкладка "блокировка запросов"" lightbox="../media/speed-glitch-tony-remix-updated-network-drawer-request-blocking-empty.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-network-drawer-request-blocking-empty.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-network-drawer-request-blocking-empty.msft.png":::
        <span data-ttu-id="34e60-343">Вкладка " **Блокировка запросов** "</span><span class="sxs-lookup"><span data-stu-id="34e60-343">The **Request Blocking** tab</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="34e60-344">Нажмите кнопку **Добавить узор** \ ( ![ Добавить шаблон ][ImageAddPatternIcon] \), введите текст и нажмите `/libs/*` кнопку, `Enter` чтобы подтвердить.</span><span class="sxs-lookup"><span data-stu-id="34e60-344">Select **Add Pattern** \(![Add Pattern][ImageAddPatternIcon]\), type `/libs/*`, and then press `Enter` to confirm.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-network-drawer-request-blocking-added.msft.png" alt-text="Добавление шаблона для блокирования запросов в каталог библиотек" lightbox="../media/speed-glitch-tony-remix-updated-network-drawer-request-blocking-added.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-network-drawer-request-blocking-added.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-network-drawer-request-blocking-added.msft.png":::
        <span data-ttu-id="34e60-346">Добавление шаблона для блокирования запросов в `libs` Каталог</span><span class="sxs-lookup"><span data-stu-id="34e60-346">Add a pattern to block any request to the `libs` directory</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="34e60-347">Обновите страницу.</span><span class="sxs-lookup"><span data-stu-id="34e60-347">Refresh the page.</span></span>  <span data-ttu-id="34e60-348">Запросы jQuery и Lodash красного цвета, означающие, что запросы были заблокированы.</span><span class="sxs-lookup"><span data-stu-id="34e60-348">The jQuery and Lodash requests are red, meaning that the requests were blocked.</span></span>   <span data-ttu-id="34e60-349">Страница по-прежнему загружается и является интерактивной, поэтому она выглядит так, как это не требуется.</span><span class="sxs-lookup"><span data-stu-id="34e60-349">The page still loads and is interactive, so it looks like these resources are not needed whatsoever!</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-network-reloaded-drawer-request-blocking-added.msft.png" alt-text="На панели Network (сеть) показано, что запросы заблокированы" lightbox="../media/speed-glitch-tony-remix-updated-network-reloaded-drawer-request-blocking-added.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-network-reloaded-drawer-request-blocking-added.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-network-reloaded-drawer-request-blocking-added.msft.png":::
        <span data-ttu-id="34e60-351">На панели **Network (сеть** ) показано, что запросы заблокированы</span><span class="sxs-lookup"><span data-stu-id="34e60-351">The **Network** panel shows that the requests have been blocked</span></span>  
     :::image-end:::  
     
@@ -408,7 +408,7 @@ ms.locfileid: "10993444"
 1.  <span data-ttu-id="34e60-357">Дождитесь повторного создания и повторного развертывания сайта.</span><span class="sxs-lookup"><span data-stu-id="34e60-357">Wait for the site to re-build and re-deploy.</span></span>  
 1.  <span data-ttu-id="34e60-358">Снова проведите аудит страницы с помощью панели **аудита** .</span><span class="sxs-lookup"><span data-stu-id="34e60-358">Audit the page again from the **Audits** panel.</span></span>  <span data-ttu-id="34e60-359">Ваши общие баллы должны быть улучшены.</span><span class="sxs-lookup"><span data-stu-id="34e60-359">Your overall score should have improved again.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-2-audits-performance.msft.png" alt-text="Отчет об аудите после удаления ресурсов блокировки рендеринга" lightbox="../media/speed-glitch-tony-remix-updated-2-audits-performance.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-2-audits-performance.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-2-audits-performance.msft.png":::
        <span data-ttu-id="34e60-361">Отчет об **аудите** после удаления ресурсов блокировки рендеринга</span><span class="sxs-lookup"><span data-stu-id="34e60-361">An **Audits** report after removing the render-blocking resources</span></span>  
     :::image-end:::  
     
@@ -436,13 +436,13 @@ ms.locfileid: "10993444"
 1.  <span data-ttu-id="34e60-374">Настройте **сеть** на **медленное 3G** и **ЦП** , чтобы **6X замедление**.</span><span class="sxs-lookup"><span data-stu-id="34e60-374">Set **Network** to **Slow 3G** and **CPU** to **6x slowdown**.</span></span>  <span data-ttu-id="34e60-375">На мобильных устройствах обычно используются больше ограничений на оборудование, чем на ноутбуках или настольных компьютерах, поэтому эти параметры позволяют загрузить страницу так, как если бы вы использовали менее мощное устройство.</span><span class="sxs-lookup"><span data-stu-id="34e60-375">Mobile devices typically have more hardware constraints than laptops or desktops, so these settings let you experience the page load as if you were using a less powerful device.</span></span>  
 1.  <span data-ttu-id="34e60-376">Нажмите кнопку **Обновить** \ ( ![ обновить ][ImageRefreshIcon] \).</span><span class="sxs-lookup"><span data-stu-id="34e60-376">Select **Refresh** \(![Refresh][ImageRefreshIcon]\).</span></span>  <span data-ttu-id="34e60-377">DevTools обновляет страницу и создает визуализацию всей выполненной работы, чтобы загрузить страницу.</span><span class="sxs-lookup"><span data-stu-id="34e60-377">DevTools refreshes the page and then produces a visualization of all the work performed in order to load the page.</span></span>  <span data-ttu-id="34e60-378">Этот зрительный образ называется **трассировкой**.</span><span class="sxs-lookup"><span data-stu-id="34e60-378">This visualization is referred to as the **trace**.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu.msft.png" alt-text="Трассировка загрузки страницы на панели производительности" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu.msft.png":::
        <span data-ttu-id="34e60-380">Трассировка загрузки страницы на панели **производительности**</span><span class="sxs-lookup"><span data-stu-id="34e60-380">The **Performance** panel trace of the page load</span></span>  
     :::image-end:::  
     
 <span data-ttu-id="34e60-381">Трассировка отображает операцию в хронологическом порядке, слева направо.</span><span class="sxs-lookup"><span data-stu-id="34e60-381">The trace shows activity chronologically, from left to right.</span></span>  <span data-ttu-id="34e60-382">На диаграммах с частотой кадров, ЦП и нетто в верхней части экрана дается обзор кадров в секунду, активности ЦП и активности сети.</span><span class="sxs-lookup"><span data-stu-id="34e60-382">The FPS, CPU, and NET charts at the top give you an overview of frames per second, CPU activity, and network activity.</span></span>  <span data-ttu-id="34e60-383">Выделенный блок желтого цвета, показанный на рисунке после следующего, ЦП полностью загружен с действиями в сценарии.</span><span class="sxs-lookup"><span data-stu-id="34e60-383">The block of yellow selected that you see in the figure after the following, the CPU was completely busy with scripting activity.</span></span>  <span data-ttu-id="34e60-384">Это говорит о том, что вы можете ускорить загрузку страницы, выполнив меньше действий JavaScript.</span><span class="sxs-lookup"><span data-stu-id="34e60-384">This is a clue that you may be able to speed up page load by doing less JavaScript work.</span></span>  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-main-highlight.msft.png" alt-text="Раздел обзора трассировки" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-main-highlight.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-main-highlight.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-main-highlight.msft.png":::
    <span data-ttu-id="34e60-386">Раздел обзора трассировки</span><span class="sxs-lookup"><span data-stu-id="34e60-386">The Overview section of the trace</span></span>  
 :::image-end:::  
 
@@ -450,20 +450,20 @@ ms.locfileid: "10993444"
 
 1.  <span data-ttu-id="34e60-388">Щелкните раздел **время показа** , чтобы развернуть его.</span><span class="sxs-lookup"><span data-stu-id="34e60-388">Select the **Timings** section to expand it.</span></span>  <span data-ttu-id="34e60-389">В зависимости от того факта, что существует ряд мер [времени][MDNUserTimingApi] , не отклика, может показаться, что приложение Илья использует режим разработки реагируй.</span><span class="sxs-lookup"><span data-stu-id="34e60-389">Based on the fact that there may be a bunch of [Timings][MDNUserTimingApi] measures from React, it seems like Tony's app is using the development mode of React.</span></span>  <span data-ttu-id="34e60-390">Переключение в режим рабочего режима может привести к снижению производительности WINS.</span><span class="sxs-lookup"><span data-stu-id="34e60-390">Switching to the production mode of React may yield some easy performance wins.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings.msft.png" alt-text="Раздел "временные интервалы"" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings.msft.png":::
        <span data-ttu-id="34e60-392">Раздел " **временные интервалы** "</span><span class="sxs-lookup"><span data-stu-id="34e60-392">The **Timings** section</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="34e60-393">Чтобы свернуть этот раздел, выберите пункт **время показа** .</span><span class="sxs-lookup"><span data-stu-id="34e60-393">Select **Timings** again to collapse that section.</span></span>  
 1.  <span data-ttu-id="34e60-394">Просмотрите **основной** раздел.</span><span class="sxs-lookup"><span data-stu-id="34e60-394">Browse the **Main** section.</span></span>  <span data-ttu-id="34e60-395">В этом разделе показан хронологический журнал основных операций потока, слева направо.</span><span class="sxs-lookup"><span data-stu-id="34e60-395">This section shows a chronological log of main thread activity, from left to right.</span></span>  <span data-ttu-id="34e60-396">Ось y (сверху вниз) показывает причины возникновения событий.</span><span class="sxs-lookup"><span data-stu-id="34e60-396">The y-axis (top to bottom) shows why events occurred.</span></span>  <span data-ttu-id="34e60-397">Например, в figyre после указанных ниже `Evaluate Script` событий событие привело `(anonymous)` к выполнению функции, которое привело к выполнению `(anonymous)` `__webpack__require__` и т. д.</span><span class="sxs-lookup"><span data-stu-id="34e60-397">For example, in the figyre after the following, the `Evaluate Script` event caused the `(anonymous)` function to run, which caused `(anonymous)` to run, which caused `__webpack__require__` to run, and so on.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-main.msft.png" alt-text="Основной раздел" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-main.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-main.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-main.msft.png":::
        <span data-ttu-id="34e60-399">**Основной** раздел</span><span class="sxs-lookup"><span data-stu-id="34e60-399">The **Main** section</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="34e60-400">Прокрутите страницу вниз до конца **основного** раздела.</span><span class="sxs-lookup"><span data-stu-id="34e60-400">Scroll down to the bottom of the **Main** section.</span></span>  <span data-ttu-id="34e60-401">При использовании платформы большая часть верхнего действия вызывается платформой, которая обычно находится в вашем элементе управления.</span><span class="sxs-lookup"><span data-stu-id="34e60-401">When you use a framework, most of the upper activity is caused by the framework, which is usually out of your control.</span></span>  <span data-ttu-id="34e60-402">Действия, вызванные вашим приложением, обычно находятся в нижней части экрана.</span><span class="sxs-lookup"><span data-stu-id="34e60-402">The activity caused by your app is usually at the bottom.</span></span>  <span data-ttu-id="34e60-403">В этом приложении это похоже на функцию с именем, которая `App` вызывает большое количество запросов к `mineBitcoin` функции.</span><span class="sxs-lookup"><span data-stu-id="34e60-403">In this app, it seems like a function named `App` is causing a lot of requests to a `mineBitcoin` function.</span></span>  <span data-ttu-id="34e60-404">Это звучит так, как Илья может использовать устройства своего вентилятора для cryptocurrency...</span><span class="sxs-lookup"><span data-stu-id="34e60-404">It sounds like Tony might be using the devices of his fans to mine cryptocurrency...</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings-minebitcoin.msft.png" alt-text="Наведите указатель мыши на действие mineBitcoin" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings-minebitcoin.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings-minebitcoin.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings-minebitcoin.msft.png":::
        <span data-ttu-id="34e60-406">Наведение указателя на `mineBitcoin` мероприятие</span><span class="sxs-lookup"><span data-stu-id="34e60-406">Hover on the `mineBitcoin` activity</span></span>  
     :::image-end:::  
     
@@ -472,7 +472,7 @@ ms.locfileid: "10993444"
     
 1.  <span data-ttu-id="34e60-410">Разверните раздел **снизу вверх** .</span><span class="sxs-lookup"><span data-stu-id="34e60-410">Expand the **Bottom-Up** section.</span></span>  <span data-ttu-id="34e60-411">На этой вкладке прерываются действия, которые выполнялись в течение всего времени.</span><span class="sxs-lookup"><span data-stu-id="34e60-411">This tab breaks down what activities took up the most time.</span></span>  <span data-ttu-id="34e60-412">Если в разделе снизу вверх ничего не видно, щелкните надпись для **основного** раздела.</span><span class="sxs-lookup"><span data-stu-id="34e60-412">If you do not see anything in the Bottom-Up section, click the label for **Main** section.</span></span>  <span data-ttu-id="34e60-413">В разделе " **снизу вверх** " отображаются только сведения о каких-либо действиях или группах действий, которые вы уже выбрали.</span><span class="sxs-lookup"><span data-stu-id="34e60-413">The **Bottom-Up** section only shows information for whatever activity, or group of activity, you have currently selected.</span></span>  <span data-ttu-id="34e60-414">Например, если вы `mineBitcoin` **настроили** одно из действий, в разделе снизу вверх будет отображаться только информация для этого действия.</span><span class="sxs-lookup"><span data-stu-id="34e60-414">For example, if you clicked on one of the `mineBitcoin` activities, the **Bottom-Up** section is only going to show information for that one activity.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings-summary-minebitcoin.msft.png" alt-text="Вкладка "снизу вверх"" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings-summary-minebitcoin.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings-summary-minebitcoin.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings-summary-minebitcoin.msft.png":::
        <span data-ttu-id="34e60-416">Вкладка " **снизу вверх** "</span><span class="sxs-lookup"><span data-stu-id="34e60-416">The **Bottom-Up** tab</span></span>  
     :::image-end:::  
     
@@ -485,7 +485,7 @@ ms.locfileid: "10993444"
 1.  <span data-ttu-id="34e60-423">Дождитесь завершения развертывания новой сборки.</span><span class="sxs-lookup"><span data-stu-id="34e60-423">Wait for the new build to deploy.</span></span>  
 1.  <span data-ttu-id="34e60-424">Вновь проведите аудит страницы.</span><span class="sxs-lookup"><span data-stu-id="34e60-424">Audit the page again.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-3-audits-performance.msft.png" alt-text="Отчет по аудиту после настройки пакета для использования режима "в производство"" lightbox="../media/speed-glitch-tony-remix-updated-3-audits-performance.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-3-audits-performance.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-3-audits-performance.msft.png":::
        <span data-ttu-id="34e60-426">Отчет по аудиту после настройки пакета для использования режима "в производство"</span><span class="sxs-lookup"><span data-stu-id="34e60-426">An Audits report after configuring webpack to use production mode</span></span>  
     :::image-end:::  
     
@@ -496,7 +496,7 @@ ms.locfileid: "10993444"
 1.  <span data-ttu-id="34e60-430">Дождитесь завершения развертывания новой сборки.</span><span class="sxs-lookup"><span data-stu-id="34e60-430">Wait for the new build to deploy.</span></span>  
 1.  <span data-ttu-id="34e60-431">Вновь проведите аудит страницы.</span><span class="sxs-lookup"><span data-stu-id="34e60-431">Audit the page again.</span></span>  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-4-audits-performance.msft.png" alt-text="Отчет по аудиту после удаления ненужных действий JavaScript" lightbox="../media/speed-glitch-tony-remix-updated-4-audits-performance.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-4-audits-performance.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-4-audits-performance.msft.png":::
        <span data-ttu-id="34e60-433">Отчет по аудиту после удаления ненужных действий JavaScript</span><span class="sxs-lookup"><span data-stu-id="34e60-433">An Audits report after removing unnecessary JavaScript work</span></span>  
     :::image-end:::  
     

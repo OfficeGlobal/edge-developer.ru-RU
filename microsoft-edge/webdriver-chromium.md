@@ -41,7 +41,7 @@ ms.locfileid: "10986215"
     
 1.  <span data-ttu-id="23217-121">Перейдите на страницу [загрузки драйвера Microsoft Edge][MicrosoftDeveloperEdgeToolsWebdriverDownloads] и скачайте драйвер, который соответствует номеру версии Edge.</span><span class="sxs-lookup"><span data-stu-id="23217-121">Navigate to the [Microsoft Edge Driver downloads][MicrosoftDeveloperEdgeToolsWebdriverDownloads] page and download the driver that matches the Edge version number.</span></span>  
     
-    :::image type="complex" source="./media/webdriver-chromium/edge-driver-install.png" alt-text="Раздел "загружаемые файлы" на странице драйвера Microsoft Edge":::
+    :::image type="complex" source="./media/webdriver-chromium/edge-driver-install.png" alt-text="Номер сборки Microsoft Edge Канарские 14 января 2020 г.":::
        <span data-ttu-id="23217-123">Рисунок 2.</span><span class="sxs-lookup"><span data-stu-id="23217-123">Figure 2.</span></span>  <span data-ttu-id="23217-124">Раздел "загружаемые файлы" на странице [драйвера Microsoft Edge][MicrosoftDeveloperEdgeToolsWebdriver]</span><span class="sxs-lookup"><span data-stu-id="23217-124">The Downloads section of the [Microsoft Edge Driver][MicrosoftDeveloperEdgeToolsWebdriver] page</span></span>
     :::image-end:::  
     
@@ -325,7 +325,7 @@ docker run -d -p 9515:9515 mcr.microsoft.com/msedge/msedgedriver
 <span data-ttu-id="23217-197">Группа Microsoft Edge – это информация о том, как использовать веб – диски, Selenium и Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="23217-197">The Microsoft Edge team is eager to hear your feedback about using WebDriver, Selenium, and Microsoft Edge.</span></span>  <span data-ttu-id="23217-198">С помощью значка **обратной связи** в Microsoft Edge DevTools или твит [@EdgeDevTools][TwitterTweetEdgeDevTools] , чтобы команда знала, что вы думаете.</span><span class="sxs-lookup"><span data-stu-id="23217-198">Use the **Feedback** icon in the Microsoft Edge DevTools or tweet [@EdgeDevTools][TwitterTweetEdgeDevTools] to let the team know what you think.</span></span>  
 
 
-:::image type="complex" source="./devtools-guide-chromium/media/bing-devtools-send-feedback.msft.png" alt-text="Значок "Отправить отзыв" в Microsoft Edge DevTools":::
+:::image type="complex" source="./devtools-guide-chromium/media/bing-devtools-send-feedback.msft.png" alt-text="Номер сборки Microsoft Edge Канарские 14 января 2020 г.":::
    <span data-ttu-id="23217-200">Значок " **Отправить отзыв** " в Microsoft Edge DevTools</span><span class="sxs-lookup"><span data-stu-id="23217-200">The **Send Feedback** icon in the Microsoft Edge DevTools</span></span>  
 :::image-end:::  
 

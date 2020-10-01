@@ -34,7 +34,7 @@ ms.locfileid: "10941850"
 
 <span data-ttu-id="140c1-122">Браузер проводит проверку подлинности пользователя, позволяет пользователю выбрать поддерживаемый способ оплаты для файла и обрабатывать платежные данные.</span><span class="sxs-lookup"><span data-stu-id="140c1-122">The browser authenticates the user, enables the user to select a supported payment method on file, and processes the payment details.</span></span>  <span data-ttu-id="140c1-123">После этого браузер отправляет сведения об оплате на веб-сайт из готового платежа, чтобы производитель мог завершить платеж.</span><span class="sxs-lookup"><span data-stu-id="140c1-123">The browser then sends the payment information details back to the merchant website, so that the merchant can complete the payment.</span></span>  <span data-ttu-id="140c1-124">Кроме принятия сведений об оплате, профиль также может получить в запросе платежа, а также получать информацию о **доставке.**</span><span class="sxs-lookup"><span data-stu-id="140c1-124">In addition to receiving payment information, the merchant can also elect to receive shipping information as part of the **Payment Request**.</span></span>  
 
-:::image type="complex" source="../media/payment_response_construct.png" alt-text="Построение ответа платежа" lightbox="../media/payment_response_construct.png":::
+:::image type="complex" source="../media/payment_response_construct.png" alt-text="Конструктивная оплата запроса на оплату" lightbox="../media/payment_response_construct.png":::
    <span data-ttu-id="140c1-126">Построение ответа платежа</span><span class="sxs-lookup"><span data-stu-id="140c1-126">Payment response construct</span></span>  
 :::image-end:::  
 
@@ -61,7 +61,7 @@ var payment = new PaymentRequest (
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/pay_with.png" alt-text="Оплата со списком в пользовательском интерфейсе "Бульты(Майкрософт)"" lightbox="../media/pay_with.png":::
+      :::image type="complex" source="../media/pay_with.png" alt-text="Конструктивная оплата запроса на оплату" lightbox="../media/pay_with.png":::
          <span data-ttu-id="140c1-135">**Оплата со списком** в пользовательском интерфейсе "Бульты(Майкрософт)"</span><span class="sxs-lookup"><span data-stu-id="140c1-135">The **pay with** list in the Microsoft Wallet user experience</span></span>  
       :::image-end:::  
    :::column-end:::
@@ -89,7 +89,7 @@ var payment = new PaymentRequest (
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/show_details.png" alt-text="Промежуточный итог, отправка, налоги и общие сведения об итогах" lightbox="../media/show_details.png":::
+      :::image type="complex" source="../media/show_details.png" alt-text="Конструктивная оплата запроса на оплату" lightbox="../media/show_details.png":::
          <span data-ttu-id="140c1-145">Промежуточный итог, отправка, налоги и общие сведения об итогах</span><span class="sxs-lookup"><span data-stu-id="140c1-145">Subtotal, shipping, taxes, and total details</span></span>  
       :::image-end:::  
    :::column-end:::
@@ -120,7 +120,7 @@ var payment = new PaymentRequest (
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/email_snippet.png" alt-text="Раскрывающееся меню "Адрес электронной почты"" lightbox="../media/email_snippet.png":::
+      :::image type="complex" source="../media/email_snippet.png" alt-text="Конструктивная оплата запроса на оплату" lightbox="../media/email_snippet.png":::
          <span data-ttu-id="140c1-152">Раскрывающееся меню "Адрес электронной почты"</span><span class="sxs-lookup"><span data-stu-id="140c1-152">Email address dropdown</span></span>  
       :::image-end:::  
    :::column-end:::
@@ -140,7 +140,7 @@ var payment = new PaymentRequest (
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/pay_screen_default.png" alt-text="Подтвердите и оплатите сведения об оплате" lightbox="../media/pay_screen_default.png":::
+      :::image type="complex" source="../media/pay_screen_default.png" alt-text="Конструктивная оплата запроса на оплату" lightbox="../media/pay_screen_default.png":::
          <span data-ttu-id="140c1-157">Подтвердите и оплатите сведения об оплате</span><span class="sxs-lookup"><span data-stu-id="140c1-157">Confirm and pay details</span></span>  
       :::image-end:::  
    :::column-end:::
@@ -179,7 +179,7 @@ payment.abort();
 
 <span data-ttu-id="140c1-203">После поступления ответа **на оплату веб-сайт**отправляет платежную информацию об оплате его процессором.</span><span class="sxs-lookup"><span data-stu-id="140c1-203">Upon receiving the **Payment Response**, the website submits the payment information to their payment processor.</span></span>  <span data-ttu-id="140c1-204">Во время обработки платежа в браузере отобразится страница счетчика.</span><span class="sxs-lookup"><span data-stu-id="140c1-204">The browser will display a spinner page while the payment is being processed.</span></span>  
 
-:::image type="complex" source="../media/loading_screen.png" alt-text="Страница, которая отображается при обработке платежа" lightbox="../media/loading_screen.png":::
+:::image type="complex" source="../media/loading_screen.png" alt-text="Конструктивная оплата запроса на оплату" lightbox="../media/loading_screen.png":::
    <span data-ttu-id="140c1-206">Страница, которая отображается при обработке платежа</span><span class="sxs-lookup"><span data-stu-id="140c1-206">The page displayed when the payment is being processed</span></span>  
 :::image-end:::  
 
@@ -187,12 +187,12 @@ payment.abort();
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/response_payment-request_complete.png" alt-text="Интерфейс, отображаемый при успешном приобретении" lightbox="../media/response_payment-request_complete.png":::
+      :::image type="complex" source="../media/response_payment-request_complete.png" alt-text="Конструктивная оплата запроса на оплату" lightbox="../media/response_payment-request_complete.png":::
          <span data-ttu-id="140c1-210">Интерфейс, отображаемый при успешном приобретении</span><span class="sxs-lookup"><span data-stu-id="140c1-210">The UI displayed when the purchase succeeded</span></span>  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
-      :::image type="complex" source="../media/response_payment-request_failure.png" alt-text="Интерфейс, отображаемый при сбое покупки" lightbox="../media/response_payment-request_failure.png":::
+      :::image type="complex" source="../media/response_payment-request_failure.png" alt-text="Конструктивная оплата запроса на оплату" lightbox="../media/response_payment-request_failure.png":::
          <span data-ttu-id="140c1-212">Интерфейс, отображаемый при сбое покупки</span><span class="sxs-lookup"><span data-stu-id="140c1-212">The UI displayed when the purchase failed</span></span>  
       :::image-end:::  
    :::column-end:::

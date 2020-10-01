@@ -51,13 +51,13 @@ ms.locfileid: "10993536"
     
 1.  <span data-ttu-id="ccd0c-112">Разверните раздел **веб-SQL** , чтобы просмотреть базы данных и таблицы.</span><span class="sxs-lookup"><span data-stu-id="ccd0c-112">Expand the **Web SQL** section to view databases and tables.</span></span>  <span data-ttu-id="ccd0c-113">На приведенном ниже рисунке под **html5meetup** является база данных, а **комнаты** — таблица.</span><span class="sxs-lookup"><span data-stu-id="ccd0c-113">In the following figure, below **html5meetup** is a database and **rooms** is a table.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-storage-web-sql.msft.png" alt-text="Область "веб-SQL"" lightbox="../media/storage-application-storage-web-sql.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-web-sql.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-web-sql.msft.png":::
        <span data-ttu-id="ccd0c-115">Область " **веб-SQL** "</span><span class="sxs-lookup"><span data-stu-id="ccd0c-115">The **Web SQL** pane</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="ccd0c-116">Выберите таблицу, чтобы просмотреть данные для этой таблицы.</span><span class="sxs-lookup"><span data-stu-id="ccd0c-116">Select a table to view the data for that table.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-storage-web-sql-html5meetup-rooms-1.msft.png" alt-text="Просмотр данных таблицы веб-SQL" lightbox="../media/storage-application-storage-web-sql-html5meetup-rooms-1.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-web-sql-html5meetup-rooms-1.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-web-sql-html5meetup-rooms-1.msft.png":::
        <span data-ttu-id="ccd0c-118">Просмотр данных таблицы веб-SQL</span><span class="sxs-lookup"><span data-stu-id="ccd0c-118">View the data of a Web SQL table</span></span>  
     :::image-end:::  
     
@@ -70,7 +70,7 @@ ms.locfileid: "10993536"
 1.  <span data-ttu-id="ccd0c-124">Выберите базу данных, чтобы открыть для нее консоль.</span><span class="sxs-lookup"><span data-stu-id="ccd0c-124">Select a database to open a console for that database.</span></span>  
 1.  <span data-ttu-id="ccd0c-125">Введите инструкцию веб-SQL и нажмите `Enter` для ее запуска.</span><span class="sxs-lookup"><span data-stu-id="ccd0c-125">Type a Web SQL statement, then press `Enter` to run it.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-storage-web-sql-html5meetup-commands.msft.png" alt-text="Удаление строки из таблицы с помощью веб-консоли SQL" lightbox="../media/storage-application-storage-web-sql-html5meetup-commands.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-web-sql-html5meetup-commands.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-web-sql-html5meetup-commands.msft.png":::
        <span data-ttu-id="ccd0c-127">Удаление строки из таблицы с помощью веб-консоли SQL</span><span class="sxs-lookup"><span data-stu-id="ccd0c-127">Use the Web SQL Console to delete a row from a table</span></span>  
     :::image-end:::  
     
@@ -86,7 +86,7 @@ ms.locfileid: "10993536"
 1.  <span data-ttu-id="ccd0c-134">[Просмотр данных в таблице веб-SQL](#view-web-sql-data).</span><span class="sxs-lookup"><span data-stu-id="ccd0c-134">[View the data in a Web SQL table](#view-web-sql-data).</span></span>  
 1.  <span data-ttu-id="ccd0c-135">С помощью текстового поля **видимые столбцы** можно указать, какие столбцы вы хотите отобразить.</span><span class="sxs-lookup"><span data-stu-id="ccd0c-135">Use the **Visible columns** text box to specify what columns you want to show.</span></span>  <span data-ttu-id="ccd0c-136">Укажите имена столбцов в виде CSV-списка.</span><span class="sxs-lookup"><span data-stu-id="ccd0c-136">Provide the column names as a CSV list.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-storage-web-sql-html5meetup-rooms-2.msft.png" alt-text="Использование текстового поля "видимые столбцы" для уменьшения количества отображаемых столбцов" lightbox="../media/storage-application-storage-web-sql-html5meetup-rooms-2.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-web-sql-html5meetup-rooms-2.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-web-sql-html5meetup-rooms-2.msft.png":::
        <span data-ttu-id="ccd0c-138">Использование текстового поля " **видимые столбцы** " для уменьшения количества отображаемых столбцов</span><span class="sxs-lookup"><span data-stu-id="ccd0c-138">Use the **Visible Columns** text box to reduce the number of columns shown</span></span>  
     :::image-end:::  
     
@@ -95,13 +95,13 @@ ms.locfileid: "10993536"
 1.  <span data-ttu-id="ccd0c-140">Открытие области **очистки хранилища** .</span><span class="sxs-lookup"><span data-stu-id="ccd0c-140">Open the **Clear Storage** pane.</span></span>  
 1.  <span data-ttu-id="ccd0c-141">Убедитесь, что установлен флажок **веб-SQL** .</span><span class="sxs-lookup"><span data-stu-id="ccd0c-141">Make sure that the **Web SQL** checkbox is enabled.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-clear-storage-web-sql.msft.png" alt-text="Флажок "веб-SQL"" lightbox="../media/storage-application-clear-storage-web-sql.msft.png":::
+    :::image type="complex" source="../media/storage-application-clear-storage-web-sql.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-clear-storage-web-sql.msft.png":::
        <span data-ttu-id="ccd0c-143">Флажок " **веб-SQL** "</span><span class="sxs-lookup"><span data-stu-id="ccd0c-143">The **Web SQL** checkbox</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="ccd0c-144">Нажмите кнопку **Очистить данные сайта**.</span><span class="sxs-lookup"><span data-stu-id="ccd0c-144">Select **Clear site data**.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-clear-storage-clear-site-data-button.msft.png" alt-text="Кнопка "очистить данные сайта"" lightbox="../media/storage-application-clear-storage-clear-site-data-button.msft.png":::
+    :::image type="complex" source="../media/storage-application-clear-storage-clear-site-data-button.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-clear-storage-clear-site-data-button.msft.png":::
        <span data-ttu-id="ccd0c-146">Кнопка " **Очистить данные сайта** "</span><span class="sxs-lookup"><span data-stu-id="ccd0c-146">The **Clear Site Data** button</span></span>  
     :::image-end:::  
     

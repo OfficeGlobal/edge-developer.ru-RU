@@ -61,7 +61,7 @@ ms.locfileid: "10993543"
     
 <span data-ttu-id="455f4-123">Щелкните файл в области **страницы** , чтобы просмотреть содержимое в области " **Редактор** ".</span><span class="sxs-lookup"><span data-stu-id="455f4-123">Click a file in the **Page** pane to view the contents in the **Editor** pane.</span></span>  <span data-ttu-id="455f4-124">Вы можете просматривать файлы любого типа.</span><span class="sxs-lookup"><span data-stu-id="455f4-124">You may view any type of file.</span></span>  <span data-ttu-id="455f4-125">Для изображений вы видите изображение для предварительного просмотра.</span><span class="sxs-lookup"><span data-stu-id="455f4-125">For images, you see a preview of the image.</span></span>  
 
-:::image type="complex" source="./media/sources-editor-pane.msft.png" alt-text="Просмотр содержимого a4d10f71.index-docs.js в области "редактор"" lightbox="./media/sources-editor-pane.msft.png":::
+:::image type="complex" source="./media/sources-editor-pane.msft.png" alt-text="Область страницы" lightbox="./media/sources-editor-pane.msft.png":::
    <span data-ttu-id="455f4-127">Просмотр содержимого `a4d10f71.index-docs.js` в области " **Редактор** "</span><span class="sxs-lookup"><span data-stu-id="455f4-127">View the contents of `a4d10f71.index-docs.js` in the **Editor** pane</span></span>  
 :::image-end:::  
 
@@ -77,13 +77,13 @@ ms.locfileid: "10993543"
 
 <span data-ttu-id="455f4-132">Вы увидите, что изменения вступают в силу немедленно.</span><span class="sxs-lookup"><span data-stu-id="455f4-132">You should see that change take effect immediately.</span></span>
 
-:::image type="complex" source="./media/edit-css.msft.png" alt-text="Редактирование CSS на панели «редактор» для изменения цвета текста подзаголовка на красный" lightbox="./media/edit-css.msft.png":::
+:::image type="complex" source="./media/edit-css.msft.png" alt-text="Область страницы" lightbox="./media/edit-css.msft.png":::
    <span data-ttu-id="455f4-134">Редактирование CSS на панели « **Редактор** » для изменения цвета текста подзаголовка на красный</span><span class="sxs-lookup"><span data-stu-id="455f4-134">Edit CSS in the **Editor** pane to change the text color of the subtitle to red</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="455f4-135">Изменения в CSS вступают в силу немедленно, сохранение не требуется.</span><span class="sxs-lookup"><span data-stu-id="455f4-135">CSS changes take effect immediately, no save needed.</span></span>  <span data-ttu-id="455f4-136">Чтобы изменения в JavaScript вступили в силу, нажмите клавиши `Control` + `S` \ (Windows \) или `Command` + `S` \ (macOS \).</span><span class="sxs-lookup"><span data-stu-id="455f4-136">For JavaScript changes to take effect, press `Control`+`S` \(Windows\) or `Command`+`S` \(macOS\).</span></span>  <span data-ttu-id="455f4-137">DevTools не выполняет повторно сценарий, поэтому изменения, которые вступают в силу, выполняются только в рамках функций.</span><span class="sxs-lookup"><span data-stu-id="455f4-137">DevTools does not re-run a script, so the only JavaScript changes that take effect are those that you make inside of functions.</span></span>  <span data-ttu-id="455f4-138">Например, на приведенном ниже рисунке обратите внимание на `console.log('A')` то, что не выполняется, в то время как `console.log('B')` оно делает.</span><span class="sxs-lookup"><span data-stu-id="455f4-138">For example, in the following figure, notice how `console.log('A')` does not run, whereas `console.log('B')` does.</span></span>  <span data-ttu-id="455f4-139">Если после внесения изменений DevTools повторно запускает весь сценарий, он `A` будет записан в журнал на **консоли**.</span><span class="sxs-lookup"><span data-stu-id="455f4-139">If DevTools re-runs the entire script after making the change, then the text `A` would have been logged to the **Console**.</span></span>  
 
-:::image type="complex" source="./media/edit-js.msft.png" alt-text="Редактирование JavaScript в области "редактор"" lightbox="./media/edit-js.msft.png":::
+:::image type="complex" source="./media/edit-js.msft.png" alt-text="Область страницы" lightbox="./media/edit-js.msft.png":::
    <span data-ttu-id="455f4-141">Редактирование JavaScript в области " **Редактор** "</span><span class="sxs-lookup"><span data-stu-id="455f4-141">Editing JavaScript in the **Editor** pane</span></span>  
 :::image-end:::  
 
@@ -103,7 +103,7 @@ document.head.appendChild(script);
 
 <span data-ttu-id="455f4-147">Вместо этого вы можете сохранить этот код во **фрагменте** и выполнить его с помощью нескольких нажатий кнопки, когда вам понадобится.</span><span class="sxs-lookup"><span data-stu-id="455f4-147">Instead, you may save this code in a **Snippet** and run it with a couple of button clicks, any time you need it.</span></span>  <span data-ttu-id="455f4-148">DevTools сохранит **фрагмент** в файловой системе.</span><span class="sxs-lookup"><span data-stu-id="455f4-148">DevTools saves the **Snippet** to your file system.</span></span>  
 
-:::image type="complex" source="./media/snippet.msft.png" alt-text="Фрагмент кода, который вставляет библиотеку jQuery на страницу" lightbox="./media/snippet.msft.png":::
+:::image type="complex" source="./media/snippet.msft.png" alt-text="Область страницы" lightbox="./media/snippet.msft.png":::
    <span data-ttu-id="455f4-150">**Фрагмент кода** , который вставляет библиотеку jQuery на страницу</span><span class="sxs-lookup"><span data-stu-id="455f4-150">A **Snippet** that inserts the jQuery library into a page</span></span>  
 :::image-end:::  
 
@@ -120,7 +120,7 @@ document.head.appendChild(script);
 
 <span data-ttu-id="455f4-159">Сведения об отладке в DevTools можно найти в статье Начало [работы с отладкой JavaScript][DevtoolsGuideChromiumJavascriptIndex] .</span><span class="sxs-lookup"><span data-stu-id="455f4-159">See [Get Started With Debugging JavaScript][DevtoolsGuideChromiumJavascriptIndex] to learn the basics of debugging in DevTools.</span></span>
 
-:::image type="complex" source="./media/debugging.msft.png" alt-text="Отладка JavaScript" lightbox="./media/debugging.msft.png":::
+:::image type="complex" source="./media/debugging.msft.png" alt-text="Область страницы" lightbox="./media/debugging.msft.png":::
    <span data-ttu-id="455f4-161">Отладка JavaScript</span><span class="sxs-lookup"><span data-stu-id="455f4-161">Debug JavaScript</span></span>  
 :::image-end:::  
 

@@ -38,7 +38,7 @@ ms.locfileid: "11015470"
 
 <span data-ttu-id="bb25b-110">Группа DevTools изменила 170 в Chromium для устранения проблем с высокой контрастностью цвета, клавиатуры и средства чтения с экрана в DevTools.</span><span class="sxs-lookup"><span data-stu-id="bb25b-110">The DevTools team has contributed 170 changes to Chromium to address high-impact color contrast, keyboard, and screen reader issues in the DevTools.</span></span>  <span data-ttu-id="bb25b-111">Каждый разработчик, создающий веб-сайт, должен иметь возможность использовать DevTools.</span><span class="sxs-lookup"><span data-stu-id="bb25b-111">Every developer building the web should be able to use the DevTools.</span></span>  
 
-:::image type="complex" source="../../images/2019/12/a11y-performance-tool.msft.gif" alt-text="Средство "производительность" в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/a11y-performance-tool.msft.gif":::
+:::image type="complex" source="../../images/2019/12/a11y-performance-tool.msft.gif" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/a11y-performance-tool.msft.gif":::
    <span data-ttu-id="bb25b-113">Средство " **производительность** " в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана</span><span class="sxs-lookup"><span data-stu-id="bb25b-113">The **Performance** tool in the DevTools with the keyboard navigation and screen reader improvements</span></span>  
 :::image-end:::  
 
@@ -105,7 +105,7 @@ ms.locfileid: "11015470"
 
 <span data-ttu-id="bb25b-131">Перейдите к разделу `edge://flags` **Включение локализованных средств разработчика** в состояние **включено**и установите для него флажок Включить.</span><span class="sxs-lookup"><span data-stu-id="bb25b-131">Navigate to `edge://flags` and set the **Enable localized Developer Tools** flag to **Enabled**.</span></span>  <span data-ttu-id="bb25b-132">Также установите флажок **эксперименты со средствами разработчика** для **включения**.</span><span class="sxs-lookup"><span data-stu-id="bb25b-132">Also set the **Developer Tools experiments** flag to **Enabled**.</span></span>  <span data-ttu-id="bb25b-133">Перезапустите Microsoft EDGE и откройте DevTools.</span><span class="sxs-lookup"><span data-stu-id="bb25b-133">Restart Microsoft Edge and open the DevTools.</span></span>  <!-- Press `F1` in the DevTools or go to Settings > Experiments and check the **Match browser language** checkbox.  -->  <span data-ttu-id="bb25b-134">DevTools соответствует языку, используемому в Microsoft Edge in `edge://settings/languages` .</span><span class="sxs-lookup"><span data-stu-id="bb25b-134">The DevTools match the language you use for Microsoft Edge in `edge://settings/languages`.</span></span>  
 
-:::image type="complex" source="../../images/2019/12/localized-devtools.msft.png" alt-text="DevTools на немецком языке" lightbox="../../images/2019/12/localized-devtools.msft.png":::
+:::image type="complex" source="../../images/2019/12/localized-devtools.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/localized-devtools.msft.png":::
    <span data-ttu-id="bb25b-136">DevTools на немецком языке</span><span class="sxs-lookup"><span data-stu-id="bb25b-136">The DevTools in German</span></span>  
 :::image-end:::  
 
@@ -117,7 +117,7 @@ ms.locfileid: "11015470"
 
 <span data-ttu-id="bb25b-140">Расширение веб-подсказки Microsoft EDGE позволяет легко находить и получать отзывы о специальных возможностях, совместимости с браузерами, безопасности, производительности и других средствах в DevTools.</span><span class="sxs-lookup"><span data-stu-id="bb25b-140">The webhint Microsoft Edge extension allows you to easily scan your web page and get feedback on accessibility, browser compatibility, security, performance, and more within the DevTools.</span></span>  <span data-ttu-id="bb25b-141">Узнайте больше о [https://webhint.io][Webhint] .</span><span class="sxs-lookup"><span data-stu-id="bb25b-141">Read more at [https://webhint.io][Webhint].</span></span>  
 
-:::image type="complex" source="../../images/2019/12/webhint-browser-extension.msft.png" alt-text="Вкладка "Подсказка" в DevTools, если установлено расширение браузера веб." lightbox="../../images/2019/12/webhint-browser-extension.msft.png":::
+:::image type="complex" source="../../images/2019/12/webhint-browser-extension.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/webhint-browser-extension.msft.png":::
    <span data-ttu-id="bb25b-143">Вкладка **"Подсказка** " в DevTools, если установлено расширение браузера веб.</span><span class="sxs-lookup"><span data-stu-id="bb25b-143">The **Hints** tab in the DevTools when the webhint browser extension is installed</span></span>  
 :::image-end:::  
 
@@ -127,7 +127,7 @@ ms.locfileid: "11015470"
 
 <span data-ttu-id="bb25b-148">С помощью **трехмерного представления** вы можете выполнять отладку своего веб-приложения, перемещаясь по [объектной модели документов \ (DOM)][MDNDocumentObjectModel] или контексту стека [z-индексов][MDNZIndex] .</span><span class="sxs-lookup"><span data-stu-id="bb25b-148">Use the **3D View** to debug your web application by navigating through the [Document Object Model \(DOM\)][MDNDocumentObjectModel] or the [z-index][MDNZIndex] stacking context.</span></span>  
 
-:::image type="complex" source="../../images/2019/12/3dview.msft.png" alt-text="Трехмерное представление в DevTools" lightbox="../../images/2019/12/3dview.msft.png":::
+:::image type="complex" source="../../images/2019/12/3dview.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/3dview.msft.png":::
    <span data-ttu-id="bb25b-150">**Трехмерное представление** в DevTools</span><span class="sxs-lookup"><span data-stu-id="bb25b-150">The **3D View** in the DevTools</span></span>  
 :::image-end:::  
 
@@ -145,7 +145,7 @@ ms.locfileid: "11015470"
 
 <span data-ttu-id="bb25b-161">Используйте инструмент "элементы" в коде Visual Studio, добавив [элементы для расширения кода Microsoft EDGE (Chromium)][VisualStudioMarketplaceElementsMicrosoftEdgeChromiumExtension] Visual Studio.</span><span class="sxs-lookup"><span data-stu-id="bb25b-161">Use the Elements tool from within Visual Studio Code by adding the [Elements for Microsoft Edge (Chromium)][VisualStudioMarketplaceElementsMicrosoftEdgeChromiumExtension] Visual Studio Code extension.</span></span>  
 
-:::image type="complex" source="../../images/2019/12/elements-for-edge.msft.png" alt-text="Инструмент "элементы" в коде Visual Studio с использованием элементов для расширения Microsoft Edge" lightbox="../../images/2019/12/elements-for-edge.msft.png":::
+:::image type="complex" source="../../images/2019/12/elements-for-edge.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/elements-for-edge.msft.png":::
    <span data-ttu-id="bb25b-163">Инструмент " **элементы** " в коде Visual Studio с использованием элементов для расширения Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="bb25b-163">The **Elements** tool in Visual Studio Code using the Elements for Microsoft Edge extension</span></span>  
 :::image-end:::  
 
@@ -155,7 +155,7 @@ ms.locfileid: "11015470"
 
 <span data-ttu-id="bb25b-166">С помощью [отладчика для расширения кода Microsoft Edge][VisualStudioMarketplaceDebuggerEdge] Visual Studio выполните отладку JavaScript, который выполняется в Microsoft EDGE, прямо из кода Visual Studio.</span><span class="sxs-lookup"><span data-stu-id="bb25b-166">With the [Debugger for Microsoft Edge][VisualStudioMarketplaceDebuggerEdge] Visual Studio Code extension, debug JavaScript running in Microsoft Edge directly from Visual Studio Code.</span></span>  
 
-:::image type="complex" source="../../images/2019/12/vscode-debugger.msft.png" alt-text="Отладчик для расширения Microsoft EDGE в Visual Studio" lightbox="../../images/2019/12/vscode-debugger.msft.png":::
+:::image type="complex" source="../../images/2019/12/vscode-debugger.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/vscode-debugger.msft.png":::
    <span data-ttu-id="bb25b-168">Отладчик для расширения Microsoft EDGE в Visual Studio</span><span class="sxs-lookup"><span data-stu-id="bb25b-168">The Debugger for Microsoft Edge Extension in Visual Studio Code</span></span>  
 :::image-end:::  
 
@@ -165,7 +165,7 @@ ms.locfileid: "11015470"
 
 <span data-ttu-id="bb25b-171">Расширение [кода Visual Studio, которое используется][VisualStudioMarketplaceWebhintExtension] `webhint` для усовершенствования веб-страницы во время их написания!</span><span class="sxs-lookup"><span data-stu-id="bb25b-171">The [webhint][VisualStudioMarketplaceWebhintExtension] Visual Studio Code extension uses `webhint` to improve your web page while you're writing it!</span></span> <span data-ttu-id="bb25b-172">Это расширение запускает и сообщает диагностику файлов рабочей области на основе `webhint` анализа.</span><span class="sxs-lookup"><span data-stu-id="bb25b-172">This extension runs and reports diagnostics on your workspace files based on `webhint` analysis.</span></span>  
 
-:::image type="complex" source="../../images/2019/12/webhint-vscode-extension.msft.png" alt-text="Расширение кода Visual Studio "веб-подсказка" для анализа целевого файла в коде Visual Studio" lightbox="../../images/2019/12/webhint-vscode-extension.msft.png":::
+:::image type="complex" source="../../images/2019/12/webhint-vscode-extension.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/webhint-vscode-extension.msft.png":::
    <span data-ttu-id="bb25b-174">Расширение кода Visual Studio «веб-подсказка» для анализа `.tsx` файла в коде Visual Studio</span><span class="sxs-lookup"><span data-stu-id="bb25b-174">The webhint Visual Studio Code extension analyzing a `.tsx` file in Visual Studio Code</span></span>  
 :::image-end:::  
 
@@ -174,7 +174,7 @@ ms.locfileid: "11015470"
 ### <span data-ttu-id="bb25b-176">Интеграция с Visual Studio</span><span class="sxs-lookup"><span data-stu-id="bb25b-176">Visual Studio integration</span></span>
 <span data-ttu-id="bb25b-177">В Visual Studio 2019 версии 16,2 или более поздней Используйте отладчик Visual Studio для отладки JavaScript, который выполняется в Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="bb25b-177">In Visual Studio 2019 version 16.2 or later, use the Visual Studio debugger to debug JavaScript running in Microsoft Edge.</span></span>  <span data-ttu-id="bb25b-178">[Загрузите Visual Studio 2019][MicrosoftVisualStudioDownloads] , чтобы попробовать эту функцию!</span><span class="sxs-lookup"><span data-stu-id="bb25b-178">[Download Visual Studio 2019][MicrosoftVisualStudioDownloads] to try this feature out!</span></span>  
 
-:::image type="complex" source="../../images/2019/12/vs.msft.png" alt-text="Visual Studio с возможностью запуска веб-приложения в Microsoft Edge Канарские, dev или Beta" lightbox="../../images/2019/12/vs.msft.png":::
+:::image type="complex" source="../../images/2019/12/vs.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/vs.msft.png":::
    <span data-ttu-id="bb25b-180">Visual Studio с возможностью запуска веб-приложения в Microsoft Edge Канарские, dev или Beta</span><span class="sxs-lookup"><span data-stu-id="bb25b-180">Visual Studio with the option to launch your web app in Microsoft Edge Canary, Dev, or Beta</span></span>  
 :::image-end:::  
 
@@ -184,7 +184,7 @@ ms.locfileid: "11015470"
 
 <span data-ttu-id="bb25b-183">Защита от слежения — это уникальная функция в Microsoft EDGE, которая защищает вас от отслеживания веб-сайтов, которые вы еще не посещаете.</span><span class="sxs-lookup"><span data-stu-id="bb25b-183">Tracking prevention is a unique feature in Microsoft Edge that protects you from being tracked by websites you haven't visited before.</span></span>  <span data-ttu-id="bb25b-184">Параметр предотвращения отслеживания по умолчанию — это режим балансировки, который блокирует средства отслеживания и известных злоумышленников, чтобы обеспечить баланс конфиденциальности и веб-совместимости.</span><span class="sxs-lookup"><span data-stu-id="bb25b-184">The default tracking prevention setting is Balanced mode, which blocks 3rd party trackers and known malicious trackers for an experience that balances privacy and web compatibility.</span></span>  <span data-ttu-id="bb25b-185">Чтобы получить более подробную информацию о совместимости веб-страницы, если некоторые средства отслеживания заблокированы, мы также добавили предупреждающие сообщения на консоли, когда средство отслеживания заблокировано.</span><span class="sxs-lookup"><span data-stu-id="bb25b-185">To give you more insight into the compatibility of your web page when certain trackers are blocked, we've also added warning messages in the Console when a tracker is blocked.</span></span>  
 
-:::image type="complex" source="../../images/2019/12/tracking-prevention.msft.png" alt-text="Сообщения на консоли, когда предотвращение отслеживания блокирует доступ к хранилищу для средства отслеживания" lightbox="../../images/2019/12/tracking-prevention.msft.png":::
+:::image type="complex" source="../../images/2019/12/tracking-prevention.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/tracking-prevention.msft.png":::
    <span data-ttu-id="bb25b-187">Сообщения на **консоли** , когда предотвращение отслеживания блокирует доступ к хранилищу для средства отслеживания</span><span class="sxs-lookup"><span data-stu-id="bb25b-187">Messages in the **Console** when tracking prevention blocks access to storage for a tracker</span></span>  
 :::image-end:::  
 
@@ -203,13 +203,13 @@ ms.locfileid: "11015470"
 
 <span data-ttu-id="bb25b-195">Например, ранее при повторном объявлении локальной переменной `let` консоль вызвала ошибку:</span><span class="sxs-lookup"><span data-stu-id="bb25b-195">For example, previously, when re-declaring a local variable with `let`, the Console threw an error:</span></span>  
 
-:::image type="complex" source="../../images/2019/12/letbefore.msft.png" alt-text="Консоль в Microsoft Edge 79 показывает, что повторное объявление Let не выполняется" lightbox="../../images/2019/12/letbefore.msft.png":::
+:::image type="complex" source="../../images/2019/12/letbefore.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/letbefore.msft.png":::
    <span data-ttu-id="bb25b-197">**Консоль** в Microsoft Edge 79 показывает, что повторное объявление Let не выполняется</span><span class="sxs-lookup"><span data-stu-id="bb25b-197">The **Console** in Microsoft Edge 79 showing that the let re-declaration fails</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="bb25b-198">Теперь консоль допускает повторное объявление:</span><span class="sxs-lookup"><span data-stu-id="bb25b-198">Now, the Console allows the redeclaration:</span></span>  
 
-:::image type="complex" source="../../images/2019/12/letafter.msft.png" alt-text="Консоль в Microsoft Edge 80, на которой показано, что повторное объявление Let успешно." lightbox="../../images/2019/12/letafter.msft.png":::
+:::image type="complex" source="../../images/2019/12/letafter.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/letafter.msft.png":::
    <span data-ttu-id="bb25b-200">**Консоль** в Microsoft Edge 80, на которой показано, что повторное объявление Let успешно.</span><span class="sxs-lookup"><span data-stu-id="bb25b-200">The **Console** in Microsoft Edge 80 showing that the let re-declaration succeeds</span></span>  
 :::image-end:::  
 
@@ -224,7 +224,7 @@ ms.locfileid: "11015470"
 
 <!-- [TODO: Replace this image with screenshot in Edge] -->  
 <!--
-:::image type="complex" source="../../images/2019/12/wasm.msft.png" alt-text="The new DWARF-powered WebAssembly debugging" lightbox="../../images/2019/12/wasm.msft.png":::
+:::image type="complex" source="../../images/2019/12/wasm.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/wasm.msft.png":::
    The new DWARF-powered WebAssembly debugging  
 :::image-end:::  
 -->  
@@ -235,7 +235,7 @@ ms.locfileid: "11015470"
 
 <span data-ttu-id="bb25b-206">Теперь вы можете просмотреть инициаторы и зависимости сетевого запроса как вложенный список.</span><span class="sxs-lookup"><span data-stu-id="bb25b-206">You are now able to view the initiators and dependencies of a network request as a nested list.</span></span>  <span data-ttu-id="bb25b-207">Это может помочь вам понять, почему был запрошен ресурс, а также о том, какая сетевая активность связана с определенным ресурсом (например, сценарием).</span><span class="sxs-lookup"><span data-stu-id="bb25b-207">This may help you understand why a resource was requested, or what network activity a certain resource \(such as a script\) caused.</span></span>  
 
-:::image type="complex" source="../../images/2019/12/initiators.msft.png" alt-text="Цепочка инициаторов запросов на вкладке инициатора" lightbox="../../images/2019/12/initiators.msft.png":::
+:::image type="complex" source="../../images/2019/12/initiators.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/initiators.msft.png":::
    <span data-ttu-id="bb25b-209">Цепочка инициаторов запросов на вкладке **инициатора**</span><span class="sxs-lookup"><span data-stu-id="bb25b-209">A Request Initiator Chain in the **Initiator** tab</span></span>  
 :::image-end:::  
 
@@ -254,7 +254,7 @@ ms.locfileid: "11015470"
 
 <span data-ttu-id="bb25b-223">После выбора сетевого ресурса для его проверки на панели Network (сеть) размещается синяя рамка вокруг **ресурса.**</span><span class="sxs-lookup"><span data-stu-id="bb25b-223">After you click a network resource in order to inspect it, the Network panel now puts a blue border around that resource in the **Overview**.</span></span>  <span data-ttu-id="bb25b-224">Это поможет определить, является ли сетевой запрос более ранней или более поздней, чем ожидалось.</span><span class="sxs-lookup"><span data-stu-id="bb25b-224">This is able to help you detect if the network request is happening earlier or later than expected.</span></span>  
 
-:::image type="complex" source="../../images/2019/12/overview.msft.png" alt-text="Область "Обзор", в которой выделяются проверенные ресурсы" lightbox="../../images/2019/12/overview.msft.png":::
+:::image type="complex" source="../../images/2019/12/overview.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/overview.msft.png":::
    <span data-ttu-id="bb25b-226">Область " **Обзор** ", в которой выделяются проверенные ресурсы</span><span class="sxs-lookup"><span data-stu-id="bb25b-226">The **Overview** pane highlighting the inspected resource</span></span>  
 :::image-end:::  
 
@@ -264,7 +264,7 @@ ms.locfileid: "11015470"
 
 <span data-ttu-id="bb25b-229">С помощью столбцов «новый **путь** » и « **URL-адрес** » на панели **Network (сеть** ) можно просмотреть абсолютный путь к каждому СЕТЕВОМУ ресурсу или полный URL-адрес.</span><span class="sxs-lookup"><span data-stu-id="bb25b-229">Use the new **Path** and **URL** columns in the **Network** panel to see the absolute path or full URL of each network resource.</span></span>  
 
-:::image type="complex" source="../../images/2019/12/columns.msft.png" alt-text="Столбцы "новый путь" и "URL-адрес" на панели "сеть"" lightbox="../../images/2019/12/columns.msft.png":::
+:::image type="complex" source="../../images/2019/12/columns.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/columns.msft.png":::
    <span data-ttu-id="bb25b-231">Столбцы "новый путь" и "URL-адрес" на панели " **сеть** "</span><span class="sxs-lookup"><span data-stu-id="bb25b-231">The new Path and URL columns in the **Network** panel</span></span>  
 :::image-end:::  
 
@@ -278,7 +278,7 @@ ms.locfileid: "11015470"
 
 <span data-ttu-id="bb25b-236">Предопределенные строки агента пользователя обновлены в соответствии с современными версиями браузера.</span><span class="sxs-lookup"><span data-stu-id="bb25b-236">The predefined User-Agent strings have been updated to reflect modern browser versions.</span></span>  
 
-:::image type="complex" source="../../images/2019/12/useragent.msft.png" alt-text="Меню агента пользователя на вкладке "условия сети"" lightbox="../../images/2019/12/useragent.msft.png":::
+:::image type="complex" source="../../images/2019/12/useragent.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/useragent.msft.png":::
    <span data-ttu-id="bb25b-238">Меню агента пользователя на вкладке " **условия сети** "</span><span class="sxs-lookup"><span data-stu-id="bb25b-238">The User Agent menu in the **Network Conditions** tab</span></span>  
 :::image-end:::  
 
@@ -295,7 +295,7 @@ ms.locfileid: "11015470"
 
 <span data-ttu-id="bb25b-244">Пользовательский интерфейс конфигурации имеет новый, реагирующий дизайн и параметры конфигурации регулирования были упрощены.</span><span class="sxs-lookup"><span data-stu-id="bb25b-244">The configuration UI has a new, responsive design, and the throttling configuration options have been simplified.</span></span>  <span data-ttu-id="bb25b-245">Дополнительные сведения об изменении пользовательского интерфейса для регулирования приведены в разделе [Аудит][GitHubGoogleChromeDevToolsAuditsPanelThrottling] .</span><span class="sxs-lookup"><span data-stu-id="bb25b-245">See [Audits Panel Throttling][GitHubGoogleChromeDevToolsAuditsPanelThrottling] for more information on the throttling UI changes.</span></span>  
 
-:::image type="complex" source="../../images/2019/12/start.msft.png" alt-text="Новый пользовательский интерфейс конфигурации" lightbox="../../images/2019/12/start.msft.png":::
+:::image type="complex" source="../../images/2019/12/start.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/start.msft.png":::
    <span data-ttu-id="bb25b-247">Новый пользовательский интерфейс конфигурации</span><span class="sxs-lookup"><span data-stu-id="bb25b-247">The new configuration UI</span></span>  
 :::image-end:::  
 
@@ -308,7 +308,7 @@ ms.locfileid: "11015470"
 > [!CAUTION]
 > <span data-ttu-id="bb25b-253">В зависимости от того, используется ли **функция** **или режим, в HTML** -файлах могут возблюдаться большие различия в покрытии кода.</span><span class="sxs-lookup"><span data-stu-id="bb25b-253">You may see large code coverage differences in HTML files depending on whether you use **per function** or **per block** mode.</span></span>  <span data-ttu-id="bb25b-254">При использовании режима " **на функцию** " встроенные сценарии в HTML-файлах рассматриваются как функции.</span><span class="sxs-lookup"><span data-stu-id="bb25b-254">When using **per function** mode, inline scripts in HTML files are treated as functions.</span></span>  <span data-ttu-id="bb25b-255">Если сценарий выполняется, DevTools помечает весь сценарий как использованный код.</span><span class="sxs-lookup"><span data-stu-id="bb25b-255">If the script runs at all then DevTools marks the entire script as used code.</span></span>  <span data-ttu-id="bb25b-256">Если сценарий не выполняется вообще, DevTools помечает сценарий как неиспользуемый код.</span><span class="sxs-lookup"><span data-stu-id="bb25b-256">Only if the script does not run at all does DevTools mark the script as unused code.</span></span>  
 
-:::image type="complex" source="../../images/2019/12/modes.msft.png" alt-text="Раскрывающееся меню «режим покрытия»" lightbox="../../images/2019/12/modes.msft.png":::
+:::image type="complex" source="../../images/2019/12/modes.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2019/12/modes.msft.png":::
    <span data-ttu-id="bb25b-258">Раскрывающееся меню «режим покрытия»</span><span class="sxs-lookup"><span data-stu-id="bb25b-258">The coverage mode dropdown menu</span></span>  
 :::image-end:::  
 
