@@ -28,7 +28,7 @@ ms.locfileid: "11015463"
 
 <span data-ttu-id="ba8d9-112">Группа Microsoft Edge DevTools — совместная работа с группой Chrome DevTools и Chromium, чтобы добавить в DevTools новые функции отладки сетки каскадных стилей.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-112">The Microsoft Edge DevTools team is collaborating with the Chrome DevTools team and Chromium community to add new CSS grid debugging features to DevTools.</span></span>  <span data-ttu-id="ba8d9-113">Теперь вы можете отображать номера линий сетки, зазоры сетки и дополнительные линии сетки в качестве наложений на страницы.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-113">You are now able to display grid line numbers, grid gaps, and extended grid lines as an on-page overlay.</span></span>  <span data-ttu-id="ba8d9-114">Кроме того, в скором времени становятся более улучшены инструменты сетки.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-114">Plus, more improvements to the grid tools are coming soon.</span></span>  
 
-:::image type="complex" source="../../media/2020/06/experiments-grid.msft.png" alt-text="Функции отладки сетки каскадных стилей" lightbox="../../media/2020/06/experiments-grid.msft.png":::
+:::image type="complex" source="../../media/2020/06/experiments-grid.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/experiments-grid.msft.png":::
    <span data-ttu-id="ba8d9-116">Функции отладки сетки каскадных стилей</span><span class="sxs-lookup"><span data-stu-id="ba8d9-116">CSS grid debugging features</span></span>
 :::image-end:::  
 
@@ -47,7 +47,7 @@ ms.locfileid: "11015463"
 
 <span data-ttu-id="ba8d9-123">Теперь вы можете использовать команду " **изменить и воспроизвести** " на запросах в [сетевом журнале][DevtoolsNetworkIndexLogActivity] с помощью **сетевой консоли**.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-123">You are now able to use **Edit and Replay** on requests in the [Network Log][DevtoolsNetworkIndexLogActivity] using the **Network Console**.</span></span>  
 
-:::image type="complex" source="../../media/2020/06/experiments-network-console-edit-and-replay.msft.png" alt-text="Изменение и повторное воспроизведение запроса в NetworkLog с помощью сетевой консоли" lightbox="../../media/2020/06/experiments-network-console-edit-and-replay.msft.png":::
+:::image type="complex" source="../../media/2020/06/experiments-network-console-edit-and-replay.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/experiments-network-console-edit-and-replay.msft.png":::
    <span data-ttu-id="ba8d9-125">Изменение и повторное воспроизведение запроса в [NetworkLog][DevtoolsNetworkIndexLogActivity] с помощью **сетевой консоли**</span><span class="sxs-lookup"><span data-stu-id="ba8d9-125">Edit and Replay a request in the [NetworkLog][DevtoolsNetworkIndexLogActivity] with the **Network Console**</span></span>  
 :::image-end:::  
 
@@ -55,7 +55,7 @@ ms.locfileid: "11015463"
 
 <span data-ttu-id="ba8d9-128">Вы также можете использовать **консоль сети** для создания и отправки HTTP-запросов непосредственно из DevTools.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-128">You may also use the **Network Console** to create and send HTTP requests directly from the DevTools.</span></span>  
 
-:::image type="complex" source="../../media/2020/06/experiments-network-console.msft.png" alt-text="Панель "Сетевая консоль"" lightbox="../../media/2020/06/experiments-network-console.msft.png":::
+:::image type="complex" source="../../media/2020/06/experiments-network-console.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/experiments-network-console.msft.png":::
    <span data-ttu-id="ba8d9-130">Панель " **Сетевая консоль** "</span><span class="sxs-lookup"><span data-stu-id="ba8d9-130">The **Network Console** panel</span></span>  
 :::image-end:::  
 
@@ -73,13 +73,13 @@ ms.locfileid: "11015463"
 
 <span data-ttu-id="ba8d9-136">Вкладка **время** на панели " **сеть** " теперь включает `respondWith` события рабочих процессов служб.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-136">The **Timing** tab of the **Network** panel now includes `respondWith` service worker events.</span></span>  <span data-ttu-id="ba8d9-137">`respondWith`Событие "сотрудник службы" показывает продолжительность, начиная с момента, `fetch` когда обработчик событий сотрудника службы начнет выполняться до того момента, когда `respondWith` `fetch` будет сопоставлено обещание обработчика.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-137">The `respondWith` service worker event shows the duration from the time immediately before the service worker `fetch` event handler starts running to the time when the `respondWith` promise of the `fetch` handler is settled.</span></span>  
 
-:::image type="complex" source="../../media/2020/06/timing-tab.msft.png" alt-text="Событие "Рабочий процесс службы respondWith" на вкладке "время" на панели "сеть"" lightbox="../../media/2020/06/timing-tab.msft.png":::
+:::image type="complex" source="../../media/2020/06/timing-tab.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/timing-tab.msft.png":::
    <span data-ttu-id="ba8d9-139">`respondWith`Событие "сотрудник службы" на вкладке " **время** " на панели " **сеть** "</span><span class="sxs-lookup"><span data-stu-id="ba8d9-139">The `respondWith` service worker event in the **Timing** tab of the **Network** panel</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="ba8d9-140">Развернутый **ответ получен** , чтобы просмотреть дополнительные сведения из `fetch` ответа, например, `CacheStorageCacheName` `serviceWorkerResponseSource` и `ResponseTime` .</span><span class="sxs-lookup"><span data-stu-id="ba8d9-140">Expand **Response received** to see additional information from the `fetch` response like `CacheStorageCacheName`, `serviceWorkerResponseSource`, and `ResponseTime`.</span></span>  
 
-:::image type="complex" source="../../media/2020/06/timing-tab2.msft.png" alt-text="Получен ответ на запрос Expand для просмотра дополнительных сведений из ответа на выборку" lightbox="../../media/2020/06/timing-tab2.msft.png":::
+:::image type="complex" source="../../media/2020/06/timing-tab2.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/timing-tab2.msft.png":::
    <span data-ttu-id="ba8d9-142">**Получен ответ на запрос** Expand для просмотра дополнительных сведений из `fetch` ответа</span><span class="sxs-lookup"><span data-stu-id="ba8d9-142">Expand **Response received** to see additional information from the `fetch` response</span></span>  
 :::image-end:::  
 
@@ -93,7 +93,7 @@ ms.locfileid: "11015463"
 
 <span data-ttu-id="ba8d9-147">веб- [Подсказка][WebhintMain] — это средство с открытым исходным кодом, которое обеспечивает обратную связь в режиме реального времени для обеспечения специальных возможностей, совместимости, безопасности, производительности, PWAs и других распространенных проблем, возникающих при работе в Интернете.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-147">[webhint][WebhintMain] is an open-source tool that provides real-time feedback on the accessibility, cross-browser compatibility, security, performance, PWAs, and other common web development issues of websites.</span></span>  <span data-ttu-id="ba8d9-148">Теперь вы можете увидеть отзыв по этой подсказке на панели " [вопросы][DevtoolsIssues] ".</span><span class="sxs-lookup"><span data-stu-id="ba8d9-148">You are now able to see webhint feedback in the [Issues][DevtoolsIssues] panel.</span></span>  
 
-:::image type="complex" source="../../media/2020/06/experiments-webhint.msft.png" alt-text="Обратная связь по этой подсказке на панели "вопросы"" lightbox="../../media/2020/06/experiments-webhint.msft.png":::
+:::image type="complex" source="../../media/2020/06/experiments-webhint.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/experiments-webhint.msft.png":::
    <span data-ttu-id="ba8d9-150">Обратная связь по этой подсказке на панели "вопросы"</span><span class="sxs-lookup"><span data-stu-id="ba8d9-150">webhint feedback in the Issues panel</span></span>  
 :::image-end:::  
 
@@ -112,7 +112,7 @@ ms.locfileid: "11015463"
 
 <span data-ttu-id="ba8d9-157">Обычно такие инструменты, как **элементы** и **сеть** , можно открывать только на главной панели \ (Top \) DevTools.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-157">Normally, tools such as **Elements** and **Network** may only be opened in the main \(top\) panel of DevTools.</span></span>  <span data-ttu-id="ba8d9-158">Аналогичным образом такие инструменты, как **трехмерный вид** и **проблемы** , можно открывать только на панели ящик \ (Нижняя \) DevTools.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-158">Similarly, tools such as **3D View** and **Issues** may only be opened in the drawer \(bottom\) panel of DevTools.</span></span>  <span data-ttu-id="ba8d9-159">Теперь вы можете настраивать макет DevTools, перемещая инструменты между верхней и нижней панелями.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-159">You are now able to customize your DevTools layout by moving tools between the top and bottom panels.</span></span>  
 
-:::image type="complex" source="../../media/2020/06/experiments-move-panels.msft.png" alt-text="Перемещение вкладок между панелями" lightbox="../../media/2020/06/experiments-move-panels.msft.png":::
+:::image type="complex" source="../../media/2020/06/experiments-move-panels.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/experiments-move-panels.msft.png":::
    <span data-ttu-id="ba8d9-161">Перемещение вкладок между панелями</span><span class="sxs-lookup"><span data-stu-id="ba8d9-161">Moving tabs between panels</span></span>  
 :::image-end:::  
 
@@ -125,13 +125,13 @@ ms.locfileid: "11015463"
 
 <span data-ttu-id="ba8d9-165">В Microsoft Edge 83 и 84 с помощью всплывающих подсказок для столбца инициаторов, в котором отображается причина запроса ресурсов, в [сетевом журнале][DevtoolsNetworkIndexLogActivity] отображается горизонтальная полоса прокрутки.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-165">In Microsoft Edge 83 and 84, tooltips for the Initiator column, which shows the cause of the resource request, in the [Network Log][DevtoolsNetworkIndexLogActivity] displayed with a horizontal scrollbar.</span></span>  <span data-ttu-id="ba8d9-166">Вы можете видеть стек вызовов, который инициировал запрос, прокручивать по горизонтали в подсказке.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-166">You were only able to see the call stack that initiated the request by scrolling horizontally in the tooltip.</span></span>  
 
-:::image type="complex" source="../../media/2020/06/initiator-tooltip-84.msft.png" alt-text="Всплывающая подсказка инициатора в Microsoft Edge 84" lightbox="../../media/2020/06/initiator-tooltip-84.msft.png":::
+:::image type="complex" source="../../media/2020/06/initiator-tooltip-84.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/initiator-tooltip-84.msft.png":::
    <span data-ttu-id="ba8d9-168">Всплывающая подсказка инициатора в Microsoft Edge 84</span><span class="sxs-lookup"><span data-stu-id="ba8d9-168">The Initiator tooltip in Microsoft Edge 84</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="ba8d9-169">Начиная с Microsoft Edge 85, теперь вы можете видеть стек вызовов инициаторов в подсказке без горизонтальной прокрутки.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-169">Starting with Microsoft Edge 85, you are now able to see the Initiator call stack in the tooltip without scrolling horizontally.</span></span>  
 
-:::image type="complex" source="../../media/2020/06/initiator-tooltip-85.msft.png" alt-text="Всплывающая подсказка инициатора в Microsoft Edge 85" lightbox="../../media/2020/06/initiator-tooltip-85.msft.png":::
+:::image type="complex" source="../../media/2020/06/initiator-tooltip-85.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/initiator-tooltip-85.msft.png":::
    <span data-ttu-id="ba8d9-171">Всплывающая подсказка инициатора в Microsoft Edge 85</span><span class="sxs-lookup"><span data-stu-id="ba8d9-171">The Initiator tooltip in Microsoft Edge 85</span></span>
 :::image-end:::  
 
@@ -149,7 +149,7 @@ ms.locfileid: "11015463"
 
 <span data-ttu-id="ba8d9-180">Например, стили, `h1` добавленные с помощью `CSSStyleSheet` \ (CSSOM API \), не были изменены ранее.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-180">For example, the `h1` styles added with `CSSStyleSheet` \(CSSOM APIs\) were not editable previously.</span></span>  <span data-ttu-id="ba8d9-181">Теперь стили доступны для редактирования в области **стили** .</span><span class="sxs-lookup"><span data-stu-id="ba8d9-181">The styles are editable now in the **Styles** pane.</span></span>  
 
-:::image type="complex" source="../../media/2020/06/css-in-js.msft.png" alt-text="Изменение свойства Background для стилей H1, добавленных с CSSStyleSheet из розового в LightBlue" lightbox="../../media/2020/06/css-in-js.msft.png":::
+:::image type="complex" source="../../media/2020/06/css-in-js.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/css-in-js.msft.png":::
    <span data-ttu-id="ba8d9-183">Изменение `background` свойства `h1` стиля, добавленного в значение `CSSStyleSheet` FROM `pink` `lightblue` .</span><span class="sxs-lookup"><span data-stu-id="ba8d9-183">Changing the `background` property of the `h1` styles added with `CSSStyleSheet` from `pink` to `lightblue`.</span></span>
 :::image-end:::  
 
@@ -218,7 +218,7 @@ ms.locfileid: "11015463"
 * <span data-ttu-id="ba8d9-209">Значки сочетаний клавиш приложения меньше 96x96 пикселей</span><span class="sxs-lookup"><span data-stu-id="ba8d9-209">The app shortcut icons are smaller than 96x96 pixels</span></span>  
 * <span data-ttu-id="ba8d9-210">Значки сочетаний клавиш приложения и манифеста не квадратны \ (так как значки игнорируются)</span><span class="sxs-lookup"><span data-stu-id="ba8d9-210">The app shortcut icons and manifest icons are not square \(since the icons are ignored\)</span></span>  
 
-:::image type="complex" source="../../media/2020/06/app-shortcut-warnings.msft.png" alt-text="Предупреждения о сочетаниях клавиш для приложения" lightbox="../../media/2020/06/app-shortcut-warnings.msft.png":::
+:::image type="complex" source="../../media/2020/06/app-shortcut-warnings.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/app-shortcut-warnings.msft.png":::
    <span data-ttu-id="ba8d9-212">Предупреждения о сочетаниях клавиш для приложения</span><span class="sxs-lookup"><span data-stu-id="ba8d9-212">App shortcut warnings</span></span>  
 :::image-end:::  
 
@@ -228,7 +228,7 @@ ms.locfileid: "11015463"
 
 <span data-ttu-id="ba8d9-215">**Вычисляемая** область на панели " **элементы** " теперь отображается единообразно в виде области на всех размерах окна просмотра.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-215">The **Computed** pane in the **Elements** panel now displays consistently as a pane across all viewport sizes.</span></span>  <span data-ttu-id="ba8d9-216">Ранее **Вычисляемая** область была объединена в области " **стили** ", когда ширина окна просмотра DevTools была узкой.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-216">Previously the **Computed** pane merged inside the **Styles** pane when the width of the DevTools viewport was narrow.</span></span>  
 
-:::image type="complex" source="../../media/2020/06/computed-pane.msft.png" alt-text="Вычисляемая область последовательно отображается как отдельная область, даже если DevTools узким" lightbox="../../media/2020/06/computed-pane.msft.png":::
+:::image type="complex" source="../../media/2020/06/computed-pane.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/computed-pane.msft.png":::
    <span data-ttu-id="ba8d9-218">**Вычисляемая** область последовательно отображается как отдельная область, даже если DevTools узким.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-218">The **Computed** pane consistently displays as a separate pane even when the DevTools are narrow.</span></span>
 :::image-end:::  
 
@@ -245,7 +245,7 @@ ms.locfileid: "11015463"
 
 <span data-ttu-id="ba8d9-225">При копировании или вырезании без выделения в [редакторе палитры «источники][DevtoolsSourcesEditCssJavascript]» DevTools копирует или вырезает текущую строку содержимого.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-225">When performing copy or cut with no selection in the [Sources panel editor][DevtoolsSourcesEditCssJavascript], DevTools copies or cuts the current line of content.</span></span>  
 
-:::image type="complex" source="../../media/2020/06/line-wise-cut.msft.png" alt-text="С курсором в конце строки 5 копируется вся строка из pen.js в DevTools и вставляется в код Visual Studio." lightbox="../../media/2020/06/line-wise-cut.msft.png":::
+:::image type="complex" source="../../media/2020/06/line-wise-cut.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/line-wise-cut.msft.png":::
    <span data-ttu-id="ba8d9-227">С курсором в конце строки 5 копируется вся строка из **pen.js** в DevTools и вставляется в [код Visual Studio][VSCode].</span><span class="sxs-lookup"><span data-stu-id="ba8d9-227">With the cursor at the end of Line 5, copying the whole line from **pen.js** in the DevTools and pasting in [Visual Studio Code][VSCode].</span></span>
 :::image-end:::  
 
@@ -259,7 +259,7 @@ ms.locfileid: "11015463"
 
 <span data-ttu-id="ba8d9-233">Например, ранее DevTools не разгруппирование сообщений, несмотря на то, что `hello` флажок **Group похоже** не установлен.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-233">For example, previously, DevTools did not ungroup the `hello` messages even though **Group similar** is unchecked.</span></span>  <span data-ttu-id="ba8d9-234">Теперь `hello` сообщения разгруппированы.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-234">Now, the `hello` messages are ungrouped.</span></span>  
 
-:::image type="complex" source="../../media/2020/06/ungroup-similar.msft.png" alt-text="Если флажок "Группировать" не установлен, сообщения приветствия разгруппированы не будут" lightbox="../../media/2020/06/ungroup-similar.msft.png":::
+:::image type="complex" source="../../media/2020/06/ungroup-similar.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/ungroup-similar.msft.png":::
    <span data-ttu-id="ba8d9-236">Если флажок " **Группировать как** " не установлен, `hello` сообщения разносятся в разгруппирование</span><span class="sxs-lookup"><span data-stu-id="ba8d9-236">When **Group similar** is unchecked, the `hello` messages are ungrouped</span></span>
 :::image-end:::  
 
@@ -271,7 +271,7 @@ ms.locfileid: "11015463"
 
 <span data-ttu-id="ba8d9-240">**Выбранный контекст** теперь сохраняется только в параметрах консоли.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-240">The **Selected context only** settings in Console Settings is now persisted.</span></span>  <span data-ttu-id="ba8d9-241">Ранее параметры были сброшены каждый раз при закрытии и повторном открытии DevTools.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-241">Previously the settings were reset every time you closed and reopened DevTools.</span></span>  <span data-ttu-id="ba8d9-242">Изменение приводит к поведению параметров с другими параметрами консоли.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-242">The change makes the setting behavior consistent with other Console Settings options.</span></span>  
 
-:::image type="complex" source="../../media/2020/06/selected-context.msft.png" alt-text="Параметр "только выбранный контекст"" lightbox="../../media/2020/06/selected-context.msft.png":::
+:::image type="complex" source="../../media/2020/06/selected-context.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/selected-context.msft.png":::
    <span data-ttu-id="ba8d9-244">Параметр " **только выбранный контекст** "</span><span class="sxs-lookup"><span data-stu-id="ba8d9-244">**Selected context only** setting</span></span>  
 :::image-end:::  
 
@@ -283,7 +283,7 @@ ms.locfileid: "11015463"
 
 <span data-ttu-id="ba8d9-248">[Данные кэша компиляции для JavaScript][V8DevCodeCaching] теперь всегда отображаются на вкладке "Сводка" на панели "производительность".</span><span class="sxs-lookup"><span data-stu-id="ba8d9-248">[JavaScript compilation cache information][V8DevCodeCaching] is now always displayed in the Summary tab of the Performance panel.</span></span>  <span data-ttu-id="ba8d9-249">Ранее DevTools не показывает ничего, связанного с кэшированием кода, если кэширование кода не произошло.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-249">Previously, DevTools did not show anything related to code caching if code caching did not happen.</span></span>  
 
-:::image type="complex" source="../../media/2020/06/js-compilation-cache.msft.png" alt-text="Данные кэша компиляции для JavaScript" lightbox="../../media/2020/06/js-compilation-cache.msft.png":::
+:::image type="complex" source="../../media/2020/06/js-compilation-cache.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/js-compilation-cache.msft.png":::
    <span data-ttu-id="ba8d9-251">Данные кэша компиляции для JavaScript</span><span class="sxs-lookup"><span data-stu-id="ba8d9-251">JavaScript compilation cache information</span></span>  
 :::image-end:::  
 
@@ -293,7 +293,7 @@ ms.locfileid: "11015463"
 
 <span data-ttu-id="ba8d9-254">Панель **производительности** , используемая для отображения времени на линейках на основе начала записи.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-254">The **Performance** panel used to show times in the rulers based on when the recording started.</span></span>  <span data-ttu-id="ba8d9-255">Время ожидания изменилось для записей, в которых пользователь осуществляет переход, где DevTools теперь показывает время линейки относительно навигации.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-255">The timing has now changed for recordings where the user navigates, where DevTools now shows ruler times relative to the navigation instead.</span></span>  
 
-:::image type="complex" source="../../media/2020/06/nav-timing.msft.png" alt-text="Выравнивание времени навигации на панели «производительность»" lightbox="../../media/2020/06/nav-timing.msft.png":::
+:::image type="complex" source="../../media/2020/06/nav-timing.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/nav-timing.msft.png":::
    <span data-ttu-id="ba8d9-257">Выравнивание времени навигации на панели « **производительность** »</span><span class="sxs-lookup"><span data-stu-id="ba8d9-257">Align navigation timing in **Performance** panel</span></span>  
 :::image-end:::  
 
@@ -305,7 +305,7 @@ ms.locfileid: "11015463"
 
 <span data-ttu-id="ba8d9-261">На панели « **источники** » есть новые дизайны для точек останова, условных точек останова и logpoints.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-261">The **Sources** panel has new designs for breakpoints, conditional breakpoints, and logpoints.</span></span>  <span data-ttu-id="ba8d9-262">Точки останова представлены на красном круге, точно так же, как и в [Visual Studio][VSCode] , и в [Visual Studio][VS].</span><span class="sxs-lookup"><span data-stu-id="ba8d9-262">Breakpoints are represented by a red circle, just like [Visual Studio Code][VSCode] and [Visual Studio][VS].</span></span>  <span data-ttu-id="ba8d9-263">Значки добавляются для различения условных точек останова и logpoints.</span><span class="sxs-lookup"><span data-stu-id="ba8d9-263">Icons are added to differentiate conditional breakpoints and logpoints.</span></span>  
 
-:::image type="complex" source="../../media/2020/06/breakpoints.msft.png" alt-text="Точки останова" lightbox="../../media/2020/06/breakpoints.msft.png":::
+:::image type="complex" source="../../media/2020/06/breakpoints.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/breakpoints.msft.png":::
    <span data-ttu-id="ba8d9-265">Точки останова</span><span class="sxs-lookup"><span data-stu-id="ba8d9-265">Breakpoints</span></span>  
 :::image-end:::  
 

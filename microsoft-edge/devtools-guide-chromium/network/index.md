@@ -70,26 +70,26 @@ ms.locfileid: "10993452"
     <!--You may prefer to move the demo to a separate window.  -->  
     
     <!--
-    :::image type="complex" source="../media/network-tutorial/windows.msft.png" alt-text="The demo in one window and this tutorial in a different window" lightbox="../media/network-tutorial/windows.msft.png":::
+    :::image type="complex" source="../media/network-tutorial/windows.msft.png" alt-text="Демонстрация" lightbox="../media/network-tutorial/windows.msft.png":::
        The demo in one window and this tutorial in a different window  
     :::image-end:::  
     -->
     
 1.  <span data-ttu-id="fc5f6-121">[Откройте DevTools][DevToolsOpen] , нажав клавиши `Control` + `Shift` + `J` \ (Windows \) или `Command` + `Option` + `J` \ (macOS \).</span><span class="sxs-lookup"><span data-stu-id="fc5f6-121">[Open DevTools][DevToolsOpen] by pressing `Control`+`Shift`+`J` \(Windows\) or `Command`+`Option`+`J` \(macOS\).</span></span>  <span data-ttu-id="fc5f6-122">Откроется панель **консоли** .</span><span class="sxs-lookup"><span data-stu-id="fc5f6-122">The **Console** panel opens.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-console.msft.png" alt-text="На консоли" lightbox="../media/network-glitch-console.msft.png":::
+    :::image type="complex" source="../media/network-glitch-console.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-console.msft.png":::
        <span data-ttu-id="fc5f6-124">На **консоли**</span><span class="sxs-lookup"><span data-stu-id="fc5f6-124">The **Console**</span></span>  
     :::image-end:::  
     
     <span data-ttu-id="fc5f6-125">Вы можете [закрепить DevTools в нижней части окна][DevToolsCustomizePlacement].</span><span class="sxs-lookup"><span data-stu-id="fc5f6-125">You may prefer to [dock DevTools to the bottom of your window][DevToolsCustomizePlacement].</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-console-bottom.msft.png" alt-text="DevTools закреплено в нижней части окна" lightbox="../media/network-glitch-console-bottom.msft.png":::
+    :::image type="complex" source="../media/network-glitch-console-bottom.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-console-bottom.msft.png":::
        <span data-ttu-id="fc5f6-127">DevTools закреплено в нижней части окна</span><span class="sxs-lookup"><span data-stu-id="fc5f6-127">DevTools docked to the bottom of the window</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="fc5f6-128">Откройте вкладку **сеть** .  Откроется панель Network (сеть).</span><span class="sxs-lookup"><span data-stu-id="fc5f6-128">Select the **Network** tab.  The Network panel opens.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-bottom.msft.png" alt-text="DevTools закреплено в нижней части окна" lightbox="../media/network-glitch-network-bottom.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-bottom.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-bottom.msft.png":::
        <span data-ttu-id="fc5f6-130">DevTools закреплено в нижней части окна</span><span class="sxs-lookup"><span data-stu-id="fc5f6-130">DevTools docked to the bottom of the window</span></span>  
     :::image-end:::  
     
@@ -101,7 +101,7 @@ ms.locfileid: "10993452"
 
 1.  <span data-ttu-id="fc5f6-135">Перезагрузите страницу.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-135">Reload the page.</span></span>  <span data-ttu-id="fc5f6-136">На панели Network (сеть) регистрируются все сетевые активности в **журнале сети**.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-136">The Network panel logs all network activity in the **Network Log**.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network.msft.png" alt-text="Журнал сети" lightbox="../media/network-glitch-network.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network.msft.png":::
        <span data-ttu-id="fc5f6-138">**Журнал сети**</span><span class="sxs-lookup"><span data-stu-id="fc5f6-138">The **Network Log**</span></span>  
     :::image-end:::  
     
@@ -123,7 +123,7 @@ ms.locfileid: "10993452"
 1.  <span data-ttu-id="fc5f6-162">Теперь нажмите кнопку " **получить данные** " в демонстрационной версии.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-162">Now, select the **Get Data** button in the demo.</span></span>  
 1.  <span data-ttu-id="fc5f6-163">Снова посмотрите на нижнюю часть **сетевого журнала** .</span><span class="sxs-lookup"><span data-stu-id="fc5f6-163">Look at the bottom of the **Network Log** again.</span></span>  <span data-ttu-id="fc5f6-164">Вы должны увидеть новый ресурс под названием "" `getstarted.json` .</span><span class="sxs-lookup"><span data-stu-id="fc5f6-164">You should see a new resource called `getstarted.json`.</span></span>  <span data-ttu-id="fc5f6-165">Нажатие кнопки " **получить данные** " привела к тому, что страница запрашивает этот файл.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-165">Selecting the **Get Data** button caused the page to request this file.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-new-resource.msft.png" alt-text="Новый ресурс в сетевом журнале" lightbox="../media/network-glitch-network-new-resource.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-new-resource.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-new-resource.msft.png":::
        <span data-ttu-id="fc5f6-167">Новый ресурс в **сетевом журнале**</span><span class="sxs-lookup"><span data-stu-id="fc5f6-167">A new resource in the **Network Log**</span></span>  
     :::image-end:::  
     
@@ -134,7 +134,7 @@ ms.locfileid: "10993452"
 
 1.  <span data-ttu-id="fc5f6-172">Щелкните правой кнопкой мыши заголовок таблицы журнала сети и выберите команду **Domain (домен**).</span><span class="sxs-lookup"><span data-stu-id="fc5f6-172">Right-click the header of the Network Log table and select **Domain**.</span></span>  <span data-ttu-id="fc5f6-173">Теперь отображается домен каждого ресурса.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-173">The domain of each resource is now shown.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-edit-column.msft.png" alt-text="Включение столбца Domain (домен)" lightbox="../media/network-glitch-network-edit-column.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-edit-column.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-edit-column.msft.png":::
        <span data-ttu-id="fc5f6-175">Включение столбца Domain (домен)</span><span class="sxs-lookup"><span data-stu-id="fc5f6-175">Enable the Domain column</span></span>  
     :::image-end:::  
     
@@ -147,19 +147,19 @@ ms.locfileid: "10993452"
 
 1.  <span data-ttu-id="fc5f6-180">Выберите раскрывающийся список **регулирования** , для которого по умолчанию установлено значение в **сети** .</span><span class="sxs-lookup"><span data-stu-id="fc5f6-180">Select the **Throttling** dropdown, which is set to **Online** by default.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-throttling.msft.png" alt-text="Включение регулирования" lightbox="../media/network-glitch-network-throttling.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-throttling.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-throttling.msft.png":::
        <span data-ttu-id="fc5f6-182">Включение регулирования</span><span class="sxs-lookup"><span data-stu-id="fc5f6-182">Enable throttling</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="fc5f6-183">Выберите **медленное 3G**.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-183">Select **Slow 3G**.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-throttling-slow-3g.msft.png" alt-text="Выбор медленной сети 3G" lightbox="../media/network-glitch-network-throttling-slow-3g.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-throttling-slow-3g.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-throttling-slow-3g.msft.png":::
        <span data-ttu-id="fc5f6-185">Выбор медленной сети 3G</span><span class="sxs-lookup"><span data-stu-id="fc5f6-185">Select Slow 3G</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="fc5f6-186">Нажмите кнопку **перезагрузить** ![ ][ImageRefreshIcon] , а затем выберите **пустой кэш и принудительную перезагрузку**.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-186">Long-press **Reload** \(![Reload][ImageRefreshIcon]\) and then select **Empty Cache And Hard Reload**.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-empty-cache-and-hard-reset.msft.png" alt-text="Пустой кэш и окончательная перезагрузка" lightbox="../media/network-glitch-empty-cache-and-hard-reset.msft.png":::
+    :::image type="complex" source="../media/network-glitch-empty-cache-and-hard-reset.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-empty-cache-and-hard-reset.msft.png":::
        **<span data-ttu-id="fc5f6-188">Пустой кэш и окончательная перезагрузка</span><span class="sxs-lookup"><span data-stu-id="fc5f6-188">Empty Cache And Hard Reload</span></span>**  
     :::image-end:::  
     
@@ -176,13 +176,13 @@ ms.locfileid: "10993452"
 1.  <span data-ttu-id="fc5f6-196">Снова загрузите страницу с помощью **пустого кэша и окончательной повторной загрузки** .</span><span class="sxs-lookup"><span data-stu-id="fc5f6-196">Reload the page again via the **Empty Cache And Hard Reload** workflow.</span></span>  <span data-ttu-id="fc5f6-197">Если вам нужно напоминание о том, как это сделать, ознакомьтесь [с](#simulate-a-slower-network-connection) разрешениями.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-197">See [Simulate a slower connection](#simulate-a-slower-network-connection) if you need a reminder on how to do this.</span></span>  
     <span data-ttu-id="fc5f6-198">В области снимков экрана представлены эскизы того, как страница рассмотрелась на разных этапах процесса загрузки.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-198">The Screenshots pane provides thumbnails of how the page looked at various points during the loading process.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-screenshots.msft.png" alt-text="Снимки экрана загрузки страницы" lightbox="../media/network-glitch-network-screenshots.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-screenshots.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-screenshots.msft.png":::
        <span data-ttu-id="fc5f6-200">Снимки экрана загрузки страницы</span><span class="sxs-lookup"><span data-stu-id="fc5f6-200">Screenshots of the page load</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="fc5f6-201">Выберите первый эскиз.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-201">Select the first thumbnail.</span></span>  <span data-ttu-id="fc5f6-202">DevTools показывает, какая сетевая активность происходила в данный момент времени.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-202">DevTools shows you what network activity was occurring at that moment in time.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-screenshots-first.msft.png" alt-text="Сетевая активность, происходящий на первом снимке экрана" lightbox="../media/network-glitch-network-screenshots-first.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-screenshots-first.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-screenshots-first.msft.png":::
        <span data-ttu-id="fc5f6-204">Сетевая активность, происходящий на первом снимке экрана</span><span class="sxs-lookup"><span data-stu-id="fc5f6-204">The network activity that was happening during the first screenshot</span></span>  
     :::image-end:::  
     
@@ -195,13 +195,13 @@ ms.locfileid: "10993452"
 
 1.  <span data-ttu-id="fc5f6-210">Выберите `getstarted.html` .</span><span class="sxs-lookup"><span data-stu-id="fc5f6-210">Select `getstarted.html`.</span></span>  <span data-ttu-id="fc5f6-211">Показана вкладка " **заголовки** ".</span><span class="sxs-lookup"><span data-stu-id="fc5f6-211">The **Headers** tab is shown.</span></span>  <span data-ttu-id="fc5f6-212">Используйте эту вкладку для проверки заголовков HTTP.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-212">Use this tab to inspect HTTP headers.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-resources-headers.msft.png" alt-text="Вкладка "заголовки"" lightbox="../media/network-glitch-network-resources-headers.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-resources-headers.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-resources-headers.msft.png":::
        <span data-ttu-id="fc5f6-214">Вкладка " **заголовки** "</span><span class="sxs-lookup"><span data-stu-id="fc5f6-214">The **Headers** tab</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="fc5f6-215">Откройте вкладку **Предварительный просмотр** .  Отобразится основной рендеринг HTML-кода.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-215">Select the **Preview** tab.  A basic rendering of the HTML is shown.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-resources-preview.msft.png" alt-text="Вкладка "предварительный просмотр"" lightbox="../media/network-glitch-network-resources-preview.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-resources-preview.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-resources-preview.msft.png":::
        <span data-ttu-id="fc5f6-217">Вкладка " **Предварительный просмотр** "</span><span class="sxs-lookup"><span data-stu-id="fc5f6-217">The **Preview** tab</span></span>  
     :::image-end:::  
     
@@ -209,7 +209,7 @@ ms.locfileid: "10993452"
 
 1.  <span data-ttu-id="fc5f6-220">Откройте вкладку **ответ** .  Отобразится исходный код HTML.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-220">Select the **Response** tab.  The HTML source code is shown.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-resources-response.msft.png" alt-text="Вкладка "ответ"" lightbox="../media/network-glitch-network-resources-response.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-resources-response.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-resources-response.msft.png":::
        <span data-ttu-id="fc5f6-222">Вкладка " **ответ** "</span><span class="sxs-lookup"><span data-stu-id="fc5f6-222">The **Response** tab</span></span>  
     :::image-end:::  
     
@@ -218,13 +218,13 @@ ms.locfileid: "10993452"
     
 1.  <span data-ttu-id="fc5f6-224">Откройте вкладку **время** .  Показана сетевая подразделение активности для этого ресурса.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-224">Select the **Timing** tab.  A breakdown of the network activity for this resource is shown.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-resources-timing.msft.png" alt-text="Вкладка время" lightbox="../media/network-glitch-network-resources-timing.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-resources-timing.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-resources-timing.msft.png":::
        <span data-ttu-id="fc5f6-226">Вкладка **время**</span><span class="sxs-lookup"><span data-stu-id="fc5f6-226">The **Timing** tab</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="fc5f6-227">**Close** ![ ][ImageCloseIcon] Чтобы снова просмотреть журнал сети, нажмите кнопку Закрыть, а затем — закрыть.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-227">Select **Close** \(![Close][ImageCloseIcon]\) to view the Network Log again.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-resources-close-tabs.msft.png" alt-text="Кнопка "Закрыть"" lightbox="../media/network-glitch-network-resources-close-tabs.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-resources-close-tabs.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-resources-close-tabs.msft.png":::
        <span data-ttu-id="fc5f6-229">Кнопка " **Закрыть** "</span><span class="sxs-lookup"><span data-stu-id="fc5f6-229">The **Close** button</span></span>  
     :::image-end:::  
     
@@ -238,25 +238,25 @@ ms.locfileid: "10993452"
 
 1.  <span data-ttu-id="fc5f6-233">Нажмите **Поиск** \ ( ![ Поиск ][ImageSearchIcon] \).</span><span class="sxs-lookup"><span data-stu-id="fc5f6-233">Select **Search** \(![Search][ImageSearchIcon]\).</span></span>  <span data-ttu-id="fc5f6-234">Область поиска откроется слева от сетевого журнала.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-234">The Search pane opens to the left of the Network log.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-search-empty.msft.png" alt-text="Область "Поиск"" lightbox="../media/network-glitch-network-search-empty.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-search-empty.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-search-empty.msft.png":::
        <span data-ttu-id="fc5f6-236">Область " **Поиск** "</span><span class="sxs-lookup"><span data-stu-id="fc5f6-236">The **Search** pane</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="fc5f6-237">Введите текст `Cache-Control` и нажмите клавишу `Enter` .</span><span class="sxs-lookup"><span data-stu-id="fc5f6-237">Type `Cache-Control` and press `Enter`.</span></span>  <span data-ttu-id="fc5f6-238">В области поиска перечислены все вхождения `Cache-Control` , найденные в заголовках или содержимом ресурсов.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-238">The Search pane lists all instances of `Cache-Control` that it finds in resource headers or content.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-search-cache-control.msft.png" alt-text="Результаты поиска для Cache-Control" lightbox="../media/network-glitch-network-search-cache-control.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-search-cache-control.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-search-cache-control.msft.png":::
        <span data-ttu-id="fc5f6-240">Результаты поиска по запросу </span><span class="sxs-lookup"><span data-stu-id="fc5f6-240">Search results for</span></span> `Cache-Control`  
     :::image-end:::  
     
 1.  <span data-ttu-id="fc5f6-241">Выберите результат, чтобы просмотреть ресурс, в котором был найден результат.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-241">Select a result to view the resource in which the result was found.</span></span>  <span data-ttu-id="fc5f6-242">Если вы видите сведения о ресурсе, выберите результат, чтобы перейти непосредственно к нему.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-242">If you are looking at the details of the resource, select a result to go directly to it.</span></span>  <span data-ttu-id="fc5f6-243">Например, если запрос был найден в заголовке, откроется вкладка Заголовки.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-243">For example, if the query was found in a header, the Headers tab opens.</span></span>   <span data-ttu-id="fc5f6-244">Если запрос найден в содержимом, откроется вкладка **ответ** .</span><span class="sxs-lookup"><span data-stu-id="fc5f6-244">If the query was found in content, the **Response** tab opens.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-search-cache-control-headers-response-headers.msft.png" alt-text="Результат поиска, выделенный на вкладке "заголовки"" lightbox="../media/network-glitch-network-search-cache-control-headers-response-headers.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-search-cache-control-headers-response-headers.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-search-cache-control-headers-response-headers.msft.png":::
        <span data-ttu-id="fc5f6-246">Результат поиска, выделенный на вкладке " **заголовки** "</span><span class="sxs-lookup"><span data-stu-id="fc5f6-246">A search result highlighted in the **Headers** tab</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="fc5f6-247">Закройте область поиска и вкладку заголовки.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-247">Close the Search pane and the Headers tab.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-search-close.msft.png" alt-text="Кнопки "Закрыть"" lightbox="../media/network-glitch-network-search-close.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-search-close.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-search-close.msft.png":::
        <span data-ttu-id="fc5f6-249">Кнопки " **Закрыть** "</span><span class="sxs-lookup"><span data-stu-id="fc5f6-249">The **Close** buttons</span></span>  
     :::image-end:::  
     
@@ -264,7 +264,7 @@ ms.locfileid: "10993452"
 
 <span data-ttu-id="fc5f6-251">DevTools предоставляет множество рабочих процессов для фильтрации ресурсов, не относящихся к поставленной задаче.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-251">DevTools provides numerous workflows for filtering out resources that are not relevant to the task at hand.</span></span>  
 
-:::image type="complex" source="../media/network-glitch-network-filter-empty.msft.png" alt-text="Панель инструментов "фильтры"" lightbox="../media/network-glitch-network-filter-empty.msft.png":::
+:::image type="complex" source="../media/network-glitch-network-filter-empty.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-filter-empty.msft.png":::
    <span data-ttu-id="fc5f6-253">Панель инструментов " **фильтры** "</span><span class="sxs-lookup"><span data-stu-id="fc5f6-253">The **Filters** toolbar</span></span>  
 :::image-end:::  
 
@@ -278,25 +278,25 @@ ms.locfileid: "10993452"
 
 1.  <span data-ttu-id="fc5f6-259">Введите `png` текст в текстовое поле **Фильтр** .</span><span class="sxs-lookup"><span data-stu-id="fc5f6-259">Type `png` into the **Filter** text box.</span></span>  <span data-ttu-id="fc5f6-260">Отображаются только файлы, содержащие текст `png` .</span><span class="sxs-lookup"><span data-stu-id="fc5f6-260">Only the files that contain the text `png` are shown.</span></span>  <span data-ttu-id="fc5f6-261">В этом случае только файлы, соответствующие фильтру, являются изображениями в формате PNG.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-261">In this case the only files that match the filter are the PNG images.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-filter-png.msft.png" alt-text="Строковый фильтр" lightbox="../media/network-glitch-network-filter-png.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-filter-png.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-filter-png.msft.png":::
        <span data-ttu-id="fc5f6-263">Строковый фильтр</span><span class="sxs-lookup"><span data-stu-id="fc5f6-263">A string filter</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="fc5f6-264">Введите `/.*\.[cj]s+$/`.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-264">Type `/.*\.[cj]s+$/`.</span></span>  <span data-ttu-id="fc5f6-265">DevTools отфильтровать все ресурсы с именем файла, которое не оканчивается на a, а `j` `c` затем с 1 или более `s` символами.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-265">DevTools filters out any resource with a filename that does not end with a `j` or a `c` followed by 1 or more `s` characters.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-filter-regex.msft.png" alt-text="Фильтр регулярных выражений" lightbox="../media/network-glitch-network-filter-regex.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-filter-regex.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-filter-regex.msft.png":::
        <span data-ttu-id="fc5f6-267">Фильтр регулярных выражений</span><span class="sxs-lookup"><span data-stu-id="fc5f6-267">A regular expression filter</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="fc5f6-268">Введите `-main.css`.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-268">Type `-main.css`.</span></span>  <span data-ttu-id="fc5f6-269">DevTools отфильтровать `main.css` .</span><span class="sxs-lookup"><span data-stu-id="fc5f6-269">DevTools filters out `main.css`.</span></span>  <span data-ttu-id="fc5f6-270">Если какой – либо другой файл соответствует шаблону, он также будет исключен.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-270">If any other file matched the pattern they would also be filtered out.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-filter-negative-statement.msft.png" alt-text="Отрицательный фильтр" lightbox="../media/network-glitch-network-filter-negative-statement.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-filter-negative-statement.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-filter-negative-statement.msft.png":::
        <span data-ttu-id="fc5f6-272">Отрицательный фильтр</span><span class="sxs-lookup"><span data-stu-id="fc5f6-272">A negative filter</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="fc5f6-273">Введите `domain:cdn.glitch.com` текст в текстовое поле **Фильтр** .</span><span class="sxs-lookup"><span data-stu-id="fc5f6-273">Type `domain:cdn.glitch.com` into the **Filter** text box.</span></span>  <span data-ttu-id="fc5f6-274">DevTools отфильтровать все ресурсы с URL-адресом, который не соответствует этому домену.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-274">DevTools filters out any resource with a URL that does not match this domain.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-filter-property-value.msft.png" alt-text="Фильтр свойств" lightbox="../media/network-glitch-network-filter-property-value.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-filter-property-value.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-filter-property-value.msft.png":::
        <span data-ttu-id="fc5f6-276">Фильтр свойств</span><span class="sxs-lookup"><span data-stu-id="fc5f6-276">A property filter</span></span>  
     :::image-end:::  
     
@@ -310,13 +310,13 @@ ms.locfileid: "10993452"
 
 1.  <span data-ttu-id="fc5f6-281">Выберите **CSS**.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-281">Select **CSS**.</span></span>  <span data-ttu-id="fc5f6-282">Все остальные типы файлов будут отфильтрованы.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-282">All other file types are filtered out.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-filter-file-type-css.msft.png" alt-text="Показывать только CSS – файлы" lightbox="../media/network-glitch-network-filter-file-type-css.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-filter-file-type-css.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-filter-file-type-css.msft.png":::
        <span data-ttu-id="fc5f6-284">Показывать только CSS – файлы</span><span class="sxs-lookup"><span data-stu-id="fc5f6-284">Show CSS files only</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="fc5f6-285">Чтобы также просмотреть сценарии, удерживайте клавишу `Control` \ (Windows \) или `Command` \ (macOS \), а затем выберите **JS**.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-285">To also see scripts, hold `Control` \(Windows\) or `Command` \(macOS\) and then select **JS**.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-filter-file-type-css-js.msft.png" alt-text="Показывать только файлы CSS и JS" lightbox="../media/network-glitch-network-filter-file-type-css-js.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-filter-file-type-css-js.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-filter-file-type-css-js.msft.png":::
        <span data-ttu-id="fc5f6-287">Показывать только файлы CSS и JS</span><span class="sxs-lookup"><span data-stu-id="fc5f6-287">Show CSS and JS files only</span></span>  
     :::image-end:::  
     
@@ -330,20 +330,20 @@ ms.locfileid: "10993452"
 
 1.  <span data-ttu-id="fc5f6-294">`Control` + `Shift` + `P` Чтобы открыть меню команд, нажмите клавиши \ (Windows \) или `Command` + `Shift` + `P` \ ( **Command Menu**macOS \).</span><span class="sxs-lookup"><span data-stu-id="fc5f6-294">Press `Control`+`Shift`+`P` \(Windows\) or `Command`+`Shift`+`P` \(macOS\) to open the **Command Menu**.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-cli-empty.msft.png" alt-text="Меню команд" lightbox="../media/network-glitch-network-cli-empty.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-cli-empty.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-cli-empty.msft.png":::
        <span data-ttu-id="fc5f6-296">**Меню команд**</span><span class="sxs-lookup"><span data-stu-id="fc5f6-296">The **Command Menu**</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="fc5f6-297">Введите `block` команду **Показать блокировку запросов**и нажмите кнопку `Enter` .</span><span class="sxs-lookup"><span data-stu-id="fc5f6-297">Type `block`, select **Show Request Blocking**, and press `Enter`.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-cli-block.msft.png" alt-text="Показать блокировку запросов" lightbox="../media/network-glitch-network-cli-block.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-cli-block.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-cli-block.msft.png":::
        **<span data-ttu-id="fc5f6-299">Показать блокировку запросов</span><span class="sxs-lookup"><span data-stu-id="fc5f6-299">Show Request Blocking</span></span>**  
     :::image-end:::  
     
 1.  <span data-ttu-id="fc5f6-300">Нажмите кнопку **Добавить узор** \ ( ![ Добавить шаблон ][ImageAddIcon] \).</span><span class="sxs-lookup"><span data-stu-id="fc5f6-300">Select **Add Pattern** \(![Add Pattern][ImageAddIcon]\).</span></span>  
 1.  <span data-ttu-id="fc5f6-301">Введите `main.css`.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-301">Type `main.css`.</span></span>  
     
-    :::image type="complex" source="../media/network-glitch-network-cli-block-add-pattern.msft.png" alt-text="Блокировка Main. CSS" lightbox="../media/network-glitch-network-cli-block-add-pattern.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-cli-block-add-pattern.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-cli-block-add-pattern.msft.png":::
        <span data-ttu-id="fc5f6-303">Снижающи</span><span class="sxs-lookup"><span data-stu-id="fc5f6-303">Blocking</span></span> `main.css`  
     :::image-end:::  
     
@@ -353,7 +353,7 @@ ms.locfileid: "10993452"
     > [!NOTE]
     > <span data-ttu-id="fc5f6-307">`main.css`Строка в сетевом журнале.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-307">The `main.css` row in the Network Log.</span></span>  <span data-ttu-id="fc5f6-308">Красный текст означает, что ресурс заблокирован.</span><span class="sxs-lookup"><span data-stu-id="fc5f6-308">The red text means that the resource was blocked.</span></span>
     
-    :::image type="complex" source="../media/network-glitch-network-cli-block-main-css.msft.png" alt-text="Главный. CSS заблокирован" lightbox="../media/network-glitch-network-cli-block-main-css.msft.png":::
+    :::image type="complex" source="../media/network-glitch-network-cli-block-main-css.msft.png" alt-text="Демонстрация" lightbox="../media/network-glitch-network-cli-block-main-css.msft.png":::
        `main.css` <span data-ttu-id="fc5f6-310">заблокирован</span><span class="sxs-lookup"><span data-stu-id="fc5f6-310">has been blocked</span></span>  
     :::image-end:::  
     

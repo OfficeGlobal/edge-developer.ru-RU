@@ -56,7 +56,7 @@ ms.locfileid: "10993151"
     > [!TIP]
     > Move the demo to a separate window.  
     > 
-    > :::image type="complex" source="../media/log-set-up-1.msft.png" alt-text="The tutorial on the left, and the demo on the right" lightbox="../media/log-set-up-1.msft.png":::
+    > :::image type="complex" source="../media/log-set-up-1.msft.png" alt-text="Сообщения на консоли" lightbox="../media/log-set-up-1.msft.png":::
     >    The tutorial on the left, and the demo on the right  
     > :::image-end:::  
     -->
@@ -65,7 +65,7 @@ ms.locfileid: "10993151"
     
     :::row:::
        :::column span="":::
-          :::image type="complex" source="../media/console-example-devtools-right-console.msft.png" alt-text="DevTools открывается справа от демонстрации" lightbox="../media/console-example-devtools-right-console.msft.png":::
+          :::image type="complex" source="../media/console-example-devtools-right-console.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-example-devtools-right-console.msft.png":::
              <span data-ttu-id="d1495-118">DevTools открывается справа от демонстрации</span><span class="sxs-lookup"><span data-stu-id="d1495-118">DevTools opens to the right of the demo</span></span>  
           :::image-end:::  
        :::column-end:::
@@ -73,7 +73,7 @@ ms.locfileid: "10993151"
           > [!TIP]
           > <span data-ttu-id="d1495-119">[Закрепите DevTools в нижней части окна][DevToolsCustomizePlacement].</span><span class="sxs-lookup"><span data-stu-id="d1495-119">[Dock DevTools to the bottom of the window][DevToolsCustomizePlacement].</span></span>  
           
-          :::image type="complex" source="../media/console-example-devtools-bottom-console.msft.png" alt-text="DevTools закреплено в нижней части демонстрации" lightbox="../media/console-example-devtools-bottom-console.msft.png":::
+          :::image type="complex" source="../media/console-example-devtools-bottom-console.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-example-devtools-bottom-console.msft.png":::
              <span data-ttu-id="d1495-121">DevTools закреплено в нижней части демонстрации</span><span class="sxs-lookup"><span data-stu-id="d1495-121">DevTools docked to the bottom of the demo</span></span>  
           :::image-end:::  
        :::column-end:::
@@ -83,7 +83,7 @@ ms.locfileid: "10993151"
           > [!TIP]
           > <span data-ttu-id="d1495-122">[Открепите DevTools в отдельном окне][DevToolsCustomizePlacement].</span><span class="sxs-lookup"><span data-stu-id="d1495-122">[Undock DevTools into a separate window][DevToolsCustomizePlacement].</span></span>  
           
-          :::image type="complex" source="../media/console-example-devtools-separate-console-browse.msft.png" alt-text="Браузер в отдельном окне" lightbox="../media/console-example-devtools-separate-console-browse.msft.png":::
+          :::image type="complex" source="../media/console-example-devtools-separate-console-browse.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-example-devtools-separate-console-browse.msft.png":::
              <span data-ttu-id="d1495-124">Браузер в отдельном окне</span><span class="sxs-lookup"><span data-stu-id="d1495-124">Browser in a separate window</span></span>  
           :::image-end:::  
        :::column-end:::
@@ -91,7 +91,7 @@ ms.locfileid: "10993151"
           > [!TIP]
           > <span data-ttu-id="d1495-125">[Открепите DevTools в отдельном окне][DevToolsCustomizePlacement].</span><span class="sxs-lookup"><span data-stu-id="d1495-125">[Undock DevTools into a separate window][DevToolsCustomizePlacement].</span></span>  
           
-          :::image type="complex" source="../media/console-example-devtools-separate-console-devtools.msft.png" alt-text="DevTools отсоединяется в отдельном окне" lightbox="../media/console-example-devtools-separate-console-devtools.msft.png":::
+          :::image type="complex" source="../media/console-example-devtools-separate-console-devtools.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-example-devtools-separate-console-devtools.msft.png":::
              <span data-ttu-id="d1495-127">DevTools отсоединяется в отдельном окне</span><span class="sxs-lookup"><span data-stu-id="d1495-127">DevTools undocked in a separate window</span></span>  
           :::image-end:::  
        :::column-end:::
@@ -103,13 +103,13 @@ ms.locfileid: "10993151"
 
 1.  <span data-ttu-id="d1495-131">Нажмите кнопку " **сведения о журнале** " в демонстрационной версии.</span><span class="sxs-lookup"><span data-stu-id="d1495-131">Click the **Log Info** button in the demo.</span></span>  `Hello, Console!` <span data-ttu-id="d1495-132">Получает запись в журнал консоли.</span><span class="sxs-lookup"><span data-stu-id="d1495-132">gets logged to the Console.</span></span>
     
-    :::image type="complex" source="../media/console-log-info.msft.png" alt-text="Консоль после нажатия кнопки "сведения о журнале"" lightbox="../media/console-log-info.msft.png":::
+    :::image type="complex" source="../media/console-log-info.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-log-info.msft.png":::
        <span data-ttu-id="d1495-134">**Консоль** после нажатия кнопки " **сведения о журнале** "</span><span class="sxs-lookup"><span data-stu-id="d1495-134">The **Console** after clicking **Log Info**</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="d1495-135">Рядом с `Hello, Console!` сообщением на консоли щелкните **log.js:2**.</span><span class="sxs-lookup"><span data-stu-id="d1495-135">Next to the `Hello, Console!` message in the Console click **log.js:2**.</span></span>  <span data-ttu-id="d1495-136">Откроется панель источники, в которой выделена строка кода, которая привела к тому, что сообщение будет записано на консоль.</span><span class="sxs-lookup"><span data-stu-id="d1495-136">The Sources panel opens and highlights the line of code that caused the message to get logged to the Console.</span></span>  <span data-ttu-id="d1495-137">Сообщение было занесено в журнал при выполнении кода JavaScript на странице `console.log('Hello, Console!')` .</span><span class="sxs-lookup"><span data-stu-id="d1495-137">The message was logged when the JavaScript of the page ran `console.log('Hello, Console!')`.</span></span>
     
-    :::image type="complex" source="../media/console-sources-logjs.msft.png" alt-text="DevTools открывает панель «источники» после нажатия log.js:2" lightbox="../media/console-sources-logjs.msft.png":::
+    :::image type="complex" source="../media/console-sources-logjs.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-sources-logjs.msft.png":::
        <span data-ttu-id="d1495-139">DevTools открывает панель « **источники** » после нажатия кнопки</span><span class="sxs-lookup"><span data-stu-id="d1495-139">DevTools opens the **Sources** panel after you click</span></span> `log.js:2`  
     :::image-end:::  
     
@@ -121,7 +121,7 @@ ms.locfileid: "10993151"
     
 1.  <span data-ttu-id="d1495-144">Нажмите кнопку **предупреждение журнала** в демонстрационной версии.</span><span class="sxs-lookup"><span data-stu-id="d1495-144">Click the **Log Warning** button in the demo.</span></span>  `Abandon Hope All Ye Who Enter` <span data-ttu-id="d1495-145">Получает запись в журнал консоли.</span><span class="sxs-lookup"><span data-stu-id="d1495-145">gets logged to the Console.</span></span>  <span data-ttu-id="d1495-146">Сообщения, которые форматируются таким образом, представляют собой предупреждения.</span><span class="sxs-lookup"><span data-stu-id="d1495-146">Messages formatted like this are warnings.</span></span>  
     
-    :::image type="complex" source="../media/console-log-warning.msft.png" alt-text="Консоль после нажатия кнопки "записать предупреждение"" lightbox="../media/console-log-warning.msft.png":::
+    :::image type="complex" source="../media/console-log-warning.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-log-warning.msft.png":::
        <span data-ttu-id="d1495-148">**Консоль** после нажатия кнопки " **записать предупреждение** "</span><span class="sxs-lookup"><span data-stu-id="d1495-148">The **Console** after you click **Log Warning**</span></span>  
     :::image-end:::  
     
@@ -130,7 +130,7 @@ ms.locfileid: "10993151"
 
 1.  <span data-ttu-id="d1495-150">Щелкните значок **expand** ( ![ Развернуть ][ImageExpandIcon] ) перед `Abandon Hope All Ye Who Enter` .</span><span class="sxs-lookup"><span data-stu-id="d1495-150">Click the **Expand** \(![Expand][ImageExpandIcon]\) icon in front of `Abandon Hope All Ye Who Enter`.</span></span>  <span data-ttu-id="d1495-151">DevTools показывает [трассировку стека][WikiStackTrace] , ведущая к вызову.</span><span class="sxs-lookup"><span data-stu-id="d1495-151">DevTools shows the [stack trace][WikiStackTrace] leading up to the call.</span></span>  
     
-    :::image type="complex" source="../media/console-log-warning-expanded.msft.png" alt-text="Трассировка стека" lightbox="../media/console-log-warning-expanded.msft.png":::
+    :::image type="complex" source="../media/console-log-warning-expanded.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-log-warning-expanded.msft.png":::
        <span data-ttu-id="d1495-153">Трассировка стека</span><span class="sxs-lookup"><span data-stu-id="d1495-153">A stack trace</span></span>  
     :::image-end:::  
     
@@ -138,7 +138,7 @@ ms.locfileid: "10993151"
 
 1.  <span data-ttu-id="d1495-157">Нажмите " **журнал ошибок**".</span><span class="sxs-lookup"><span data-stu-id="d1495-157">Click **Log Error**.</span></span>  <span data-ttu-id="d1495-158">Регистрируется следующее сообщение об ошибке:</span><span class="sxs-lookup"><span data-stu-id="d1495-158">The following error message gets logged:</span></span> `I'm sorry, Dave.  I'm afraid I can't do that.`  
     
-    :::image type="complex" source="../media/console-log-error.msft.png" alt-text="Сообщение об ошибке" lightbox="../media/console-log-error.msft.png":::
+    :::image type="complex" source="../media/console-log-error.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-log-error.msft.png":::
        <span data-ttu-id="d1495-160">Сообщение об ошибке</span><span class="sxs-lookup"><span data-stu-id="d1495-160">An error message</span></span>  
     :::image-end:::  
     
@@ -147,19 +147,19 @@ ms.locfileid: "10993151"
     > [!NOTE]
     > <span data-ttu-id="d1495-163">`birthday`Столбец заполняется только для одной строки.</span><span class="sxs-lookup"><span data-stu-id="d1495-163">The `birthday` column is only populated for one row.</span></span>  <span data-ttu-id="d1495-164">Проверьте код, чтобы определить причину.</span><span class="sxs-lookup"><span data-stu-id="d1495-164">Review the code to determine why that is.</span></span>
     
-    :::image type="complex" source="../media/console-log-table.msft.png" alt-text="Таблица в консоли" lightbox="../media/console-log-table.msft.png":::
+    :::image type="complex" source="../media/console-log-table.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-log-table.msft.png":::
        <span data-ttu-id="d1495-166">Таблица в **консоли**</span><span class="sxs-lookup"><span data-stu-id="d1495-166">A table in the **Console**</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="d1495-167">Нажмите кнопку **Группа журналов**.</span><span class="sxs-lookup"><span data-stu-id="d1495-167">Click **Log Group**.</span></span>  <span data-ttu-id="d1495-168">Названия четырех знаменитых turtlesных, преступных, группируются под `Adolescent Irradiated Espionage Tortoises` меткой.</span><span class="sxs-lookup"><span data-stu-id="d1495-168">The names of 4 famous, crime-fighting turtles are grouped under the `Adolescent Irradiated Espionage Tortoises` label.</span></span>  
     
-    :::image type="complex" source="../media/console-log-group.msft.png" alt-text="Группа сообщений на консоли" lightbox="../media/console-log-group.msft.png":::
+    :::image type="complex" source="../media/console-log-group.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-log-group.msft.png":::
        <span data-ttu-id="d1495-170">Группа сообщений на **консоли**</span><span class="sxs-lookup"><span data-stu-id="d1495-170">A group of messages in the **Console**</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="d1495-171">Выберите пункт **Журнал настраиваемого**.</span><span class="sxs-lookup"><span data-stu-id="d1495-171">Click **Log Custom**.</span></span>  <span data-ttu-id="d1495-172">Сообщение с красной рамкой и синим фоном записываются в консоль.</span><span class="sxs-lookup"><span data-stu-id="d1495-172">A message with a red border and blue background gets logged to the Console.</span></span>  
     
-    :::image type="complex" source="../media/console-log-custom.msft.png" alt-text="Сообщение с настраиваемым форматированием в консоли" lightbox="../media/console-log-custom.msft.png":::
+    :::image type="complex" source="../media/console-log-custom.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-log-custom.msft.png":::
        <span data-ttu-id="d1495-174">Сообщение с настраиваемым форматированием в **консоли**</span><span class="sxs-lookup"><span data-stu-id="d1495-174">A message with custom formatting in the **Console**</span></span>  
     :::image-end:::  
     
@@ -173,13 +173,13 @@ ms.locfileid: "10993151"
 
 1.  <span data-ttu-id="d1495-182">Нажмите кнопку **причина 404**.</span><span class="sxs-lookup"><span data-stu-id="d1495-182">Click **Cause 404**.</span></span>  <span data-ttu-id="d1495-183">Браузер регистрирует код состояния HTTP `404` ошибки сети, так как сценарий JavaScript пытается получить несуществующий файл.</span><span class="sxs-lookup"><span data-stu-id="d1495-183">The browser logs an HTTP status code of `404` network error because the JavaScript of the page tried to fetch a file that does not exist.</span></span>  
     
-    :::image type="complex" source="../media/console-cause-404.msft.png" alt-text="Ошибка 404 в консоли" lightbox="../media/console-cause-404.msft.png":::
+    :::image type="complex" source="../media/console-cause-404.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-cause-404.msft.png":::
        <span data-ttu-id="d1495-185">`404`Ошибка в **консоли**</span><span class="sxs-lookup"><span data-stu-id="d1495-185">A `404` error in the **Console**</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="d1495-186">Нажмите кнопку **Причина ошибки**.</span><span class="sxs-lookup"><span data-stu-id="d1495-186">Click **Cause Error**.</span></span>  <span data-ttu-id="d1495-187">Браузер регистрирует неперехваченные записи, `TypeError` так как JavaScript пытается обновить несуществующий узел DOM.</span><span class="sxs-lookup"><span data-stu-id="d1495-187">The browser logs an uncaught `TypeError` because the JavaScript is trying to update a DOM node that does not exist.</span></span>  
     
-    :::image type="complex" source="../media/console-cause-error.msft.png" alt-text="TypeError на консоли" lightbox="../media/console-cause-error.msft.png":::
+    :::image type="complex" source="../media/console-cause-error.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-cause-error.msft.png":::
        <span data-ttu-id="d1495-189">А на `TypeError` **консоли**</span><span class="sxs-lookup"><span data-stu-id="d1495-189">A `TypeError` in the **Console**</span></span>  
     :::image-end:::  
     
@@ -188,13 +188,13 @@ ms.locfileid: "10993151"
     > [!NOTE]
     > <span data-ttu-id="d1495-193">Если раскрывающийся список уровни по умолчанию отключен, может потребоваться закрыть панель **консоли** .</span><span class="sxs-lookup"><span data-stu-id="d1495-193">If the Default Levels dropdown is disabled, you may need to close the **Console** Sidebar.</span></span>  <span data-ttu-id="d1495-194">Отфильтровать по источнику сообщения, чтобы получить дополнительные сведения о боковой панели **консоли** .</span><span class="sxs-lookup"><span data-stu-id="d1495-194">Filter by Message Source below for more information about the **Console** Sidebar.</span></span>
     
-    :::image type="complex" source="../media/console-cause-error-log-levels.msft.png" alt-text="Включение подробного уровня ведения журнала" lightbox="../media/console-cause-error-log-levels.msft.png":::
+    :::image type="complex" source="../media/console-cause-error-log-levels.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-cause-error-log-levels.msft.png":::
        <span data-ttu-id="d1495-196">Включение подробного уровня ведения журнала</span><span class="sxs-lookup"><span data-stu-id="d1495-196">Enabling the Verbose log level</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="d1495-197">Нажмите кнопку **вызвать нарушение**.</span><span class="sxs-lookup"><span data-stu-id="d1495-197">Click **Cause Violation**.</span></span>  <span data-ttu-id="d1495-198">Страница перестает отвечать на запросы в течение нескольких секунд, а затем браузер заносит сообщение `[Violation] 'click' handler took 3000ms` на консоль.</span><span class="sxs-lookup"><span data-stu-id="d1495-198">The page becomes unresponsive for a few seconds and then the browser logs the message `[Violation] 'click' handler took 3000ms` to the Console.</span></span>  <span data-ttu-id="d1495-199">Точная длительность может отличаться.</span><span class="sxs-lookup"><span data-stu-id="d1495-199">The exact duration may vary.</span></span>  
     
-    :::image type="complex" source="../media/console-cause-violation.msft.png" alt-text="Нарушение в консоли" lightbox="../media/console-cause-violation.msft.png":::
+    :::image type="complex" source="../media/console-cause-violation.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-cause-violation.msft.png":::
        <span data-ttu-id="d1495-201">Нарушение в **консоли**</span><span class="sxs-lookup"><span data-stu-id="d1495-201">A violation in the **Console**</span></span>  
     :::image-end:::  
     
@@ -208,7 +208,7 @@ ms.locfileid: "10993151"
 
 1.  <span data-ttu-id="d1495-208">Щелкните раскрывающийся список **уровни журнала** и отключите **ошибки**.</span><span class="sxs-lookup"><span data-stu-id="d1495-208">Click the **Log Levels** dropdown and disable **Errors**.</span></span>  <span data-ttu-id="d1495-209">Уровень отключается, если рядом с ним больше нет метки.</span><span class="sxs-lookup"><span data-stu-id="d1495-209">A level is disabled when there is no longer a checkmark next to it.</span></span>  <span data-ttu-id="d1495-210">`Error`Сообщения на уровне пропадают.</span><span class="sxs-lookup"><span data-stu-id="d1495-210">The `Error`-level messages disappear.</span></span>  
     
-    :::image type="complex" source="../media/console-cause-violation-log-levels.msft.png" alt-text="Отключение сообщений уровня ошибки на консоли" lightbox="../media/console-cause-violation-log-levels.msft.png":::
+    :::image type="complex" source="../media/console-cause-violation-log-levels.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-cause-violation-log-levels.msft.png":::
        <span data-ttu-id="d1495-212">Отключение сообщений уровня ошибки на **консоли**</span><span class="sxs-lookup"><span data-stu-id="d1495-212">Disabling Error-level messages in the **Console**</span></span>  
     :::image-end:::  
     
@@ -220,7 +220,7 @@ ms.locfileid: "10993151"
 
 1.  <span data-ttu-id="d1495-217">Введите `Dave` текст в текстовое поле **Фильтр** .</span><span class="sxs-lookup"><span data-stu-id="d1495-217">Type `Dave` into the **Filter** text box.</span></span>  <span data-ttu-id="d1495-218">Все сообщения, в которых не указана строка `Dave` , скрыты.</span><span class="sxs-lookup"><span data-stu-id="d1495-218">All messages that do not include the string `Dave` are hidden.</span></span>  <span data-ttu-id="d1495-219">Кроме того, вы можете увидеть `Adolescent Irradiated Espionage Tortoises` метку.</span><span class="sxs-lookup"><span data-stu-id="d1495-219">You might also see the `Adolescent Irradiated Espionage Tortoises` label.</span></span>  <span data-ttu-id="d1495-220">Это ошибка.</span><span class="sxs-lookup"><span data-stu-id="d1495-220">That is a bug.</span></span>  
     
-    :::image type="complex" source="../media/console-all-messages-text-filter.msft.png" alt-text="Фильтрация сообщений, которые не включают Дэйв" lightbox="../media/console-all-messages-text-filter.msft.png":::
+    :::image type="complex" source="../media/console-all-messages-text-filter.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-all-messages-text-filter.msft.png":::
        <span data-ttu-id="d1495-222">Фильтрация сообщений, которые не включают</span><span class="sxs-lookup"><span data-stu-id="d1495-222">Filtering out any message that does not include</span></span> `Dave`  
     :::image-end:::  
     
@@ -232,7 +232,7 @@ ms.locfileid: "10993151"
 
 1.  <span data-ttu-id="d1495-227">Введите `/^[AH]/` текст в текстовое поле **Фильтр** .</span><span class="sxs-lookup"><span data-stu-id="d1495-227">Type `/^[AH]/` into the **Filter** text box.</span></span>  <span data-ttu-id="d1495-228">Введите этот шаблон в [Regex][|::ref1::|Main] , чтобы узнать, что он делает.</span><span class="sxs-lookup"><span data-stu-id="d1495-228">Type this pattern into [RegExr][|::ref1::|Main] for an explanation of what it is doing.</span></span>  
     
-    :::image type="complex" source="../media/console-all-messages-regex-filter.msft.png" alt-text="Фильтрация сообщений, не соответствующих шаблону" lightbox="../media/console-all-messages-regex-filter.msft.png":::
+    :::image type="complex" source="../media/console-all-messages-regex-filter.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-all-messages-regex-filter.msft.png":::
        <span data-ttu-id="d1495-230">Фильтрация сообщений, не соответствующих шаблону</span><span class="sxs-lookup"><span data-stu-id="d1495-230">Filtering out any message that does not match the pattern</span></span> `/^[AH]/`  
     :::image-end:::  
     
@@ -244,13 +244,13 @@ ms.locfileid: "10993151"
 
 1.  <span data-ttu-id="d1495-235">Нажмите кнопку **Показать боковую панель консоли** \ ( ![ Показать боковую панель консоли ][ImageShowConsoleSidebarIcon] ).</span><span class="sxs-lookup"><span data-stu-id="d1495-235">Click **Show Console Sidebar** \(![Show Console Sidebar][ImageShowConsoleSidebarIcon]\).</span></span>  
     
-    :::image type="complex" source="../media/console-sidebar-all-messages.msft.png" alt-text="Боковая панель" lightbox="../media/console-sidebar-all-messages.msft.png":::
+    :::image type="complex" source="../media/console-sidebar-all-messages.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-sidebar-all-messages.msft.png":::
        <span data-ttu-id="d1495-237">Боковая панель</span><span class="sxs-lookup"><span data-stu-id="d1495-237">The Sidebar</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="d1495-238">Щелкните значок " **развернуть** " и " ![ Развернуть" ][ImageExpandIcon] рядом с количеством сообщений.</span><span class="sxs-lookup"><span data-stu-id="d1495-238">Click the **Expand** \(![Expand][ImageExpandIcon]\) icon next to the number of messages.</span></span>  <span data-ttu-id="d1495-239">На приведенном ниже рисунке количество сообщений обозначено **13 сообщениями**.</span><span class="sxs-lookup"><span data-stu-id="d1495-239">In the following figure, the number of messages is indicated as **13 Messages**.</span></span>  <span data-ttu-id="d1495-240">На **боковой панели** отображается список URL-адресов, которые привели к тому, что сообщения записываются в журнал.</span><span class="sxs-lookup"><span data-stu-id="d1495-240">The **Sidebar** shows a list of URLs that caused messages to be logged.</span></span>  <span data-ttu-id="d1495-241">Например, это `log.js` связано с 11 сообщениями.</span><span class="sxs-lookup"><span data-stu-id="d1495-241">For example, `log.js` caused 11 messages.</span></span>  
     
-    :::image type="complex" source="../media/console-sidebar-expanded-all-messages.msft.png" alt-text="Просмотр источника сообщений на боковой панели" lightbox="../media/console-sidebar-expanded-all-messages.msft.png":::
+    :::image type="complex" source="../media/console-sidebar-expanded-all-messages.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-sidebar-expanded-all-messages.msft.png":::
        <span data-ttu-id="d1495-243">Просмотр источника сообщений на боковой панели</span><span class="sxs-lookup"><span data-stu-id="d1495-243">Viewing the source of messages in the Sidebar</span></span>  
     :::image-end:::  
     
@@ -260,7 +260,7 @@ ms.locfileid: "10993151"
 
 1.  <span data-ttu-id="d1495-250">Выберите **9 пользовательских сообщений**.</span><span class="sxs-lookup"><span data-stu-id="d1495-250">Click **9 User Messages**.</span></span>  <span data-ttu-id="d1495-251">Сообщения браузера скрыты.</span><span class="sxs-lookup"><span data-stu-id="d1495-251">The browser messages are hidden.</span></span>  
     
-    :::image type="complex" source="../media/console-sidebar-user-messages.msft.png" alt-text="Фильтрация сообщений браузера" lightbox="../media/console-sidebar-user-messages.msft.png":::
+    :::image type="complex" source="../media/console-sidebar-user-messages.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-sidebar-user-messages.msft.png":::
        <span data-ttu-id="d1495-253">Фильтрация сообщений браузера</span><span class="sxs-lookup"><span data-stu-id="d1495-253">Filtering out browser messages</span></span>  
     :::image-end:::  
     
@@ -273,7 +273,7 @@ ms.locfileid: "10993151"
 1.  <span data-ttu-id="d1495-258">Откройте вкладку **элементы** .</span><span class="sxs-lookup"><span data-stu-id="d1495-258">Click the **Elements** tab.</span></span>  
 1.  <span data-ttu-id="d1495-259">Нажмите клавишу `Escape` .</span><span class="sxs-lookup"><span data-stu-id="d1495-259">Press `Escape`.</span></span>  <span data-ttu-id="d1495-260">Откроется вкладка "консоль" для **ящика** .</span><span class="sxs-lookup"><span data-stu-id="d1495-260">The Console tab of the **Drawer** opens.</span></span>  <span data-ttu-id="d1495-261">У него есть все функции панели консоли, которые использовались в этом учебнике.</span><span class="sxs-lookup"><span data-stu-id="d1495-261">It has all of the features of the Console panel that you have been using throughout this tutorial.</span></span>  
     
-    :::image type="complex" source="../media/console-elements-drawer-console-sidebar-all-messages.msft.png" alt-text="Вкладка «консоль» в ящике" lightbox="../media/console-elements-drawer-console-sidebar-all-messages.msft.png":::
+    :::image type="complex" source="../media/console-elements-drawer-console-sidebar-all-messages.msft.png" alt-text="Сообщения на консоли" lightbox="../media/console-elements-drawer-console-sidebar-all-messages.msft.png":::
          <span data-ttu-id="d1495-263">Вкладка « **консоль** » в **ящике**</span><span class="sxs-lookup"><span data-stu-id="d1495-263">The **Console** tab in the **Drawer**</span></span>  
     :::image-end:::  
     

@@ -53,7 +53,7 @@ $_
 
 <span data-ttu-id="0e5f0-116">На приведенном ниже рисунке вычисленное выражение изначально включает массив имен.</span><span class="sxs-lookup"><span data-stu-id="0e5f0-116">In the following figure, the evaluated expression initially contains an array of names.</span></span>  <span data-ttu-id="0e5f0-117">Вычисление `$_.length` для определения длины массива, значение, хранящееся в `$_` изменениях, становится последним вычисленным выражением `4` .</span><span class="sxs-lookup"><span data-stu-id="0e5f0-117">Evaluating `$_.length` to find the length of the array, the value stored in `$_` changes to become the latest evaluated expression, `4`.</span></span>  
 
-:::image type="complex" source="../media/console-array-length.msft.png" alt-text="$ _ изменения при вычислении новых команд" lightbox="../media/console-array-length.msft.png":::
+:::image type="complex" source="../media/console-array-length.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-array-length.msft.png":::
    <span data-ttu-id="0e5f0-119">Рисунок 2:  `$_` изменения при вычислении новых команд</span><span class="sxs-lookup"><span data-stu-id="0e5f0-119">Figure 2:  `$_` changes when new commands are evaluated</span></span>  
 :::image-end:::  
 
@@ -99,13 +99,13 @@ $0
 
 <span data-ttu-id="0e5f0-124">На рисунке ниже показан элемент, `img` выбранный на панели **элементы** .</span><span class="sxs-lookup"><span data-stu-id="0e5f0-124">In the following figure, an `img` element is selected in the **Elements** panel.</span></span>  <span data-ttu-id="0e5f0-125">В ящике **консоли** `$0` вычисляется и отображается один и тот же элемент.</span><span class="sxs-lookup"><span data-stu-id="0e5f0-125">In the **Console** drawer, `$0` has been evaluated and displays the same element.</span></span>  
 
-:::image type="complex" source="../media/console-image-highlighted-$0.msft.png" alt-text="$0" lightbox="../media/console-image-highlighted-$0.msft.png":::
+:::image type="complex" source="../media/console-image-highlighted-$0.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-image-highlighted-$0.msft.png":::
    <span data-ttu-id="0e5f0-127">Рис. 3:</span><span class="sxs-lookup"><span data-stu-id="0e5f0-127">Figure 3:  The</span></span> `$0`  
 :::image-end:::  
 
 <span data-ttu-id="0e5f0-128">На приведенном ниже рисунке показано, как на изображении показан другой элемент, выбранный на той же странице.</span><span class="sxs-lookup"><span data-stu-id="0e5f0-128">In the following figure, the image shows a different element selected in the same page.</span></span>  <span data-ttu-id="0e5f0-129">`$0`Теперь он ссылается на только что выбранный элемент, то `$1` есть возвращает ранее выбранное.</span><span class="sxs-lookup"><span data-stu-id="0e5f0-129">The `$0` now refers to the newly selected element, while `$1` returns the previously selected one.</span></span>  
 
-:::image type="complex" source="../media/console-image-highlighted-$1.msft.png" alt-text="$1" lightbox="../media/console-image-highlighted-$1.msft.png":::
+:::image type="complex" source="../media/console-image-highlighted-$1.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-image-highlighted-$1.msft.png":::
    <span data-ttu-id="0e5f0-131">На рисунке 4:</span><span class="sxs-lookup"><span data-stu-id="0e5f0-131">Figure 4:  The</span></span> `$1`  
 :::image-end:::  
 
@@ -119,7 +119,7 @@ $(selector, [startNode])
 
 <span data-ttu-id="0e5f0-135">На приведенном ниже рисунке возвращается ссылка на первый `<img>` элемент в документе.</span><span class="sxs-lookup"><span data-stu-id="0e5f0-135">In the following figure, a reference to the first `<img>` element in the document is returned.</span></span>  
 
-:::image type="complex" source="../media/console-element-selector-image.msft.png" alt-text="$ ("Img")" lightbox="../media/console-element-selector-image.msft.png":::
+:::image type="complex" source="../media/console-element-selector-image.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-element-selector-image.msft.png":::
    <span data-ttu-id="0e5f0-137">На рисунке 5:</span><span class="sxs-lookup"><span data-stu-id="0e5f0-137">Figure 5:  The</span></span> `$('img')`  
 :::image-end:::  
 
@@ -127,7 +127,7 @@ $(selector, [startNode])
 
 <span data-ttu-id="0e5f0-139">На приведенном ниже рисунке возвращается ссылка на элемент, выбранный в данный момент, и отображается свойство src.</span><span class="sxs-lookup"><span data-stu-id="0e5f0-139">In the following figure, a reference to the currently selected element is returned and the src property is displayed.</span></span>  
 
-:::image type="complex" source="../media/console-element-selector-image-source.msft.png" alt-text="$ ("Img"). src" lightbox="../media/console-element-selector-image-source.msft.png":::
+:::image type="complex" source="../media/console-element-selector-image-source.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-element-selector-image-source.msft.png":::
    <span data-ttu-id="0e5f0-141">На рисунке 6:</span><span class="sxs-lookup"><span data-stu-id="0e5f0-141">Figure 6:  The</span></span> `$('img').src`  
 :::image-end:::  
 
@@ -135,7 +135,7 @@ $(selector, [startNode])
 
 <span data-ttu-id="0e5f0-144">На приведенном ниже рисунке первый `img` элемент найден после элемента `title--image` и отображается `src` правильно.</span><span class="sxs-lookup"><span data-stu-id="0e5f0-144">In the following figure, the first `img` element is found after the `title--image` and displays the `src` properly is returned.</span></span>  
 
-:::image type="complex" source="../media/console-element-selector-image-filter-source.msft.png" alt-text="$ ("Img", Document. querySelector ("Title--Image")). src" lightbox="../media/console-element-selector-image-filter-source.msft.png":::
+:::image type="complex" source="../media/console-element-selector-image-filter-source.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-element-selector-image-filter-source.msft.png":::
    <span data-ttu-id="0e5f0-146">На рисунке 7:</span><span class="sxs-lookup"><span data-stu-id="0e5f0-146">Figure 7:  The</span></span> `$('img', document.querySelector('title--image')).src`  
 :::image-end:::  
 
@@ -159,7 +159,7 @@ for (each in images) {
 }
 ```  
 
-:::image type="complex" source="../media/console-element-selector-image-all.msft.png" alt-text="Использование $ $ () для выбора всех изображений в документе и отображения источников" lightbox="../media/console-element-selector-image-all.msft.png":::
+:::image type="complex" source="../media/console-element-selector-image-all.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-element-selector-image-all.msft.png":::
    <span data-ttu-id="0e5f0-153">Рисунок 8: использование `$$()` для выделения всех изображений в документе и отображения источников</span><span class="sxs-lookup"><span data-stu-id="0e5f0-153">Figure 8:  Using `$$()` to select all images in the document and display the sources</span></span>  
 :::image-end:::  
 
@@ -174,7 +174,7 @@ for (each in images) {
 }
 ```  
 
-:::image type="complex" source="../media/console-element-selector-image-filter-all.msft.png" alt-text="Использование $ $ () для выбора всех изображений, которые отображаются после указанного <div> элемента в документе и отображения источников" lightbox="../media/console-element-selector-image-filter-all.msft.png":::
+:::image type="complex" source="../media/console-element-selector-image-filter-all.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-element-selector-image-filter-all.msft.png":::
    <span data-ttu-id="0e5f0-158">Рисунок 9: использование `$$()` для выбора всех изображений, которые отображаются после указанного `<div>` элемента в документе, и отображения источников</span><span class="sxs-lookup"><span data-stu-id="0e5f0-158">Figure 9:  Using `$$()` to select all images that appear after the specified `<div>` element in the document and display the sources</span></span>  
 :::image-end:::  
 
@@ -195,7 +195,7 @@ $x(path, [startNode])
 $x("//p")
 ```  
 
-:::image type="complex" source="../media/console-array-xpath.msft.png" alt-text="Использование селектора XPath" lightbox="../media/console-array-xpath.msft.png":::
+:::image type="complex" source="../media/console-array-xpath.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-array-xpath.msft.png":::
    <span data-ttu-id="0e5f0-164">Рисунок 10: использование селектора XPath</span><span class="sxs-lookup"><span data-stu-id="0e5f0-164">Figure 10:  Using an XPath selector</span></span>  
 :::image-end:::  
 
@@ -205,13 +205,13 @@ $x("//p")
 $x("//p[a]")
 ```  
 
-:::image type="complex" source="../media/console-array-xpath-sub-element.msft.png" alt-text="Использование более сложного селектора XPath" lightbox="../media/console-array-xpath-sub-element.msft.png":::
+:::image type="complex" source="../media/console-array-xpath-sub-element.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-array-xpath-sub-element.msft.png":::
    <span data-ttu-id="0e5f0-167">Рисунок 11: использование более сложного селектора XPath</span><span class="sxs-lookup"><span data-stu-id="0e5f0-167">Figure 11:  Using a more complicated XPath selector</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="0e5f0-168">Как и другие команды Selector, `$x(path)` имеет дополнительный второй параметр, `startNode` указывающий на элемент или узел, из которого нужно выполнить поиск элементов.</span><span class="sxs-lookup"><span data-stu-id="0e5f0-168">Similar to the other selector commands, `$x(path)` has an optional second parameter, `startNode`, that specifies an element or Node from which to search for elements.</span></span>  
 
-:::image type="complex" source="../media/console-array-xpath-startnode.msft.png" alt-text="Использование селектора XPath с startNode" lightbox="../media/console-array-xpath-startnode.msft.png":::
+:::image type="complex" source="../media/console-array-xpath-startnode.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-array-xpath-startnode.msft.png":::
    <span data-ttu-id="0e5f0-170">Рисунок 12: использование селектора XPath с</span><span class="sxs-lookup"><span data-stu-id="0e5f0-170">Figure 12:  Using an XPath selector with</span></span> `startNode`  
 :::image-end:::  
 
@@ -254,7 +254,7 @@ debug(method)
 debug("debug");
 ```  
 
-:::image type="complex" source="../media/console-debug-text.msft.png" alt-text="Прерывание в методе с помощью Debug ()" lightbox="../media/console-debug-text.msft.png":::
+:::image type="complex" source="../media/console-debug-text.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-debug-text.msft.png":::
    <span data-ttu-id="0e5f0-180">Рисунок 13: прерывание внутри метода с</span><span class="sxs-lookup"><span data-stu-id="0e5f0-180">Figure 13:  Breaking inside a method with</span></span> `debug()`  
 :::image-end:::  
 
@@ -277,7 +277,7 @@ document.head;
 dir(document.head);
 ```  
 
-:::image type="complex" source="../media/console-dir-document-head-expanded.msft.png" alt-text="Ведение журнала. Head с помощью метода dir ()" lightbox="../media/console-dir-document-head-expanded.msft.png":::
+:::image type="complex" source="../media/console-dir-document-head-expanded.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-dir-document-head-expanded.msft.png":::
    <span data-ttu-id="0e5f0-189">Рисунок 14: ведение журнала `document.head` с помощью `dir()` метода</span><span class="sxs-lookup"><span data-stu-id="0e5f0-189">Figure 14:  Logging `document.head` with `dir()` method</span></span>  
 :::image-end:::  
 
@@ -305,7 +305,7 @@ inspect(object/method)
 inspect(document.body);
 ```  
 
-:::image type="complex" source="../media/console-inspect-document-body.msft.png" alt-text="Проверка элемента с помощью проверки ()" lightbox="../media/console-inspect-document-body.msft.png":::
+:::image type="complex" source="../media/console-inspect-document-body.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-inspect-document-body.msft.png":::
    <span data-ttu-id="0e5f0-197">Рис. 15: Проверка элемента с помощью</span><span class="sxs-lookup"><span data-stu-id="0e5f0-197">Figure 15:  Inspecting an element with</span></span> `inspect()`  
 :::image-end:::  
 
@@ -323,19 +323,19 @@ getEventListeners(object)
 getEventListeners(document);
 ```  
 
-:::image type="complex" source="../media/console-elements-event-listeners-console-get-event-listeners-document.msft.png" alt-text="Вывод на печать с использованием getEventListeners (документ)" lightbox="../media/console-elements-event-listeners-console-get-event-listeners-document.msft.png":::
+:::image type="complex" source="../media/console-elements-event-listeners-console-get-event-listeners-document.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-elements-event-listeners-console-get-event-listeners-document.msft.png":::
    <span data-ttu-id="0e5f0-205">Рисунок 16: результат использования</span><span class="sxs-lookup"><span data-stu-id="0e5f0-205">Figure 16:  The result of using</span></span> `getEventListeners(document)`  
 :::image-end:::  
 
 <span data-ttu-id="0e5f0-206">Если в указанном объекте зарегистрировано более одного прослушивателя, то массив содержит элемент для каждого прослушивателя.</span><span class="sxs-lookup"><span data-stu-id="0e5f0-206">If more than one listener is registered on the specified object, then the array contains a member for each listener.</span></span>  <span data-ttu-id="0e5f0-207">На рисунке ниже показано, как в элементе Document для события зарегистрированы два прослушивателя событий `click` .</span><span class="sxs-lookup"><span data-stu-id="0e5f0-207">In the following figure, there are two event listeners registered on the document element for the `click` event.</span></span>  
 
-:::image type="complex" source="../media/console-elements-event-listeners-console-get-event-listeners-document-expanded-1.msft.png" alt-text="Несколько прослушивателей" lightbox="../media/console-elements-event-listeners-console-get-event-listeners-document-expanded-1.msft.png":::
+:::image type="complex" source="../media/console-elements-event-listeners-console-get-event-listeners-document-expanded-1.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-elements-event-listeners-console-get-event-listeners-document-expanded-1.msft.png":::
    <span data-ttu-id="0e5f0-209">Рисунок 17: несколько прослушивателей</span><span class="sxs-lookup"><span data-stu-id="0e5f0-209">Figure 17:  Multiple listeners</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="0e5f0-210">Вы можете расширить каждый из указанных ниже объектов, чтобы просмотреть свойства.</span><span class="sxs-lookup"><span data-stu-id="0e5f0-210">You may further expand each of the following objects to explore the properties.</span></span>  
 
-:::image type="complex" source="../media/console-elements-event-listeners-console-get-event-listeners-document-2.msft.png" alt-text="Развернутое представление объекта прослушивателя" lightbox="../media/console-elements-event-listeners-console-get-event-listeners-document-2.msft.png":::
+:::image type="complex" source="../media/console-elements-event-listeners-console-get-event-listeners-document-2.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-elements-event-listeners-console-get-event-listeners-document-2.msft.png":::
    <span data-ttu-id="0e5f0-212">Рисунок 18: развернутое представление объекта прослушивателя</span><span class="sxs-lookup"><span data-stu-id="0e5f0-212">Figure 18:  Expanded view of listener object</span></span>  
 :::image-end:::  
 
@@ -361,7 +361,7 @@ keys(player1)
 values(player1)
 ```  
 
-:::image type="complex" source="../media/console-keys-values.msft.png" alt-text="Команды Keys () и Values ()" lightbox="../media/console-keys-values.msft.png":::
+:::image type="complex" source="../media/console-keys-values.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-keys-values.msft.png":::
    <span data-ttu-id="0e5f0-219">На рисунке 19: `keys()` `values()` команды и</span><span class="sxs-lookup"><span data-stu-id="0e5f0-219">Figure 19:  The `keys()` and `values()` commands</span></span>  
 :::image-end:::  
 
@@ -380,7 +380,7 @@ function sum(x, y) {
 monitor(sum);
 ```  
 
-:::image type="complex" source="../media/console-function-monitor-sum.msft.png" alt-text="Метод Monitor ()" lightbox="../media/console-function-monitor-sum.msft.png":::
+:::image type="complex" source="../media/console-function-monitor-sum.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-function-monitor-sum.msft.png":::
    <span data-ttu-id="0e5f0-223">Рис. 20: `monitor()` метод</span><span class="sxs-lookup"><span data-stu-id="0e5f0-223">Figure 20:  The `monitor()` method</span></span>  
 :::image-end:::  
 
@@ -400,7 +400,7 @@ monitorEvents(object[, events])
 monitorEvents(window, "resize");
 ```  
 
-:::image type="complex" source="../media/console-monitor-events-resize-window.msft.png" alt-text="Наблюдение за событиями изменения размера окна" lightbox="../media/console-monitor-events-resize-window.msft.png":::
+:::image type="complex" source="../media/console-monitor-events-resize-window.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-monitor-events-resize-window.msft.png":::
    <span data-ttu-id="0e5f0-231">Рисунок 21: наблюдение за событиями изменения размера окна</span><span class="sxs-lookup"><span data-stu-id="0e5f0-231">Figure 21:  Monitoring window resize events</span></span>  
 :::image-end:::  
 
@@ -427,7 +427,7 @@ monitorEvents($0, "key");
 
 <span data-ttu-id="0e5f0-242">На приведенном ниже рисунке показан пример выходных данных после ввода символа в текстовом поле.</span><span class="sxs-lookup"><span data-stu-id="0e5f0-242">In the following figure the sample output after typing a character in the text field is displayed.</span></span>  
 
-:::image type="complex" source="../media/console-monitor-events-type-t-y.msft.png" alt-text="Контроль событий ключа" lightbox="../media/console-monitor-events-type-t-y.msft.png":::
+:::image type="complex" source="../media/console-monitor-events-type-t-y.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-monitor-events-type-t-y.msft.png":::
    <span data-ttu-id="0e5f0-244">Рис. 22: Отслеживание ключевых событий</span><span class="sxs-lookup"><span data-stu-id="0e5f0-244">Figure 22:  Monitoring key events</span></span>  
 :::image-end:::  
 
@@ -485,7 +485,7 @@ profileEnd('B');
 
 <span data-ttu-id="0e5f0-260">Результат появится в виде снимка кучи на панели " **память** ".</span><span class="sxs-lookup"><span data-stu-id="0e5f0-260">The result appears as a Heap Snapshot in the **Memory** panel.</span></span>  
 
-:::image type="complex" source="../media/console-memory-multiple-cpu-profiles.msft.png" alt-text="Сгруппированные профили" lightbox="../media/console-memory-multiple-cpu-profiles.msft.png":::
+:::image type="complex" source="../media/console-memory-multiple-cpu-profiles.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-memory-multiple-cpu-profiles.msft.png":::
    <span data-ttu-id="0e5f0-262">Рисунок 23: сгруппированные профили</span><span class="sxs-lookup"><span data-stu-id="0e5f0-262">Figure 23:  Grouped profiles</span></span>  
 :::image-end:::  
 
@@ -548,7 +548,7 @@ var names = {
 table(names);
 ```  
 
-:::image type="complex" source="../media/console-table-display.msft.png" alt-text="Результат выполнения метода Table ()" lightbox="../media/console-table-display.msft.png":::
+:::image type="complex" source="../media/console-table-display.msft.png" alt-text="$ _ — это последнее вычисленное выражение" lightbox="../media/console-table-display.msft.png":::
    <span data-ttu-id="0e5f0-274">Рисунок 24: результат выполнения `table()` метода</span><span class="sxs-lookup"><span data-stu-id="0e5f0-274">Figure 24:  The result of the `table()` method</span></span>  
 :::image-end:::  
 

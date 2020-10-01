@@ -49,7 +49,7 @@ ms.locfileid: "10993375"
 
 <span data-ttu-id="0d8c7-112">На **каскаде** на приведенном ниже рисунке первые шесть запросов `edge-iconx1024.msft.png` актива запускаются одновременно.</span><span class="sxs-lookup"><span data-stu-id="0d8c7-112">In the **Waterfall** in the following figure, the first six requests for the `edge-iconx1024.msft.png` asset start simultaneously.</span></span>  <span data-ttu-id="0d8c7-113">Последующие запросы загружаются до тех пор, пока не завершится один из этих шести первоначальных элементов.</span><span class="sxs-lookup"><span data-stu-id="0d8c7-113">The subsequent requests are stalled until one of the original six finishes.</span></span>  
 
-:::image type="complex" source="../media/network-network-disabled-cache-resources-queue.msft.png" alt-text="Пример списка в очереди или остановленного ряда на панели "сеть"" lightbox="../media/network-network-disabled-cache-resources-queue.msft.png":::
+:::image type="complex" source="../media/network-network-disabled-cache-resources-queue.msft.png" alt-text="Пример списка в очереди или остановленного ряда на панели &quot;сеть&quot;" lightbox="../media/network-network-disabled-cache-resources-queue.msft.png":::
    <span data-ttu-id="0d8c7-115">Пример списка в очереди или остановленного ряда на панели " **сеть** "</span><span class="sxs-lookup"><span data-stu-id="0d8c7-115">An example of a queued or stalled series in the **Network** panel</span></span>  
 :::image-end:::  
 
@@ -71,7 +71,7 @@ ms.locfileid: "10993375"
 
 <span data-ttu-id="0d8c7-127">На рисунке ниже показана длинная зеленая полоса в **каскаде** , указывающая на то, что запрос был выполнен в течение длительного времени.</span><span class="sxs-lookup"><span data-stu-id="0d8c7-127">In the following figure, the long, green bar in the **Waterfall** indicates that the request was waiting a long time.</span></span>  <span data-ttu-id="0d8c7-128">Это было смоделировано с помощью профиля, ограничивающего скорость сети и добавляя задержку.</span><span class="sxs-lookup"><span data-stu-id="0d8c7-128">This was simulated using a profile to restrict network speed and add a delay.</span></span>  
 
-:::image type="complex" source="../media/network-network-resources-using-dial-up-profile.msft.png" alt-text="Пример запроса с медленным временем до получения первого байта" lightbox="../media/network-network-resources-using-dial-up-profile.msft.png":::
+:::image type="complex" source="../media/network-network-resources-using-dial-up-profile.msft.png" alt-text="Пример списка в очереди или остановленного ряда на панели &quot;сеть&quot;" lightbox="../media/network-network-resources-using-dial-up-profile.msft.png":::
    <span data-ttu-id="0d8c7-130">Пример запроса с медленным временем до получения первого байта</span><span class="sxs-lookup"><span data-stu-id="0d8c7-130">An example of a request with a slow Time To First Byte</span></span>  
 :::image-end:::  
 
@@ -93,7 +93,7 @@ ms.locfileid: "10993375"
 
 <span data-ttu-id="0d8c7-142">На приведенном ниже рисунке показана длинная синяя полоса в **каскаде** рядом с форматом PNG, поэтому загрузка занимает много времени.</span><span class="sxs-lookup"><span data-stu-id="0d8c7-142">In the following figure, the long, blue bar in the **Waterfall** next to the png means it took a long time to download.</span></span>  
 
-:::image type="complex" source="../media/network-network-resources-edge-devtools.msft.png" alt-text="Пример запроса, загрузка которого занимает много времени" lightbox="../media/network-network-resources-edge-devtools.msft.png":::
+:::image type="complex" source="../media/network-network-resources-edge-devtools.msft.png" alt-text="Пример списка в очереди или остановленного ряда на панели &quot;сеть&quot;" lightbox="../media/network-network-resources-edge-devtools.msft.png":::
    <span data-ttu-id="0d8c7-144">Пример запроса, загрузка которого занимает много времени</span><span class="sxs-lookup"><span data-stu-id="0d8c7-144">An example of a request that takes a long time to download</span></span>  
 :::image-end:::  
 

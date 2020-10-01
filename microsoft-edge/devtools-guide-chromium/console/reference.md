@@ -54,7 +54,7 @@ ms.locfileid: "10993144"
 
 <span data-ttu-id="fe6aa-116">Чтобы открыть панель консоли из [меню команд][DevToolsCommandMenu], начните вводить текст, `Console` а затем запустите команду **Показать консоль** с индикатором **панели** рядом с ним.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-116">To open the Console panel from the [Command Menu][DevToolsCommandMenu], start typing `Console` and then run the **Show Console** command that has the **Panel** badge next to it.</span></span>  
 
-:::image type="complex" source="../media/console-command-menu-show-console.msft.png" alt-text="Команда для отображения панели консоли" lightbox="../media/console-command-menu-show-console.msft.png":::
+:::image type="complex" source="../media/console-command-menu-show-console.msft.png" alt-text="Панель консоли" lightbox="../media/console-command-menu-show-console.msft.png":::
    <span data-ttu-id="fe6aa-118">Команда для отображения панели **консоли**</span><span class="sxs-lookup"><span data-stu-id="fe6aa-118">The command to show the **Console** panel</span></span>  
 :::image-end:::  
 
@@ -62,19 +62,19 @@ ms.locfileid: "10993144"
 
 <span data-ttu-id="fe6aa-120">Нажмите `Escape` или щелкните **настроить DevTools** \ ( `...` \) и выберите пункт **Показать входной ящик консоли**.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-120">Press `Escape` or click **Customize And Control DevTools** \(`...`\) and then select **Show console drawer**.</span></span>  
 
-:::image type="complex" source="../media/console-elements-customize-control-devtools-show-console-drawer.msft.png" alt-text="Показать консольный ящик" lightbox="../media/console-elements-customize-control-devtools-show-console-drawer.msft.png":::
+:::image type="complex" source="../media/console-elements-customize-control-devtools-show-console-drawer.msft.png" alt-text="Панель консоли" lightbox="../media/console-elements-customize-control-devtools-show-console-drawer.msft.png":::
    **<span data-ttu-id="fe6aa-122">Показать консольный ящик</span><span class="sxs-lookup"><span data-stu-id="fe6aa-122">Show console drawer</span></span>**  
 :::image-end:::  
 
 <span data-ttu-id="fe6aa-123">Ящик появляется в нижней части окна DevTools и открывается вкладка **консоли** .</span><span class="sxs-lookup"><span data-stu-id="fe6aa-123">The Drawer pops up at the bottom of your DevTools window, with the **Console** tab open.</span></span>  
 
-:::image type="complex" source="../media/console-elements-console-drawer-hello-world.msft.png" alt-text="Вкладка «консоль» в ящике" lightbox="../media/console-elements-console-drawer-hello-world.msft.png":::
+:::image type="complex" source="../media/console-elements-console-drawer-hello-world.msft.png" alt-text="Панель консоли" lightbox="../media/console-elements-console-drawer-hello-world.msft.png":::
    <span data-ttu-id="fe6aa-125">Вкладка « **консоль** » в **ящике**</span><span class="sxs-lookup"><span data-stu-id="fe6aa-125">The **Console** tab in the **Drawer**</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="fe6aa-126">Чтобы открыть вкладку консоль в [меню команд][DevToolsCommandMenu], начните вводить текст, `Console` а затем запустите команду **Показать консоль** с индикатором **ящика** рядом с ним.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-126">To open the Console tab from the [Command Menu][DevToolsCommandMenu], start typing `Console` and then run the **Show Console** command that has the **Drawer** badge next to it.</span></span>  
 
-:::image type="complex" source="../media/console-command-menu-show-console.msft.png" alt-text="Команда для отображения вкладки "консоль" в ящике" lightbox="../media/console-command-menu-show-console.msft.png":::
+:::image type="complex" source="../media/console-command-menu-show-console.msft.png" alt-text="Панель консоли" lightbox="../media/console-command-menu-show-console.msft.png":::
    <span data-ttu-id="fe6aa-128">Команда для отображения вкладки " **консоль** " в **ящике**</span><span class="sxs-lookup"><span data-stu-id="fe6aa-128">The command to show the **Console** tab in the **Drawer**</span></span>  
 :::image-end:::  
 
@@ -82,7 +82,7 @@ ms.locfileid: "10993144"
 
 <span data-ttu-id="fe6aa-130">Нажмите кнопку **Параметры консоли** \ ( ![ Параметры консоли ][ImageSettingsButtonIcon] \).</span><span class="sxs-lookup"><span data-stu-id="fe6aa-130">Click **Console Settings** \(![Console Settings][ImageSettingsButtonIcon]\).</span></span>  
 
-:::image type="complex" source="../media/console-settings-group-similar-empty.msft.png" alt-text="Параметры консоли" lightbox="../media/console-settings-group-similar-empty.msft.png":::
+:::image type="complex" source="../media/console-settings-group-similar-empty.msft.png" alt-text="Панель консоли" lightbox="../media/console-settings-group-similar-empty.msft.png":::
    **<span data-ttu-id="fe6aa-132">Параметры консоли</span><span class="sxs-lookup"><span data-stu-id="fe6aa-132">Console Settings</span></span>**  
 :::image-end:::  
 
@@ -100,7 +100,7 @@ ms.locfileid: "10993144"
 
 <span data-ttu-id="fe6aa-142">Нажмите кнопку **Показать боковую панель консоли** \ ( ![ Показать боковую панель консоли ][ImageShowConsoleSidebarIcon] ), чтобы отобразить боковую панель, которая удобна для фильтрации.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-142">Click **Show Console Sidebar** \(![Show Console Sidebar][ImageShowConsoleSidebarIcon]\) to show the Sidebar, which is useful for filtering.</span></span>  
 
-:::image type="complex" source="../media/console-sidebar-drawer-empty.msft.png" alt-text="Боковая панель консоли" lightbox="../media/console-sidebar-drawer-empty.msft.png":::
+:::image type="complex" source="../media/console-sidebar-drawer-empty.msft.png" alt-text="Панель консоли" lightbox="../media/console-sidebar-drawer-empty.msft.png":::
    <span data-ttu-id="fe6aa-144">**Console (консоль** ) Врезка</span><span class="sxs-lookup"><span data-stu-id="fe6aa-144">**Console** Sidebar</span></span>  
 :::image-end:::  
 
@@ -116,7 +116,7 @@ ms.locfileid: "10993144"
 
 <span data-ttu-id="fe6aa-152">[Откройте параметры консоли](#open-console-settings) и включите в **журнал записи XMLHttpRequest** , чтобы регистрировать все `XMLHttpRequest` и `Fetch` запросы на консоли по мере их появления.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-152">[Open Console Settings](#open-console-settings) and enable **Log XMLHttpRequests** to log all `XMLHttpRequest` and `Fetch` requests to the Console as they happen.</span></span>  
 
-:::image type="complex" source="../media/console-xhr-fetch.msft.png" alt-text="Запись запросов на XMLHttpRequest и выборке" lightbox="../media/console-xhr-fetch.msft.png":::
+:::image type="complex" source="../media/console-xhr-fetch.msft.png" alt-text="Панель консоли" lightbox="../media/console-xhr-fetch.msft.png":::
    <span data-ttu-id="fe6aa-154">Журналы `XMLHttpRequest` и `Fetch` запросы</span><span class="sxs-lookup"><span data-stu-id="fe6aa-154">Log `XMLHttpRequest` and `Fetch` requests</span></span>  
 :::image-end:::  
 <span data-ttu-id="fe6aa-155">Верхнее сообщение на предыдущем рисунке показывает поведение группировки по умолчанию для **консоли**.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-155">The top message in previous figure displays the default grouping behavior of the **Console**.</span></span>  <!--  In the following figure, the same log is displayed after [disabling message grouping](#disable-message-grouping).  -->  
@@ -124,7 +124,7 @@ ms.locfileid: "10993144"
 <!--  
 > ##### Old Figure 9  
 > How the logged `XMLHttpRequest` and `Fetch` requests look after ungrouping  
-> :::image type="complex" source="../media/console-xhr-fetch-all.msft.png" alt-text="How the logged XMLHttpRequest and Fetch requests look after ungrouping" lightbox="../media/console-xhr-fetch-all.msft.png":::
+> :::image type="complex" source="../media/console-xhr-fetch-all.msft.png" alt-text="Панель консоли" lightbox="../media/console-xhr-fetch-all.msft.png":::
 >    How the logged XMLHttpRequest and Fetch requests look after ungrouping  
 > :::image-end:::  
 -->  
@@ -139,7 +139,7 @@ ms.locfileid: "10993144"
 
 <span data-ttu-id="fe6aa-160">По умолчанию браузер записывает сетевые сообщения на **консоль**.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-160">By default the browser logs network messages to the **Console**.</span></span>  <span data-ttu-id="fe6aa-161">На приведенном ниже рисунке выбранное сообщение представляет код состояния HTTP `429` .</span><span class="sxs-lookup"><span data-stu-id="fe6aa-161">In the following figure, the selected message represents an HTTP status code of `429`.</span></span>  
 
-:::image type="complex" source="../media/console-show-network.msft.png" alt-text="Сообщение 429 в консоли" lightbox="../media/console-show-network.msft.png":::
+:::image type="complex" source="../media/console-show-network.msft.png" alt-text="Панель консоли" lightbox="../media/console-show-network.msft.png":::
    <span data-ttu-id="fe6aa-163">`429`Сообщение на **консоли**</span><span class="sxs-lookup"><span data-stu-id="fe6aa-163">A `429` message in the **Console**</span></span>  
 :::image-end:::  
 <span data-ttu-id="fe6aa-164">Чтобы скрыть сетевые сообщения, выполните указанные ниже действия.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-164">To hide network messages:</span></span>  
@@ -155,7 +155,7 @@ ms.locfileid: "10993144"
 
 <span data-ttu-id="fe6aa-170">[Откройте панель консоли](#open-the-console-sidebar) и выберите пункт **сообщения пользователя** , чтобы отображались только те сообщения, которые были получены на странице JavaScript.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-170">[Open the Console Sidebar](#open-the-console-sidebar) and click **User Messages** to only show messages that came from the JavaScript of the page.</span></span>  
 
-:::image type="complex" source="../media/console-sidebar-drawer-user-messages.msft.png" alt-text="Просмотр сообщений пользователя" lightbox="../media/console-sidebar-drawer-user-messages.msft.png":::
+:::image type="complex" source="../media/console-sidebar-drawer-user-messages.msft.png" alt-text="Панель консоли" lightbox="../media/console-sidebar-drawer-user-messages.msft.png":::
    <span data-ttu-id="fe6aa-172">Просмотр сообщений пользователя</span><span class="sxs-lookup"><span data-stu-id="fe6aa-172">View user messages</span></span>  
 :::image-end:::  
 
@@ -165,13 +165,13 @@ ms.locfileid: "10993144"
 
 <span data-ttu-id="fe6aa-181">Щелкните раскрывающийся список **уровни журнала** , чтобы включить или отключить `Verbose` , `Info` `Warning` или `Error` сообщения.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-181">Click the **Log Levels** dropdown to enable or disable `Verbose`, `Info`, `Warning` or `Error` messages.</span></span>  
 
-:::image type="complex" source="../media/console-log-level-default-levels.msft.png" alt-text="Раскрывающийся список уровней журнала" lightbox="../media/console-log-level-default-levels.msft.png":::
+:::image type="complex" source="../media/console-log-level-default-levels.msft.png" alt-text="Панель консоли" lightbox="../media/console-log-level-default-levels.msft.png":::
    <span data-ttu-id="fe6aa-183">Раскрывающийся список **уровней журнала**</span><span class="sxs-lookup"><span data-stu-id="fe6aa-183">The **Log Levels** dropdown</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="fe6aa-184">Вы также можете отфильтровать по уровню журнала, [открыв боковую панель консоли](#open-the-console-sidebar) и выбрав пункт **ошибки**, **предупреждения**, **сведения**или **подробный**.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-184">You may also filter by log level by [opening the Console Sidebar](#open-the-console-sidebar) and then clicking **Errors**, **Warnings**, **Info**, or **Verbose**.</span></span>  
 
-:::image type="complex" source="../media/console-sidebar-warnings.msft.png" alt-text="Использование боковой панели для просмотра предупреждений" lightbox="../media/console-sidebar-warnings.msft.png":::
+:::image type="complex" source="../media/console-sidebar-warnings.msft.png" alt-text="Панель консоли" lightbox="../media/console-sidebar-warnings.msft.png":::
    <span data-ttu-id="fe6aa-186">Использование боковой панели для просмотра предупреждений</span><span class="sxs-lookup"><span data-stu-id="fe6aa-186">Use the Sidebar to view warnings</span></span>  
 :::image-end:::  
 
@@ -179,19 +179,19 @@ ms.locfileid: "10993144"
 
 <span data-ttu-id="fe6aa-188">Введите и `url:` URL-адрес, чтобы просматривать только те сообщения, которые были отправлены из этого URL-адреса.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-188">Type `url:` followed by a URL to only view messages that came from that URL.</span></span>  <span data-ttu-id="fe6aa-189">После ввода `url:` DevTools появятся все нужные URL-адреса.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-189">After you type `url:` DevTools shows all relevant URLs.</span></span>  <span data-ttu-id="fe6aa-190">Домены также работают.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-190">Domains also work.</span></span>  <span data-ttu-id="fe6aa-191">Например, если `https://example.com/a.js` `https://example.com/b.js` сообщения записываются в журнал, `url:https://example.com` вы можете сосредоточиться на сообщениях из этих 2 сценариев.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-191">For example, if `https://example.com/a.js` and `https://example.com/b.js` are logging messages, `url:https://example.com` enables you to focus on the messages from these 2 scripts.</span></span>  
 
-:::image type="complex" source="../media/console-filter-text.msft.png" alt-text="Фильтр URL-адреса" lightbox="../media/console-filter-text.msft.png":::
+:::image type="complex" source="../media/console-filter-text.msft.png" alt-text="Панель консоли" lightbox="../media/console-filter-text.msft.png":::
    <span data-ttu-id="fe6aa-193">Фильтр URL-адреса</span><span class="sxs-lookup"><span data-stu-id="fe6aa-193">A URL filter</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="fe6aa-194">Введите текст `-url:` , чтобы скрыть сообщения от этого URL-адреса.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-194">Type `-url:` to hide messages from that URL.</span></span>  <span data-ttu-id="fe6aa-195">Это называется фильтром отрицательных URL-адресов.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-195">This is called a negative URL filter.</span></span>  
 
-:::image type="complex" source="../media/console-negative-filter-text.msft.png" alt-text="Фильтр отрицательных URL-адресов, в котором скрываются все сообщения, соответствующие https://b.wal.co URL-адресу." lightbox="../media/console-negative-filter-text.msft.png":::
+:::image type="complex" source="../media/console-negative-filter-text.msft.png" alt-text="Панель консоли" lightbox="../media/console-negative-filter-text.msft.png":::
    <span data-ttu-id="fe6aa-197">Фильтр отрицательных URL-адресов, в котором скрываются все сообщения, соответствующие `https://b.wal.co` URL-адресу.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-197">A negative URL filter that hides all messages that match the `https://b.wal.co` URL</span></span>
 :::image-end:::  
 
 <span data-ttu-id="fe6aa-198">Вы также можете показывать сообщения с одного URL-адреса, [открыв боковую панель консоли](#open-the-console-sidebar), развернув раздел " **пользовательские сообщения** ", а затем щелкнув URL-адрес сценария, содержащего сообщения, на которые нужно обратить внимание.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-198">You may also show messages from a single URL by [opening the Console Sidebar](#open-the-console-sidebar), expanding the **User Messages** section, and then clicking the URL of the script containing the messages on which you want to focus.</span></span>  
 
-:::image type="complex" source="../media/console-filter-text-specified.msft.png" alt-text="Просмотр сообщений, которые поставляются с wp-ad.min.js" lightbox="../media/console-filter-text-specified.msft.png":::
+:::image type="complex" source="../media/console-filter-text-specified.msft.png" alt-text="Панель консоли" lightbox="../media/console-filter-text-specified.msft.png":::
    <span data-ttu-id="fe6aa-200">Просмотр сообщений, которые были получены</span><span class="sxs-lookup"><span data-stu-id="fe6aa-200">View the messages that came from</span></span> `wp-ad.min.js`  
 :::image-end:::  
 
@@ -203,7 +203,7 @@ ms.locfileid: "10993144"
 
 <span data-ttu-id="fe6aa-206">Введите регулярное выражение, например `/[gm][ta][mi]/` в текстовое поле **Фильтр** , чтобы отфильтровать сообщения, которые не соответствуют этому шаблону.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-206">Type a regular expression such as `/[gm][ta][mi]/` in the **Filter** text box to filter out any messages that do not match that pattern.</span></span>  <span data-ttu-id="fe6aa-207">DevTools проверяет, найден ли шаблон в тексте сообщения или сценарий, который привел к занесению в журнал сообщения.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-207">DevTools checks if the pattern is found in the message text or the script that caused the message to be logged.</span></span>  
 
-:::image type="complex" source="../media/console-filter-regex.msft.png" alt-text="Фильтрация сообщений, не соответствующих выражению Regex" lightbox="../media/console-filter-regex.msft.png":::
+:::image type="complex" source="../media/console-filter-regex.msft.png" alt-text="Панель консоли" lightbox="../media/console-filter-regex.msft.png":::
    <span data-ttu-id="fe6aa-209">Фильтрация сообщений, не соответствующих `/[gm][ta][mi]/` выражению регулярного выражения</span><span class="sxs-lookup"><span data-stu-id="fe6aa-209">Filter out any messages that do not match the `/[gm][ta][mi]/` regex expression</span></span>  
 :::image-end:::  
 
@@ -230,7 +230,7 @@ ms.locfileid: "10993144"
 > [!NOTE]
 > <span data-ttu-id="fe6aa-228">На приведенном ниже рисунке, `document.querySelector('a')` а `document.querySelector('img')` также выражения, которые были оценены ранее.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-228">In the following figure, `document.querySelector('a')` and `document.querySelector('img')` are expressions that were evaluated earlier.</span></span>  
 
-:::image type="complex" source="../media/console-filter-text-autofilter-history.msft.png" alt-text="В всплывающем окне "Автозаполнение" отображаются выражения из истории" lightbox="../media/console-filter-text-autofilter-history.msft.png":::
+:::image type="complex" source="../media/console-filter-text-autofilter-history.msft.png" alt-text="Панель консоли" lightbox="../media/console-filter-text-autofilter-history.msft.png":::
    <span data-ttu-id="fe6aa-230">В всплывающем окне "Автозаполнение" отображаются выражения из истории</span><span class="sxs-lookup"><span data-stu-id="fe6aa-230">The autocomplete popup displays expressions from history</span></span>  
 :::image-end:::  
 
@@ -238,13 +238,13 @@ ms.locfileid: "10993144"
 
 <span data-ttu-id="fe6aa-232">По умолчанию раскрывающийся список **контекстов JavaScript** имеет значение **Top**, которое представляет [контекст просмотра][MDNBrowsingContext] основного документа.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-232">By default the **JavaScript Context** dropdown is set to **top**, which represents the [browsing context][MDNBrowsingContext] of the main document.</span></span>  
 
-:::image type="complex" source="../media/console-dom-level-top.msft.png" alt-text="Раскрывающийся список контекстов JavaScript" lightbox="../media/console-dom-level-top.msft.png":::
+:::image type="complex" source="../media/console-dom-level-top.msft.png" alt-text="Панель консоли" lightbox="../media/console-dom-level-top.msft.png":::
    <span data-ttu-id="fe6aa-234">Раскрывающийся список **контекстов JavaScript**</span><span class="sxs-lookup"><span data-stu-id="fe6aa-234">The **JavaScript Context** dropdown</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="fe6aa-235">Предположим, что у вас есть реклама на странице, внедренная в `<iframe>` .</span><span class="sxs-lookup"><span data-stu-id="fe6aa-235">Suppose you have an ad on your page embedded in an `<iframe>`.</span></span>  <span data-ttu-id="fe6aa-236">Вы хотите запустить JavaScript, чтобы настроить модель DOM рекламы.</span><span class="sxs-lookup"><span data-stu-id="fe6aa-236">You want to run JavaScript in order to tweak the DOM of the ad.</span></span>  <span data-ttu-id="fe6aa-237">Сначала необходимо выбрать контекст обзора рекламы из раскрывающегося списка **контекстов JavaScript** .</span><span class="sxs-lookup"><span data-stu-id="fe6aa-237">You should first select the browsing context of the ad from the **JavaScript Context** dropdown.</span></span>  
 
-:::image type="complex" source="../media/console-dom-level-multiple.msft.png" alt-text="Выбор другого контекста JavaScript" lightbox="../media/console-dom-level-multiple.msft.png":::
+:::image type="complex" source="../media/console-dom-level-multiple.msft.png" alt-text="Панель консоли" lightbox="../media/console-dom-level-multiple.msft.png":::
    <span data-ttu-id="fe6aa-239">Выбор другого контекста JavaScript</span><span class="sxs-lookup"><span data-stu-id="fe6aa-239">Select a different JavaScript context</span></span>  
 :::image-end:::  
 

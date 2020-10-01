@@ -36,7 +36,7 @@ ms.locfileid: "11004228"
 
 ### <span data-ttu-id="e445b-114">Эмуляция Surface Duo и Samsung Galaxy сгиб</span><span class="sxs-lookup"><span data-stu-id="e445b-114">Emulate Surface Duo and Samsung Galaxy Fold</span></span>  
 
-:::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Экспериментальная функция":::
+:::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio":::
    <span data-ttu-id="e445b-116">Экспериментальная функция</span><span class="sxs-lookup"><span data-stu-id="e445b-116">Experimental feature</span></span>  
 :::image-end:::  
 
@@ -48,7 +48,7 @@ ms.locfileid: "11004228"
 *   <span data-ttu-id="e445b-120">[Отрисовка стыка][DualScreenIntroductionHowWorkSeam], то есть расстояния между двумя экранами.</span><span class="sxs-lookup"><span data-stu-id="e445b-120">[Rendering the seam][DualScreenIntroductionHowWorkSeam], which is the space between the two screens.</span></span>
 *   <span data-ttu-id="e445b-121">[Включение API экспериментальной веб-платформы][DevtoolsExperimentalFeaturesEnableExperimentalApis] для доступа к новой [функции многофункционального экрана CSS][DualScreenWebCssMediaSpanning] и [API JavaScript getWindowSegments][DualScreenWebJavascriptGetwindowsegments].</span><span class="sxs-lookup"><span data-stu-id="e445b-121">[Enabling experimental Web Platform APIs][DevtoolsExperimentalFeaturesEnableExperimentalApis] to access the new [CSS media screen-spanning feature][DualScreenWebCssMediaSpanning] and [JavaScript getWindowSegments API][DualScreenWebJavascriptGetwindowsegments].</span></span>  
 
-:::image type="complex" source="../../media/2020/08/surface-duo-device-emulation.msft.png" alt-text="Эмуляция устройства для ИБП Surface Duo" lightbox="../../media/2020/08/surface-duo-device-emulation.msft.png":::
+:::image type="complex" source="../../media/2020/08/surface-duo-device-emulation.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/surface-duo-device-emulation.msft.png":::
    <span data-ttu-id="e445b-123">Эмуляция устройства для ИБП Surface Duo</span><span class="sxs-lookup"><span data-stu-id="e445b-123">Device emulation for Surface Duo</span></span>  
 :::image-end:::  
 
@@ -62,7 +62,7 @@ ms.locfileid: "11004228"
 
 <span data-ttu-id="e445b-128">Благодарим вас за позитивную обратную связь об улучшенных наложения сетки CSS.</span><span class="sxs-lookup"><span data-stu-id="e445b-128">Thank you for the positive feedback about the improved CSS grid overlays.</span></span>  <span data-ttu-id="e445b-129">Наложения сетки CSS теперь включены по умолчанию и не требуют включения эксперимента.</span><span class="sxs-lookup"><span data-stu-id="e445b-129">The CSS grid overlays are now enabled by default and do not require you to turn on an experiment.</span></span>  
 
-:::image type="complex" source="../../media/2020/08/css-grid-overlay-article.msft.png" alt-text="Наложение сетки CSS для элемента статьи" lightbox="../../media/2020/08/css-grid-overlay-article.msft.png":::
+:::image type="complex" source="../../media/2020/08/css-grid-overlay-article.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/css-grid-overlay-article.msft.png":::
    <span data-ttu-id="e445b-131">Наложение сетки CSS для `article` элемента</span><span class="sxs-lookup"><span data-stu-id="e445b-131">CSS grid overlay for `article` element</span></span>  
 :::image-end:::  
 
@@ -83,12 +83,12 @@ ms.locfileid: "11004228"
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/console-table-beta.msft.png" alt-text="Вывод API консоли таблицы в Microsoft Edge 85 или более ранней версии" lightbox="../../media/2020/08/console-table-beta.msft.png":::
+      :::image type="complex" source="../../media/2020/08/console-table-beta.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/console-table-beta.msft.png":::
          `table` <span data-ttu-id="e445b-142">Выходные данные API консоли в Microsoft Edge 85 или более ранней версии</span><span class="sxs-lookup"><span data-stu-id="e445b-142">Console API output in Microsoft Edge 85 or earlier</span></span>  
       :::image-end:::  
    :::column-end:::  
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/console-table-beta-paste-visual-studio-code.msft.png" alt-text="Вывод API консоли таблицы из Microsoft Edge 85 или более ранней версии, вставленной в код Visual Studio" lightbox="../../media/2020/08/console-table-beta-paste-visual-studio-code.msft.png":::
+      :::image type="complex" source="../../media/2020/08/console-table-beta-paste-visual-studio-code.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/console-table-beta-paste-visual-studio-code.msft.png":::
          `table` <span data-ttu-id="e445b-144">Выходные данные API консоли из Microsoft Edge 85 или более ранней версии, вставленные в код Visual Studio</span><span class="sxs-lookup"><span data-stu-id="e445b-144">Console API output from Microsoft Edge 85 or earlier pasted into Visual Studio Code</span></span>  
       :::image-end:::  
    :::column-end:::
@@ -98,12 +98,12 @@ ms.locfileid: "11004228"
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/console-table-canary.msft.png" alt-text="Вывод API консоли таблицы в Microsoft Edge 86 или более поздней версии" lightbox="../../media/2020/08/console-table-canary.msft.png":::
+      :::image type="complex" source="../../media/2020/08/console-table-canary.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/console-table-canary.msft.png":::
          `table` <span data-ttu-id="e445b-147">Выходные данные API консоли в Microsoft Edge 86 или более поздней версии</span><span class="sxs-lookup"><span data-stu-id="e445b-147">Console API output in Microsoft Edge 86 or later</span></span>  
       :::image-end:::  
    :::column-end:::  
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/console-table-canary-paste-visual-studio-code.msft.png" alt-text="Вывод API консоли таблицы из Microsoft Edge 86 или более поздней версии в код Visual Studio" lightbox="../../media/2020/08/console-table-canary-paste-visual-studio-code.msft.png":::
+      :::image type="complex" source="../../media/2020/08/console-table-canary-paste-visual-studio-code.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/console-table-canary-paste-visual-studio-code.msft.png":::
          `table` <span data-ttu-id="e445b-149">Выходные данные API консоли из Microsoft Edge 86 или более поздней версии, вставленные в код Visual Studio</span><span class="sxs-lookup"><span data-stu-id="e445b-149">Console API output from Microsoft Edge 86 or later pasted into Visual Studio Code</span></span>  
       :::image-end:::  
    :::column-end:::
@@ -113,13 +113,13 @@ ms.locfileid: "11004228"
 
 ### <span data-ttu-id="e445b-151">Средство просмотра заказов исходного кода для упрощения тестирования специальных возможностей</span><span class="sxs-lookup"><span data-stu-id="e445b-151">Source Order Viewer for easier accessibility testing</span></span>  
 
-:::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Экспериментальная функция":::
+:::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio":::
    <span data-ttu-id="e445b-153">Экспериментальная функция</span><span class="sxs-lookup"><span data-stu-id="e445b-153">Experimental feature</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="e445b-154">Новый вспомогательный модуль специальных возможностей отображает порядок элементов в источнике.</span><span class="sxs-lookup"><span data-stu-id="e445b-154">The new accessibility helper displays the order of elements in the source.</span></span>  
 
-:::image type="complex" source="../../media/2020/08/source-order-viewer.msft.png" alt-text="Активация порядка отображения исходного кода" lightbox="../../media/2020/08/source-order-viewer.msft.png":::
+:::image type="complex" source="../../media/2020/08/source-order-viewer.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/source-order-viewer.msft.png":::
    <span data-ttu-id="e445b-156">Активация **порядка отображения исходного кода**</span><span class="sxs-lookup"><span data-stu-id="e445b-156">Activate **Show source order**</span></span>  
 :::image-end:::  
 
@@ -138,12 +138,12 @@ Your feedback and internal discoveries uncovered which text strings used in the 
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/localization-improvements-chinese-complex-stable.msft.png" alt-text="Microsoft Edge DevTools in Traditional Chinese" lightbox="localization-improvements-chinese-complex-stable.msft.png":::
+      :::image type="complex" source="../../media/2020/08/localization-improvements-chinese-complex-stable.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="localization-improvements-chinese-complex-stable.msft.png":::
          Microsoft Edge DevTools 85 and earlier in Traditional Chinese  
       :::image-end:::  
    :::column-end:::  
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/localization-improvements-chinese-complex-canary.msft.png" alt-text="Microsoft Edge DevTools in Japanese" lightbox="../../media/2020/08/localization-improvements-chinese-complex-canary.msft.png":::
+      :::image type="complex" source="../../media/2020/08/localization-improvements-chinese-complex-canary.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/localization-improvements-chinese-complex-canary.msft.png":::
          Microsoft Edge DevTools 86  or later in Traditional Chinese  
       :::image-end:::  
    :::column-end:::
@@ -160,7 +160,7 @@ The current effort to improve translation quality enables easier support for mor
 
 <span data-ttu-id="e445b-166">Благодарим вас за отправку отзыва и помощь в улучшении Chromium.</span><span class="sxs-lookup"><span data-stu-id="e445b-166">Thank you for sending your feedback and helping improve Chromium.</span></span>  <span data-ttu-id="e445b-167">В проекте Chromium Open-Source возникла ошибка, связанная с [не#1103316ой][CR1103316] отзыва.</span><span class="sxs-lookup"><span data-stu-id="e445b-167">Your feedback uncovered Issue [#1103316][CR1103316] in the open-source Chromium project.</span></span>  
 
-:::image type="complex" source="../../media/2020/08/elements- search-highlight-fixed.msft.png" alt-text="Выделенный первый результат поиска на панели "элементы" в Microsoft Edge 84 или более поздней версии" lightbox="../../media/2020/08/elements- search-highlight-fixed.msft.png":::
+:::image type="complex" source="../../media/2020/08/elements- search-highlight-fixed.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/elements- search-highlight-fixed.msft.png":::
    <span data-ttu-id="e445b-169">Выделенный первый результат поиска на панели " **элементы** " в Microsoft Edge 84 или более поздней версии</span><span class="sxs-lookup"><span data-stu-id="e445b-169">Highlighted first search result on **Elements** panel in Microsoft Edge 84 or later</span></span>  
 :::image-end:::  
 
@@ -180,7 +180,7 @@ The current effort to improve translation quality enables easier support for mor
 
 1.  <span data-ttu-id="e445b-176">Нажмите кнопку **Настройка и выберите DevTools** \ ( `...` \) > **другие инструменты**  >  **мультимедиа**.</span><span class="sxs-lookup"><span data-stu-id="e445b-176">Choose **Customize and control DevTools** \(`...`\) > **More tools** > **Media**.</span></span>  
     
-    :::image type="complex" source="../../media/2020/08/media-panel.msft.png" alt-text="Новая панель мультимедиа" lightbox="../../media/2020/08/media-panel.msft.png":::
+    :::image type="complex" source="../../media/2020/08/media-panel.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/media-panel.msft.png":::
        <span data-ttu-id="e445b-178">Новая панель **мультимедиа**</span><span class="sxs-lookup"><span data-stu-id="e445b-178">New **Media** panel</span></span>  
     :::image-end:::  
 
@@ -197,7 +197,7 @@ The current effort to improve translation quality enables easier support for mor
 
 <span data-ttu-id="e445b-186">Например, чтобы сделать снимок экрана оглавлением, наведите на него указатель мыши, откройте контекстное меню, а затем выберите пункт **захватить снимок экрана узла**.</span><span class="sxs-lookup"><span data-stu-id="e445b-186">For example, to take a screenshot of the table of contents, hover on the element, open the contextual menu \(right-click\), and select **Capture node screenshot**.</span></span>  
 
-:::image type="complex" source="../../media/2020/08/capture-node-screenshot.msft.png" alt-text="Снимок экрана захвата узлов" lightbox="../../media/2020/08/capture-node-screenshot.msft.png":::
+:::image type="complex" source="../../media/2020/08/capture-node-screenshot.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/capture-node-screenshot.msft.png":::
    <span data-ttu-id="e445b-188">Снимок экрана захвата узлов</span><span class="sxs-lookup"><span data-stu-id="e445b-188">Capture node screenshots</span></span>  
 :::image-end:::  
 
@@ -209,13 +209,13 @@ The current effort to improve translation quality enables easier support for mor
 
 <!--todo: this figure need to be updated  -->  
 
-:::image type="complex" source="../../media/2020/08/issue-console-msg.msft.png" alt-text="Проблемы в сообщении консоли" lightbox="../../media/2020/08/issue-console-msg.msft.png":::
+:::image type="complex" source="../../media/2020/08/issue-console-msg.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/issue-console-msg.msft.png":::
    <span data-ttu-id="e445b-193">Проблемы в сообщении консоли</span><span class="sxs-lookup"><span data-stu-id="e445b-193">Issues in console message</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="e445b-194">Сторонние файлы cookie теперь по умолчанию скрыты в инструменте " **вопросы** ".</span><span class="sxs-lookup"><span data-stu-id="e445b-194">Third-party cookie issues are now hidden by default in the **Issues** tool.</span></span>  <span data-ttu-id="e445b-195">Чтобы просмотреть список проблем, установите флажок **Включить сторонние файлы cookie** .</span><span class="sxs-lookup"><span data-stu-id="e445b-195">Enable the new **Include third-party cookie issues** checkbox to view the issues.</span></span>  
 
-:::image type="complex" source="../../media/2020/08/third-party-cookies.msft.png" alt-text="флажок "вопросы и сторонние файлы cookie"" lightbox="../../media/2020/08/third-party-cookies.msft.png":::
+:::image type="complex" source="../../media/2020/08/third-party-cookies.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/third-party-cookies.msft.png":::
    <span data-ttu-id="e445b-197">флажок "вопросы и сторонние файлы cookie"</span><span class="sxs-lookup"><span data-stu-id="e445b-197">third-party cookie issues checkbox</span></span>  
 :::image-end:::  
 
@@ -229,7 +229,7 @@ The current effort to improve translation quality enables easier support for mor
 
 <span data-ttu-id="e445b-202">При включении функции **Отключить локальные шрифты** DevTools игнорирует `local()` шрифты и извлекает их из сети.</span><span class="sxs-lookup"><span data-stu-id="e445b-202">When **Disable local fonts** is enabled, DevTools ignores the `local()` fonts and fetches each from the network.</span></span>  
 
-:::image type="complex" source="../../media/2020/08/disable-font.msft.png" alt-text="Эмуляция отсутствующих локальных шрифтов" lightbox="../../media/2020/08/disable-font.msft.png":::
+:::image type="complex" source="../../media/2020/08/disable-font.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/disable-font.msft.png":::
    <span data-ttu-id="e445b-204">Эмуляция отсутствующих локальных шрифтов</span><span class="sxs-lookup"><span data-stu-id="e445b-204">Emulate missing local fonts</span></span>  
 :::image-end:::  
 
@@ -250,7 +250,7 @@ The current effort to improve translation quality enables easier support for mor
 
 <span data-ttu-id="e445b-214">[API обнаружения простоя][WebDevIdleDetection] позволяет разработчикам обнаруживать неактивные пользователи и реагировать на изменения состояния простоя.</span><span class="sxs-lookup"><span data-stu-id="e445b-214">The [Idle Detection API][WebDevIdleDetection] allows developers to detect inactive users and react on idle state changes.</span></span>  <span data-ttu-id="e445b-215">Теперь вы можете использовать DevTools для эмуляции изменений состояния простоя в инструменте " **датчики** " и для состояния пользователя, и для состояния экрана вместо того, чтобы ждать изменения фактического состояния простоя.</span><span class="sxs-lookup"><span data-stu-id="e445b-215">You are now able to use DevTools to emulate idle state changes in the **Sensors** tool for both the user state and the screen state instead of waiting for the actual idle state to change.</span></span>  <span data-ttu-id="e445b-216">Вы можете открыть инструмент **Sensors (датчики** ) из [ящика][DevtoolsCustomizeIndexDrawer].</span><span class="sxs-lookup"><span data-stu-id="e445b-216">You may open the **Sensors** tool from the [Drawer][DevtoolsCustomizeIndexDrawer].</span></span>  
 
-:::image type="complex" source="../../media/2020/08/emulate-idle.msft.png" alt-text="Эмуляция неактивных пользователей" lightbox="../../media/2020/08/emulate-idle.msft.png":::
+:::image type="complex" source="../../media/2020/08/emulate-idle.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/emulate-idle.msft.png":::
    <span data-ttu-id="e445b-218">Эмуляция неактивных пользователей</span><span class="sxs-lookup"><span data-stu-id="e445b-218">Emulate inactive users</span></span>  
 :::image-end:::  
 
@@ -265,7 +265,7 @@ The current effort to improve translation quality enables easier support for mor
 
 <span data-ttu-id="e445b-225">Теперь вы можете использовать DevTools для эмуляции `prefers-reduced-data` запроса мультимедиа.</span><span class="sxs-lookup"><span data-stu-id="e445b-225">You may now use DevTools to emulate the `prefers-reduced-data` media query.</span></span>  
 
-:::image type="complex" source="../../media/2020/08/emulate-prefers-reduced-data.msft.png" alt-text="Предпочтительные эмуляции — сокращенные данные" lightbox="../../media/2020/08/emulate-prefers-reduced-data.msft.png":::
+:::image type="complex" source="../../media/2020/08/emulate-prefers-reduced-data.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/emulate-prefers-reduced-data.msft.png":::
    <span data-ttu-id="e445b-227">Предпочтительные эмуляции — сокращенные данные</span><span class="sxs-lookup"><span data-stu-id="e445b-227">Emulate prefers-reduced-data</span></span>  
 :::image-end:::  
 
@@ -294,7 +294,7 @@ The current effort to improve translation quality enables easier support for mor
 
 <span data-ttu-id="e445b-245">Ранее DevTools отображал список, вложенный в панель **приложения** , > области "работа с **сотрудниками службы** ".</span><span class="sxs-lookup"><span data-stu-id="e445b-245">Previously DevTools displayed a list nested under the **Application** panel > **Service workers** pane.</span></span>  
 
-:::image type="complex" source="../../media/2020/08/sw-other-origins.msft.png" alt-text="Ссылка на другие источники" lightbox="../../media/2020/08/sw-other-origins.msft.png":::
+:::image type="complex" source="../../media/2020/08/sw-other-origins.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/sw-other-origins.msft.png":::
    <span data-ttu-id="e445b-247">Ссылка на другие источники</span><span class="sxs-lookup"><span data-stu-id="e445b-247">Link to other origins</span></span>  
 :::image-end:::  
 
@@ -308,12 +308,12 @@ The current effort to improve translation quality enables easier support for mor
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/coverage-compare.msft.png" alt-text="Сводка о покрытии" lightbox="../../media/2020/08/coverage-compare.msft.png":::
+      :::image type="complex" source="../../media/2020/08/coverage-compare.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/coverage-compare.msft.png":::
          <span data-ttu-id="e445b-255">Сводка о покрытии</span><span class="sxs-lookup"><span data-stu-id="e445b-255">Coverage summary</span></span>  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/coverage-compare-css-filter.msft.png" alt-text="Сводка покрытия для отфильтрованных элементов" lightbox="../../media/2020/08/coverage-compare-css-filter.msft.png":::
+      :::image type="complex" source="../../media/2020/08/coverage-compare-css-filter.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/coverage-compare-css-filter.msft.png":::
          <span data-ttu-id="e445b-257">Сводка покрытия для отфильтрованных элементов</span><span class="sxs-lookup"><span data-stu-id="e445b-257">Coverage summary for filtered items</span></span>  
       :::image-end:::  
    :::column-end:::
@@ -325,7 +325,7 @@ The current effort to improve translation quality enables easier support for mor
 
 <span data-ttu-id="e445b-260">DevTools теперь показывать подробное представление для каждого кадра.</span><span class="sxs-lookup"><span data-stu-id="e445b-260">DevTools now show a detailed view for each frame.</span></span>  <span data-ttu-id="e445b-261">Для доступа к нему выберите рамку в меню " **кадры** " на панели **приложения** .</span><span class="sxs-lookup"><span data-stu-id="e445b-261">To access it, choose a frame under the **Frames** menu in the **Application** panel.</span></span>  
 
-:::image type="complex" source="../../media/2020/08/frame-details.msft.png" alt-text="Новый подробный вид рамки на панели приложения" lightbox="../../media/2020/08/frame-details.msft.png":::
+:::image type="complex" source="../../media/2020/08/frame-details.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/frame-details.msft.png":::
    <span data-ttu-id="e445b-263">Новый подробный вид рамки на панели **приложения**</span><span class="sxs-lookup"><span data-stu-id="e445b-263">New detailed view for a frame in **Application** panel</span></span>  
 :::image-end:::  
 
@@ -335,7 +335,7 @@ The current effort to improve translation quality enables easier support for mor
 
 <span data-ttu-id="e445b-266">Теперь в дереве фреймов отображаются открытые окна и всплывающие окна.</span><span class="sxs-lookup"><span data-stu-id="e445b-266">Open windows and pop-up windows now display under the frame tree as well.</span></span>  <span data-ttu-id="e445b-267">Подробное представление открытых окон включает дополнительные сведения о безопасности.</span><span class="sxs-lookup"><span data-stu-id="e445b-267">The detailed view of the opened windows includes additional security information.</span></span>  
 
-:::image type="complex" source="../../media/2020/08/window-opener.msft.png" alt-text="Подробный обзор нового кадра для открытых окон" lightbox="../../media/2020/08/window-opener.msft.png":::
+:::image type="complex" source="../../media/2020/08/window-opener.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/window-opener.msft.png":::
    <span data-ttu-id="e445b-269">Подробный обзор нового кадра для открытых окон</span><span class="sxs-lookup"><span data-stu-id="e445b-269">New frame detailed view for opened windows</span></span>  
 :::image-end:::  
 
@@ -345,7 +345,7 @@ The current effort to improve translation quality enables easier support for mor
 
 <span data-ttu-id="e445b-272">В разделе сведения о кадре отображаются безопасный контекст, [Политика встраивания с Межисточниками (COEP)][WebDevCoopCoep], а также меж- [Openerная политика (Coop)][WebDevCoopCoep] .</span><span class="sxs-lookup"><span data-stu-id="e445b-272">Secure context, [Cross-Origin-Embedder-Policy (COEP)][WebDevCoopCoep], and [Cross-Origin-Opener-Policy (COOP)][WebDevCoopCoep] are now displayed in the frame details.</span></span>  
 
-:::image type="complex" source="../../media/2020/08/coep-coop.msft.png" alt-text="Сведения о безопасности и изоляции" lightbox="../../media/2020/08/coep-coop.msft.png":::
+:::image type="complex" source="../../media/2020/08/coep-coop.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/coep-coop.msft.png":::
    <span data-ttu-id="e445b-274">Сведения о безопасности и изоляции</span><span class="sxs-lookup"><span data-stu-id="e445b-274">Security and isolation information</span></span>  
 :::image-end:::  
 
@@ -361,7 +361,7 @@ The current effort to improve translation quality enables easier support for mor
 
 <span data-ttu-id="e445b-280">В примере ниже `h1` есть текст с низким контрастом.</span><span class="sxs-lookup"><span data-stu-id="e445b-280">In the example below, `h1` has low contrast text.</span></span>  <span data-ttu-id="e445b-281">Чтобы исправить ошибку, откройте окно выбора цвета `color` свойства в области **стили** .</span><span class="sxs-lookup"><span data-stu-id="e445b-281">To fix it, open the color picker of the `color` property in the **Styles** pane.</span></span>  <span data-ttu-id="e445b-282">После того как вы развернете раздел **коэффициент контрастности** , DevTools предоставляет варианты цветов AA и AAA.</span><span class="sxs-lookup"><span data-stu-id="e445b-282">After you expand the **Contrast ratio** section, DevTools provides AA and AAA color suggestions.</span></span>  <span data-ttu-id="e445b-283">Выберите предложенный цвет, чтобы применить его.</span><span class="sxs-lookup"><span data-stu-id="e445b-283">Select the suggested color to apply the color.</span></span>  
 
-:::image type="complex" source="../../media/2020/08/contrast-color-suggestion.msft.png" alt-text="Средство выбора цвета предлагает варианты цветов AA и AAA" lightbox="../../media/2020/08/contrast-color-suggestion.msft.png":::
+:::image type="complex" source="../../media/2020/08/contrast-color-suggestion.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/contrast-color-suggestion.msft.png":::
    <span data-ttu-id="e445b-285">Средство выбора цвета предлагает варианты цветов AA и AAA</span><span class="sxs-lookup"><span data-stu-id="e445b-285">Color picker suggests AA and AAA color suggestions</span></span>  
 :::image-end:::  
 
@@ -371,7 +371,7 @@ The current effort to improve translation quality enables easier support for mor
 
 <span data-ttu-id="e445b-288">Область **свойств** будет возвращена.</span><span class="sxs-lookup"><span data-stu-id="e445b-288">The **Properties** pane is back.</span></span>  <span data-ttu-id="e445b-289">Она была [признана устаревшей в Microsoft Edge 84][DevtoolsWhatsnew200205DevtoolsDeprecationPropertiesPaneElementsPanel].</span><span class="sxs-lookup"><span data-stu-id="e445b-289">It was [deprecated in Microsoft Edge 84][DevtoolsWhatsnew200205DevtoolsDeprecationPropertiesPaneElementsPanel].</span></span>  <span data-ttu-id="e445b-290">Группа Microsoft Edge DevTools и группа "Chrome DevTools" предназначены для планирования улучшений для проверки свойств элементов.</span><span class="sxs-lookup"><span data-stu-id="e445b-290">The Microsoft Edge DevTools team and the Chrome DevTools team are planning improvements for inspecting properties of elements.</span></span>  
 
-:::image type="complex" source="../../media/2020/08/properties-pane.msft.png" alt-text="Область "Свойства" на панели "элементы"" lightbox="../../media/2020/08/properties-pane.msft.png":::
+:::image type="complex" source="../../media/2020/08/properties-pane.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/properties-pane.msft.png":::
    <span data-ttu-id="e445b-292">Область " **Свойства** " на панели " **элементы** "</span><span class="sxs-lookup"><span data-stu-id="e445b-292">**Properties** pane in the **Elements** panel</span></span>  
 :::image-end:::  
 
@@ -384,7 +384,7 @@ When inspecting a network resource in the Network panel, DevTools now formats an
 
 The `X-Client-Data` HTTP header contains a list of experiment IDs and Microsoft Edge flags that are enabled in your browser.  The raw header values look like opaque strings since the values are `base-64-encoded`, serialized [protocol buffers][GoogleDevelopersProtocolBuffers].  To make the contents more transparent to developers, DevTools now shows the decoded values.  
 
-:::image type="complex" source="../../media/2020/08/x-client-data.msft.png" alt-text="Human-readable `X-Client-Data` header values" lightbox="../../media/2020/08/x-client-data.msft.png":::
+:::image type="complex" source="../../media/2020/08/x-client-data.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/x-client-data.msft.png":::
    Human-readable `X-Client-Data` header values  
 :::image-end:::  
 
@@ -397,7 +397,7 @@ Chromium issue: [#1103854][CR1103854]
 
 <span data-ttu-id="e445b-297">Например, если `monospace` на локальном компьютере установлен настраиваемый шрифт, он отображается в списке завершения CSS.</span><span class="sxs-lookup"><span data-stu-id="e445b-297">For example, if `monospace` is a custom font installed on the local machine, it's displayed in the CSS completion list.</span></span> <span data-ttu-id="e445b-298">В предыдущих версиях Microsoft Edge шрифт не отображался.</span><span class="sxs-lookup"><span data-stu-id="e445b-298">In previous versions of Microsoft Edge, the font wasn't displayed.</span></span>
 
-:::image type="complex" source="../../media/2020/08/font-auto-complete.msft.png" alt-text="Автозаполнение настраиваемых шрифтов" lightbox="../../media/2020/08/font-auto-complete.msft.png":::
+:::image type="complex" source="../../media/2020/08/font-auto-complete.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/font-auto-complete.msft.png":::
    <span data-ttu-id="e445b-300">Автозаполнение настраиваемых шрифтов</span><span class="sxs-lookup"><span data-stu-id="e445b-300">Autocomplete custom fonts</span></span>  
 :::image-end:::  
 
@@ -409,7 +409,7 @@ Chromium issue: [#1103854][CR1103854]
 
 <span data-ttu-id="e445b-304">Ранее DevTools изменил тип на " `Other` иногда".</span><span class="sxs-lookup"><span data-stu-id="e445b-304">Previously DevTools changed the type to `Other` sometimes.</span></span>  
 
-:::image type="complex" source="../../media/2020/08/network-redirect.msft.png" alt-text="Вывод типа ресурса перенаправления" lightbox="../../media/2020/08/network-redirect.msft.png":::
+:::image type="complex" source="../../media/2020/08/network-redirect.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/network-redirect.msft.png":::
    <span data-ttu-id="e445b-306">Вывод типа ресурса перенаправления</span><span class="sxs-lookup"><span data-stu-id="e445b-306">Display redirect resource type</span></span>  
 :::image-end:::  
 
@@ -426,12 +426,12 @@ Chromium issue: [#1103854][CR1103854]
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/clear-button-elements.msft.png" alt-text="Кнопки "очистить" на панелях элементов" lightbox="../../media/2020/08/clear-button-elements.msft.png":::
+      :::image type="complex" source="../../media/2020/08/clear-button-elements.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/clear-button-elements.msft.png":::
          <span data-ttu-id="e445b-314">Кнопки "очистить" на панелях **элементов**</span><span class="sxs-lookup"><span data-stu-id="e445b-314">Clear buttons in the **Elements** panels</span></span>  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
-      :::image type="complex" source="../../media/2020/08/clear-button-network.msft.png" alt-text="Кнопки "очистить" на панели "сеть"" lightbox="../../media/2020/08/clear-button-network.msft.png":::
+      :::image type="complex" source="../../media/2020/08/clear-button-network.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/clear-button-network.msft.png":::
          <span data-ttu-id="e445b-316">Кнопки "очистить" на панели "  **сеть** "</span><span class="sxs-lookup"><span data-stu-id="e445b-316">Clear buttons in the  **Network** panels</span></span>  
       :::image-end:::  
    :::column-end:::

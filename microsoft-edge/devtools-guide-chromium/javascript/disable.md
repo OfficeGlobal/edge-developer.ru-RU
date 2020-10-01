@@ -41,13 +41,13 @@ ms.locfileid: "10992801"
     
 1.  <span data-ttu-id="24d66-110">Начните вводить текст, нажмите кнопку `javascript` **отключить JavaScript**, а затем нажмите `Enter` , чтобы выполнить команду.</span><span class="sxs-lookup"><span data-stu-id="24d66-110">Start typing `javascript`, select **Disable JavaScript**, and then press `Enter` to run the command.</span></span>  <span data-ttu-id="24d66-111">JavaScript теперь отключен.</span><span class="sxs-lookup"><span data-stu-id="24d66-111">JavaScript is now disabled.</span></span>  
     
-    :::image type="complex" source="../media/javascript-console-command-javascript.msft.png" alt-text="Выбор пункта "отключить JavaScript" в меню команд" lightbox="../media/javascript-console-command-javascript.msft.png":::
+    :::image type="complex" source="../media/javascript-console-command-javascript.msft.png" alt-text="Меню команд" lightbox="../media/javascript-console-command-javascript.msft.png":::
        <span data-ttu-id="24d66-113">Выбор пункта " **отключить JavaScript** " в **меню команд**</span><span class="sxs-lookup"><span data-stu-id="24d66-113">Select **Disable JavaScript** in the **Command Menu**</span></span>  
     :::image-end:::  
     
     <span data-ttu-id="24d66-114">Значок желтого предупреждения рядом с последующими **источниками** напоминает, что JavaScript отключен.</span><span class="sxs-lookup"><span data-stu-id="24d66-114">The yellow warning icon next to **Sources** reminds you that JavaScript is disabled.</span></span>  
     
-    :::image type="complex" source="../media/javascript-console-javascript-disabled-warning.msft.png" alt-text="Значок предупреждения рядом с пунктом «источники»" lightbox="../media/javascript-console-javascript-disabled-warning.msft.png":::
+    :::image type="complex" source="../media/javascript-console-javascript-disabled-warning.msft.png" alt-text="Меню команд" lightbox="../media/javascript-console-javascript-disabled-warning.msft.png":::
        <span data-ttu-id="24d66-116">Значок предупреждения рядом с пунктом « **источники** »</span><span class="sxs-lookup"><span data-stu-id="24d66-116">The warning icon next to **Sources**</span></span>  
     :::image-end:::  
     

@@ -38,7 +38,7 @@ ms.locfileid: "11015477"
 
 <span data-ttu-id="f3316-110">Группа DevTools изменила 170 в Chromium для устранения проблем с высокой контрастностью цвета, клавиатуры и средства чтения с экрана в DevTools.</span><span class="sxs-lookup"><span data-stu-id="f3316-110">The DevTools team has contributed 170 changes to Chromium to address high-impact color contrast, keyboard, and screen reader issues in the DevTools.</span></span>  <span data-ttu-id="f3316-111">Каждый разработчик, создающий веб-сайт, должен иметь возможность использовать DevTools.</span><span class="sxs-lookup"><span data-stu-id="f3316-111">Every developer building the web should be able to use the DevTools.</span></span>  
 
-:::image type="complex" source="../../images/2020/01/a11y-performance-tool.msft.gif" alt-text="Средство "производительность" в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/a11y-performance-tool.msft.gif":::
+:::image type="complex" source="../../images/2020/01/a11y-performance-tool.msft.gif" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/a11y-performance-tool.msft.gif":::
    <span data-ttu-id="f3316-113">Средство " **производительность** " в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана</span><span class="sxs-lookup"><span data-stu-id="f3316-113">The **Performance** tool in the DevTools with the keyboard navigation and screen reader improvements</span></span>  
 :::image-end:::  
 
@@ -107,7 +107,7 @@ ms.locfileid: "11015477"
 
 <span data-ttu-id="f3316-132">Если вы хотите, чтобы Microsoft Edge выоставался на одном языке, а DevTools на русском языке, нажмите кнопку `F1` DevTools, чтобы открыть вкладку [Параметры][Settings] и отключить **язык браузера**.</span><span class="sxs-lookup"><span data-stu-id="f3316-132">If you want Microsoft Edge to be in one language and your DevTools to remain in English, press `F1` in the DevTools to open [Settings][Settings] and disable **Match browser language**.</span></span>  
 
-:::image type="complex" source="../../images/2020/01/localized-devtools.msft.png" alt-text="DevTools на немецком языке" lightbox="../../images/2020/01/localized-devtools.msft.png":::
+:::image type="complex" source="../../images/2020/01/localized-devtools.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/localized-devtools.msft.png":::
    <span data-ttu-id="f3316-134">DevTools на немецком языке</span><span class="sxs-lookup"><span data-stu-id="f3316-134">The DevTools in German</span></span>  
 :::image-end:::  
 
@@ -121,7 +121,7 @@ ms.locfileid: "11015477"
 
 <span data-ttu-id="f3316-140">Расширение веб-подсказки Microsoft EDGE позволяет легко находить и получать отзывы о специальных возможностях, совместимости с браузерами, безопасности, производительности и других средствах в DevTools.</span><span class="sxs-lookup"><span data-stu-id="f3316-140">The webhint Microsoft Edge extension allows you to easily scan your web page and get feedback on accessibility, browser compatibility, security, performance, and more within the DevTools.</span></span>  <span data-ttu-id="f3316-141">Узнайте больше о [https://webhint.io][Webhint] .</span><span class="sxs-lookup"><span data-stu-id="f3316-141">Read more at [https://webhint.io][Webhint].</span></span>  
 
-:::image type="complex" source="../../images/2020/01/webhint-browser-extension.msft.png" alt-text="Вкладка "Подсказка" в DevTools, если установлено расширение браузера веб." lightbox="../../images/2020/01/webhint-browser-extension.msft.png":::
+:::image type="complex" source="../../images/2020/01/webhint-browser-extension.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/webhint-browser-extension.msft.png":::
    <span data-ttu-id="f3316-143">Вкладка **"Подсказка** " в DevTools, если установлено расширение браузера веб.</span><span class="sxs-lookup"><span data-stu-id="f3316-143">The **Hints** tab in the DevTools when the webhint browser extension is installed</span></span>  
 :::image-end:::  
 
@@ -131,7 +131,7 @@ ms.locfileid: "11015477"
 
 <span data-ttu-id="f3316-148">С помощью **трехмерного представления** вы можете выполнять отладку своего веб-приложения, перемещаясь по [объектной модели документов \ (DOM)][MDNDocumentObjectModel] или контексту стека [z-индексов][MDNZIndex] .</span><span class="sxs-lookup"><span data-stu-id="f3316-148">Use the **3D View** to debug your web application by navigating through the [Document Object Model \(DOM\)][MDNDocumentObjectModel] or the [z-index][MDNZIndex] stacking context.</span></span>  
 
-:::image type="complex" source="../../images/2020/01/3dview.msft.png" alt-text="Трехмерное представление в DevTools" lightbox="../../images/2020/01/3dview.msft.png":::
+:::image type="complex" source="../../images/2020/01/3dview.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/3dview.msft.png":::
    <span data-ttu-id="f3316-150">Трехмерное представление в DevTools</span><span class="sxs-lookup"><span data-stu-id="f3316-150">The 3D View in the DevTools</span></span>  
 :::image-end:::  
 
@@ -149,7 +149,7 @@ ms.locfileid: "11015477"
 
 <span data-ttu-id="f3316-158">Используйте инструмент "элементы" в коде Visual Studio, добавив [элементы для расширения кода Microsoft Edge \ (Chromium \)][VisualStudioMarketplaceElementsMicrosoftEdgeChromiumExtension] Visual Studio.</span><span class="sxs-lookup"><span data-stu-id="f3316-158">Use the Elements tool from within Visual Studio Code by adding the [Elements for Microsoft Edge \(Chromium\)][VisualStudioMarketplaceElementsMicrosoftEdgeChromiumExtension] Visual Studio Code extension.</span></span>  
 
-:::image type="complex" source="../../images/2020/01/elements-for-edge.msft.png" alt-text="Инструмент "элементы" в коде Visual Studio с использованием элементов для расширения Microsoft Edge" lightbox="../../images/2020/01/elements-for-edge.msft.png":::
+:::image type="complex" source="../../images/2020/01/elements-for-edge.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/elements-for-edge.msft.png":::
    <span data-ttu-id="f3316-160">Инструмент " **элементы** " в коде Visual Studio с использованием элементов для расширения Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="f3316-160">The **Elements** tool in Visual Studio Code using the Elements for Microsoft Edge extension</span></span>  
 :::image-end:::  
 
@@ -159,7 +159,7 @@ ms.locfileid: "11015477"
 
 <span data-ttu-id="f3316-163">С помощью [отладчика для расширения кода Microsoft Edge][VisualStudioMarketplaceDebuggerEdge] Visual Studio выполните отладку JavaScript, который выполняется в Microsoft EDGE, прямо из кода Visual Studio.</span><span class="sxs-lookup"><span data-stu-id="f3316-163">With the [Debugger for Microsoft Edge][VisualStudioMarketplaceDebuggerEdge] Visual Studio Code extension, debug JavaScript running in Microsoft Edge directly from Visual Studio Code.</span></span>  
 
-:::image type="complex" source="../../images/2020/01/vscode-debugger.msft.png" alt-text="Отладчик для расширения Microsoft EDGE в Visual Studio" lightbox="../../images/2020/01/vscode-debugger.msft.png":::
+:::image type="complex" source="../../images/2020/01/vscode-debugger.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/vscode-debugger.msft.png":::
    <span data-ttu-id="f3316-165">Отладчик для расширения Microsoft EDGE в Visual Studio</span><span class="sxs-lookup"><span data-stu-id="f3316-165">The Debugger for Microsoft Edge Extension in Visual Studio Code</span></span>  
 :::image-end:::  
 
@@ -169,7 +169,7 @@ ms.locfileid: "11015477"
 
 <span data-ttu-id="f3316-168">Расширение [кода Visual Studio, которое используется][VisualStudioMarketplaceWebhintExtension] `webhint` для усовершенствования веб-страницы во время их написания!</span><span class="sxs-lookup"><span data-stu-id="f3316-168">The [webhint][VisualStudioMarketplaceWebhintExtension] Visual Studio Code extension uses `webhint` to improve your web page while you're writing it!</span></span> <span data-ttu-id="f3316-169">Это расширение запускает и сообщает диагностику файлов рабочей области на основе `webhint` анализа.</span><span class="sxs-lookup"><span data-stu-id="f3316-169">This extension runs and reports diagnostics on your workspace files based on `webhint` analysis.</span></span>  
 
-:::image type="complex" source="../../images/2020/01/webhint-vscode-extension.msft.png" alt-text="Расширение кода Visual Studio "веб-подсказка" для анализа целевого файла в коде Visual Studio" lightbox="../../images/2020/01/webhint-vscode-extension.msft.png":::
+:::image type="complex" source="../../images/2020/01/webhint-vscode-extension.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/webhint-vscode-extension.msft.png":::
    <span data-ttu-id="f3316-171">Расширение кода Visual Studio «веб-подсказка» для анализа `.tsx` файла в коде Visual Studio</span><span class="sxs-lookup"><span data-stu-id="f3316-171">The webhint Visual Studio Code extension analyzing a `.tsx` file in Visual Studio Code</span></span>  
 :::image-end:::  
 
@@ -179,7 +179,7 @@ ms.locfileid: "11015477"
 
 <span data-ttu-id="f3316-174">В Visual Studio 2019 версии 16,2 или более поздней Используйте отладчик Visual Studio для отладки JavaScript, который выполняется в Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="f3316-174">In Visual Studio 2019 version 16.2 or later, use the Visual Studio debugger to debug JavaScript running in Microsoft Edge.</span></span>  <span data-ttu-id="f3316-175">[Загрузите Visual Studio 2019][MicrosoftVisualStudioDownloads] , чтобы попробовать эту функцию!</span><span class="sxs-lookup"><span data-stu-id="f3316-175">[Download Visual Studio 2019][MicrosoftVisualStudioDownloads] to try this feature out!</span></span>  
 
-:::image type="complex" source="../../images/2020/01/vs.msft.png" alt-text="Visual Studio с возможностью запуска веб-приложения в Microsoft Edge Канарские, dev или Beta" lightbox="../../images/2020/01/vs.msft.png":::
+:::image type="complex" source="../../images/2020/01/vs.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/vs.msft.png":::
    <span data-ttu-id="f3316-177">Visual Studio с возможностью запуска веб-приложения в Microsoft Edge Канарские, dev или Beta</span><span class="sxs-lookup"><span data-stu-id="f3316-177">Visual Studio with the option to launch your web app in Microsoft Edge Canary, Dev, or Beta</span></span>  
 :::image-end:::  
 
@@ -189,7 +189,7 @@ ms.locfileid: "11015477"
 
 <span data-ttu-id="f3316-180">Защита от слежения — это уникальная функция в Microsoft EDGE, которая защищает вас от отслеживания веб-сайтов, которые вы еще не посещаете.</span><span class="sxs-lookup"><span data-stu-id="f3316-180">Tracking prevention is a unique feature in Microsoft Edge that protects you from being tracked by websites you haven't visited before.</span></span>  <span data-ttu-id="f3316-181">Параметр предотвращения отслеживания по умолчанию — это режим балансировки, который блокирует средства отслеживания и известных злоумышленников, чтобы обеспечить баланс конфиденциальности и веб-совместимости.</span><span class="sxs-lookup"><span data-stu-id="f3316-181">The default tracking prevention setting is Balanced mode, which blocks 3rd party trackers and known malicious trackers for an experience that balances privacy and web compatibility.</span></span>  <span data-ttu-id="f3316-182">Чтобы получить более подробную информацию о совместимости веб-страницы, если некоторые средства отслеживания заблокированы, мы также добавили предупреждающие сообщения на консоли, когда средство отслеживания заблокировано.</span><span class="sxs-lookup"><span data-stu-id="f3316-182">To give you more insight into the compatibility of your web page when certain trackers are blocked, we've also added warning messages in the Console when a tracker is blocked.</span></span>  
 
-:::image type="complex" source="../../images/2020/01/tracking-prevention.msft.png" alt-text="Сообщения на консоли, когда предотвращение отслеживания блокирует доступ к хранилищу для средства отслеживания" lightbox="../../images/2020/01/tracking-prevention.msft.png":::
+:::image type="complex" source="../../images/2020/01/tracking-prevention.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/tracking-prevention.msft.png":::
    <span data-ttu-id="f3316-184">Сообщения на консоли, когда предотвращение отслеживания блокирует доступ к хранилищу для средства отслеживания</span><span class="sxs-lookup"><span data-stu-id="f3316-184">Messages in the Console when tracking prevention blocks access to storage for a tracker</span></span>  
 :::image-end:::  
 
@@ -203,13 +203,13 @@ ms.locfileid: "11015477"
 
 <span data-ttu-id="f3316-189">После [включения панели инструментов устройства][DeviceToolbar]имитируйте размеры окна просмотра Moto G4 в списке **устройств** .</span><span class="sxs-lookup"><span data-stu-id="f3316-189">After [enabling the Device Toolbar][DeviceToolbar], simulate the dimensions of a Moto G4 viewport from the **Device** list.</span></span>  
 
-:::image type="complex" source="../../images/2020/01/motog4.msft.png" alt-text="Имитация окна просмотра Moto G4" lightbox="../../images/2020/01/motog4.msft.png":::
+:::image type="complex" source="../../images/2020/01/motog4.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/motog4.msft.png":::
    <span data-ttu-id="f3316-191">Имитация окна просмотра Moto G4</span><span class="sxs-lookup"><span data-stu-id="f3316-191">Simulating a Moto G4 viewport</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="f3316-192">Щелкните [Показать рамку устройства][DeviceFrame] , чтобы показать аппаратуру Moto G4 в окне просмотра.</span><span class="sxs-lookup"><span data-stu-id="f3316-192">Click [Show Device Frame][DeviceFrame] to show the Moto G4 hardware around the viewport.</span></span>  
 
-:::image type="complex" source="../../images/2020/01/motog4frame.msft.png" alt-text="Аппаратное обеспечение Moto G4" lightbox="../../images/2020/01/motog4frame.msft.png":::
+:::image type="complex" source="../../images/2020/01/motog4frame.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/motog4frame.msft.png":::
    <span data-ttu-id="f3316-194">Аппаратное обеспечение Moto G4</span><span class="sxs-lookup"><span data-stu-id="f3316-194">Showing the Moto G4 hardware</span></span>  
 :::image-end:::  
 
@@ -226,7 +226,7 @@ ms.locfileid: "11015477"
 
 <span data-ttu-id="f3316-201">В области "файлы cookie" на панели приложения теперь отображаются заблокированные файлы cookie с желтым фоном.</span><span class="sxs-lookup"><span data-stu-id="f3316-201">The Cookies pane in the Application panel now displays blocked cookies with a yellow background.</span></span>  
 
-:::image type="complex" source="../../images/2020/01/blockedcookies.msft.png" alt-text="Заблокированные cookie-файлы в области "cookie" на панели приложения" lightbox="../../images/2020/01/blockedcookies.msft.png":::
+:::image type="complex" source="../../images/2020/01/blockedcookies.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/blockedcookies.msft.png":::
    <span data-ttu-id="f3316-203">Заблокированные cookie-файлы в области "cookie" на панели приложения</span><span class="sxs-lookup"><span data-stu-id="f3316-203">Blocked cookies in the Cookies pane of the Application panel</span></span>  
 :::image-end:::  
 
@@ -245,7 +245,7 @@ ms.locfileid: "11015477"
 
 <span data-ttu-id="f3316-210">Все ячейки в таблицах cookie теперь доступны для редактирования, кроме ячеек в столбце **Размер** , так как этот столбец представляет размер файла cookie в байтах.</span><span class="sxs-lookup"><span data-stu-id="f3316-210">All cells in the Cookie tables are editable now, except cells in the **Size** column because that column represents the network size of the cookie, in bytes.</span></span>  <span data-ttu-id="f3316-211">Просмотрите [поля][CookiesFields] , поясняющие каждый столбец.</span><span class="sxs-lookup"><span data-stu-id="f3316-211">See [Fields][CookiesFields] for an explanation of each column.</span></span>  
 
-:::image type="complex" source="../../images/2020/01/editcookie.msft.png" alt-text="Изменение значения cookie-файла" lightbox="../../images/2020/01/editcookie.msft.png":::
+:::image type="complex" source="../../images/2020/01/editcookie.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/editcookie.msft.png":::
    <span data-ttu-id="f3316-213">Изменение значения cookie-файла</span><span class="sxs-lookup"><span data-stu-id="f3316-213">Editing a cookie value</span></span>  
 :::image-end:::  
 
@@ -253,7 +253,7 @@ ms.locfileid: "11015477"
 
 <span data-ttu-id="f3316-215">Щелкните правой кнопкой мыши по сетевому запросу и выберите команду **Копировать**  >  **копию как Node.js извлечь** , чтобы получить `fetch` выражение, включающее данные cookie.</span><span class="sxs-lookup"><span data-stu-id="f3316-215">Right-click a network request and select **Copy** > **Copy as Node.js fetch** to get a `fetch` expression that includes cookie data.</span></span>  
 
-:::image type="complex" source="../../images/2020/01/fetchcookies.msft.png" alt-text="Копирование как Node.js выборка" lightbox="../../images/2020/01/fetchcookies.msft.png":::
+:::image type="complex" source="../../images/2020/01/fetchcookies.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/fetchcookies.msft.png":::
    <span data-ttu-id="f3316-217">Копирование как Node.js выборка</span><span class="sxs-lookup"><span data-stu-id="f3316-217">Copy as Node.js fetch</span></span>  
 :::image-end:::  
 
@@ -263,7 +263,7 @@ ms.locfileid: "11015477"
 
 <span data-ttu-id="f3316-220">Ранее область манифеста на панели приложения отправляет свои собственные запросы для отображения значков манифеста веб-приложения.</span><span class="sxs-lookup"><span data-stu-id="f3316-220">Previously, the Manifest pane in the Application panel sent its own requests in order to display web app manifest icons.</span></span>  <span data-ttu-id="f3316-221">DevTools теперь показывает тот же значок манифеста, который использует Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="f3316-221">DevTools now shows the exact same manifest icon that Microsoft Edge uses.</span></span>  
 
-:::image type="complex" source="../../images/2020/01/manifesticons.msft.png" alt-text="Значки в области «манифест»" lightbox="../../images/2020/01/manifesticons.msft.png":::
+:::image type="complex" source="../../images/2020/01/manifesticons.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/manifesticons.msft.png":::
    <span data-ttu-id="f3316-223">Значки в области «манифест»</span><span class="sxs-lookup"><span data-stu-id="f3316-223">Icons in the Manifest pane</span></span>  
 :::image-end:::  
 
@@ -275,13 +275,13 @@ ms.locfileid: "11015477"
 
 <span data-ttu-id="f3316-227">Например, в этой статье вы узнаете [о том,][CSSContentDemo] что на `p::after` панели Стили отображается строка с escape-символами.</span><span class="sxs-lookup"><span data-stu-id="f3316-227">For example, in this [demo][CSSContentDemo] when you inspect the `p::after` pseudo-element you see an escaped string in the Styles pane:</span></span>  
 
-:::image type="complex" source="../../images/2020/01/escapedstring.msft.png" alt-text="Строка с escape-символом" lightbox="../../images/2020/01/escapedstring.msft.png":::
+:::image type="complex" source="../../images/2020/01/escapedstring.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/escapedstring.msft.png":::
    <span data-ttu-id="f3316-229">Строка с escape-символом</span><span class="sxs-lookup"><span data-stu-id="f3316-229">The escaped string</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="f3316-230">При наведении указателя мыши на значение, которое `content` отображается в неэкранированном значении:</span><span class="sxs-lookup"><span data-stu-id="f3316-230">When you hover over the `content` value you see the unescaped value:</span></span>  
 
-:::image type="complex" source="../../images/2020/01/unescapedstring.msft.png" alt-text="Неэкранированное значение" lightbox="../../images/2020/01/unescapedstring.msft.png":::
+:::image type="complex" source="../../images/2020/01/unescapedstring.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/unescapedstring.msft.png":::
    <span data-ttu-id="f3316-232">Неэкранированное значение</span><span class="sxs-lookup"><span data-stu-id="f3316-232">The unescaped value</span></span>  
 :::image-end:::  
 
@@ -289,7 +289,7 @@ ms.locfileid: "11015477"
 
 <span data-ttu-id="f3316-234">Теперь консоль содержит более подробные сведения о том, почему не удалось загрузить или проанализировать исходную карту.</span><span class="sxs-lookup"><span data-stu-id="f3316-234">The Console now provides more detail on why a source map failed to load or parse.</span></span>  <span data-ttu-id="f3316-235">Ранее она только что предоставила ошибку, не объясняющую, что пошло не так.</span><span class="sxs-lookup"><span data-stu-id="f3316-235">Previously it just provided an error without explaining what went wrong.</span></span>  
 
-:::image type="complex" source="../../images/2020/01/sourcemap.msft.png" alt-text="Ошибка при загрузке карты исходного кода на консоли" lightbox="../../images/2020/01/sourcemap.msft.png":::
+:::image type="complex" source="../../images/2020/01/sourcemap.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/sourcemap.msft.png":::
    <span data-ttu-id="f3316-237">Ошибка при загрузке карты исходного кода на консоли</span><span class="sxs-lookup"><span data-stu-id="f3316-237">A source map loading error in the Console</span></span>  
 :::image-end:::  
 
@@ -297,11 +297,11 @@ ms.locfileid: "11015477"
 
 <span data-ttu-id="f3316-239">Откройте [Параметры][Settings] и выберите Отключить **Preferences**  >  **исходные**настройки.  >  **разрешите прокрутку за** пределами файла, чтобы отключить поведение пользовательского интерфейса по умолчанию, позволяющее прокручивать прокрутку за пределами файла на панели « **источники** ».</span><span class="sxs-lookup"><span data-stu-id="f3316-239">Open [Settings][Settings] and then disable **Preferences** > **Sources** > **Allow scrolling past end of file** to disable the default UI behavior that allows you to scroll well past the end of a file in the **Sources** panel.</span></span>  
 
-:::image type="complex" source="../../images/2020/01/settings.msft.png" alt-text="Отключение разрешения на прокрутку за пределами файла" lightbox="../../images/2020/01/settings.msft.png":::
+:::image type="complex" source="../../images/2020/01/settings.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/settings.msft.png":::
    <span data-ttu-id="f3316-241">Отключение **разрешения на прокрутку за** пределами файла в параметрах</span><span class="sxs-lookup"><span data-stu-id="f3316-241">Disabling **Allow scrolling past end of file** in Settings</span></span>  
 :::image-end:::  
 
-:::image type="complex" source="../../images/2020/01/scrollingsources.msft.png" alt-text="Прокрутка за пределами файла теперь отключена на панели «источники»" lightbox="../../images/2020/01/scrollingsources.msft.png":::
+:::image type="complex" source="../../images/2020/01/scrollingsources.msft.png" alt-text="Средство &quot;производительность&quot; в DevTools с улучшенной навигацией с помощью клавиатуры и средства чтения с экрана" lightbox="../../images/2020/01/scrollingsources.msft.png":::
    <span data-ttu-id="f3316-243">Прокрутка за пределами файла теперь отключена на панели «источники»</span><span class="sxs-lookup"><span data-stu-id="f3316-243">Scrolling past the end of a file is now disabled in the Sources panel</span></span>  
 :::image-end:::  
 

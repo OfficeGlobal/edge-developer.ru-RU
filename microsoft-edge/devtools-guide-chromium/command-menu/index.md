@@ -46,7 +46,7 @@ ms.locfileid: "10993200"
 
 <span data-ttu-id="a8a7c-110">Нажмите клавиши `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \).</span><span class="sxs-lookup"><span data-stu-id="a8a7c-110">Press `Control`+`Shift`+`P` \(Windows\) or `Command`+`Shift`+`P` \(macOS\).</span></span> <span data-ttu-id="a8a7c-111">Или нажмите кнопку **Настройка DevTools** `...` и выберите **команду выполнить**.</span><span class="sxs-lookup"><span data-stu-id="a8a7c-111">Or click **Customize And Control DevTools** `...` and then select **Run Command**.</span></span>  
 
-:::image type="complex" source="../media/command-menu-options-run-command.msft.png" alt-text="Команда "выполнить"" lightbox="../media/command-menu-options-run-command.msft.png":::
+:::image type="complex" source="../media/command-menu-options-run-command.msft.png" alt-text="Отключение JavaScript с помощью меню команд" lightbox="../media/command-menu-options-run-command.msft.png":::
    <span data-ttu-id="a8a7c-113">Команда "выполнить"</span><span class="sxs-lookup"><span data-stu-id="a8a7c-113">Run Command</span></span>  
 :::image-end:::  
 
@@ -54,13 +54,13 @@ ms.locfileid: "10993200"
 
 <span data-ttu-id="a8a7c-115">Если вы используете рабочий процесс, описанный в разделе [Открыть меню команд](#open-the-command-menu), откроется меню команд с `>` символом, предварительно заданным в текстовом поле меню команды.</span><span class="sxs-lookup"><span data-stu-id="a8a7c-115">If you use the workflow outlined in [Open the Command Menu](#open-the-command-menu), the Command Menu opens with a `>` character pre-pended to the Command Menu text box.</span></span>  
 
-:::image type="complex" source="../media/command-menu-run-command.msft.png" alt-text="Символ команды" lightbox="../media/command-menu-run-command.msft.png":::
+:::image type="complex" source="../media/command-menu-run-command.msft.png" alt-text="Отключение JavaScript с помощью меню команд" lightbox="../media/command-menu-run-command.msft.png":::
    <span data-ttu-id="a8a7c-117">Символ команды</span><span class="sxs-lookup"><span data-stu-id="a8a7c-117">The command character</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="a8a7c-118">Удалите `>` символ и введите текст `?` , чтобы просмотреть другие действия, доступные в меню команд.</span><span class="sxs-lookup"><span data-stu-id="a8a7c-118">Delete the `>` character and type `?` to see other actions that are available from the Command Menu.</span></span>  
 
-:::image type="complex" source="../media/command-menu-help.msft.png" alt-text="Другие доступные действия" lightbox="../media/command-menu-help.msft.png":::
+:::image type="complex" source="../media/command-menu-help.msft.png" alt-text="Отключение JavaScript с помощью меню команд" lightbox="../media/command-menu-help.msft.png":::
    <span data-ttu-id="a8a7c-120">Другие доступные действия</span><span class="sxs-lookup"><span data-stu-id="a8a7c-120">Other available actions</span></span>  
 :::image-end:::  
 

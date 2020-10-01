@@ -43,7 +43,7 @@ ms.locfileid: "10993116"
 1.  <span data-ttu-id="f93cd-109">[Открытие консоли][DevToolsConsoleReferenceOpenConsole].</span><span class="sxs-lookup"><span data-stu-id="f93cd-109">[Open the Console][DevToolsConsoleReferenceOpenConsole].</span></span>  
 1.  <span data-ttu-id="f93cd-110">Щелкните **создать выражение в реальном времени** \ ( ![ создать выражение в реальном времени ][ImageCreateLiveExpressionIcon] ).</span><span class="sxs-lookup"><span data-stu-id="f93cd-110">Click **Create Live Expression** \(![Create Live Expression][ImageCreateLiveExpressionIcon]\).</span></span>  <span data-ttu-id="f93cd-111">Появится текстовое поле " **выражение в реальном времени** ".</span><span class="sxs-lookup"><span data-stu-id="f93cd-111">The **Live Expression** text box appears.</span></span>  
     
-    :::image type="complex" source="../media/console-create-live-expression.msft.png" alt-text="Ввод данных Document. activeElement в текстовое поле "Интерактивное выражение"" lightbox="../media/console-create-live-expression.msft.png":::
+    :::image type="complex" source="../media/console-create-live-expression.msft.png" alt-text="Ввод данных Document. activeElement в текстовое поле &quot;Интерактивное выражение&quot;" lightbox="../media/console-create-live-expression.msft.png":::
        <span data-ttu-id="f93cd-113">Ввод `document.activeElement` текста в текстовое поле " **интерактивное выражение** "</span><span class="sxs-lookup"><span data-stu-id="f93cd-113">Typing `document.activeElement` into the **Live Expression** text box</span></span>  
     :::image-end:::  
     

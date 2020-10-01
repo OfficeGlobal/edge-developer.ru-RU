@@ -45,7 +45,7 @@ ms.locfileid: "10993305"
 
 <span data-ttu-id="2f445-116">После того как вы закончите обучение, сайт должен выглядеть так, как показано на рисунке ниже.</span><span class="sxs-lookup"><span data-stu-id="2f445-116">After you complete the tutorial, you site should look like the following figure.</span></span>  
 
-:::image type="complex" source="../media/beginners-css-intro2.msft.png" alt-text="Сведения о том, как должен выглядеть сайт в конце учебника" lightbox="../media/beginners-css-intro2.msft.png":::
+:::image type="complex" source="../media/beginners-css-intro2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-intro2.msft.png":::
    <span data-ttu-id="2f445-118">Сведения о том, как должен выглядеть сайт в конце учебника</span><span class="sxs-lookup"><span data-stu-id="2f445-118">What your site should look like at the end of the tutorial</span></span>  
 :::image-end:::  
 
@@ -75,13 +75,13 @@ ms.locfileid: "10993305"
 
 1.  <span data-ttu-id="2f445-134">Откройте [Исходный код][GlitchCookedAmphibianIndex].</span><span class="sxs-lookup"><span data-stu-id="2f445-134">Open the [source code][GlitchCookedAmphibianIndex].</span></span>  <span data-ttu-id="2f445-135">Ссылка на вкладку "на фокус" в браузере указана как **вкладка "Редактирование"**.</span><span class="sxs-lookup"><span data-stu-id="2f445-135">The in-focus tab of your browser is referenced as the **editing tab**.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-setup1.msft.png" alt-text="Вкладка "Редактирование"" lightbox="../media/beginners-css-setup1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-setup1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-setup1.msft.png":::
        <span data-ttu-id="2f445-137">Вкладка " **Редактирование** "</span><span class="sxs-lookup"><span data-stu-id="2f445-137">The **editing** tab</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-138">Выберите **готовил-amphibian**.</span><span class="sxs-lookup"><span data-stu-id="2f445-138">Choose **cooked-amphibian**.</span></span>  <span data-ttu-id="2f445-139">Всплывающее меню.</span><span class="sxs-lookup"><span data-stu-id="2f445-139">A menu pops up.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-setup2.msft.png" alt-text="Меню "Параметры проекта"" lightbox="../media/beginners-css-setup2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-setup2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-setup2.msft.png":::
        <span data-ttu-id="2f445-141">Меню "Параметры проекта"</span><span class="sxs-lookup"><span data-stu-id="2f445-141">The Project Options menu</span></span>  
     :::image-end:::  
 
@@ -92,7 +92,7 @@ ms.locfileid: "10993305"
     
 1.  <span data-ttu-id="2f445-145">Нажмите кнопку **Показать** и выберите **в новом окне**.</span><span class="sxs-lookup"><span data-stu-id="2f445-145">Choose **Show** and select **In a New Window**.</span></span>  <span data-ttu-id="2f445-146">Откроется другая вкладка с активным представлением сайта.</span><span class="sxs-lookup"><span data-stu-id="2f445-146">Another tab opens with a live view of your site.</span></span>  <span data-ttu-id="2f445-147">На вкладку, которая находится в фокусе браузера, указывается **вкладка Динамический**.</span><span class="sxs-lookup"><span data-stu-id="2f445-147">The in-focus tab of your browser is referenced as the **live tab**.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-setup3.msft.png" alt-text="Вкладка "динамический"" lightbox="../media/beginners-css-setup3.msft.png":::
+    :::image type="complex" source="../media/beginners-css-setup3.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-setup3.msft.png":::
        <span data-ttu-id="2f445-149">**Вкладка "динамический"**</span><span class="sxs-lookup"><span data-stu-id="2f445-149">The **live tab**</span></span>  
     :::image-end:::  
 
@@ -100,7 +100,7 @@ ms.locfileid: "10993305"
 
 <span data-ttu-id="2f445-151">**CSS** — это язык компьютера, который определяет макет и стиль веб-страниц.</span><span class="sxs-lookup"><span data-stu-id="2f445-151">**CSS** is a computer language that determines the layout and styling of web pages.</span></span>  <span data-ttu-id="2f445-152">На приведенном ниже рисунке показан абзац с границей.</span><span class="sxs-lookup"><span data-stu-id="2f445-152">The following figure is a paragraph with a border.</span></span>  
 
-:::image type="complex" source="../media/beginners-css-red_paragraph.msft.png" alt-text="Текст был добавлен в таблицу каскадных стилей (CSS)" lightbox="../media/beginners-css-red_paragraph.msft.png":::
+:::image type="complex" source="../media/beginners-css-red_paragraph.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-red_paragraph.msft.png":::
    <span data-ttu-id="2f445-154">Текст был добавлен в таблицу каскадных стилей (CSS)</span><span class="sxs-lookup"><span data-stu-id="2f445-154">The text has been styled with CSS</span></span>  
 :::image-end:::  
 
@@ -120,7 +120,7 @@ ms.locfileid: "10993305"
 
 1.  <span data-ttu-id="2f445-161">Вернитесь на вкладку Правка и откройте окно `index.html` .</span><span class="sxs-lookup"><span data-stu-id="2f445-161">Go back to the editing tab and open `index.html`.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-inline1.msft.png" alt-text="index.html" lightbox="../media/beginners-css-inline1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-inline1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-inline1.msft.png":::
        <span data-ttu-id="2f445-163">Открытие `index.html` на вкладке "Редактирование"</span><span class="sxs-lookup"><span data-stu-id="2f445-163">Open `index.html` in the editing tab</span></span>  
     :::image-end:::  
     
@@ -140,7 +140,7 @@ ms.locfileid: "10993305"
     
 1.  <span data-ttu-id="2f445-167">Перейдите на **вкладку динамический** , чтобы увидеть изменения.</span><span class="sxs-lookup"><span data-stu-id="2f445-167">Go to the **live tab** to see the changes!</span></span>  <span data-ttu-id="2f445-168">`<nav>`Теперь фон раздела синего цвета.</span><span class="sxs-lookup"><span data-stu-id="2f445-168">The background of the `<nav>` section is now blue.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-inline2.msft.png" alt-text="Цвет фона, который находится за домашней страницей и ссылками на контакты, стал синей" lightbox="../media/beginners-css-inline2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-inline2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-inline2.msft.png":::
        <span data-ttu-id="2f445-170">Цвет фона, который находится за **домашней страницей** и ссылками на **Контакты** , стал синей</span><span class="sxs-lookup"><span data-stu-id="2f445-170">The background color behind the **Home** and **Contact** links is now blue</span></span>  
     :::image-end:::  
     
@@ -158,7 +158,7 @@ ms.locfileid: "10993305"
 
 1.  <span data-ttu-id="2f445-178">На вкладке "динамический" нажмите " **контакт** ", чтобы перейти на страницу контакта.</span><span class="sxs-lookup"><span data-stu-id="2f445-178">In the live tab, choose **Contact** to go to the contact page.</span></span>  <span data-ttu-id="2f445-179">Обратите внимание на шрифт **домашних** и **контактных**данных.</span><span class="sxs-lookup"><span data-stu-id="2f445-179">Notice the font of **Home** and **Contact**.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-internal1.msft.png" alt-text="Страница "контакт"" lightbox="../media/beginners-css-internal1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-internal1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-internal1.msft.png":::
        <span data-ttu-id="2f445-181">Страница "контакт"</span><span class="sxs-lookup"><span data-stu-id="2f445-181">The Contact page</span></span>  
     :::image-end:::  
     
@@ -184,7 +184,7 @@ ms.locfileid: "10993305"
 1.  <span data-ttu-id="2f445-186">Вернитесь на **вкладку динамический**.</span><span class="sxs-lookup"><span data-stu-id="2f445-186">Go back to the **live tab**.</span></span>  
 1.  <span data-ttu-id="2f445-187">Нажмите кнопку " **контакт** ", чтобы вернуться на страницу контакта.</span><span class="sxs-lookup"><span data-stu-id="2f445-187">Choose **Contact** to go back to the contact page.</span></span>  <span data-ttu-id="2f445-188">Изменился шрифт " **Главная** " и " **контакт** ".</span><span class="sxs-lookup"><span data-stu-id="2f445-188">The font of **Home** and **Contact** has changed.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-internal2.msft.png" alt-text="Изменен шрифт ссылок на домашнюю страницу и контакт контакта" lightbox="../media/beginners-css-internal2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-internal2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-internal2.msft.png":::
        <span data-ttu-id="2f445-190">Изменен шрифт ссылок на **домашнюю страницу** и **контакт контакта**</span><span class="sxs-lookup"><span data-stu-id="2f445-190">The font of the **Home** and **Contact** links has changed</span></span>  
     :::image-end:::  
     
@@ -262,7 +262,7 @@ li a {
 1.  <span data-ttu-id="2f445-212">Перейдите на **вкладку динамический**.</span><span class="sxs-lookup"><span data-stu-id="2f445-212">Go to the **live tab**.</span></span>  
 1.  <span data-ttu-id="2f445-213">Щелкните ссылку **контакт** , чтобы вернуться на страницу контакта.</span><span class="sxs-lookup"><span data-stu-id="2f445-213">Choose the **Contact** link to go back to the contact page.</span></span>  <span data-ttu-id="2f445-214">Теперь **свяжитесь со мной!**</span><span class="sxs-lookup"><span data-stu-id="2f445-214">Now, **Contact Me!**</span></span> <span data-ttu-id="2f445-215">имеет тот же шрифт, что и ссылки для навигации.</span><span class="sxs-lookup"><span data-stu-id="2f445-215">has the same font as the navigation links.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-multiple1.msft.png" alt-text="Текстовые контакты!  Теперь тот же шрифт, что и ссылки на домашнюю и контактный" lightbox="../media/beginners-css-multiple1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-multiple1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-multiple1.msft.png":::
        <span data-ttu-id="2f445-218">Текстовые **Контакты!**</span><span class="sxs-lookup"><span data-stu-id="2f445-218">The text **Contact Me!**</span></span> <span data-ttu-id="2f445-219">Теперь тот же шрифт, что и ссылки на **домашнюю** и **контактный**</span><span class="sxs-lookup"><span data-stu-id="2f445-219">now has the same font as the **Home** and **Contact** links</span></span>  
     :::image-end:::  
     
@@ -276,7 +276,7 @@ li a {
 
 1.  <span data-ttu-id="2f445-226">Наведите указатель мыши на **домашнюю** ссылку, откройте контекстное меню, а затем выберите команду **проверить**.</span><span class="sxs-lookup"><span data-stu-id="2f445-226">Hover on the **Home** link, open the contextual menu \(right-click\), and select **Inspect**.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-add1.msft.png" alt-text="Проверка ссылки на домашнюю страницу" lightbox="../media/beginners-css-add1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-add1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-add1.msft.png":::
        <span data-ttu-id="2f445-228">Проверка ссылки на домашнюю страницу</span><span class="sxs-lookup"><span data-stu-id="2f445-228">Inspect the Home link</span></span>  
     :::image-end:::  
     
@@ -286,14 +286,14 @@ li a {
        :::column span="":::
           <span data-ttu-id="2f445-232">На приведенном ниже рисунке `font-family: 'Courier New', Courier, serif` объявление, добавленное ранее, отображается `contact.html` на вкладке **стили** под деревом DOM.</span><span class="sxs-lookup"><span data-stu-id="2f445-232">In the following figure, the `font-family: 'Courier New', Courier, serif` declaration that you previously added to `contact.html` is seen in the **Styles** tab below the DOM Tree.</span></span>  
           
-          :::image type="complex" source="../media/beginners-css-add2.msft.png" alt-text="Вкладка "стили" находится под деревом DOM" lightbox="../media/beginners-css-add2.msft.png":::
+          :::image type="complex" source="../media/beginners-css-add2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-add2.msft.png":::
              <span data-ttu-id="2f445-234">Вкладка " **стили** " находится под ДЕРЕВОм DOM</span><span class="sxs-lookup"><span data-stu-id="2f445-234">The **Styles** tab is below the DOM Tree</span></span>  
           :::image-end:::  
        :::column-end:::
        :::column span="":::
           <span data-ttu-id="2f445-235">Если окно DevTools является широкой страницей, вкладка стили находится справа от дерева DOM.</span><span class="sxs-lookup"><span data-stu-id="2f445-235">If your DevTools window is wide, the Styles tab is to the right of the DOM Tree.</span></span>  
           
-          :::image type="complex" source="../media/beginners-css-add3.msft.png" alt-text="Вкладка "стили" справа от дерева DOM" lightbox="../media/beginners-css-add3.msft.png":::
+          :::image type="complex" source="../media/beginners-css-add3.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-add3.msft.png":::
              <span data-ttu-id="2f445-237">Вкладка " **стили** " справа от дерева DOM</span><span class="sxs-lookup"><span data-stu-id="2f445-237">The **Styles** tab is to the right of the DOM Tree</span></span>  
           :::image-end:::  
        :::column-end:::
@@ -301,19 +301,19 @@ li a {
     
 1.  <span data-ttu-id="2f445-238">Чтобы добавить новое объявление, выберите пустую строку ниже `font-family: 'Courier New', Courier, Serif` .</span><span class="sxs-lookup"><span data-stu-id="2f445-238">Choose the empty line below `font-family: 'Courier New', Courier, Serif` to add a new declaration.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-add4.msft.png" alt-text="Добавление нового объявления" lightbox="../media/beginners-css-add4.msft.png":::
+    :::image type="complex" source="../media/beginners-css-add4.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-add4.msft.png":::
        <span data-ttu-id="2f445-240">Добавление нового объявления</span><span class="sxs-lookup"><span data-stu-id="2f445-240">Add a new declaration</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-241">Введите текст `color` и выберите его `Enter` .</span><span class="sxs-lookup"><span data-stu-id="2f445-241">Type `color` and select `Enter`.</span></span>  <span data-ttu-id="2f445-242">Пользовательский интерфейс автозаполнения предлагает параметры по мере ввода.</span><span class="sxs-lookup"><span data-stu-id="2f445-242">The autocomplete UI suggests options as you type.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-add5.msft.png" alt-text="Введите цвет" lightbox="../media/beginners-css-add5.msft.png":::
+    :::image type="complex" source="../media/beginners-css-add5.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-add5.msft.png":::
        <span data-ttu-id="2f445-244">Тип</span><span class="sxs-lookup"><span data-stu-id="2f445-244">Type</span></span> `color`  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-245">Введите текст `magenta` и выберите его `Enter` .</span><span class="sxs-lookup"><span data-stu-id="2f445-245">Type `magenta` and select `Enter`.</span></span>  <span data-ttu-id="2f445-246">Весь текст на странице контакта стал пурпурным.</span><span class="sxs-lookup"><span data-stu-id="2f445-246">All of the text on the contact page is now magenta.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-add6.msft.png" alt-text="Введите пурпурный" lightbox="../media/beginners-css-add6.msft.png":::
+    :::image type="complex" source="../media/beginners-css-add6.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-add6.msft.png":::
        <span data-ttu-id="2f445-248">Тип</span><span class="sxs-lookup"><span data-stu-id="2f445-248">Type</span></span> `magenta`  
     :::image-end:::  
     
@@ -323,13 +323,13 @@ li a {
 
 1.  <span data-ttu-id="2f445-251">Выберите пурпурный квадрат рядом с `magenta` .</span><span class="sxs-lookup"><span data-stu-id="2f445-251">Choose the magenta square next to `magenta`.</span></span>  <span data-ttu-id="2f445-252">Появится палитра выбора цвета.</span><span class="sxs-lookup"><span data-stu-id="2f445-252">A color picker pops up.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-edit1.msft.png" alt-text="Выбор цвета" lightbox="../media/beginners-css-edit1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-edit1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-edit1.msft.png":::
        <span data-ttu-id="2f445-254">Выбор цвета</span><span class="sxs-lookup"><span data-stu-id="2f445-254">The Color Picker</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-255">С помощью средства выбора цвета измените текст шрифта на нужный цвет.</span><span class="sxs-lookup"><span data-stu-id="2f445-255">Use the color picker to change the font text to a color that you like.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-edit2.msft.png" alt-text="Изменение цвета шрифта на фиолетовый с помощью средства выбора цвета" lightbox="../media/beginners-css-edit2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-edit2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-edit2.msft.png":::
        <span data-ttu-id="2f445-257">Изменение цвета шрифта на фиолетовый с помощью средства выбора цвета</span><span class="sxs-lookup"><span data-stu-id="2f445-257">Change the font color to purple with the Color Picker</span></span>  
     :::image-end:::  
     
@@ -339,13 +339,13 @@ li a {
 
 1.  <span data-ttu-id="2f445-260">Выберите **новое правило стиля** \ ( ![ новое правило стиля ][ImageNewStyleRuleIcon] \), которое находится рядом с **. CLS**.</span><span class="sxs-lookup"><span data-stu-id="2f445-260">Choose **New Style Rule** \(![New Style Rule][ImageNewStyleRuleIcon]\) which is next to **.cls**.</span></span>  <span data-ttu-id="2f445-261">В качестве Selector появится пустой набор правил `a` .</span><span class="sxs-lookup"><span data-stu-id="2f445-261">An empty ruleset appears with `a` as the selector.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-rule1.msft.png" alt-text="Добавление нового правила" lightbox="../media/beginners-css-rule1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-rule1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-rule1.msft.png":::
        <span data-ttu-id="2f445-263">Добавление нового правила</span><span class="sxs-lookup"><span data-stu-id="2f445-263">Add a new rule</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-264">Заменить `a` на `a:hover` .</span><span class="sxs-lookup"><span data-stu-id="2f445-264">Replace `a` with `a:hover`.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-rule2.msft.png" alt-text="Замена a на a:hover" lightbox="../media/beginners-css-rule2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-rule2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-rule2.msft.png":::
        <span data-ttu-id="2f445-266">Заменить `a` на</span><span class="sxs-lookup"><span data-stu-id="2f445-266">Replace `a` with</span></span> `a:hover`  
     :::image-end:::  
     
@@ -354,19 +354,19 @@ li a {
 1.  <span data-ttu-id="2f445-270">Выберите между скобками, чтобы добавить новое объявление.</span><span class="sxs-lookup"><span data-stu-id="2f445-270">Choose between the brackets to add a new declaration.</span></span>  
 1.  <span data-ttu-id="2f445-271">Введите `background-color` имя объявления и нажмите кнопку `Enter` .</span><span class="sxs-lookup"><span data-stu-id="2f445-271">Type `background-color` for the declaration name and select `Enter`.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-rule3.msft.png" alt-text="Введите цвет фона" lightbox="../media/beginners-css-rule3.msft.png":::
+    :::image type="complex" source="../media/beginners-css-rule3.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-rule3.msft.png":::
        <span data-ttu-id="2f445-273">Тип</span><span class="sxs-lookup"><span data-stu-id="2f445-273">Type</span></span> `background-color`  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-274">Введите `green` значение объявления и нажмите кнопку `Enter` .</span><span class="sxs-lookup"><span data-stu-id="2f445-274">Type `green` for the declaration value and select `Enter`.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-rule4.msft.png" alt-text="Введите зеленый цвет" lightbox="../media/beginners-css-rule4.msft.png":::
+    :::image type="complex" source="../media/beginners-css-rule4.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-rule4.msft.png":::
        <span data-ttu-id="2f445-276">Тип</span><span class="sxs-lookup"><span data-stu-id="2f445-276">Type</span></span> `green`  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-277">Наведите указатель мыши на ссылку " **Домашняя страница** ".</span><span class="sxs-lookup"><span data-stu-id="2f445-277">Hover your mouse over the **Home** link.</span></span>  <span data-ttu-id="2f445-278">Фон ссылки становится зеленым.</span><span class="sxs-lookup"><span data-stu-id="2f445-278">The background of the link turns green.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-rule5.msft.png" alt-text="Наведите указатель мыши на домашнюю ссылку, чтобы отобразить зеленый фон" lightbox="../media/beginners-css-rule5.msft.png":::
+    :::image type="complex" source="../media/beginners-css-rule5.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-rule5.msft.png":::
        <span data-ttu-id="2f445-280">Наведите указатель мыши на домашнюю ссылку, чтобы отобразить зеленый фон</span><span class="sxs-lookup"><span data-stu-id="2f445-280">Hover over the Home link to reveal its green background</span></span>  
     :::image-end:::  
     
@@ -392,37 +392,37 @@ li a {
 
 1.  <span data-ttu-id="2f445-287">Сначала перезагрузите вкладку Live, чтобы удалить изменения, внесенные в DevTools.</span><span class="sxs-lookup"><span data-stu-id="2f445-287">First, reload the live tab to remove the changes that you made in DevTools.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-external1.msft.png" alt-text=" После обновления страницы изменения, внесенные в DevTools, исчезают" lightbox="../media/beginners-css-external1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external1.msft.png":::
         <span data-ttu-id="2f445-289">После обновления страницы изменения, внесенные в DevTools, исчезают</span><span class="sxs-lookup"><span data-stu-id="2f445-289">After you refresh the page, the changes that were made in DevTools are gone</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-290">Вернитесь на **вкладку Редактор** и откройте ее `contact.html` .</span><span class="sxs-lookup"><span data-stu-id="2f445-290">Go back to the **editor tab** and open `contact.html`.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-external2.msft.png" alt-text="contact.html" lightbox="../media/beginners-css-external2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external2.msft.png":::
        <span data-ttu-id="2f445-292">contact.html</span><span class="sxs-lookup"><span data-stu-id="2f445-292">contact.html</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-293">Удалить все между `<style>` и `</style>` , включая `<style>` и `</style>` .</span><span class="sxs-lookup"><span data-stu-id="2f445-293">Delete everything between `<style>` and `</style>`, including `<style>` and `</style>`.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-external3.msft.png" alt-text="Тег Style был удален" lightbox="../media/beginners-css-external3.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external3.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external3.msft.png":::
        <span data-ttu-id="2f445-295">Тег Style был удален</span><span class="sxs-lookup"><span data-stu-id="2f445-295">The style tag has been removed</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-296">Перейдите к `index.html` тегу и удалите `style="background-color: aliceblue;"` его `<nav>` .</span><span class="sxs-lookup"><span data-stu-id="2f445-296">Go to `index.html` and remove `style="background-color: aliceblue;"` from the `<nav>` tag.</span></span>  <span data-ttu-id="2f445-297">Теперь вы удалили все CSS-таблицы, которые вы ранее добавили на сайт.</span><span class="sxs-lookup"><span data-stu-id="2f445-297">You have now removed all of the CSS that you previously added to your site.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-external4.msft.png" alt-text="Встроенный стиль удален из элемента навигации" lightbox="../media/beginners-css-external4.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external4.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external4.msft.png":::
        <span data-ttu-id="2f445-299">Встроенный стиль удален из элемента навигации</span><span class="sxs-lookup"><span data-stu-id="2f445-299">The inline style has been removed from the nav element</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-300">Выберите команду **создать файл**.</span><span class="sxs-lookup"><span data-stu-id="2f445-300">Choose **New File**.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-external5.msft.png" alt-text="Диалоговое окно "Создание файла"" lightbox="../media/beginners-css-external5.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external5.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external5.msft.png":::
        <span data-ttu-id="2f445-302">Диалоговое окно "Создание файла"</span><span class="sxs-lookup"><span data-stu-id="2f445-302">The new file dialog</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-303">Замените `cool-file.js` на `style.css` и выберите команду **Добавить файл**.</span><span class="sxs-lookup"><span data-stu-id="2f445-303">Replace `cool-file.js` with `style.css` and choose **Add File**.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-external6.msft.png" alt-text="Введите Style. CSS" lightbox="../media/beginners-css-external6.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external6.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external6.msft.png":::
        <span data-ttu-id="2f445-305">Тип</span><span class="sxs-lookup"><span data-stu-id="2f445-305">Type</span></span> `style.css`  
     :::image-end:::  
     
@@ -440,7 +440,7 @@ li a {
     }
     ```  
     
-    :::image type="complex" source="../media/beginners-css-external7.msft.png" alt-text="Добавление кода в Style. CSS" lightbox="../media/beginners-css-external7.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external7.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external7.msft.png":::
        <span data-ttu-id="2f445-308">Добавление кода в</span><span class="sxs-lookup"><span data-stu-id="2f445-308">Add code to</span></span> `style.css`  
     :::image-end:::  
     
@@ -457,25 +457,25 @@ li a {
     </head>
     ```  
     
-    :::image type="complex" source="../media/beginners-css-external8.msft.png" alt-text="Ссылка на стиль Style. CSS" lightbox="../media/beginners-css-external8.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external8.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external8.msft.png":::
        <span data-ttu-id="2f445-314">Ссылка на</span><span class="sxs-lookup"><span data-stu-id="2f445-314">Link to</span></span> `style.css`  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-315">Откройте `contact.html` файл и добавьте ссылку на него.</span><span class="sxs-lookup"><span data-stu-id="2f445-315">Open the `contact.html` file and add the link there.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-external9.msft.png" alt-text="Ссылка на стиль Style. CSS в contact.html" lightbox="../media/beginners-css-external9.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external9.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external9.msft.png":::
        <span data-ttu-id="2f445-317">Ссылка `style.css` в</span><span class="sxs-lookup"><span data-stu-id="2f445-317">Link to `style.css` in</span></span> `contact.html`  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-318">Перейдите на **вкладку динамический**.  Домашняя страница теперь имеет тот же шрифт, что и в последнем разделе, и в синем разделе навигации.</span><span class="sxs-lookup"><span data-stu-id="2f445-318">Go to the **live tab**.  The home page now has the same font from the last section and a blue navigation section.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-external10.msft.png" alt-text="Домашняя страница" lightbox="../media/beginners-css-external10.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external10.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external10.msft.png":::
        <span data-ttu-id="2f445-320">Домашняя страница</span><span class="sxs-lookup"><span data-stu-id="2f445-320">The home page</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-321">Щелкните ссылку **контакт** , чтобы перейти на страницу контакта.</span><span class="sxs-lookup"><span data-stu-id="2f445-321">Choose the **Contact** link to go to the contact page.</span></span>  <span data-ttu-id="2f445-322">Страница контакта имеет тот же формат, что и домашняя страница.</span><span class="sxs-lookup"><span data-stu-id="2f445-322">The contact page has the same formatting as the home page.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-external11.msft.png" alt-text="Страница "контакт"" lightbox="../media/beginners-css-external11.msft.png":::
+    :::image type="complex" source="../media/beginners-css-external11.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-external11.msft.png":::
        <span data-ttu-id="2f445-324">Страница "контакт"</span><span class="sxs-lookup"><span data-stu-id="2f445-324">The contact page</span></span>  
     :::image-end:::  
     
@@ -491,19 +491,19 @@ li a {
     
 1.  <span data-ttu-id="2f445-329">Перейдите на вкладку Правка и вставьте код в `contact.html` .</span><span class="sxs-lookup"><span data-stu-id="2f445-329">Go to the editing tab and paste the code into `contact.html`.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-framework1.msft.png" alt-text="Ссылка на платформу в contact.html" lightbox="../media/beginners-css-framework1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-framework1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-framework1.msft.png":::
        <span data-ttu-id="2f445-331">Ссылка на платформу в</span><span class="sxs-lookup"><span data-stu-id="2f445-331">Link to the framework in</span></span> `contact.html`  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-332">Откройте `index.html` файл и добавьте в него код.</span><span class="sxs-lookup"><span data-stu-id="2f445-332">Open the `index.html` file and add the code there.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-framework2.msft.png" alt-text="Ссылка на платформу в index.html" lightbox="../media/beginners-css-framework2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-framework2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-framework2.msft.png":::
        <span data-ttu-id="2f445-334">Ссылка на платформу в</span><span class="sxs-lookup"><span data-stu-id="2f445-334">Link to the framework in</span></span> `index.html`  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-335">Вернитесь на вкладку динамический, чтобы просмотреть изменения.</span><span class="sxs-lookup"><span data-stu-id="2f445-335">Go back to the live tab to view your changes.</span></span>  <span data-ttu-id="2f445-336">Несмотря на то, что цвет фона `<nav>` элемента и шрифта `<li>` `<a>` элементов and одинаков, изменился шрифт остальных элементов.</span><span class="sxs-lookup"><span data-stu-id="2f445-336">While the background color of the `<nav>` element and the font of the `<li>` and `<a>` elements are the same, the font of the other elements has changed.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-framework3.msft.png" alt-text="Некоторые шрифты на домашней странице изменились из-за платформы" lightbox="../media/beginners-css-framework3.msft.png":::
+    :::image type="complex" source="../media/beginners-css-framework3.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-framework3.msft.png":::
        <span data-ttu-id="2f445-338">Некоторые шрифты на домашней странице изменились из-за платформы</span><span class="sxs-lookup"><span data-stu-id="2f445-338">Some of the font on the home page changed because of the framework</span></span>  
     :::image-end:::  
     
@@ -519,19 +519,19 @@ li a {
     
 1.  <span data-ttu-id="2f445-344">Добавьте предыдущий фрагмент кода в `<header>` тег `index.html` .</span><span class="sxs-lookup"><span data-stu-id="2f445-344">Add the previous code snippet to your `<header>` tag in `index.html`.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-jumbotron1.msft.png" alt-text="Добавление классов в index.html" lightbox="../media/beginners-css-jumbotron1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-jumbotron1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-jumbotron1.msft.png":::
        <span data-ttu-id="2f445-346">Добавление классов в</span><span class="sxs-lookup"><span data-stu-id="2f445-346">Add classes in</span></span> `index.html`  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-347">Добавьте код в `<header>` тег `contact.html` .</span><span class="sxs-lookup"><span data-stu-id="2f445-347">Add the code to your `<header>` tag in `contact.html`.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-jumbotron2.msft.png" alt-text="Добавление классов в contact.html" lightbox="../media/beginners-css-jumbotron2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-jumbotron2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-jumbotron2.msft.png":::
        <span data-ttu-id="2f445-349">Добавление классов в</span><span class="sxs-lookup"><span data-stu-id="2f445-349">Add classes in</span></span> `contact.html`  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-350">Просмотрите изменения на вкладке "живые".  Вокруг заголовка есть большое затененное поле.</span><span class="sxs-lookup"><span data-stu-id="2f445-350">View your changes in the live tab.  There is a big, grey box around your header.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-jumbotron3.msft.png" alt-text="Теперь верхний колонтитул имеет большой серый прямоугольник вокруг него." lightbox="../media/beginners-css-jumbotron3.msft.png":::
+    :::image type="complex" source="../media/beginners-css-jumbotron3.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-jumbotron3.msft.png":::
        <span data-ttu-id="2f445-352">Теперь верхний колонтитул имеет большой серый прямоугольник вокруг него.</span><span class="sxs-lookup"><span data-stu-id="2f445-352">The header now has a big, grey box around it</span></span>  
     :::image-end:::  
     
@@ -572,25 +572,25 @@ li a {
 1.  <span data-ttu-id="2f445-362">Вернитесь на вкладку Редактор и откройте ее `index.html` .</span><span class="sxs-lookup"><span data-stu-id="2f445-362">Go back to the editor tab and open `index.html`.</span></span>  
 1.  <span data-ttu-id="2f445-363">Добавьте `class="container-fluid"` в свой `<body>` тег.</span><span class="sxs-lookup"><span data-stu-id="2f445-363">Add `class="container-fluid"` to your `<body>` tag.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-align1.msft.png" alt-text="Добавление класса Container-жидкости" lightbox="../media/beginners-css-align1.msft.png":::
+    :::image type="complex" source="../media/beginners-css-align1.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-align1.msft.png":::
        <span data-ttu-id="2f445-365">Добавьте `container-fluid` класс</span><span class="sxs-lookup"><span data-stu-id="2f445-365">Add the `container-fluid` class</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-366">Обтекание `<nav>` `<main>` элементов `<div class="row">` .</span><span class="sxs-lookup"><span data-stu-id="2f445-366">Wrap your `<nav>` and `<main>` elements in `<div class="row">`.</span></span>  <span data-ttu-id="2f445-367">`</div>`Чтобы правильно закрыть новый тег, убедитесь в том, что вы хотите сделать `</main>` это.</span><span class="sxs-lookup"><span data-stu-id="2f445-367">Make sure to put `</div>` after `</main>` in order to properly close the new tag.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-align2.msft.png" alt-text="Добавление строки" lightbox="../media/beginners-css-align2.msft.png":::
+    :::image type="complex" source="../media/beginners-css-align2.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-align2.msft.png":::
        <span data-ttu-id="2f445-369">Добавление строки</span><span class="sxs-lookup"><span data-stu-id="2f445-369">Add a row</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-370">Добавьте `class="col-3"` теги в тег `<nav>` и `class="col-9"` в `<main>` тег.</span><span class="sxs-lookup"><span data-stu-id="2f445-370">Add `class="col-3"` to your `<nav>` tag and `class="col-9"` to your `<main>` tag.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-align3.msft.png" alt-text="Добавление классов Col-3 и Col-9" lightbox="../media/beginners-css-align3.msft.png":::
+    :::image type="complex" source="../media/beginners-css-align3.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-align3.msft.png":::
        <span data-ttu-id="2f445-372">Добавление `col-3` классов и `col-9`</span><span class="sxs-lookup"><span data-stu-id="2f445-372">Add the `col-3` and `col-9` classes</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="2f445-373">Просмотрите изменения на вкладке "живые".</span><span class="sxs-lookup"><span data-stu-id="2f445-373">View your changes in the live tab.</span></span>  
     
-    :::image type="complex" source="../media/beginners-css-align4.msft.png" alt-text="Содержимое элемента навигации теперь находится слева от основного содержимого." lightbox="../media/beginners-css-align4.msft.png":::
+    :::image type="complex" source="../media/beginners-css-align4.msft.png" alt-text="Как выглядит ваш веб-сайт" lightbox="../media/beginners-css-align4.msft.png":::
        <span data-ttu-id="2f445-375">Содержимое элемента навигации теперь находится слева от основного содержимого.</span><span class="sxs-lookup"><span data-stu-id="2f445-375">The nav content is now to the left of the main content</span></span>  
     :::image-end:::  
     

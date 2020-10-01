@@ -49,7 +49,7 @@ ms.locfileid: "10997145"
 
 <span data-ttu-id="95028-125">Нажмите кнопку **Переключить эмуляцию устройства**  \ ( ![ Переключить панель инструментов устройства ][ImageDeviceToolbarIcon] ) или щелкните **настроить DevTools** \ ( `...` \) > **эмуляцию устройства** , чтобы открыть пользовательский интерфейс, позволяющий имитировать окно просмотра для мобильных устройств.</span><span class="sxs-lookup"><span data-stu-id="95028-125">Choose **Toggle device emulation**  \(![Toggle Device Toolbar][ImageDeviceToolbarIcon]\) or choose **Customize and control DevTools** \(`...`\) > **Device emulation** to open the UI that enables you to simulate a mobile viewport.</span></span>  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-highlighted.msft.png" alt-text="Панель инструментов "устройства"" lightbox="../media/device-mode-toggle-device-toolbar-highlighted.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-highlighted.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-highlighted.msft.png":::
     <span data-ttu-id="95028-127">Панель инструментов "устройства"</span><span class="sxs-lookup"><span data-stu-id="95028-127">The Device Toolbar</span></span>  
 :::image-end:::  
 
@@ -59,7 +59,7 @@ ms.locfileid: "10997145"
 
 <span data-ttu-id="95028-130">Чтобы быстро проверить внешний вид страницы на нескольких размерах экрана, перетащите маркеры, чтобы изменить размер окна просмотра до нужных размеров.</span><span class="sxs-lookup"><span data-stu-id="95028-130">To quickly test the look and feel of your page across multiple screen sizes, drag the handles to resize the viewport to your required dimensions.</span></span>  <span data-ttu-id="95028-131">Вы также можете ввести определенные значения в полях Ширина и высота.</span><span class="sxs-lookup"><span data-stu-id="95028-131">You may also enter specific values in the width and height boxes.</span></span>  <span data-ttu-id="95028-132">На приведенном ниже рисунке задана ширина `626` и высота задана `516` .</span><span class="sxs-lookup"><span data-stu-id="95028-132">In the following figure, the width is set to `626` and the height is set to `516`.</span></span>  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-handles-highlighted.msft.png" alt-text="Дескрипторы для изменения размеров окна просмотра в отклике режима просмотра" lightbox="../media/device-mode-toggle-device-toolbar-handles-highlighted.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-handles-highlighted.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-handles-highlighted.msft.png":::
     <span data-ttu-id="95028-134">Дескрипторы для изменения размеров окна просмотра в отклике режима просмотра</span><span class="sxs-lookup"><span data-stu-id="95028-134">The handles for changing the dimensions of the viewport when in Responsive Viewport Mode</span></span>  
 :::image-end:::  
 
@@ -67,13 +67,13 @@ ms.locfileid: "10997145"
 
 <span data-ttu-id="95028-136">Если вы определили на странице запросы мультимедиа, переходите к измерениям просмотра, в которых эти запросы мультимедиа вступают в силу, отображая точки останова в запросах мультимедиа над окном просмотра.</span><span class="sxs-lookup"><span data-stu-id="95028-136">If you have defined media queries on your page, jump to the viewport dimensions where those media queries take effect by showing media query breakpoints above your viewport.</span></span>  <span data-ttu-id="95028-137">Нажмите кнопку **Дополнительные параметры**  >  , чтобы**отобразить запросы мультимедиа**.</span><span class="sxs-lookup"><span data-stu-id="95028-137">Choose **More options** > **Show media queries**.</span></span>  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-more-options-show-media-queries.msft.png" alt-text="Показать мультимедийные запросы" lightbox="../media/device-mode-toggle-device-toolbar-more-options-show-media-queries.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-more-options-show-media-queries.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-more-options-show-media-queries.msft.png":::
    **<span data-ttu-id="95028-139">Показать мультимедийные запросы</span><span class="sxs-lookup"><span data-stu-id="95028-139">Show media queries</span></span>**  
 :::image-end:::  
 
 <span data-ttu-id="95028-140">Выберите точку останова, чтобы изменить ширину окна просмотра таким образом, чтобы был запущен запрос мультимедиа.</span><span class="sxs-lookup"><span data-stu-id="95028-140">Choose a breakpoint to change the width of the viewport so that the media query gets triggered.</span></span>  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-click-breakpoint.msft.png" alt-text="Выбор точки останова для изменения ширины окна просмотра" lightbox="../media/device-mode-toggle-device-toolbar-click-breakpoint.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-click-breakpoint.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-click-breakpoint.msft.png":::
    <span data-ttu-id="95028-142">Выбор точки останова для изменения ширины окна просмотра</span><span class="sxs-lookup"><span data-stu-id="95028-142">Choose a breakpoint to change the width of the viewport</span></span>  
 :::image-end:::  
 
@@ -81,7 +81,7 @@ ms.locfileid: "10997145"
 
 <span data-ttu-id="95028-144">Используйте список **типов устройств** для имитации мобильного устройства или настольного устройства.</span><span class="sxs-lookup"><span data-stu-id="95028-144">Use the **Device Type** list to simulate a mobile device or desktop device.</span></span>  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-device-type-list.msft.png" alt-text="Список типов устройств" lightbox="../media/device-mode-toggle-device-toolbar-device-type-list.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-device-type-list.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-device-type-list.msft.png":::
    <span data-ttu-id="95028-146">Список **типов устройств**</span><span class="sxs-lookup"><span data-stu-id="95028-146">The **Device Type** list</span></span>  
 :::image-end:::  
 
@@ -101,7 +101,7 @@ ms.locfileid: "10997145"
 
 <span data-ttu-id="95028-173">Чтобы смоделировать размеры определенного мобильного устройства, выберите нужное устройство из списка **устройств** .</span><span class="sxs-lookup"><span data-stu-id="95028-173">To simulate the dimensions of a specific mobile device, select the device from the **Device** list.</span></span>  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-device-list.msft.png" alt-text="Список устройств" lightbox="../media/device-mode-toggle-device-toolbar-device-list.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-device-list.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-device-list.msft.png":::
    <span data-ttu-id="95028-175">Список **устройств**</span><span class="sxs-lookup"><span data-stu-id="95028-175">The **Device** list</span></span>  
 :::image-end:::  
 
@@ -111,14 +111,14 @@ ms.locfileid: "10997145"
 
 *   <span data-ttu-id="95028-178">Чтобы повернуть окно просмотра на альбомную ориентацию, нажмите кнопку **повернуть** \ ( ![ повернуть ][ImageRotateIcon] \).</span><span class="sxs-lookup"><span data-stu-id="95028-178">To rotate the viewport to landscape orientation, choose **Rotate** \(![Rotate][ImageRotateIcon]\).</span></span>  
     
-    :::image type="complex" source="../media/device-mode-toggle-device-toolbar-landscape.msft.png" alt-text="Страница отображается в альбомной ориентации" lightbox="../media/device-mode-toggle-device-toolbar-landscape.msft.png":::
+    :::image type="complex" source="../media/device-mode-toggle-device-toolbar-landscape.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-landscape.msft.png":::
        <span data-ttu-id="95028-180">Страница отображается в альбомной ориентации</span><span class="sxs-lookup"><span data-stu-id="95028-180">Page displayed in landscape orientation</span></span>  
     :::image-end:::  
     
 > [!NOTE]
 > <span data-ttu-id="95028-181">Кнопка **повернуть** исчезнет, если **панель инструментов на устройстве** является узкой.</span><span class="sxs-lookup"><span data-stu-id="95028-181">The **Rotate** button disappears if your **Device Toolbar** is narrow.</span></span>  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-highlighted.msft.png" alt-text="Панель инструментов "устройства"" lightbox="../media/device-mode-toggle-device-toolbar-highlighted.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-highlighted.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-highlighted.msft.png":::
    <span data-ttu-id="95028-183">**Панель инструментов "устройства** "</span><span class="sxs-lookup"><span data-stu-id="95028-183">The **Device Toolbar**</span></span>  
 :::image-end:::  
 
@@ -136,12 +136,12 @@ ms.locfileid: "10997145"
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-option-show-device-frame.msft.png" alt-text="Показать рамку устройства" lightbox="../media/device-mode-toggle-device-toolbar-option-show-device-frame.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-option-show-device-frame.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-option-show-device-frame.msft.png":::
          <span data-ttu-id="95028-191">Показать рамку устройства</span><span class="sxs-lookup"><span data-stu-id="95028-191">Show device frame</span></span>  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-options-device-frame-iphone-6.msft.png" alt-text="Рамка устройства для iPhone 6" lightbox="../media/device-mode-toggle-device-toolbar-options-device-frame-iphone-6.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-options-device-frame-iphone-6.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-options-device-frame-iphone-6.msft.png":::
          <span data-ttu-id="95028-193">Рамка устройства для iPhone 6</span><span class="sxs-lookup"><span data-stu-id="95028-193">The device frame for the iPhone 6</span></span>  
       :::image-end:::  
    :::column-end:::
@@ -153,14 +153,14 @@ ms.locfileid: "10997145"
 
 1.  <span data-ttu-id="95028-197">Выберите список **устройств** > **изменить**.</span><span class="sxs-lookup"><span data-stu-id="95028-197">Choose the **Device** list > **Edit**.</span></span>  
     
-    :::image type="complex" source="../media/device-mode-toggle-device-toolbar-device-list-edit.msft.png" alt-text="Нажмите кнопку Изменить." lightbox="../media/device-mode-toggle-device-toolbar-device-list-edit.msft.png":::
+    :::image type="complex" source="../media/device-mode-toggle-device-toolbar-device-list-edit.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-device-list-edit.msft.png":::
        <span data-ttu-id="95028-199">Нажмите кнопку **изменить** .</span><span class="sxs-lookup"><span data-stu-id="95028-199">Select **Edit**</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="95028-200">Выберите **Добавить настраиваемое устройство**.</span><span class="sxs-lookup"><span data-stu-id="95028-200">Choose **Add custom device**.</span></span>  
 1.  <span data-ttu-id="95028-201">На **эмулированных устройствах**введите имя устройства, ширину экрана и высоту экрана для настраиваемого устройства.</span><span class="sxs-lookup"><span data-stu-id="95028-201">On **Emulated Devices**, enter a device name, screen width, and screen height for the custom device.</span></span>  <span data-ttu-id="95028-202">Поля « [отношение к пикселям][MDNWindowDevicePixelRatio]», « [строка агента пользователя][MDNUserAgent]» и « [тип устройства](#set-the-device-type) » являются необязательными.</span><span class="sxs-lookup"><span data-stu-id="95028-202">The [device pixel ratio][MDNWindowDevicePixelRatio], [user agent string][MDNUserAgent], and [device type](#set-the-device-type) fields are optional.</span></span>  <span data-ttu-id="95028-203">Поле «Тип устройства» по умолчанию имеет значение **мобильный**.</span><span class="sxs-lookup"><span data-stu-id="95028-203">The device type field defaults to **Mobile**.</span></span>  
     
-    :::image type="complex" source="../media/device-mode-toggle-device-toolbar-settings-emulated-devices-add.msft.png" alt-text="Создание настраиваемого устройства" lightbox="../media/device-mode-toggle-device-toolbar-settings-emulated-devices-add.msft.png":::
+    :::image type="complex" source="../media/device-mode-toggle-device-toolbar-settings-emulated-devices-add.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-settings-emulated-devices-add.msft.png":::
        <span data-ttu-id="95028-205">Создание настраиваемого устройства</span><span class="sxs-lookup"><span data-stu-id="95028-205">Create a custom device</span></span>  
     :::image-end:::  
     
@@ -170,12 +170,12 @@ ms.locfileid: "10997145"
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-options-show-rulers.msft.png" alt-text="Элемент меню для отображения линеек" lightbox="../media/device-mode-toggle-device-toolbar-options-show-rulers.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-options-show-rulers.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-options-show-rulers.msft.png":::
          <span data-ttu-id="95028-210">Элемент меню для отображения линеек</span><span class="sxs-lookup"><span data-stu-id="95028-210">Menu item to display rulers</span></span>  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-rulers.msft.png" alt-text="Линейки сверху и слева от окна просмотра" lightbox="../media/device-mode-toggle-device-toolbar-rulers.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-rulers.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-rulers.msft.png":::
          <span data-ttu-id="95028-212">Линейки сверху и слева от окна просмотра</span><span class="sxs-lookup"><span data-stu-id="95028-212">Rulers above and to the left of the viewport</span></span>  
       :::image-end:::  
    :::column-end:::
@@ -185,7 +185,7 @@ ms.locfileid: "10997145"
 
 <span data-ttu-id="95028-214">Для проверки внешнего вида страницы на нескольких уровнях масштабирования используйте в списке **масштаб** , чтобы увеличить или уменьшить масштаб.</span><span class="sxs-lookup"><span data-stu-id="95028-214">To test the look and feel of your page at multiple zoom levels, use the **Zoom** list to zoom in or out.</span></span>  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-zoom.msft.png" alt-text="Масштаб" lightbox="../media/device-mode-toggle-device-toolbar-zoom.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-zoom.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-zoom.msft.png":::
    **<span data-ttu-id="95028-216">Масштаб</span><span class="sxs-lookup"><span data-stu-id="95028-216">Zoom</span></span>**  
 :::image-end:::  
 
@@ -201,14 +201,14 @@ ms.locfileid: "10997145"
     
 <span data-ttu-id="95028-226">Все регулировки зависят от нормальной работы ноутбука или настольного компьютера.</span><span class="sxs-lookup"><span data-stu-id="95028-226">All of the throttling is based upon the normal capability of your laptop or desktop.</span></span>  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-throttle.msft.png" alt-text="Список регулирования на панели инструментов устройства" lightbox="../media/device-mode-toggle-device-toolbar-throttle.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-throttle.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-throttle.msft.png":::
    <span data-ttu-id="95028-228">Список **регулирования** на панели инструментов устройства</span><span class="sxs-lookup"><span data-stu-id="95028-228">The **Throttle** list in the Device Toolbar</span></span>  
 :::image-end:::  
 
 > [!NOTE]
 > <span data-ttu-id="95028-229">Если **список регулирования** скрыт, **панель инструментов устройства** слишком мала.</span><span class="sxs-lookup"><span data-stu-id="95028-229">If the **Throttle list** is hidden, your **Device Toolbar** is too narrow.</span></span>  <span data-ttu-id="95028-230">Чтобы получить доступ к **списку регулирования**, увеличите ширину **панели инструментов устройства**.</span><span class="sxs-lookup"><span data-stu-id="95028-230">To access the **Throttle list**, increase the width of the **Device Toolbar**.</span></span>  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-highlighted.msft.png" alt-text="Панель инструментов "устройства"" lightbox="../media/device-mode-toggle-device-toolbar-highlighted.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-highlighted.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-highlighted.msft.png":::
    <span data-ttu-id="95028-232">**Панель инструментов "устройства** "</span><span class="sxs-lookup"><span data-stu-id="95028-232">The **Device Toolbar**</span></span>  
 :::image-end:::  
 
@@ -219,7 +219,7 @@ ms.locfileid: "10997145"
 1.  <span data-ttu-id="95028-235">Выберите панель " **производительность** " и нажмите кнопку " **Параметры** захвата ![ " (параметры записи ][ImageCaptureIcon] ).</span><span class="sxs-lookup"><span data-stu-id="95028-235">Choose the **Performance** panel, and choose **Capture Settings** \(![Capture Settings][ImageCaptureIcon]\).</span></span>
 1.  <span data-ttu-id="95028-236">Выберите **ЦП**  >  **4X** или **6X замедление**.</span><span class="sxs-lookup"><span data-stu-id="95028-236">Choose **CPU** > **4x slowdown** or **6x slowdown**.</span></span>
     
-    :::image type="complex" source="../media/device-mode-performance-cpu-throttle.msft.png" alt-text="Список ЦП на панели "производительность"" lightbox="../media/device-mode-performance-cpu-throttle.msft.png":::
+    :::image type="complex" source="../media/device-mode-performance-cpu-throttle.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-performance-cpu-throttle.msft.png":::
        <span data-ttu-id="95028-238">Список **ЦП** на панели " **производительность** "</span><span class="sxs-lookup"><span data-stu-id="95028-238">The **CPU** list in the **Performance** panel</span></span>  
     :::image-end:::  
     
@@ -230,13 +230,13 @@ ms.locfileid: "10997145"
 1.  <span data-ttu-id="95028-241">Выберите панель **Network (сеть** ).</span><span class="sxs-lookup"><span data-stu-id="95028-241">Choose the **Network** panel.</span></span>
 1.  <span data-ttu-id="95028-242">Выберите **онлайновый режим**  >  **3G** или **медленное 3G**.</span><span class="sxs-lookup"><span data-stu-id="95028-242">Choose **Online** > **Fast 3G** or **Slow 3G**.</span></span>
     
-    :::image type="complex" source="../media/device-mode-network-throttle.msft.png" alt-text="Список регулирования на панели "сеть"" lightbox="../media/device-mode-network-throttle.msft.png":::
+    :::image type="complex" source="../media/device-mode-network-throttle.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-network-throttle.msft.png":::
        <span data-ttu-id="95028-244">Список **регулирования** на панели "сеть"</span><span class="sxs-lookup"><span data-stu-id="95028-244">The **Throttle** list in the Network panel</span></span>  
     :::image-end:::  
     
     <span data-ttu-id="95028-245">Или выберите `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \), чтобы открыть **меню команд**, введите `3G` и выберите **включить быстрое регулирование сети 3G** или **включить медленное регулирование сети 3G**.</span><span class="sxs-lookup"><span data-stu-id="95028-245">Or select `Control`+`Shift`+`P` \(Windows\) or `Command`+`Shift`+`P` \(macOS\) to open the **Command Menu**, type `3G`, and choose **Enable fast 3G throttling** or **Enable slow 3G throttling**.</span></span>  
     
-    :::image type="complex" source="../media/device-mode-command-menu-throttle.msft.png" alt-text="Меню команд" lightbox="../media/device-mode-command-menu-throttle.msft.png":::
+    :::image type="complex" source="../media/device-mode-command-menu-throttle.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-command-menu-throttle.msft.png":::
        <span data-ttu-id="95028-247">**Меню команд**</span><span class="sxs-lookup"><span data-stu-id="95028-247">The **Command Menu**</span></span>  
     :::image-end:::  
     
@@ -244,7 +244,7 @@ ms.locfileid: "10997145"
 
 1.  <span data-ttu-id="95028-249">Выберите **Параметры захвата** \ ( ![ Параметры захвата ][ImageCaptureIcon] ) и щелкните список **сетей** и измените стиль на " **Быстрый 3G** " или " **медленный 3G**".</span><span class="sxs-lookup"><span data-stu-id="95028-249">Choose **Capture Settings** \(![Capture Settings][ImageCaptureIcon]\) and choose the **Network** list and change the preset to **Fast 3G** or **Slow 3G**.</span></span>  
     
-    :::image type="complex" source="../media/device-mode-performance-network-throttle.msft.png" alt-text="Настройка регулирования сети с помощью панели "производительность"" lightbox="../media/device-mode-performance-network-throttle.msft.png":::
+    :::image type="complex" source="../media/device-mode-performance-network-throttle.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-performance-network-throttle.msft.png":::
        <span data-ttu-id="95028-251">Настройка регулирования сети с помощью панели " **производительность** "</span><span class="sxs-lookup"><span data-stu-id="95028-251">Set network throttling from the **Performance** panel</span></span>  
     :::image-end:::  
     
@@ -256,7 +256,7 @@ ms.locfileid: "10997145"
 
       1.  <span data-ttu-id="95028-254">Нажмите кнопку **Настройка и** выберите пункт DevTools \ ( `...` \) > **другие инструменты**  >  **датчики**.</span><span class="sxs-lookup"><span data-stu-id="95028-254">Choose **Customize and control DevTools** \(`...`\) > **More tools** > **Sensors**.</span></span>  
       
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-more-tools-sensors.msft.png" alt-text="Датчики для географического местоположения" lightbox="../media/device-mode-toggle-device-toolbar-more-tools-sensors.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-more-tools-sensors.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-more-tools-sensors.msft.png":::
          <span data-ttu-id="95028-256">**Датчики** для географического местоположения</span><span class="sxs-lookup"><span data-stu-id="95028-256">**Sensors** for geolocation</span></span>  
       :::image-end:::  
    :::column-end:::
@@ -265,7 +265,7 @@ ms.locfileid: "10997145"
           *   <span data-ttu-id="95028-258">Выберите `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \).</span><span class="sxs-lookup"><span data-stu-id="95028-258">Select `Control`+`Shift`+`P` \(Windows\) or `Command`+`Shift`+`P` \(macOS\).</span></span>  
       1. <span data-ttu-id="95028-259">Введите текст `Sensors` и выберите пункт **Показать датчики**.</span><span class="sxs-lookup"><span data-stu-id="95028-259">Type `Sensors`, and choose **Show Sensors**.</span></span>  
       
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png" alt-text="Показать датчики для географического положения" lightbox="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png":::
          <span data-ttu-id="95028-261">**Показать датчики** для географического положения</span><span class="sxs-lookup"><span data-stu-id="95028-261">**Show Sensors** for geolocation</span></span>  
       :::image-end:::  
    :::column-end:::
@@ -273,7 +273,7 @@ ms.locfileid: "10997145"
 
 <span data-ttu-id="95028-262">На панели **Sensors (датчики** ) вы можете выбрать одно из расположений, указанных в DevTools, с помощью раскрывающегося меню **Расположение** .</span><span class="sxs-lookup"><span data-stu-id="95028-262">On the **Sensors** panel, you may select one of the preset locations included in DevTools using the **Location** drop-down menu.</span></span>  <span data-ttu-id="95028-263">Чтобы ввести другое расположение, выберите пункт **другие...**</span><span class="sxs-lookup"><span data-stu-id="95028-263">To enter a custom location, choose **Other…**</span></span> <span data-ttu-id="95028-264">и введите координаты вашего собственного местоположения.</span><span class="sxs-lookup"><span data-stu-id="95028-264">and enter the coordinates of your custom location.</span></span>  <span data-ttu-id="95028-265">Чтобы протестировать страницу в состоянии ошибки, если сведения о расположении недоступны, выберите пункт **расположение недоступно**.</span><span class="sxs-lookup"><span data-stu-id="95028-265">To test your page in an error state when location information is unavailable, choose **Location unavailable**.</span></span>  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-sensors-tokyo.msft.png" alt-text="Панель «датчики» с выбранным расположением" lightbox="../media/device-mode-toggle-device-toolbar-sensors-tokyo.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-sensors-tokyo.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-sensors-tokyo.msft.png":::
     <span data-ttu-id="95028-267">Панель « **датчики** » с выбранным расположением.</span><span class="sxs-lookup"><span data-stu-id="95028-267">**Sensors** panel with a preset location selected.</span></span>  
 :::image-end:::
 
@@ -285,7 +285,7 @@ ms.locfileid: "10997145"
 
       1.  <span data-ttu-id="95028-270">Нажмите кнопку **Настройка и** выберите пункт DevTools \ ( `...` \) > **другие инструменты**  >  **датчики**.</span><span class="sxs-lookup"><span data-stu-id="95028-270">Choose **Customize and control DevTools** \(`...`\) > **More tools** > **Sensors**.</span></span>  
       
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-more-tools-sensors.msft.png" alt-text="Датчики для ориентации" lightbox="../media/device-mode-toggle-device-toolbar-more-tools-sensors.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-more-tools-sensors.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-more-tools-sensors.msft.png":::
          <span data-ttu-id="95028-272">**Датчики** для ориентации</span><span class="sxs-lookup"><span data-stu-id="95028-272">**Sensors** for orientation</span></span>  
       :::image-end:::  
    :::column-end:::
@@ -294,7 +294,7 @@ ms.locfileid: "10997145"
           *   <span data-ttu-id="95028-274">Выберите `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \).</span><span class="sxs-lookup"><span data-stu-id="95028-274">Select `Control`+`Shift`+`P` \(Windows\) or `Command`+`Shift`+`P` \(macOS\).</span></span>  
       1. <span data-ttu-id="95028-275">Введите текст `Sensors` и выберите пункт **Показать датчики**.</span><span class="sxs-lookup"><span data-stu-id="95028-275">Type `Sensors`, and choose **Show Sensors**.</span></span>  
       
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png" alt-text="Отображение датчиков для ориентации" lightbox="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png":::
          <span data-ttu-id="95028-277">**Отображение датчиков** для ориентации</span><span class="sxs-lookup"><span data-stu-id="95028-277">**Show Sensors** for orientation</span></span>  
       :::image-end:::  
    :::column-end:::
@@ -302,7 +302,7 @@ ms.locfileid: "10997145"
 
 <span data-ttu-id="95028-278">На панели **Sensors (датчики** ) можно выбрать стандартную ориентацию в раскрывающемся меню **ориентация** .</span><span class="sxs-lookup"><span data-stu-id="95028-278">On the **Sensors** panel, you may select a preset orientation from the **Orientation** drop-down menu.</span></span>  <span data-ttu-id="95028-279">Чтобы задать собственную ориентацию, выберите пункт **Настраиваемая ориентация**и введите значения [альфа][MDNDeviceOrientaitonAlpha], [бета][MDNDeviceOrientaitonBeta]и [гамма][MDNDeviceOrientaitonGamma] .</span><span class="sxs-lookup"><span data-stu-id="95028-279">To enter your own orientation, choose **Custom orientation**, and enter your own [alpha][MDNDeviceOrientaitonAlpha], [beta][MDNDeviceOrientaitonBeta], and [gamma][MDNDeviceOrientaitonGamma] values.</span></span>  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-sensors-tokyo-portrait-upside-down.msft.png" alt-text="Параметры ориентации на панели датчиков" lightbox="../media/device-mode-toggle-device-toolbar-sensors-tokyo-portrait-upside-down.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-sensors-tokyo-portrait-upside-down.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-sensors-tokyo-portrait-upside-down.msft.png":::
     <span data-ttu-id="95028-281">Параметры **ориентации** на панели **датчиков**</span><span class="sxs-lookup"><span data-stu-id="95028-281">**Orientation** options on the **Sensors** panel</span></span>  
 :::image-end:::  
 
@@ -314,7 +314,7 @@ ms.locfileid: "10997145"
       
       1.  <span data-ttu-id="95028-284">Нажмите кнопку **Настройка и** выберите пункт DevTools \ ( `...` \), > **Дополнительные инструменты**,  >  **сетевые условия**.</span><span class="sxs-lookup"><span data-stu-id="95028-284">Choose **Customize and control DevTools** \(`...`\) > **More tools** > **Network conditions**.</span></span>  
       
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-more-tools-network-conditions.msft.png" alt-text="Элемент "условия сети" в меню "другие инструменты"" lightbox="../media/device-mode-toggle-device-toolbar-more-tools-network-conditions.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-more-tools-network-conditions.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-more-tools-network-conditions.msft.png":::
          <span data-ttu-id="95028-286">Элемент " **условия сети** " в меню " **другие инструменты** "</span><span class="sxs-lookup"><span data-stu-id="95028-286">**Network conditions** entry in the **More tools** menu</span></span>  
       :::image-end:::  
    :::column-end:::
@@ -323,7 +323,7 @@ ms.locfileid: "10997145"
           *   <span data-ttu-id="95028-288">Выберите `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \).</span><span class="sxs-lookup"><span data-stu-id="95028-288">Select `Control`+`Shift`+`P` \(Windows\) or `Command`+`Shift`+`P` \(macOS\).</span></span>  
       1. <span data-ttu-id="95028-289">Введите текст `Network conditions` и выберите пункт **Показать условия сети**.</span><span class="sxs-lookup"><span data-stu-id="95028-289">Type `Network conditions`, and choose **Show Network conditions**.</span></span>  
       
-      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-command-menu-network-conditions.msft.png" alt-text="Показывать условия сети" lightbox="../media/device-mode-toggle-device-toolbar-command-menu-network-conditions.msft.png":::
+      :::image type="complex" source="../media/device-mode-toggle-device-toolbar-command-menu-network-conditions.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-command-menu-network-conditions.msft.png":::
          **<span data-ttu-id="95028-291">Показывать условия сети</span><span class="sxs-lookup"><span data-stu-id="95028-291">Show Network conditions</span></span>**  
       :::image-end:::  
    :::column-end:::
@@ -331,7 +331,7 @@ ms.locfileid: "10997145"
 
 <span data-ttu-id="95028-292">Рядом с **агентом пользователя**снимите флажок **выбрать автоматически** .</span><span class="sxs-lookup"><span data-stu-id="95028-292">Next to **User agent**, clear the **Select automatically** checkbox.</span></span>  <span data-ttu-id="95028-293">Затем выберите пункт **Настраиваемая...** , чтобы выбрать из списка предварительно заданных строк агента пользователя.</span><span class="sxs-lookup"><span data-stu-id="95028-293">Then, select **Custom...** to select from a list of predefined user agent strings.</span></span>  <span data-ttu-id="95028-294">Чтобы ввести собственную строку агента пользователя, введите ее в поле **введите настраиваемый агент пользователя**.</span><span class="sxs-lookup"><span data-stu-id="95028-294">To enter your own user agent string, enter the string in **Enter a custom user agent**.</span></span>  
 
-:::image type="complex" source="../media/device-mode-toggle-device-toolbar-network-conditions-macos.msft.png" alt-text="Установка строки агента пользователя в Microsoft EDGE на macOS" lightbox="../media/device-mode-toggle-device-toolbar-network-conditions-macos.msft.png":::
+:::image type="complex" source="../media/device-mode-toggle-device-toolbar-network-conditions-macos.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-network-conditions-macos.msft.png":::
     <span data-ttu-id="95028-296">Установка строки агента пользователя в Microsoft EDGE на macOS</span><span class="sxs-lookup"><span data-stu-id="95028-296">Set the user agent string to Microsoft Edge on macOS</span></span>  
 :::image-end:::  
 

@@ -37,7 +37,7 @@ ms.locfileid: "10992794"
 1.  <span data-ttu-id="d9b1c-110">Откройте вкладку **код библиотеки** , которая открывает раздел **код библиотеки Framework** **параметров**.</span><span class="sxs-lookup"><span data-stu-id="d9b1c-110">Select the **Library code** tab which opens the **Framework Library Code** section of **Settings**.</span></span>  
 1.  <span data-ttu-id="d9b1c-111">Установите флажок **помечать сценарии содержимого как библиотечный код** .</span><span class="sxs-lookup"><span data-stu-id="d9b1c-111">Enable the **Mark content scripts as Library code** checkbox.</span></span>  
     
-    :::image type="complex" source="../../media/javascript-settings-library-code-mark-content-scripts-library-code.msft.png" alt-text="Флажок "помечать сценарии содержимого как библиотеку кода"" lightbox="../../media/javascript-settings-library-code-mark-content-scripts-library-code.msft.png":::
+    :::image type="complex" source="../../media/javascript-settings-library-code-mark-content-scripts-library-code.msft.png" alt-text="Флажок &quot;помечать сценарии содержимого как библиотеку кода&quot;" lightbox="../../media/javascript-settings-library-code-mark-content-scripts-library-code.msft.png":::
        <span data-ttu-id="d9b1c-113">Флажок " **помечать сценарии содержимого как библиотеку кода** "</span><span class="sxs-lookup"><span data-stu-id="d9b1c-113">Enable the **Mark content scripts as Library code** checkbox</span></span>  
     :::image-end:::  
     

@@ -41,7 +41,7 @@ ms.locfileid: "10992927"
 1.  <span data-ttu-id="d680e-109">Введите и `network conditions` выберите **Показывать условия сети**, а затем `Enter` откройте вкладку **условия сети** .</span><span class="sxs-lookup"><span data-stu-id="d680e-109">Type `network conditions`, select **Show Network conditions**, and press `Enter` to open the **Network conditions** tab.</span></span>  
 1.  <span data-ttu-id="d680e-110">В разделе **Агент пользователя** отключите флажок **выбрать автоматически** .</span><span class="sxs-lookup"><span data-stu-id="d680e-110">In the **User agent** section, disable the **Select automatically** checkbox.</span></span>  
     
-    :::image type="complex" source="../media/device-mode-console-network-conditions-user-agent-select-automatically-deselected.msft.png" alt-text="Отключить функцию "выбрать автоматически"" lightbox="../media/device-mode-console-network-conditions-user-agent-select-automatically-deselected.msft.png":::
+    :::image type="complex" source="../media/device-mode-console-network-conditions-user-agent-select-automatically-deselected.msft.png" alt-text="Меню команд" lightbox="../media/device-mode-console-network-conditions-user-agent-select-automatically-deselected.msft.png":::
        <span data-ttu-id="d680e-112">Отключить функцию " **выбрать автоматически** "</span><span class="sxs-lookup"><span data-stu-id="d680e-112">Disable **Select automatically**</span></span>  
     :::image-end:::  
     

@@ -40,24 +40,24 @@ ms.locfileid: "10993011"
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/customize-elements-styles-right-docked.msft.png" alt-text="Нажмите кнопку "закрепить на левой панели"" lightbox="../media/customize-elements-styles-right-docked.msft.png":::
+      :::image type="complex" source="../media/customize-elements-styles-right-docked.msft.png" alt-text="Нажмите кнопку &quot;закрепить на левой панели&quot;" lightbox="../media/customize-elements-styles-right-docked.msft.png":::
          <span data-ttu-id="bbd89-108">Выбор</span><span class="sxs-lookup"><span data-stu-id="bbd89-108">Select</span></span> `Dock To Left`  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
-      :::image type="complex" source="../media/customize-elements-styles-bottom-docked.msft.png" alt-text="Выберите пункт закрепить в нижней части экрана" lightbox="../media/customize-elements-styles-bottom-docked.msft.png":::
+      :::image type="complex" source="../media/customize-elements-styles-bottom-docked.msft.png" alt-text="Нажмите кнопку &quot;закрепить на левой панели&quot;" lightbox="../media/customize-elements-styles-bottom-docked.msft.png":::
          <span data-ttu-id="bbd89-110">Выбор</span><span class="sxs-lookup"><span data-stu-id="bbd89-110">Select</span></span> `Dock To Bottom`  
       :::image-end:::  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/customize-elements-styles-options-dock-side-highlight-browser.msft.png" alt-text="Браузер в отдельном окне" lightbox="../media/customize-elements-styles-options-dock-side-highlight-browser.msft.png":::
+      :::image type="complex" source="../media/customize-elements-styles-options-dock-side-highlight-browser.msft.png" alt-text="Нажмите кнопку &quot;закрепить на левой панели&quot;" lightbox="../media/customize-elements-styles-options-dock-side-highlight-browser.msft.png":::
          <span data-ttu-id="bbd89-112">Браузер в отдельном окне</span><span class="sxs-lookup"><span data-stu-id="bbd89-112">Browser in separate window</span></span>  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
-      :::image type="complex" source="../media/customize-elements-styles-options-dock-side-highlight-devtools.msft.png" alt-text="Незакрепленные DevTools в отдельном окне" lightbox="../media/customize-elements-styles-options-dock-side-highlight-devtools.msft.png":::
+      :::image type="complex" source="../media/customize-elements-styles-options-dock-side-highlight-devtools.msft.png" alt-text="Нажмите кнопку &quot;закрепить на левой панели&quot;" lightbox="../media/customize-elements-styles-options-dock-side-highlight-devtools.msft.png":::
          <span data-ttu-id="bbd89-114">Незакрепленные DevTools в отдельном окне</span><span class="sxs-lookup"><span data-stu-id="bbd89-114">Undocked DevTools in separate window</span></span>  
       :::image-end:::  
    :::column-end:::
@@ -67,7 +67,7 @@ ms.locfileid: "10993011"
 
 1.  <span data-ttu-id="bbd89-116">Нажмите кнопку **настроить DevTools** \ ( `...` \) и выберите пункт **открепить в отдельном окне** \ (открепить к концу ![ ][ImageUndockIcon] ), **прикрепить к концу** \ ( ![ закрепить к низу) ][ImageBottomIcon] или **Закрепить слева** ( ![ ][ImageLeftIcon] Закрепить слева направо).</span><span class="sxs-lookup"><span data-stu-id="bbd89-116">Click **Customize And Control DevTools** \(`...`\) and select **Undock Into Separate Window** \(![Undock][ImageUndockIcon]\), **Dock To Bottom** \(![Dock To Bottom][ImageBottomIcon]\), or **Dock To Left** \(![Dock To Left][ImageLeftIcon]\).</span></span>  
     
-    :::image type="complex" source="../media/customize-elements-styles-options-dock-side-highlight.msft.png" alt-text="Выберите пункт открепить в отдельном окне" lightbox="../media/customize-elements-styles-options-dock-side-highlight.msft.png":::
+    :::image type="complex" source="../media/customize-elements-styles-options-dock-side-highlight.msft.png" alt-text="Нажмите кнопку &quot;закрепить на левой панели&quot;" lightbox="../media/customize-elements-styles-options-dock-side-highlight.msft.png":::
        <span data-ttu-id="bbd89-118">Выберите пункт **открепить в отдельном окне**</span><span class="sxs-lookup"><span data-stu-id="bbd89-118">Select **Undock Into Separate Window**</span></span>  
     :::image-end:::  
     
@@ -76,7 +76,7 @@ ms.locfileid: "10993011"
 1.  <span data-ttu-id="bbd89-120">[Открытие меню команд][DevtoolsCommandMenu].</span><span class="sxs-lookup"><span data-stu-id="bbd89-120">[Open the Command Menu][DevtoolsCommandMenu].</span></span>  
 1.  <span data-ttu-id="bbd89-121">Выполните одну из указанных ниже `Dock To Bottom` команд. `Undock Into Separate Window`</span><span class="sxs-lookup"><span data-stu-id="bbd89-121">Run one of the following commands: `Dock To Bottom`, `Undock Into Separate Window`.</span></span>  <span data-ttu-id="bbd89-122">В настоящее время нет команды для закрепления слева, но вы можете получить доступ к ней из [главного меню](#change-placement-from-the-main-menu).</span><span class="sxs-lookup"><span data-stu-id="bbd89-122">Currently there is no command for docking to left, but you may access it from the [main menu](#change-placement-from-the-main-menu).</span></span>  
     
-    :::image type="complex" source="../media/customize-elements-styles-command-menu-undo.msft.png" alt-text="Команда "отменить закрепление"" lightbox="../media/customize-elements-styles-command-menu-undo.msft.png":::
+    :::image type="complex" source="../media/customize-elements-styles-command-menu-undo.msft.png" alt-text="Нажмите кнопку &quot;закрепить на левой панели&quot;" lightbox="../media/customize-elements-styles-command-menu-undo.msft.png":::
        <span data-ttu-id="bbd89-124">Команда "отменить закрепление"</span><span class="sxs-lookup"><span data-stu-id="bbd89-124">The undock command</span></span>  
     :::image-end:::  
     

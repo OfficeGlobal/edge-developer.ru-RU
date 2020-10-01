@@ -48,7 +48,7 @@ ms.locfileid: "10993424"
 
 <span data-ttu-id="ea21f-113">При приостановке в строке кода, содержащей функцию, которая не связана с проблемой, которую вы используете для отладки, нажмите кнопку **шаг за** шагом \ ( ![ Шаг с заходом ][ImageStepOverIcon] в конце), чтобы запустить функцию без пошагового выполнения.</span><span class="sxs-lookup"><span data-stu-id="ea21f-113">When paused on a line of code containing a function that is not relevant to the problem you are debugging, click the **Step over** \(![Step over][ImageStepOverIcon]\) button to run the function without stepping into it.</span></span>  
 
-:::image type="complex" source="../media/javascript-source-page-debugger-step-over-next-function-call.msft.png" alt-text="Нажмите кнопку "шаг за шагом"" lightbox="../media/javascript-source-page-debugger-step-over-next-function-call.msft.png":::
+:::image type="complex" source="../media/javascript-source-page-debugger-step-over-next-function-call.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-source-page-debugger-step-over-next-function-call.msft.png":::
    <span data-ttu-id="ea21f-115">Нажмите кнопку " **шаг за шагом** "</span><span class="sxs-lookup"><span data-stu-id="ea21f-115">Select **Step over**</span></span>  
 :::image-end:::  
 
@@ -72,7 +72,7 @@ function getName() {
 
 <span data-ttu-id="ea21f-121">При приостановке в строке кода, содержащей вызов функции, связанный с проблемой, в которой выполняется отладка, нажмите кнопку **Шаг с заходом** \ (шаг с заходом в начало ![ ), ][ImageStepIntoIcon] чтобы более подробно изучить эту функцию.</span><span class="sxs-lookup"><span data-stu-id="ea21f-121">When paused on a line of code containing a function call that is related to the problem you are debugging, click the **Step into** \(![Step into][ImageStepIntoIcon]\) button to investigate that function further.</span></span>  
 
-:::image type="complex" source="../media/javascript-source-page-debugger-step-into-next-function-call.msft.png" alt-text="Нажмите кнопку "шаг с заходом"" lightbox="../media/javascript-source-page-debugger-step-into-next-function-call.msft.png":::
+:::image type="complex" source="../media/javascript-source-page-debugger-step-into-next-function-call.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-source-page-debugger-step-into-next-function-call.msft.png":::
    <span data-ttu-id="ea21f-123">Нажмите кнопку " **Шаг с заходом** "</span><span class="sxs-lookup"><span data-stu-id="ea21f-123">Select **Step into**</span></span>  
 :::image-end:::  
 
@@ -96,7 +96,7 @@ function getName() {
 
 <span data-ttu-id="ea21f-128">При приостановке внутри функции, которая не связана с проблемой, которую вы выполняете Отладка, нажмите кнопку **шаг** с выходом \ ( ![ Шаг с выходом ][ImageStepOutIcon] ), чтобы выполнить оставшуюся часть кода функции.</span><span class="sxs-lookup"><span data-stu-id="ea21f-128">When paused inside of a function that is not related to the problem you are debugging, click the **Step out** \(![Step out][ImageStepOutIcon]\) button to run the rest of the code of the function.</span></span>  
 
-:::image type="complex" source="../media/javascript-source-page-debugger-step-out-of-current-function.msft.png" alt-text="Нажмите кнопку "шаг с выходом"" lightbox="../media/javascript-source-page-debugger-step-out-of-current-function.msft.png":::
+:::image type="complex" source="../media/javascript-source-page-debugger-step-out-of-current-function.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-source-page-debugger-step-out-of-current-function.msft.png":::
    <span data-ttu-id="ea21f-130">Нажмите кнопку " **Шаг с выходом** "</span><span class="sxs-lookup"><span data-stu-id="ea21f-130">Select **Step out**</span></span>  
 :::image-end:::  
 
@@ -124,7 +124,7 @@ function getName() {
 
 <span data-ttu-id="ea21f-138">Щелкните правой кнопкой мыши строку кода, в которой вы хотите заинтересовать, и выберите команду **продолжить**.</span><span class="sxs-lookup"><span data-stu-id="ea21f-138">Right-click the line of code in which you are interested, and select **Continue to here**.</span></span>  <span data-ttu-id="ea21f-139">DevTools запускает весь код до этого момента, а затем приостанавливает выполнение на этой линии.</span><span class="sxs-lookup"><span data-stu-id="ea21f-139">DevTools runs all of the code up to that point, and then pauses on that line.</span></span>  
 
-:::image type="complex" source="../media/javascript-source-page-continue-to-here.msft.png" alt-text="Нажмите кнопку "перейти сюда"" lightbox="../media/javascript-source-page-continue-to-here.msft.png":::
+:::image type="complex" source="../media/javascript-source-page-continue-to-here.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-source-page-continue-to-here.msft.png":::
    <span data-ttu-id="ea21f-141">Нажмите кнопку **"перейти сюда"**</span><span class="sxs-lookup"><span data-stu-id="ea21f-141">Select **Continue to here**</span></span>  
 :::image-end:::  
 
@@ -146,7 +146,7 @@ function factorial(n) {
 
 <span data-ttu-id="ea21f-146">Вы приостанавливаете `A` .</span><span class="sxs-lookup"><span data-stu-id="ea21f-146">You are paused on `A`.</span></span>  <span data-ttu-id="ea21f-147">После нажатия кнопки **перезапустить**вы должны быть приостановлены `B` , пока не задана точка останова или нажата клавиша **возобновления выполнения сценария**.</span><span class="sxs-lookup"><span data-stu-id="ea21f-147">After clicking **Restart Frame**, you should be paused on `B`, without ever setting a breakpoint or pressing **Resume script execution**.</span></span>  
 
-:::image type="complex" source="../media/javascript-source-page-debugger-restart-frame.msft.png" alt-text="Нажмите кнопку "перезапустить рамку"" lightbox="../media/javascript-source-page-debugger-restart-frame.msft.png":::
+:::image type="complex" source="../media/javascript-source-page-debugger-restart-frame.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-source-page-debugger-restart-frame.msft.png":::
    <span data-ttu-id="ea21f-149">Нажмите кнопку " **перезапустить рамку** "</span><span class="sxs-lookup"><span data-stu-id="ea21f-149">Select **Restart Frame**</span></span>  
 :::image-end:::  
 
@@ -154,7 +154,7 @@ function factorial(n) {
 
 <span data-ttu-id="ea21f-151">Чтобы продолжить выполнение после паузы в сценарии, нажмите кнопку **возобновить исполнение сценария** \ ( ![ возобновить выполнение сценария \ ][ImageResumeScriptExecutionIcon] ).</span><span class="sxs-lookup"><span data-stu-id="ea21f-151">To continue the runtime after a pause of your script, click the **Resume Script Execution** \(![Resume Script Execution][ImageResumeScriptExecutionIcon]\) button.</span></span>  <span data-ttu-id="ea21f-152">DevTools запускает сценарий до следующей точки останова (при наличии).</span><span class="sxs-lookup"><span data-stu-id="ea21f-152">DevTools runs the script up until the next breakpoint, if any.</span></span>  
 
-:::image type="complex" source="../media/javascript-sources-get-started-js-resume-script-runtime.msft.png" alt-text="Выбор выполнения сценария возобновления" lightbox="../media/javascript-sources-get-started-js-resume-script-runtime.msft.png":::
+:::image type="complex" source="../media/javascript-sources-get-started-js-resume-script-runtime.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-sources-get-started-js-resume-script-runtime.msft.png":::
    <span data-ttu-id="ea21f-154">Выбор **выполнения сценария возобновления**</span><span class="sxs-lookup"><span data-stu-id="ea21f-154">Select **Resume script execution**</span></span>  
 :::image-end:::  
 
@@ -162,7 +162,7 @@ function factorial(n) {
 
 <span data-ttu-id="ea21f-156">Чтобы пропустить все точки останова и принудительно возобновить выполнение сценария, нажмите и удерживайте кнопку запустить выполнение **сценария** \ ( ![ возобновить выполнение скрипта \ ][ImageResumeScriptExecutionIcon] ) и выберите команду **принудительное** выполнение сценария \ ( ![ принудительное выполнение сценария \ ][ImageForceScriptExecutionIcon] ).</span><span class="sxs-lookup"><span data-stu-id="ea21f-156">To ignore all breakpoints and force your script to resume running, click and hold the **Resume Script Execution** \(![Resume Script Execution][ImageResumeScriptExecutionIcon]\) button and then select the **Force script execution** \(![Force script execution][ImageForceScriptExecutionIcon]\) button.</span></span>  
 
-:::image type="complex" source="../media/javascript-sources-get-started-js-force-script-runtime.msft.png" alt-text="Выберите принудительное выполнение сценария" lightbox="../media/javascript-sources-get-started-js-force-script-runtime.msft.png":::
+:::image type="complex" source="../media/javascript-sources-get-started-js-force-script-runtime.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-sources-get-started-js-force-script-runtime.msft.png":::
    <span data-ttu-id="ea21f-158">Выберите **принудительное выполнение сценария**</span><span class="sxs-lookup"><span data-stu-id="ea21f-158">Select **Force script execution**</span></span>  
 :::image-end:::  
 
@@ -170,7 +170,7 @@ function factorial(n) {
 
 <span data-ttu-id="ea21f-160">При работе с веб-сотрудниками или сотрудниками служб щелкните контекст, указанный в области **потоки** , чтобы переключиться на этот контекст.</span><span class="sxs-lookup"><span data-stu-id="ea21f-160">When working with web workers or service workers, click on a context listed in the **Threads** pane to switch to that context.</span></span>  <span data-ttu-id="ea21f-161">Синий значок стрелки соответствует контексту, выбранному в данный момент.</span><span class="sxs-lookup"><span data-stu-id="ea21f-161">The blue arrow icon represents which context is currently selected.</span></span>  
 
-:::image type="complex" source="../media/javascript-sources-main-min-js-threads.msft.png" alt-text="Область «потоки»" lightbox="../media/javascript-sources-main-min-js-threads.msft.png":::
+:::image type="complex" source="../media/javascript-sources-main-min-js-threads.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-sources-main-min-js-threads.msft.png":::
    <span data-ttu-id="ea21f-163">Область « **потоки** »</span><span class="sxs-lookup"><span data-stu-id="ea21f-163">The **Threads** pane</span></span>  
 :::image-end:::  
 
@@ -183,7 +183,7 @@ function factorial(n) {
 *   <span data-ttu-id="ea21f-169">Дважды щелкните значение свойства, чтобы изменить его.</span><span class="sxs-lookup"><span data-stu-id="ea21f-169">Double-click a property value to change it.</span></span>  
 *   <span data-ttu-id="ea21f-170">Неперечислимые свойства затенены.</span><span class="sxs-lookup"><span data-stu-id="ea21f-170">Non-enumerable properties are greyed out.</span></span>  
 
-:::image type="complex" source="../media/javascript-sources-get-started-js-scope.msft.png" alt-text="Область "область"" lightbox="../media/javascript-sources-get-started-js-scope.msft.png":::
+:::image type="complex" source="../media/javascript-sources-get-started-js-scope.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-sources-get-started-js-scope.msft.png":::
    <span data-ttu-id="ea21f-172">Область " **область** "</span><span class="sxs-lookup"><span data-stu-id="ea21f-172">The **Scope** pane</span></span>  
 :::image-end:::  
 
@@ -195,7 +195,7 @@ function factorial(n) {
 
 <span data-ttu-id="ea21f-175">Щелкните запись, чтобы перейти к строке кода, в которой была вызвана эта функция.</span><span class="sxs-lookup"><span data-stu-id="ea21f-175">Click on an entry to jump to the line of code where that function was called.</span></span>  <span data-ttu-id="ea21f-176">Синий значок стрелки показывает, какая функция DevTools выделяется в данный момент.</span><span class="sxs-lookup"><span data-stu-id="ea21f-176">The blue arrow icon represents which function DevTools is currently highlighting.</span></span>  
 
-:::image type="complex" source="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty.msft.png" alt-text="Область «стек вызовов»" lightbox="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty.msft.png":::
+:::image type="complex" source="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty.msft.png":::
    <span data-ttu-id="ea21f-178">Область « **Стек вызовов** »</span><span class="sxs-lookup"><span data-stu-id="ea21f-178">The **Call Stack** pane</span></span>  
 :::image-end:::  
 
@@ -210,7 +210,7 @@ This should be moved to an "Export debug data" H2 section when there is enough c
 
 <span data-ttu-id="ea21f-181">Щелкните правой кнопкой мыши в любом месте области **стека звонков** и выберите команду **Копировать трассировку стека** , чтобы скопировать текущий стек вызовов в буфер обмена.</span><span class="sxs-lookup"><span data-stu-id="ea21f-181">Right-click anywhere in the **Call Stack** pane and select **Copy stack trace** to copy the current call stack to the clipboard.</span></span>  
 
-:::image type="complex" source="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-copy-stack-trace.msft.png" alt-text="Нажмите кнопку Копировать трассировку стека." lightbox="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-copy-stack-trace.msft.png":::
+:::image type="complex" source="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-copy-stack-trace.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-copy-stack-trace.msft.png":::
    <span data-ttu-id="ea21f-183">Нажмите кнопку **Копировать трассировку стека** .</span><span class="sxs-lookup"><span data-stu-id="ea21f-183">Select **Copy Stack Trace**</span></span>  
 :::image-end:::  
 
@@ -246,7 +246,7 @@ function animate() {
 1.  <span data-ttu-id="ea21f-194">Щелкните правой кнопкой мыши в любом месте.</span><span class="sxs-lookup"><span data-stu-id="ea21f-194">Right-click anywhere.</span></span>  
 1.  <span data-ttu-id="ea21f-195">Нажмите кнопку **помечать как код библиотеки**.</span><span class="sxs-lookup"><span data-stu-id="ea21f-195">Select **Mark as Library code**.</span></span>  
     
-    :::image type="complex" source="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-editor-mark-as-library-code.msft.png" alt-text="Пометка сценария как кода библиотеки в области "редактор"" lightbox="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-editor-mark-as-library-code.msft.png":::
+    :::image type="complex" source="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-editor-mark-as-library-code.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-editor-mark-as-library-code.msft.png":::
        <span data-ttu-id="ea21f-197">Пометка сценария как **кода библиотеки** в области " **Редактор** "</span><span class="sxs-lookup"><span data-stu-id="ea21f-197">Mark a script as **Library code** from the **Editor** pane</span></span>  
     :::image-end:::  
     
@@ -257,7 +257,7 @@ function animate() {
 1.  <span data-ttu-id="ea21f-200">Щелкните правой кнопкой мыши функцию в сценарии.</span><span class="sxs-lookup"><span data-stu-id="ea21f-200">Right-click on a function from the script.</span></span>  
 1.  <span data-ttu-id="ea21f-201">Нажмите кнопку **помечать как код библиотеки**.</span><span class="sxs-lookup"><span data-stu-id="ea21f-201">Select **Mark as Library code**.</span></span>  
     
-    :::image type="complex" source="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-call-stack-mark-as-library-code.msft.png" alt-text="Пометка сценария как кода библиотеки на панели «стек вызовов»" lightbox="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-call-stack-mark-as-library-code.msft.png":::
+    :::image type="complex" source="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-call-stack-mark-as-library-code.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-glitch-debug-js-sources-get-started-inputs-are-empty-call-stack-mark-as-library-code.msft.png":::
        <span data-ttu-id="ea21f-203">Пометка сценария как **кода библиотеки** на панели « **Стек вызовов** »</span><span class="sxs-lookup"><span data-stu-id="ea21f-203">Mark a script as **Library code** from the **Call Stack** pane</span></span>  
     :::image-end:::  
     
@@ -271,7 +271,7 @@ function animate() {
 1.  <span data-ttu-id="ea21f-209">Введите имя сценария или шаблон регулярного выражения для имен сценариев, чтобы помечать его как **код библиотеки**.</span><span class="sxs-lookup"><span data-stu-id="ea21f-209">Enter the script name or a regex pattern of script names to mark as **Library code**.</span></span>  
 1.  <span data-ttu-id="ea21f-210">Щелкните **Добавить**.</span><span class="sxs-lookup"><span data-stu-id="ea21f-210">Click **Add**.</span></span>  
     
-    :::image type="complex" source="../media/javascript-framework-library-code.msft.png" alt-text="Пометка сценария как кода библиотеки из параметров" lightbox="../media/javascript-framework-library-code.msft.png":::
+    :::image type="complex" source="../media/javascript-framework-library-code.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-framework-library-code.msft.png":::
        <span data-ttu-id="ea21f-212">Пометка сценария как **кода библиотеки** из **параметров**</span><span class="sxs-lookup"><span data-stu-id="ea21f-212">Mark a script as **Library code** from **Settings**</span></span>  
     :::image-end:::  
     
@@ -285,7 +285,7 @@ function animate() {
 
 <span data-ttu-id="ea21f-218">Используйте область **контрольных** значений для просмотра значений настраиваемых выражений.</span><span class="sxs-lookup"><span data-stu-id="ea21f-218">Use the **Watch** pane to watch the values of custom expressions.</span></span>  <span data-ttu-id="ea21f-219">Вы можете просмотреть любое допустимое выражение JavaScript.</span><span class="sxs-lookup"><span data-stu-id="ea21f-219">You may watch any valid JavaScript expression.</span></span>  
 
-:::image type="complex" source="../media/javascript-sources-get-started-js-watch.msft.png" alt-text="Область контрольных значений" lightbox="../media/javascript-sources-get-started-js-watch.msft.png":::
+:::image type="complex" source="../media/javascript-sources-get-started-js-watch.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-sources-get-started-js-watch.msft.png":::
    <span data-ttu-id="ea21f-221">Область **контрольных значений**</span><span class="sxs-lookup"><span data-stu-id="ea21f-221">The **Watch** pane</span></span>  
 :::image-end:::  
 
@@ -297,7 +297,7 @@ function animate() {
 
 <span data-ttu-id="ea21f-227">Нажмите кнопку **Формат** \ ( ![ Формат ][ImageFormatIcon] \), чтобы сделать файл minified удобным для восприятия.</span><span class="sxs-lookup"><span data-stu-id="ea21f-227">Click the **Format** \(![Format][ImageFormatIcon]\) button to make a minified file human-readable.</span></span>  
 
-:::image type="complex" source="../media/javascript-sources-html-non-minified.msft.png" alt-text="Кнопка "формат"" lightbox="../media/javascript-sources-html-non-minified.msft.png":::
+:::image type="complex" source="../media/javascript-sources-html-non-minified.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-sources-html-non-minified.msft.png":::
    <span data-ttu-id="ea21f-229">Кнопка " **Формат** "</span><span class="sxs-lookup"><span data-stu-id="ea21f-229">The **Format** button</span></span>  
 :::image-end:::  
 
@@ -311,7 +311,7 @@ function animate() {
 1.  <span data-ttu-id="ea21f-236">Внесите изменения в область " **Редактор** ".</span><span class="sxs-lookup"><span data-stu-id="ea21f-236">Make your changes in the **Editor** pane.</span></span>  
 1.  <span data-ttu-id="ea21f-237">Чтобы сохранить, нажмите клавиши `Ctrl` + `S` \ (Windows \) или `Command` + `S` \ (macOS \).</span><span class="sxs-lookup"><span data-stu-id="ea21f-237">Press `Ctrl`+`S` \(Windows\) or `Command`+`S` \(macOS\) to save.</span></span>  <span data-ttu-id="ea21f-238">DevTools заменяет весь JS – файл в механизме JavaScript Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="ea21f-238">DevTools patches the entire JS file into the JavaScript engine of Microsoft Edge.</span></span>  
     
-    :::image type="complex" source="../media/javascript-sources-html-minified.msft.png" alt-text="Область "редактор"" lightbox="../media/javascript-sources-html-minified.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-html-minified.msft.png" alt-text="Нажмите кнопку &quot;шаг за шагом&quot;" lightbox="../media/javascript-sources-html-minified.msft.png":::
        <span data-ttu-id="ea21f-240">Область " **Редактор** "</span><span class="sxs-lookup"><span data-stu-id="ea21f-240">The **Editor** pane</span></span>  
     :::image-end:::  
      

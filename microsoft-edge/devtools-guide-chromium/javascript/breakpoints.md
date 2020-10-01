@@ -91,7 +91,7 @@ console.log('c');
 1.  <span data-ttu-id="1f9f6-153">Введите условие в диалоговом окне.</span><span class="sxs-lookup"><span data-stu-id="1f9f6-153">Enter your condition in the dialog.</span></span>  
 1.  <span data-ttu-id="1f9f6-154">Нажмите `Enter` , чтобы активировать точку останова.</span><span class="sxs-lookup"><span data-stu-id="1f9f6-154">Press `Enter` to activate the breakpoint.</span></span>  <span data-ttu-id="1f9f6-155">Значок рядом со столбцом "номер строки".</span><span class="sxs-lookup"><span data-stu-id="1f9f6-155">An icon next to the line number column.</span></span>  
     
-    :::image type="complex" source="../media/javascript-sources-page-js-conditional-breakpoint.msft.png" alt-text="Условная точка останова для строки кода" lightbox="../media/javascript-sources-page-js-conditional-breakpoint.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-page-js-conditional-breakpoint.msft.png" alt-text="Точка останова строки кода" lightbox="../media/javascript-sources-page-js-conditional-breakpoint.msft.png":::
        <span data-ttu-id="1f9f6-157">Условная точка останова для строки кода</span><span class="sxs-lookup"><span data-stu-id="1f9f6-157">A conditional line-of-code breakpoint</span></span>  
     :::image-end:::  
     
@@ -99,7 +99,7 @@ console.log('c');
 
 <span data-ttu-id="1f9f6-159">С помощью области " **точки останова** " можно отключить или удалить точки останова для строк кода из одного места.</span><span class="sxs-lookup"><span data-stu-id="1f9f6-159">Use the **Breakpoints** pane to disable or remove line-of-code breakpoints from a single location.</span></span>  
 
-:::image type="complex" source="../media/javascript-sources-page-js-breakpoints-16-33.msft.png" alt-text="Панель «точки останова»" lightbox="../media/javascript-sources-page-js-breakpoints-16-33.msft.png":::
+:::image type="complex" source="../media/javascript-sources-page-js-breakpoints-16-33.msft.png" alt-text="Точка останова строки кода" lightbox="../media/javascript-sources-page-js-breakpoints-16-33.msft.png":::
    <span data-ttu-id="1f9f6-161">Панель « **точки останова** »</span><span class="sxs-lookup"><span data-stu-id="1f9f6-161">The **Breakpoints** panel</span></span>  
 :::image-end:::  
 
@@ -107,7 +107,7 @@ console.log('c');
 *   <span data-ttu-id="1f9f6-163">Щелкните правой кнопкой мыши запись для удаления точки останова.</span><span class="sxs-lookup"><span data-stu-id="1f9f6-163">Right-click an entry to remove that breakpoint.</span></span>  
 *   <span data-ttu-id="1f9f6-164">Щелкните правой кнопкой мыши в любом месте области **точки останова** , чтобы отключить все точки останова, отключить все точки останова или удалить все точки останова.</span><span class="sxs-lookup"><span data-stu-id="1f9f6-164">Right-click anywhere in the **Breakpoints** pane to deactivate all breakpoints, disable all breakpoints, or remove all breakpoints.</span></span>  <span data-ttu-id="1f9f6-165">Отключение всех точек останова эквивалентно депроверке каждого из них.</span><span class="sxs-lookup"><span data-stu-id="1f9f6-165">Disabling all breakpoints is equivalent to unchecking each one.</span></span>  <span data-ttu-id="1f9f6-166">Отключение всех точек останова дает указание DevTools игнорировать все точки останова для строк кода, а также поддерживать состояние включения, чтобы каждый из них нав одном и том же состоянии до повторной активации каждой из них.</span><span class="sxs-lookup"><span data-stu-id="1f9f6-166">Deactivating all breakpoints instructs DevTools to ignore all line-of-code breakpoints, but to also maintain the enabled state so that each are in the same state as before when you reactivate each one.</span></span>  
     
-    :::image type="complex" source="../media/javascript-sources-page-js-breakpoints-deactivate-breakpoints.msft.png" alt-text="Деактивированные точки останова на панели "точки останова"" lightbox="../media/javascript-sources-page-js-breakpoints-deactivate-breakpoints.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-page-js-breakpoints-deactivate-breakpoints.msft.png" alt-text="Точка останова строки кода" lightbox="../media/javascript-sources-page-js-breakpoints-deactivate-breakpoints.msft.png":::
        <span data-ttu-id="1f9f6-168">Деактивированные точки останова на панели " **точки останова** "</span><span class="sxs-lookup"><span data-stu-id="1f9f6-168">Deactivated breakpoints in the **Breakpoints** pane</span></span>  
     :::image-end:::  
     
@@ -122,7 +122,7 @@ console.log('c');
 1.  <span data-ttu-id="1f9f6-174">Щелкните элемент правой кнопкой мыши.</span><span class="sxs-lookup"><span data-stu-id="1f9f6-174">Right-click the element.</span></span>  
 1.  <span data-ttu-id="1f9f6-175">Наведите указатель мыши **на пункт разрыв**, а затем выберите **изменения поддерева**, **изменения атрибутов**или **Удаление узла**.</span><span class="sxs-lookup"><span data-stu-id="1f9f6-175">Hover over **Break on**, then select **Subtree modifications**, **Attribute modifications**, or **Node removal**.</span></span>  
     
-    :::image type="complex" source="../media/javascript-elements-break-on-subtree-modifications.msft.png" alt-text="Контекстное меню для создания точки останова по изменению модели DOM" lightbox="../media/javascript-elements-break-on-subtree-modifications.msft.png":::
+    :::image type="complex" source="../media/javascript-elements-break-on-subtree-modifications.msft.png" alt-text="Точка останова строки кода" lightbox="../media/javascript-elements-break-on-subtree-modifications.msft.png":::
        <span data-ttu-id="1f9f6-177">Контекстное меню для создания точки останова по изменению модели DOM</span><span class="sxs-lookup"><span data-stu-id="1f9f6-177">The context menu for creating a DOM change breakpoint</span></span>  
     :::image-end:::  
     
@@ -149,7 +149,7 @@ console.log('c');
 1.  <span data-ttu-id="1f9f6-193">Введите строку, на которой вы хотите приостановить.</span><span class="sxs-lookup"><span data-stu-id="1f9f6-193">Enter the string which you want to break on.</span></span>  <span data-ttu-id="1f9f6-194">DevTools приостанавливает работу, когда эта строка отображается в любом месте URL-адреса запроса XHR.</span><span class="sxs-lookup"><span data-stu-id="1f9f6-194">DevTools pauses when this string is present anywhere in an XHR request URL.</span></span>  
 1.  <span data-ttu-id="1f9f6-195">Нажмите кнопку `Enter` , чтобы подтвердить.</span><span class="sxs-lookup"><span data-stu-id="1f9f6-195">Press `Enter` to confirm.</span></span>  
     
-    :::image type="complex" source="../media/javascript-sources-page-js-xhr-fetch-breakpoints-org.msft.png" alt-text="Создание точки останова XHR" lightbox="../media/javascript-sources-page-js-xhr-fetch-breakpoints-org.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-page-js-xhr-fetch-breakpoints-org.msft.png" alt-text="Точка останова строки кода" lightbox="../media/javascript-sources-page-js-xhr-fetch-breakpoints-org.msft.png":::
        <span data-ttu-id="1f9f6-197">Создание точки останова XHR</span><span class="sxs-lookup"><span data-stu-id="1f9f6-197">Create an XHR breakpoint</span></span>  
     :::image-end:::  
     
@@ -161,7 +161,7 @@ console.log('c');
 1.  <span data-ttu-id="1f9f6-202">Разверните область **точки останова для прослушивателя событий** .</span><span class="sxs-lookup"><span data-stu-id="1f9f6-202">Expand the **Event Listener Breakpoints** pane.</span></span>  <span data-ttu-id="1f9f6-203">DevTools отображает список категорий событий, например **анимацию**.</span><span class="sxs-lookup"><span data-stu-id="1f9f6-203">DevTools shows a list of event categories, such as **Animation**.</span></span>  
 1.  <span data-ttu-id="1f9f6-204">Отметьте одну из этих категорий, чтобы приостановить любое событие из этой категории, или развернуть категорию и проверить определенное событие.</span><span class="sxs-lookup"><span data-stu-id="1f9f6-204">Check one of these categories to pause whenever any event from that category is fired, or expand the category and check a specific event.</span></span>  
     
-    :::image type="complex" source="../media/javascript-sources-page-js-event-listener-breakpoints-device-deviceorientation.msft.png" alt-text="Создание точки останова для прослушивателя событий" lightbox="../media/javascript-sources-page-js-event-listener-breakpoints-device-deviceorientation.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-page-js-event-listener-breakpoints-device-deviceorientation.msft.png" alt-text="Точка останова строки кода" lightbox="../media/javascript-sources-page-js-event-listener-breakpoints-device-deviceorientation.msft.png":::
        <span data-ttu-id="1f9f6-206">Создание точки останова для прослушивателя событий</span><span class="sxs-lookup"><span data-stu-id="1f9f6-206">Create an event listener breakpoint</span></span>  
     :::image-end:::  
     
@@ -172,13 +172,13 @@ console.log('c');
 1.  <span data-ttu-id="1f9f6-209">Откройте вкладку **источники** .</span><span class="sxs-lookup"><span data-stu-id="1f9f6-209">Click the **Sources** tab.</span></span>  
 1.  <span data-ttu-id="1f9f6-210">Нажмите кнопку **Pause on Exceptions** \ ( ![ Pause on Exceptions ][ImagePauseOnExceptionsIcon] \).</span><span class="sxs-lookup"><span data-stu-id="1f9f6-210">Click **Pause on exceptions** \(![Pause on exceptions][ImagePauseOnExceptionsIcon]\).</span></span>  <span data-ttu-id="1f9f6-211">При включении значок становится синей.</span><span class="sxs-lookup"><span data-stu-id="1f9f6-211">The icon turns blue when enabled.</span></span>  
     
-    :::image type="complex" source="../media/javascript-sources-page-js-pause-on-exceptions.msft.png" alt-text="Кнопка "Пауза при исключениях"" lightbox="../media/javascript-sources-page-js-pause-on-exceptions.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-page-js-pause-on-exceptions.msft.png" alt-text="Точка останова строки кода" lightbox="../media/javascript-sources-page-js-pause-on-exceptions.msft.png":::
        <span data-ttu-id="1f9f6-213">Кнопка " **Пауза при исключениях** "</span><span class="sxs-lookup"><span data-stu-id="1f9f6-213">The **Pause on exceptions** button</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="1f9f6-214">**Необязательный**.</span><span class="sxs-lookup"><span data-stu-id="1f9f6-214">**Optional**.</span></span>  <span data-ttu-id="1f9f6-215">Установите флажок **приостановить на перехваченных исключениях** , если вы также хотите приостанавливать на перехваченных исключениях помимо неперехваченных.</span><span class="sxs-lookup"><span data-stu-id="1f9f6-215">Check the **Pause On Caught Exceptions** checkbox if you also want to pause on caught exceptions, in addition to uncaught ones.</span></span>  
     
-    :::image type="complex" source="../media/javascript-sources-page-js-paused-on-exception.msft.png" alt-text="Приостановлено при неперехваченном исключении" lightbox="../media/javascript-sources-page-js-paused-on-exception.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-page-js-paused-on-exception.msft.png" alt-text="Точка останова строки кода" lightbox="../media/javascript-sources-page-js-paused-on-exception.msft.png":::
        <span data-ttu-id="1f9f6-217">Приостановлено при неперехваченном исключении</span><span class="sxs-lookup"><span data-stu-id="1f9f6-217">Paused on an uncaught exception</span></span>  
     :::image-end:::  
     

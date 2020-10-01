@@ -25,7 +25,7 @@ ms.locfileid: "11003945"
     *   <span data-ttu-id="ef1f6-109">Выберите `Shift` + `?` .</span><span class="sxs-lookup"><span data-stu-id="ef1f6-109">Select `Shift`+`?`.</span></span>  
 1.  <span data-ttu-id="ef1f6-110">Перейдите на страницу " **сочетания клавиш** ".</span><span class="sxs-lookup"><span data-stu-id="ef1f6-110">Navigate to the **Shortcuts** page.</span></span>  
     
-    :::image type="complex" source="../media/settings-shortcuts.msft.png" alt-text="Страница "ярлыки" в разделе "Параметры"" lightbox="../media/settings-shortcuts.msft.png":::
+    :::image type="complex" source="../media/settings-shortcuts.msft.png" alt-text="Страница &quot;ярлыки&quot; в разделе &quot;Параметры&quot;" lightbox="../media/settings-shortcuts.msft.png":::
        <span data-ttu-id="ef1f6-112">Страница " **ярлыки** " в разделе " **Параметры** "</span><span class="sxs-lookup"><span data-stu-id="ef1f6-112">The **Shortcuts** page in **Settings**</span></span>  
     :::image-end:::  
     
@@ -36,7 +36,7 @@ ms.locfileid: "11003945"
 1.  <span data-ttu-id="ef1f6-115">Открытие страницы " **сочетания клавиш** ".</span><span class="sxs-lookup"><span data-stu-id="ef1f6-115">Open the **Shortcuts** page.</span></span>
 1.  <span data-ttu-id="ef1f6-116">Выберите **сочетание клавиш из предустановленного** раскрывающегося списка и измените **DevTools (по умолчанию)** на **код Visual Studio**.</span><span class="sxs-lookup"><span data-stu-id="ef1f6-116">Choose the **Match shortcuts from preset** dropdown and change **DevTools (Default)** to **Visual Studio Code**.</span></span>  
     
-    :::image type="complex" source="../media/match-keyboard-shortcuts-visual-studio-code.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../media/match-keyboard-shortcuts-visual-studio-code.msft.png":::
+    :::image type="complex" source="../media/match-keyboard-shortcuts-visual-studio-code.msft.png" alt-text="Страница &quot;ярлыки&quot; в разделе &quot;Параметры&quot;" lightbox="../media/match-keyboard-shortcuts-visual-studio-code.msft.png":::
        <span data-ttu-id="ef1f6-118">Соответствие сочетаний клавиш в DevTools с кодом Visual Studio</span><span class="sxs-lookup"><span data-stu-id="ef1f6-118">Match keyboard shortcuts in the DevTools to Visual Studio Code</span></span>  
     :::image-end:::  
 

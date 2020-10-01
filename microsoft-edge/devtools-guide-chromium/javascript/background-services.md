@@ -61,20 +61,20 @@ ms.locfileid: "10992871"
 1.  <span data-ttu-id="df971-121">Откройте панель **приложения** .</span><span class="sxs-lookup"><span data-stu-id="df971-121">Open the **Application** panel.</span></span>  
 1.  <span data-ttu-id="df971-122">Открытие области " **Фоновая выборка** ".</span><span class="sxs-lookup"><span data-stu-id="df971-122">Open the **Background Fetch** pane.</span></span>  
     
-    :::image type="complex" source="../media/javascript-application-background-services-background-fetch-empty.msft.png" alt-text="Область "Фоновая выборка"" lightbox="../media/javascript-application-background-services-background-fetch-empty.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-background-fetch-empty.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-background-fetch-empty.msft.png":::
        <span data-ttu-id="df971-124">Область " **Фоновая выборка** "</span><span class="sxs-lookup"><span data-stu-id="df971-124">The **Background Fetch** pane</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="df971-125">Нажмите **запись** \ ( ![ запись ][ImageRecordIcon] \).</span><span class="sxs-lookup"><span data-stu-id="df971-125">Click **Record** \(![Record][ImageRecordIcon]\).</span></span>  
    <span data-ttu-id="df971-126">После запуска некоторых операций фоновой выборки DevTools регистрирует события в таблице.</span><span class="sxs-lookup"><span data-stu-id="df971-126">After triggering some Background Fetch activity, DevTools logs the events to the table.</span></span>  
     
-    :::image type="complex" source="../media/javascript-application-background-services-background-fetch.msft.png" alt-text="Журнал событий в области "Фоновая выборка"" lightbox="../media/javascript-application-background-services-background-fetch.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-background-fetch.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-background-fetch.msft.png":::
        <span data-ttu-id="df971-128">Журнал событий в области " **Фоновая выборка** "</span><span class="sxs-lookup"><span data-stu-id="df971-128">A log of events in the **Background Fetch** pane</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="df971-129">Щелкните событие, чтобы просмотреть сведения о нем в пространстве под таблицей.</span><span class="sxs-lookup"><span data-stu-id="df971-129">Click an event to view its details in the space below the table.</span></span>  
     
-    :::image type="complex" source="../media/javascript-application-background-services-background-fetch-details.msft.png" alt-text="Просмотр сведений о событии в области "Фоновая выборка"" lightbox="../media/javascript-application-background-services-background-fetch-details.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-background-fetch-details.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-background-fetch-details.msft.png":::
        <span data-ttu-id="df971-131">Просмотр сведений о событии в области " **Фоновая выборка** "</span><span class="sxs-lookup"><span data-stu-id="df971-131">View the details of an event in the **Background Fetch** pane</span></span>  
     :::image-end:::  
     
@@ -88,20 +88,20 @@ ms.locfileid: "10992871"
 1.  <span data-ttu-id="df971-136">Откройте панель **приложения** .</span><span class="sxs-lookup"><span data-stu-id="df971-136">Open the **Application** panel.</span></span>  
 1.  <span data-ttu-id="df971-137">Откройте область **фоновая синхронизация** .</span><span class="sxs-lookup"><span data-stu-id="df971-137">Open the **Background Sync** pane.</span></span>  
     
-    :::image type="complex" source="../media/javascript-application-background-services-background-sync-empty.msft.png" alt-text="Область "фоновая синхронизация"" lightbox="../media/javascript-application-background-services-background-sync-empty.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-background-sync-empty.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-background-sync-empty.msft.png":::
        <span data-ttu-id="df971-139">Область " **фоновая синхронизация** "</span><span class="sxs-lookup"><span data-stu-id="df971-139">The **Background Sync** pane</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="df971-140">Нажмите **запись** \ ( ![ запись ][ImageRecordIcon] \).</span><span class="sxs-lookup"><span data-stu-id="df971-140">Click **Record** \(![Record][ImageRecordIcon]\).</span></span>  
    <span data-ttu-id="df971-141">После запуска некоторых операций синхронизации в фоновом режиме DevTools регистрирует события в таблице.</span><span class="sxs-lookup"><span data-stu-id="df971-141">After triggering some Background Sync activity, DevTools logs the events to the table.</span></span>  
     
-    :::image type="complex" source="../media/javascript-application-background-services-background-sync.msft.png" alt-text="Журнал событий в области "фоновая синхронизация"" lightbox="../media/javascript-application-background-services-background-sync.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-background-sync.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-background-sync.msft.png":::
        <span data-ttu-id="df971-143">Журнал событий в области " **фоновая синхронизация** "</span><span class="sxs-lookup"><span data-stu-id="df971-143">A log of events in the **Background Sync** pane</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="df971-144">Щелкните событие, чтобы просмотреть сведения о нем в пространстве под таблицей.</span><span class="sxs-lookup"><span data-stu-id="df971-144">Click an event to view its details in the space below the table.</span></span>  
     
-    :::image type="complex" source="../media/javascript-application-background-services-background-sync-details.msft.png" alt-text="Просмотр сведений о событии в области фоновой синхронизации" lightbox="../media/javascript-application-background-services-background-sync-details.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-background-sync-details.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-background-sync-details.msft.png":::
        <span data-ttu-id="df971-146">Просмотр сведений о событии в области **фоновой синхронизации**</span><span class="sxs-lookup"><span data-stu-id="df971-146">View the details of an event in the **Background Sync** pane</span></span>  
     :::image-end:::  
     
@@ -113,20 +113,20 @@ ms.locfileid: "10992871"
 1.  <span data-ttu-id="df971-151">Откройте панель **приложения** .</span><span class="sxs-lookup"><span data-stu-id="df971-151">Open the **Application** panel.</span></span>  
 1.  <span data-ttu-id="df971-152">Открытие области **уведомлений** .</span><span class="sxs-lookup"><span data-stu-id="df971-152">Open the **Notifications** pane.</span></span>  
     
-    :::image type="complex" source="../media/javascript-application-background-services-notifications-empty.msft.png" alt-text="Область уведомлений" lightbox="../media/javascript-application-background-services-notifications-empty.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-notifications-empty.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-notifications-empty.msft.png":::
        <span data-ttu-id="df971-154">Область **уведомлений**</span><span class="sxs-lookup"><span data-stu-id="df971-154">The **Notifications** pane</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="df971-155">Нажмите **запись** \ ( ![ запись ][ImageRecordIcon] \).</span><span class="sxs-lookup"><span data-stu-id="df971-155">Click **Record** \(![Record][ImageRecordIcon]\).</span></span>  
    <span data-ttu-id="df971-156">После запуска некоторых действий с уведомлениями DevTools регистрирует события в таблице.</span><span class="sxs-lookup"><span data-stu-id="df971-156">After triggering some Notifications activity, DevTools logs the events to the table.</span></span>  
     
-    :::image type="complex" source="../media/javascript-application-background-services-notifications.msft.png" alt-text="Журнал событий в области уведомлений" lightbox="../media/javascript-application-background-services-notifications.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-notifications.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-notifications.msft.png":::
        <span data-ttu-id="df971-158">Журнал событий в области **уведомлений**</span><span class="sxs-lookup"><span data-stu-id="df971-158">A log of events in the **Notifications** pane</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="df971-159">Щелкните событие, чтобы просмотреть сведения о нем в пространстве под таблицей.</span><span class="sxs-lookup"><span data-stu-id="df971-159">Click an event to view its details in the space below the table.</span></span>  
     
-    :::image type="complex" source="../media/javascript-application-background-services-notifications-details.msft.png" alt-text="Просмотр сведений о событии в области уведомлений" lightbox="../media/javascript-application-background-services-notifications-details.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-notifications-details.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-notifications-details.msft.png":::
        <span data-ttu-id="df971-161">Просмотр сведений о событии в области **уведомлений**</span><span class="sxs-lookup"><span data-stu-id="df971-161">View the details of an event in the **Notifications** pane</span></span>  
     :::image-end:::  
     
@@ -138,14 +138,14 @@ ms.locfileid: "10992871"
 1.  <span data-ttu-id="df971-167">Откройте панель **приложения** .</span><span class="sxs-lookup"><span data-stu-id="df971-167">Open the **Application** panel.</span></span>  
 1.  <span data-ttu-id="df971-168">Открыть область **Push-сообщений** .</span><span class="sxs-lookup"><span data-stu-id="df971-168">Open the **Push Messaging** pane.</span></span>  
     
-    :::image type="complex" source="../media/javascript-application-background-services-push-messaging-empty.msft.png" alt-text="Область Push-сообщений" lightbox="../media/javascript-application-background-services-push-messaging-empty.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-push-messaging-empty.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-push-messaging-empty.msft.png":::
        <span data-ttu-id="df971-170">Область **Push-сообщений**</span><span class="sxs-lookup"><span data-stu-id="df971-170">The **Push Messaging** pane</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="df971-171">Нажмите **запись** \ ( ![ запись ][ImageRecordIcon] \).</span><span class="sxs-lookup"><span data-stu-id="df971-171">Click **Record** \(![Record][ImageRecordIcon]\).</span></span>  
     <span data-ttu-id="df971-172">После запуска некоторых действий Push-сообщений DevTools регистрирует события в таблице.</span><span class="sxs-lookup"><span data-stu-id="df971-172">After triggering some Push Message activity, DevTools logs the events to the table.</span></span>  
     
-    :::image type="complex" source="../media/javascript-application-background-services-push-messaging.msft.png" alt-text="Журнал событий в области Push-сообщений" lightbox="../media/javascript-application-background-services-push-messaging.msft.png":::
+    :::image type="complex" source="../media/javascript-application-background-services-push-messaging.msft.png" alt-text="Просмотр сведений о событии в области Push-сообщений" lightbox="../media/javascript-application-background-services-push-messaging.msft.png":::
        <span data-ttu-id="df971-174">Журнал событий в области Push- **сообщений**</span><span class="sxs-lookup"><span data-stu-id="df971-174">A log of events in the **Push Messaging** pane</span></span>  
     :::image-end:::  
     

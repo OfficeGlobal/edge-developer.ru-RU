@@ -62,19 +62,19 @@ ms.locfileid: "10993396"
 
 1.  <span data-ttu-id="c715e-122">Откройте DevTools, нажав клавиши `Control` + `Shift` + `J` \ (Windows \) или `Command` + `Option` + `J` \ (macOS \).</span><span class="sxs-lookup"><span data-stu-id="c715e-122">Open DevTools by pressing `Control`+`Shift`+`J` \(Windows\) or `Command`+`Option`+`J` \(macOS\) .</span></span>  <span data-ttu-id="c715e-123">С помощью этого ярлыка открывается панель **консоли** .</span><span class="sxs-lookup"><span data-stu-id="c715e-123">This shortcut opens the **Console** panel.</span></span>  
     
-    :::image type="complex" source="../media/javascript-console-empty.msft.png" alt-text="Панель консоли" lightbox="../media/javascript-console-empty.msft.png":::
+    :::image type="complex" source="../media/javascript-console-empty.msft.png" alt-text="Результатом 5 + 1 является 51, а должно быть 6." lightbox="../media/javascript-console-empty.msft.png":::
        <span data-ttu-id="c715e-125">Панель **консоли**</span><span class="sxs-lookup"><span data-stu-id="c715e-125">The **Console** panel</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="c715e-126">Откройте вкладку **источники** .</span><span class="sxs-lookup"><span data-stu-id="c715e-126">Click the **Sources** tab.</span></span>  
     
-    :::image type="complex" source="../media/javascript-sources-sections.msft.png" alt-text="Панель «источники»" lightbox="../media/javascript-sources-sections.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-sections.msft.png" alt-text="Результатом 5 + 1 является 51, а должно быть 6." lightbox="../media/javascript-sources-sections.msft.png":::
        <span data-ttu-id="c715e-128">Панель « **источники** »</span><span class="sxs-lookup"><span data-stu-id="c715e-128">The **Sources** panel</span></span>  
     :::image-end:::  
     
 <span data-ttu-id="c715e-129">В пользовательском интерфейсе панели « **источники** » есть 3 части.</span><span class="sxs-lookup"><span data-stu-id="c715e-129">The **Sources** panel UI has 3 parts.</span></span>  
 
-:::image type="complex" source="../media/javascript-sources-sections-annotated.msft.png" alt-text="3 части пользовательского интерфейса панели «источники»" lightbox="../media/javascript-sources-sections-annotated.msft.png":::
+:::image type="complex" source="../media/javascript-sources-sections-annotated.msft.png" alt-text="Результатом 5 + 1 является 51, а должно быть 6." lightbox="../media/javascript-sources-sections-annotated.msft.png":::
    <span data-ttu-id="c715e-131">3 части пользовательского интерфейса панели « **источники** »</span><span class="sxs-lookup"><span data-stu-id="c715e-131">The 3 parts of the **Sources** panel UI</span></span>  
 :::image-end:::  
 
@@ -111,7 +111,7 @@ function updateLabel() {
 1.  <span data-ttu-id="c715e-156">Рядом с категорией событие **мыши** нажмите кнопку **развернуть** \ ( ![ развернуть значок ][ImageExpandIcon] \).</span><span class="sxs-lookup"><span data-stu-id="c715e-156">Next to the **Mouse** event category, click **Expand** \(![Expand icon][ImageExpandIcon]\).</span></span>  <span data-ttu-id="c715e-157">DevTools открывает список событий мыши, например **Click** и **MouseDown**.</span><span class="sxs-lookup"><span data-stu-id="c715e-157">DevTools reveals a list of mouse events, such as **click** and **mousedown**.</span></span>  <span data-ttu-id="c715e-158">Рядом с каждым событием установлен флажок.</span><span class="sxs-lookup"><span data-stu-id="c715e-158">Each event has a checkbox next to it.</span></span>  
 1.  <span data-ttu-id="c715e-159">Установите флажок **щелкнуть** .</span><span class="sxs-lookup"><span data-stu-id="c715e-159">Check the **click** checkbox.</span></span>  <span data-ttu-id="c715e-160">DevTools теперь настроен на автоматическую приостановку при запуске *любого* `click` прослушивателя событий.</span><span class="sxs-lookup"><span data-stu-id="c715e-160">DevTools is now set up to automatically pause when *any* `click` event listener runs.</span></span>  
     
-    :::image type="complex" source="../media/javascript-sources-event-listener-breakpoint-mouse-click.msft.png" alt-text="Флажок "нажатие кнопки" включен" lightbox="../media/javascript-sources-event-listener-breakpoint-mouse-click.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-event-listener-breakpoint-mouse-click.msft.png" alt-text="Результатом 5 + 1 является 51, а должно быть 6." lightbox="../media/javascript-sources-event-listener-breakpoint-mouse-click.msft.png":::
        <span data-ttu-id="c715e-162">Флажок " **Нажатие кнопки** " включен</span><span class="sxs-lookup"><span data-stu-id="c715e-162">The **click** checkbox is enabled</span></span>  
     :::image-end:::  
     
@@ -160,7 +160,7 @@ function updateLabel() {
 1.  <span data-ttu-id="c715e-188">Слева от кода отображается номер строки данной строки кода, **33**.</span><span class="sxs-lookup"><span data-stu-id="c715e-188">To the left of the code you see the line number of this particular line of code, which is **33**.</span></span>  <span data-ttu-id="c715e-189">Щелкните **33**.</span><span class="sxs-lookup"><span data-stu-id="c715e-189">Click on **33**.</span></span>  <span data-ttu-id="c715e-190">DevTools помещает красный значок слева от **33**.</span><span class="sxs-lookup"><span data-stu-id="c715e-190">DevTools puts a red icon to the left of **33**.</span></span>  <span data-ttu-id="c715e-191">Это означает, что в этой строке есть точка останова из строки кода.</span><span class="sxs-lookup"><span data-stu-id="c715e-191">This means that there is a line-of-code breakpoint on this line.</span></span>  <span data-ttu-id="c715e-192">DevTools теперь всегда задерживается перед выполнением этой строки кода.</span><span class="sxs-lookup"><span data-stu-id="c715e-192">DevTools now always pauses before this line of code is run.</span></span>  
 1.  <span data-ttu-id="c715e-193">Нажмите кнопку **возобновить выполнение сценария** ( ![ возобновить выполнение сценария ][ImageResumeIcon] ).</span><span class="sxs-lookup"><span data-stu-id="c715e-193">Click **Resume script execution** \(![Resume script execution][ImageResumeIcon]\).</span></span>  <span data-ttu-id="c715e-194">Сценарий продолжит работу, пока не достигнет строки 33.</span><span class="sxs-lookup"><span data-stu-id="c715e-194">The script continues running until it reaches line 33.</span></span>  <span data-ttu-id="c715e-195">В строках с 30, 31 и 32 DevTools распечатывает значения и `addend1` `addend2` `sum` справа от точки с запятой в каждой строке.</span><span class="sxs-lookup"><span data-stu-id="c715e-195">On lines 30, 31, and 32, DevTools prints out the values of `addend1`, `addend2`, and `sum` to the right of the semi-colon on each line.</span></span>  
     
-    :::image type="complex" source="../media/javascript-sources-breakpoint-paused.msft.png" alt-text="DevTools приостанавливается на точке останова строки кода в строке 32" lightbox="../media/javascript-sources-breakpoint-paused.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-breakpoint-paused.msft.png" alt-text="Результатом 5 + 1 является 51, а должно быть 6." lightbox="../media/javascript-sources-breakpoint-paused.msft.png":::
        <span data-ttu-id="c715e-197">DevTools приостанавливается на точке останова строки кода в строке 32</span><span class="sxs-lookup"><span data-stu-id="c715e-197">DevTools pauses on the line-of-code breakpoint on line 32</span></span>  
     :::image-end:::  
     
@@ -172,7 +172,7 @@ function updateLabel() {
 
 <span data-ttu-id="c715e-205">Когда вы наводите указатель на строку кода, область " **область** " показывает, какие локальные и глобальные переменные определяются в настоящее время, а также значения каждой переменной.</span><span class="sxs-lookup"><span data-stu-id="c715e-205">When you pause on a line of code, the **Scope** pane shows you what local and global variables are currently defined, along with the value of each variable.</span></span>  <span data-ttu-id="c715e-206">Кроме того, при необходимости отображаются переменные замыкания.</span><span class="sxs-lookup"><span data-stu-id="c715e-206">It also shows closure variables, when applicable.</span></span>  <span data-ttu-id="c715e-207">Дважды щелкните значение переменной, чтобы изменить его.</span><span class="sxs-lookup"><span data-stu-id="c715e-207">Double-click a variable value to edit it.</span></span>  <span data-ttu-id="c715e-208">Если вы не надерживаетесь в строке кода, область " **область** " пуста.</span><span class="sxs-lookup"><span data-stu-id="c715e-208">When you are not paused on a line of code, the **Scope** pane is empty.</span></span>  
 
-:::image type="complex" source="../media/javascript-sources-breakpoint-paused-scope.msft.png" alt-text="Область "область"" lightbox="../media/javascript-sources-breakpoint-paused-scope.msft.png":::
+:::image type="complex" source="../media/javascript-sources-breakpoint-paused-scope.msft.png" alt-text="Результатом 5 + 1 является 51, а должно быть 6." lightbox="../media/javascript-sources-breakpoint-paused-scope.msft.png":::
    <span data-ttu-id="c715e-210">Область " **область** "</span><span class="sxs-lookup"><span data-stu-id="c715e-210">The **Scope** pane</span></span>  
 :::image-end:::  
 
@@ -188,7 +188,7 @@ function updateLabel() {
 > [!NOTE]
 > <span data-ttu-id="c715e-222">В области выражения для контрольных значений \ (внизу справа) на рисунке ниже `typeof sum` показано выражение Watch.</span><span class="sxs-lookup"><span data-stu-id="c715e-222">In the Watch Expression pane \(bottom-right\) in in the following figure, the `typeof sum` Watch Expression is displayed.</span></span>  <span data-ttu-id="c715e-223">Если окно DevTools велико, область выражения контрольных значений находится справа над областью **точки останова прослушивателя событий** .</span><span class="sxs-lookup"><span data-stu-id="c715e-223">If your DevTools window is large, the Watch Expression pane is on the right above the **Event Listener Breakpoints** pane.</span></span>  
 
-:::image type="complex" source="../media/javascript-sources-breakpoint-paused-watch.msft.png" alt-text="Область "выражение контрольного значения"" lightbox="../media/javascript-sources-breakpoint-paused-watch.msft.png":::
+:::image type="complex" source="../media/javascript-sources-breakpoint-paused-watch.msft.png" alt-text="Результатом 5 + 1 является 51, а должно быть 6." lightbox="../media/javascript-sources-breakpoint-paused-watch.msft.png":::
    <span data-ttu-id="c715e-225">Область " **выражение контрольного значения** "</span><span class="sxs-lookup"><span data-stu-id="c715e-225">The **Watch Expression** pane</span></span>  
 :::image-end:::  
 
@@ -202,7 +202,7 @@ function updateLabel() {
 1.  <span data-ttu-id="c715e-234">В окне консоли введите `parseInt(addend1) + parseInt(addend2)` .</span><span class="sxs-lookup"><span data-stu-id="c715e-234">In the Console, type `parseInt(addend1) + parseInt(addend2)`.</span></span>  <span data-ttu-id="c715e-235">Эта инструкция работает, так как вы придерживаетесь к строке кода, `addend1` в которой и `addend2` находятся в области.</span><span class="sxs-lookup"><span data-stu-id="c715e-235">This statement works because you are paused on a line of code where `addend1` and `addend2` are in scope.</span></span>  
 1.  <span data-ttu-id="c715e-236">Нажмите клавишу `Enter` .</span><span class="sxs-lookup"><span data-stu-id="c715e-236">Press `Enter`.</span></span>  <span data-ttu-id="c715e-237">DevTools оценивает оператор и печатает `6` результаты, что является результатом, который вы ожидаете.</span><span class="sxs-lookup"><span data-stu-id="c715e-237">DevTools evaluates the statement and prints out `6`, which is the result you expect the demo to produce.</span></span>  
     
-    :::image type="complex" source="../media/javascript-sources-breakpoint-paused-console.msft.png" alt-text="Входной ящик консоли после оценки parseInt (addend1) + parseInt (addend2)" lightbox="../media/javascript-sources-breakpoint-paused-console.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-breakpoint-paused-console.msft.png" alt-text="Результатом 5 + 1 является 51, а должно быть 6." lightbox="../media/javascript-sources-breakpoint-paused-console.msft.png":::
        <span data-ttu-id="c715e-239">Входной ящик **консоли** после оценки</span><span class="sxs-lookup"><span data-stu-id="c715e-239">The **Console** drawer, after evaluating</span></span> `parseInt(addend1) + parseInt(addend2)`  
     :::image-end:::  
     

@@ -48,19 +48,19 @@ ms.locfileid: "10993550"
     
 1.  <span data-ttu-id="a935a-111">Разверните меню **хранилище сеанса** .</span><span class="sxs-lookup"><span data-stu-id="a935a-111">Expand the **Session Storage** menu.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-storage-session-storage.msft.png" alt-text="Меню «хранилище сеанса»" lightbox="../media/storage-application-storage-session-storage.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-session-storage.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-session-storage.msft.png":::
        <span data-ttu-id="a935a-113">Меню « **хранилище сеанса** »</span><span class="sxs-lookup"><span data-stu-id="a935a-113">The **Session Storage** Menu</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="a935a-114">Выберите домен, чтобы просмотреть пары "ключ-значение".</span><span class="sxs-lookup"><span data-stu-id="a935a-114">Select a domain to view the key-value pairs.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-storage-session-storage-domain.msft.png" alt-text="Пары "sessionStorage" "ключ-значение"" lightbox="../media/storage-application-storage-session-storage-domain.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-session-storage-domain.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-session-storage-domain.msft.png":::
        <span data-ttu-id="a935a-116">`sessionStorage`Пары "ключ-значение"</span><span class="sxs-lookup"><span data-stu-id="a935a-116">The `sessionStorage` key-value pairs</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="a935a-117">Выделите строку таблицы, чтобы просмотреть ее значение в представлении под таблицей.</span><span class="sxs-lookup"><span data-stu-id="a935a-117">Select a row of the table to view the value in the viewer below the table.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-storage-session-storage-domain-key-value-selected.msft.png" alt-text="Просмотр значения ключа x-SID" lightbox="../media/storage-application-storage-session-storage-domain-key-value-selected.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-session-storage-domain-key-value-selected.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-session-storage-domain-key-value-selected.msft.png":::
        <span data-ttu-id="a935a-119">Просмотр значения `x-sid` ключа</span><span class="sxs-lookup"><span data-stu-id="a935a-119">View the value of the `x-sid` key</span></span>  
     :::image-end:::  
     
@@ -69,7 +69,7 @@ ms.locfileid: "10993550"
 1.  <span data-ttu-id="a935a-121">[Просмотр `sessionStorage` пар "ключ-значение" домена](#view-sessionstorage-keys-and-values).</span><span class="sxs-lookup"><span data-stu-id="a935a-121">[View the `sessionStorage` key-value pairs of a domain](#view-sessionstorage-keys-and-values).</span></span>  
 1.  <span data-ttu-id="a935a-122">Дважды щелкните пустую часть таблицы.</span><span class="sxs-lookup"><span data-stu-id="a935a-122">Double-click the empty part of the table.</span></span>  <span data-ttu-id="a935a-123">DevTools создает новую строку и нафокусирует указатель мыши на **ключевом** столбце.</span><span class="sxs-lookup"><span data-stu-id="a935a-123">DevTools creates a new row and focuses your cursor in the **Key** column.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-storage-session-storage-domain-key-value-new.msft.png" alt-text="Пустая часть таблицы для двойного щелчка, чтобы создать новую пару ключ-значение." lightbox="../media/storage-application-storage-session-storage-domain-key-value-new.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-session-storage-domain-key-value-new.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-session-storage-domain-key-value-new.msft.png":::
        <span data-ttu-id="a935a-125">Пустая часть таблицы для двойного щелчка, чтобы создать новую пару ключ-значение.</span><span class="sxs-lookup"><span data-stu-id="a935a-125">The empty part of the table to double-click in order to create a new key-value pair</span></span>  
     :::image-end:::  
     
@@ -78,7 +78,7 @@ ms.locfileid: "10993550"
 1.  <span data-ttu-id="a935a-127">[Просмотр `sessionStorage` пар "ключ-значение" домена](#view-sessionstorage-keys-and-values).</span><span class="sxs-lookup"><span data-stu-id="a935a-127">[View the `sessionStorage` key-value pairs of a domain](#view-sessionstorage-keys-and-values).</span></span>  
 1.  <span data-ttu-id="a935a-128">Дважды щелкните ячейку в столбце " **раздел** " или " **значение** ", чтобы изменить этот раздел или значение.</span><span class="sxs-lookup"><span data-stu-id="a935a-128">Double-click a cell in the **Key** or **Value** column to edit that key or value.</span></span>  
     
-    :::image type="complex" source="../media/storage-application-storage-session-storage-domain-key-value-edit.msft.png" alt-text="Изменение ключа sessionStorage" lightbox="../media/storage-application-storage-session-storage-domain-key-value-edit.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-session-storage-domain-key-value-edit.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-session-storage-domain-key-value-edit.msft.png":::
        <span data-ttu-id="a935a-130">Изменение `sessionStorage` ключа</span><span class="sxs-lookup"><span data-stu-id="a935a-130">Edit a `sessionStorage` key</span></span>  
     :::image-end:::  
     
@@ -99,13 +99,13 @@ ms.locfileid: "10993550"
 
 1.  <span data-ttu-id="a935a-141">Используйте меню "контексты **JavaScript** " для изменения контекста JavaScript на **консоли** , если вы хотите получить доступ к `sessionStorage` парам "ключ-значение" домена, отличного от страницы, на которой вы являетесь.</span><span class="sxs-lookup"><span data-stu-id="a935a-141">Use the **JavaScript contexts** menu to change the JavaScript context of the **Console** if you want to access the `sessionStorage` key-value pairs of a domain other than the page you are on.</span></span>  
     
-    :::image type="complex" source="../media/storage-console-domain-selection.msft.png" alt-text="Изменение контекста JavaScript консоли" lightbox="../media/storage-console-domain-selection.msft.png":::
+    :::image type="complex" source="../media/storage-console-domain-selection.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-console-domain-selection.msft.png":::
        <span data-ttu-id="a935a-143">Изменение контекста JavaScript консоли</span><span class="sxs-lookup"><span data-stu-id="a935a-143">Change the JavaScript context of the Console</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="a935a-144">Выполняйте `sessionStorage` выражения на консоли так же, как и в JavaScript.</span><span class="sxs-lookup"><span data-stu-id="a935a-144">Run your `sessionStorage` expressions in the Console, the same as you would in your JavaScript.</span></span>  
     
-    :::image type="complex" source="../media/storage-console-session-storage-keys.msft.png" alt-text="Взаимодействие с sessionStorage с помощью консоли" lightbox="../media/storage-console-session-storage-keys.msft.png":::
+    :::image type="complex" source="../media/storage-console-session-storage-keys.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-console-session-storage-keys.msft.png":::
        <span data-ttu-id="a935a-146">Взаимодействие с `sessionStorage` **консолью**</span><span class="sxs-lookup"><span data-stu-id="a935a-146">Interact with `sessionStorage` from the **Console**</span></span>  
     :::image-end:::  
     

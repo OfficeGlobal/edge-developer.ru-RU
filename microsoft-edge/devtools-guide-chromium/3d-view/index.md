@@ -51,7 +51,7 @@ ms.locfileid: "10986082"
 
 ### <span data-ttu-id="81bbb-131">Элементы управления на экране</span><span class="sxs-lookup"><span data-stu-id="81bbb-131">On-screen controls</span></span>  
 
-:::image type="complex" source="../media/controls-small.png" alt-text="Элементы управления на экране" lightbox="../media/controls-small.png":::
+:::image type="complex" source="../media/controls-small.png" alt-text="Холст трехмерного представления" lightbox="../media/controls-small.png":::
    <span data-ttu-id="81bbb-133">Элементы управления на экране</span><span class="sxs-lookup"><span data-stu-id="81bbb-133">On-screen controls</span></span>  
 :::image-end:::  
 
@@ -60,7 +60,7 @@ ms.locfileid: "10986082"
 
 ## <span data-ttu-id="81bbb-136">Z-индекс</span><span class="sxs-lookup"><span data-stu-id="81bbb-136">Z-index</span></span>  
 
-:::image type="complex" source="../media/z-index-view-box.png" alt-text="Представление "Z-индекс"" lightbox="../media/z-index-view-box.png":::
+:::image type="complex" source="../media/z-index-view-box.png" alt-text="Холст трехмерного представления" lightbox="../media/z-index-view-box.png":::
    <span data-ttu-id="81bbb-138">Представление "Z-индекс"</span><span class="sxs-lookup"><span data-stu-id="81bbb-138">Z-index view</span></span>  
 :::image-end:::  
 
@@ -94,7 +94,7 @@ ms.locfileid: "10986082"
 
 ## <span data-ttu-id="81bbb-160">ТРЕХМЕРНАЯ МОДЕЛЬ DOM</span><span class="sxs-lookup"><span data-stu-id="81bbb-160">3D DOM</span></span>  
 
-:::image type="complex" source="../media/dom-purple-box.png" alt-text="Представление DOM" lightbox="../media/dom-purple-box.png":::
+:::image type="complex" source="../media/dom-purple-box.png" alt-text="Холст трехмерного представления" lightbox="../media/dom-purple-box.png":::
    <span data-ttu-id="81bbb-162">Представление DOM</span><span class="sxs-lookup"><span data-stu-id="81bbb-162">DOM view</span></span>  
 :::image-end:::  
 

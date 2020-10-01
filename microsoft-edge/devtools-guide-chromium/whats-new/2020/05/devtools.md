@@ -53,7 +53,7 @@ ms.locfileid: "11015491"
 
 <span data-ttu-id="7d51b-119">Из вашего [отзыва](#getting-in-touch-with-microsoft-edge-devtools-team) и средства [отслеживания общедоступных проблем Chromium][CRIssuesList]в Microsoft Edge DevTools была рассказано о том, что вы решили настроить сочетания клавиш в DevTools.</span><span class="sxs-lookup"><span data-stu-id="7d51b-119">From your [feedback](#getting-in-touch-with-microsoft-edge-devtools-team) and the [Chromium public issue tracker][CRIssuesList], the Microsoft Edge DevTools team learned that you wanted the ability to customize keyboard shortcuts in the DevTools.</span></span>  <span data-ttu-id="7d51b-120">В Microsoft Edge 84 теперь вы можете сопоставить сочетания клавиш в DevTools с [кодом Visual Studio][VSCode], который является только одной из функций, над которыми работает команда для настройки ярлыков.</span><span class="sxs-lookup"><span data-stu-id="7d51b-120">In Microsoft Edge 84, you are now able to match keyboard shortcuts in the DevTools to [Visual Studio Code][VSCode], which is just one of the features the team is working on for shortcut customization.</span></span>  
 
-:::image type="complex" source="../../media/2020/05/keyboard-shortcut.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/05/keyboard-shortcut.msft.png":::
+:::image type="complex" source="../../media/2020/05/keyboard-shortcut.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/keyboard-shortcut.msft.png":::
    <span data-ttu-id="7d51b-122">Microsoft Edge DevTools в режиме высокой контрастности</span><span class="sxs-lookup"><span data-stu-id="7d51b-122">The Microsoft Edge DevTools in high contrast mode</span></span>  
 :::image-end:::  
 
@@ -73,13 +73,13 @@ ms.locfileid: "11015491"
 
 <span data-ttu-id="7d51b-134">С помощью [эмулятора Surface Duo][DualScreensAndroidEmulator]вы можете протестировать отображение веб-содержимого в новом классе складная и на устройствах с двумя экранами.</span><span class="sxs-lookup"><span data-stu-id="7d51b-134">With the [Surface Duo emulator][DualScreensAndroidEmulator], you are able to test how your web content renders on a new class of foldable and dual-screen devices.</span></span>  <span data-ttu-id="7d51b-135">Эмулятор запускает операционную систему Android и предоставляет [приложение Microsoft Edge Android][AndroidEdge].</span><span class="sxs-lookup"><span data-stu-id="7d51b-135">The emulator runs the Android operating system and provides the [Microsoft Edge Android app][AndroidEdge].</span></span>  <span data-ttu-id="7d51b-136">Загрузи веб-содержимое в [приложении Microsoft Edge][AndroidEdge] и отлаживать его с помощью [Microsoft Edge DevTools][DevToolsChromiumGuide].</span><span class="sxs-lookup"><span data-stu-id="7d51b-136">Load your web content in the [Microsoft Edge app][AndroidEdge] and debug it with the [Microsoft Edge DevTools][DevToolsChromiumGuide].</span></span>  
 
-:::image type="complex" source="../../media/2020/05/surface-duo-emulator.msft.png" alt-text="Приложение Microsoft EDGE, запущенное в эмуляторе Duo Surface" lightbox="../../media/2020/05/surface-duo-emulator.msft.png":::
+:::image type="complex" source="../../media/2020/05/surface-duo-emulator.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/surface-duo-emulator.msft.png":::
    <span data-ttu-id="7d51b-138">Приложение Microsoft EDGE на эмуляторе Duo Surface</span><span class="sxs-lookup"><span data-stu-id="7d51b-138">The Microsoft Edge app on the Surface Duo emulator</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="7d51b-139">`edge://inspect`Страница в экземпляре [Microsoft Edge][DesktopEdge] на рабочем столе показывает **SurfaceDuoEmulator** со списком открытых вкладок или [PWAs][PwaIndex] , которые выполняются в [эмуляторе Duo Surface][DualScreensAndroidEmulator].</span><span class="sxs-lookup"><span data-stu-id="7d51b-139">The `edge://inspect` page in a desktop instance of [Microsoft Edge][DesktopEdge] shows the **SurfaceDuoEmulator** with a list of the open tabs or [PWAs][PwaIndex] that are running on the [Surface Duo emulator][DualScreensAndroidEmulator].</span></span>  
 
-:::image type="complex" source="../../media/2020/05/edge-inspect.msft.png" alt-text="На странице edge://inspect отображается список вкладок в приложении Microsoft EDGE, работающем в эмуляторе." lightbox="../../media/2020/05/edge-inspect.msft.png":::
+:::image type="complex" source="../../media/2020/05/edge-inspect.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/edge-inspect.msft.png":::
    <span data-ttu-id="7d51b-141">На `edge://inspect` странице отображается список вкладок в приложении Microsoft EDGE, работающем в эмуляторе.</span><span class="sxs-lookup"><span data-stu-id="7d51b-141">The `edge://inspect` page displays a list of the open tabs in the Microsoft Edge app running on the emulator</span></span>
 :::image-end:::  
 
@@ -89,7 +89,7 @@ ms.locfileid: "11015491"
 
 <span data-ttu-id="7d51b-145">В Microsoft Edge 83 или более ранней версии вы смогли изменить размер [DevToolsого ящика][DevToolsDrawer] , наведя указатель мыши на панель инструментов ящика.</span><span class="sxs-lookup"><span data-stu-id="7d51b-145">In Microsoft Edge 83 or earlier, you were only able to resize the [DevTools Drawer][DevToolsDrawer] by hovering inside the Drawer's toolbar.</span></span>  <span data-ttu-id="7d51b-146">Денежный ящик ведет себя иначе, чем другие элементы управления изменением размера для областей в DevTools, где вы наводите указатель мыши на границу области, чтобы изменить ее размер.</span><span class="sxs-lookup"><span data-stu-id="7d51b-146">The Drawer behaved differently than the other resize controls for panes in the DevTools where you hover over the border of the pane to resize it.</span></span>  <span data-ttu-id="7d51b-147">Чтобы узнать, как изменить размер ящика, который работал в версии 83 или более ранней версии Microsoft EDGE, выберите приведенный ниже рисунок.</span><span class="sxs-lookup"><span data-stu-id="7d51b-147">Select the following image to see how resizing the Drawer worked in version 83 or earlier of Microsoft Edge.</span></span>  
 
-:::image type="complex" source="../../media/2020/05/drawer-83.msft.png" alt-text="Изменение размера DevTools денежных средств в Microsoft Edge 83" lightbox="../../media/2020/05/drawer-83.msft.gif":::
+:::image type="complex" source="../../media/2020/05/drawer-83.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/drawer-83.msft.gif":::
    <span data-ttu-id="7d51b-149">Изменение размера DevTools денежных средств в Microsoft Edge 83</span><span class="sxs-lookup"><span data-stu-id="7d51b-149">Resizing the DevTools Drawer in Microsoft Edge 83</span></span>
 :::image-end:::  
 
@@ -97,7 +97,7 @@ ms.locfileid: "11015491"
 
 <span data-ttu-id="7d51b-150">Начиная с Microsoft Edge 84, вы можете изменить размер денежного ящика, наведя указатель мыши на границу денежного ящика.</span><span class="sxs-lookup"><span data-stu-id="7d51b-150">Starting with Microsoft Edge 84, you are now able to resize the Drawer by hovering over the border of the Drawer.</span></span>  <span data-ttu-id="7d51b-151">Это изменение выровнять поведение, изменяя размер DevToolsого ящика с учетом того, как вы измените размеры других областей в DevTools.</span><span class="sxs-lookup"><span data-stu-id="7d51b-151">This change aligns the behavior resizing the DevTools Drawer with the way you resize other panes in the DevTools.</span></span>  <span data-ttu-id="7d51b-152">Чтобы изменить размер в действии в Microsoft Edge 84, выберите приведенный ниже рисунок.</span><span class="sxs-lookup"><span data-stu-id="7d51b-152">Select the following image to see resizing in action in Microsoft Edge 84.</span></span>  
 
-:::image type="complex" source="../../media/2020/05/drawer-84.msft.png" alt-text="Изменение размера DevTools денежных средств в Microsoft Edge 84" lightbox="../../media/2020/05/drawer-84.msft.gif":::
+:::image type="complex" source="../../media/2020/05/drawer-84.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/drawer-84.msft.gif":::
    <span data-ttu-id="7d51b-154">Изменение размера DevTools денежных средств в Microsoft Edge 84</span><span class="sxs-lookup"><span data-stu-id="7d51b-154">Resizing the DevTools Drawer in Microsoft Edge 84</span></span>
 :::image-end:::  
 
@@ -109,7 +109,7 @@ ms.locfileid: "11015491"
 
 <span data-ttu-id="7d51b-157">При удаленной отладке [устройства с Android][DevToolsRemoteDebugAndroid], [устройства с Windows 10][DevToolsRemoteDebugWindows]или [эмулятора Surface Duo][DevToolsRemoteDebugDuoEmulator]вы можете переключаться между экранной презентацией с помощью ![ значка "Показать презентацию" ][ImageScreencastingIcon] в левом верхнем углу окна DevTools.</span><span class="sxs-lookup"><span data-stu-id="7d51b-157">When remote debugging an [Android device][DevToolsRemoteDebugAndroid], a [Windows 10 device][DevToolsRemoteDebugWindows], or a [Surface Duo emulator][DevToolsRemoteDebugDuoEmulator], you are able to toggle screencasting with the ![Toggle Screencast][ImageScreencastingIcon] icon in the top-left corner of the DevTools.</span></span>  <span data-ttu-id="7d51b-158">При включенной презентации вы можете перемещаться по вкладке в Microsoft EDGE на удаленном устройстве из окна DevTools.</span><span class="sxs-lookup"><span data-stu-id="7d51b-158">With screencasting enabled, you are able to navigate the tab in Microsoft Edge on the remote device from the DevTools window.</span></span>  <span data-ttu-id="7d51b-159">В Microsoft Edge 84 эти кнопки навигации теперь также доступны для клавиатуры.</span><span class="sxs-lookup"><span data-stu-id="7d51b-159">In Microsoft Edge 84, these navigation buttons are now also keyboard accessible.</span></span>  
 
-:::image type="complex" source="../../media/2020/05/screencasting-nav.msft.png" alt-text="Нажатие клавиш SHIFT + TAB на панели экранных URL-адресов показывает, что кнопка "Обновить" находится в фокусе" lightbox="../../media/2020/05/screencasting-nav.msft.png":::
+:::image type="complex" source="../../media/2020/05/screencasting-nav.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/screencasting-nav.msft.png":::
    <span data-ttu-id="7d51b-161">При нажатии на `Shift` + `Tab` отрезке экранного URL-адреса появляется фокус на кнопке " **Обновить** "</span><span class="sxs-lookup"><span data-stu-id="7d51b-161">Pressing `Shift`+`Tab` from the screencasted URL bar shows focus on the **Refresh** button</span></span>
 :::image-end:::  
 
@@ -119,7 +119,7 @@ ms.locfileid: "11015491"
 
 <span data-ttu-id="7d51b-164">В Microsoft Edge 84 [область сведений][DevToolsNetworkDetails] на панели " **сеть** " теперь получает фокус при открытии ресурса в [сетевом журнале][DevToolsNetworkLog].</span><span class="sxs-lookup"><span data-stu-id="7d51b-164">In Microsoft Edge 84, the [Details pane][DevToolsNetworkDetails] in the **Network** panel now takes focus when you open it for a resource in the [Network Log][DevToolsNetworkLog].</span></span>  <span data-ttu-id="7d51b-165">Это изменение позволяет средствам чтения с экрана читать и взаимодействовать с содержимым области **сведений** .</span><span class="sxs-lookup"><span data-stu-id="7d51b-165">This change allows screen readers to read out and interact with the content of the **Details** pane.</span></span>  
 
-:::image type="complex" source="../../media/2020/05/network-details.msft.png" alt-text="При открытии области сведений на панели "сеть" выводится фокус" lightbox="../../media/2020/05/network-details.msft.png":::
+:::image type="complex" source="../../media/2020/05/network-details.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/network-details.msft.png":::
    <span data-ttu-id="7d51b-167">При открытии области **сведений** на панели " **сеть** " выводится фокус</span><span class="sxs-lookup"><span data-stu-id="7d51b-167">The **Details** pane in the **Network** panel takes focus when opened</span></span>
 :::image-end:::  
 
@@ -135,7 +135,7 @@ ms.locfileid: "11015491"
 
 <span data-ttu-id="7d51b-176">Чтобы приступить к работе, ознакомьтесь со статьей [Поиск и устранение проблем с помощью средства Microsoft Edge DevToolss][DevtoolsIssuesIndex].</span><span class="sxs-lookup"><span data-stu-id="7d51b-176">To get started, see [Find And Fix Problems With The Microsoft Edge DevTools Issues tool][DevtoolsIssuesIndex].</span></span>  
 
-:::image type="complex" source="../../media/2020/05/issues.msft.png" alt-text="Инструмент "проблемы" в DevTools ящике" lightbox="../../media/2020/05/issues.msft.png":::
+:::image type="complex" source="../../media/2020/05/issues.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/issues.msft.png":::
    <span data-ttu-id="7d51b-178">Инструмент " **проблемы** " в DevTools ящике</span><span class="sxs-lookup"><span data-stu-id="7d51b-178">The **Issues** tool in the DevTools Drawer</span></span>  
 :::image-end:::  
 
@@ -149,7 +149,7 @@ ms.locfileid: "11015491"
 <!--todo:  add link name and role (WebdevLabelsText) when section is live  -->  
 <!--todo:  add link keyboard-focusable (WebdevControlFocus) when section is live  -->  
 
-:::image type="complex" source="../../media/2020/05/a11y.msft.png" alt-text="Всплывающая подсказка режима проверки с информацией о специальных возможностях" lightbox="../../media/2020/05/a11y.msft.png":::
+:::image type="complex" source="../../media/2020/05/a11y.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/a11y.msft.png":::
   <span data-ttu-id="7d51b-183">Всплывающая подсказка **режима проверки** с информацией о специальных возможностях</span><span class="sxs-lookup"><span data-stu-id="7d51b-183">The **Inspect Mode** tooltip with accessibility information</span></span>  
 :::image-end:::  
 
@@ -171,7 +171,7 @@ ms.locfileid: "11015491"
 
 <span data-ttu-id="7d51b-193">Если вы видите `Total Blocking Time: Unavailable` , Microsoft Edge DevTools не получил нужные сведения из внутренних данных профилирования в Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="7d51b-193">If you see `Total Blocking Time: Unavailable`, Microsoft Edge DevTools did not get the required information from the internal profiling data in Microsoft Edge.</span></span>  
 
-:::image type="complex" source="../../media/2020/05/tbt.msft.png" alt-text="Общие сведения о времени блокировки в нижнем колонтитуле записи панели "производительность"" lightbox="../../media/2020/05/tbt.msft.png":::
+:::image type="complex" source="../../media/2020/05/tbt.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/tbt.msft.png":::
    <span data-ttu-id="7d51b-195">Общие сведения о времени блокировки в нижнем колонтитуле записи панели " **производительность** "</span><span class="sxs-lookup"><span data-stu-id="7d51b-195">Total Blocking Time information in the footer of a **Performance** panel recording</span></span>  
 :::image-end:::  
 
@@ -186,7 +186,7 @@ ms.locfileid: "11015491"
 
 <span data-ttu-id="7d51b-200">Выберите событие **сдвиг макета** , чтобы просмотреть сведения о смене макета в области **Сводка** .</span><span class="sxs-lookup"><span data-stu-id="7d51b-200">Select the **Layout Shift** event to see the details of the layout shift in the **Summary** pane.</span></span>  <span data-ttu-id="7d51b-201">Наведите указатель мыши на поле **переместить из** и **переместили в** поля, чтобы увидеть, где произошел сдвиг макета.</span><span class="sxs-lookup"><span data-stu-id="7d51b-201">Hover over the **Moved from** and **Moved to** fields to visualize where the layout shift occurred.</span></span>  
 
-:::image type="complex" source="../../media/2020/05/cls.msft.png" alt-text="Сведения о смене макета" lightbox="../../media/2020/05/cls.msft.png":::
+:::image type="complex" source="../../media/2020/05/cls.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/cls.msft.png":::
    <span data-ttu-id="7d51b-203">Сведения о смене макета</span><span class="sxs-lookup"><span data-stu-id="7d51b-203">The details of a layout shift</span></span>  
 :::image-end:::  
 
@@ -194,13 +194,13 @@ ms.locfileid: "11015491"
 
 <span data-ttu-id="7d51b-205">При входе в систему `Promise` **консоль** неправильно предоставила `PromiseStatus` значение, равное `resolved` .</span><span class="sxs-lookup"><span data-stu-id="7d51b-205">When logging a `Promise`, the **Console** incorrectly provided `PromiseStatus` value set to `resolved`.</span></span>  
 
-:::image type="complex" source="../../media/2020/05/resolved.msft.png" alt-text="Пример консоли, использующей старую распознанную терминологию" lightbox="../../media/2020/05/resolved.msft.png":::
+:::image type="complex" source="../../media/2020/05/resolved.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/resolved.msft.png":::
    <span data-ttu-id="7d51b-207">Пример **консоли** с помощью старой `resolved` терминологии</span><span class="sxs-lookup"><span data-stu-id="7d51b-207">An example of the **Console** using the old `resolved` terminology</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="7d51b-208">Теперь **консоль** использует термин, который выводится `fulfilled` в соответствии со `Promise` спецификацией.</span><span class="sxs-lookup"><span data-stu-id="7d51b-208">The **Console** now uses the term `fulfilled`, which aligns with the `Promise` specification.</span></span>  <span data-ttu-id="7d51b-209">Дополнительные сведения о `Promise` спецификации можно найти в статьях [состояния и Fates на GitHub](https://github.com/domenic/promises-unwrapping/blob/master/docs/states-and-fates.md).</span><span class="sxs-lookup"><span data-stu-id="7d51b-209">For more information about the `Promise` specification, see [States and Fates on GitHub](https://github.com/domenic/promises-unwrapping/blob/master/docs/states-and-fates.md).</span></span>  
 
-:::image type="complex" source="../../media/2020/05/fulfilled.msft.png" alt-text="Пример консоли, в которой используется новая терминология" lightbox="../../media/2020/05/fulfilled.msft.png":::
+:::image type="complex" source="../../media/2020/05/fulfilled.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/fulfilled.msft.png":::
   <span data-ttu-id="7d51b-211">Пример **консоли** , в которой используется новая `fulfilled` терминология</span><span class="sxs-lookup"><span data-stu-id="7d51b-211">An example of the **Console** using the new `fulfilled` terminology</span></span>  
 :::image-end:::  
 
@@ -212,7 +212,7 @@ ms.locfileid: "11015491"
 
 <span data-ttu-id="7d51b-215">Пользовательский интерфейс "Автозаполнение" области " **стили** " теперь определяет ключевое слово " [вернуть][MDNRevert] CSS", которое возвращает каскадное значение свойства к предыдущему значению, примененному к стилю элемента.</span><span class="sxs-lookup"><span data-stu-id="7d51b-215">The autocomplete UI of the **Styles** pane now detects the [revert][MDNRevert] CSS keyword, which reverts the cascaded value of a property to the previous value applied to the styling of the element.</span></span>  
 
-:::image type="complex" source="../../media/2020/05/revert.msft.png" alt-text="Установка значения свойства "вернуть"" lightbox="../../media/2020/05/revert.msft.png":::
+:::image type="complex" source="../../media/2020/05/revert.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/revert.msft.png":::
   <span data-ttu-id="7d51b-217">Установка значения свойства "вернуть"</span><span class="sxs-lookup"><span data-stu-id="7d51b-217">Setting the value of a property to revert</span></span>  
 :::image-end:::  
 
@@ -222,7 +222,7 @@ ms.locfileid: "11015491"
 
 <span data-ttu-id="7d51b-220">Наведите указатель мыши на `background-image` значение в области **стили** , чтобы просмотреть изображение во всплывающей подсказке.</span><span class="sxs-lookup"><span data-stu-id="7d51b-220">Hover over a `background-image` value in the **Styles** pane to see a preview of the image in a tooltip.</span></span>  
 
-:::image type="complex" source="../../media/2020/05/image-preview.msft.png" alt-text="Наведение указателя мыши на значение фонового изображения" lightbox="../../media/2020/05/image-preview.msft.png":::
+:::image type="complex" source="../../media/2020/05/image-preview.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/image-preview.msft.png":::
   <span data-ttu-id="7d51b-222">Наведение указателя мыши на `background-image` значение</span><span class="sxs-lookup"><span data-stu-id="7d51b-222">Hovering over a `background-image` value</span></span>  
 :::image-end:::  
 
@@ -234,7 +234,7 @@ ms.locfileid: "11015491"
 
 <span data-ttu-id="7d51b-227">При выборе цветов с помощью [палитры][DevtoolsCssReferenceColorPicker] цветов или переключения между цветовыми представлениями в области **стили** при нажатии `Shift` и выделении `background-color` значения должен отобразиться синтаксис аргументов, разделенных пробелами.</span><span class="sxs-lookup"><span data-stu-id="7d51b-227">When you choose colors with the [Color Picker][DevtoolsCssReferenceColorPicker] or alternate between color representations in the **Styles** pane by holding `Shift` and selecting the `background-color` value, you should see the space-separated argument syntax.</span></span>  
 
-:::image type="complex" source="../../media/2020/05/color.msft.png" alt-text="Использование аргументов, разделенных пробелами, в области "стили"" lightbox="../../media/2020/05/color.msft.png":::
+:::image type="complex" source="../../media/2020/05/color.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/color.msft.png":::
   <span data-ttu-id="7d51b-229">Использование аргументов, разделенных пробелами, в области " **стили** "</span><span class="sxs-lookup"><span data-stu-id="7d51b-229">Using space-separated arguments in the **Styles** pane</span></span>  
 :::image-end:::  
 
@@ -250,7 +250,7 @@ ms.locfileid: "11015491"
 
 <span data-ttu-id="7d51b-236">Область " **Свойства** " на панели " **элементы** " устарела.</span><span class="sxs-lookup"><span data-stu-id="7d51b-236">The **Properties** pane in the **Elements** panel is deprecated.</span></span>  <span data-ttu-id="7d51b-237">Запустите `console.dir($0)` на **консоли** .</span><span class="sxs-lookup"><span data-stu-id="7d51b-237">Run `console.dir($0)` in the **Console** instead.</span></span>  
 
-:::image type="complex" source="../../media/2020/05/properties.msft.png" alt-text="Область "устаревшие свойства"" lightbox="../../media/2020/05/properties.msft.png":::
+:::image type="complex" source="../../media/2020/05/properties.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/properties.msft.png":::
    <span data-ttu-id="7d51b-239">Область "устаревшие **Свойства** "</span><span class="sxs-lookup"><span data-stu-id="7d51b-239">The deprecated **Properties** pane</span></span>  
 :::image-end:::  
 
@@ -267,7 +267,7 @@ ms.locfileid: "11015491"
 
 <!--todo:  add link Get things done quickly with app shortcuts (WebdevAppShortcuts) when section is live -->  
 
-:::image type="complex" source="../../media/2020/05/app-shortcuts.msft.png" alt-text="Ярлыки приложений в области манифеста" lightbox="../../media/2020/05/app-shortcuts.msft.png":::
+:::image type="complex" source="../../media/2020/05/app-shortcuts.msft.png" alt-text="Microsoft Edge DevTools в режиме высокой контрастности" lightbox="../../media/2020/05/app-shortcuts.msft.png":::
   <span data-ttu-id="7d51b-247">Ярлыки приложений в области **манифеста**</span><span class="sxs-lookup"><span data-stu-id="7d51b-247">App shortcuts in the **Manifest** pane</span></span>  
 :::image-end:::  
 

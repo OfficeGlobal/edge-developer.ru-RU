@@ -46,13 +46,13 @@ ms.locfileid: "10993025"
 
 1.  <span data-ttu-id="4b51d-109">Нажмите кнопку **Настройка DevTools** и `...` выберите пункт **Параметры**.</span><span class="sxs-lookup"><span data-stu-id="4b51d-109">Click **Customize And Control DevTools** `...` and then select **Settings**.</span></span>  <span data-ttu-id="4b51d-110">Вы также можете открыть **Параметры** , нажав клавишу `F1` .</span><span class="sxs-lookup"><span data-stu-id="4b51d-110">You may also open **Settings** by pressing `F1`.</span></span>  
     
-    :::image type="complex" source="../media/customize-options-settings.msft.png" alt-text="Открытие "Параметров"" lightbox="../media/customize-options-settings.msft.png":::
+    :::image type="complex" source="../media/customize-options-settings.msft.png" alt-text="Темная тема" lightbox="../media/customize-options-settings.msft.png":::
        <span data-ttu-id="4b51d-112">Открыть **Параметры**</span><span class="sxs-lookup"><span data-stu-id="4b51d-112">Open **Settings**</span></span>  
     :::image-end:::  
 
 1.  <span data-ttu-id="4b51d-113">В области **Параметры** в разделе **внешний вид**щелкните раскрывающийся список **Тема** и выберите элемент **темно**.</span><span class="sxs-lookup"><span data-stu-id="4b51d-113">On the **Preferences** pane,  under **Appearance**, click on the **Theme** drop-down, and select **Dark**.</span></span>  
     
-    :::image type="complex" source="../media/customize-settings-preferences-appearance-theme-dark.msft.png" alt-text="Предпочтения" lightbox="../media/customize-settings-preferences-appearance-theme-dark.msft.png":::
+    :::image type="complex" source="../media/customize-settings-preferences-appearance-theme-dark.msft.png" alt-text="Темная тема" lightbox="../media/customize-settings-preferences-appearance-theme-dark.msft.png":::
        **<span data-ttu-id="4b51d-115">Предпочтения</span><span class="sxs-lookup"><span data-stu-id="4b51d-115">Preferences</span></span>**  
     :::image-end:::  
 
@@ -61,7 +61,7 @@ ms.locfileid: "10993025"
 1.  <span data-ttu-id="4b51d-117">[Открытие меню команд][DevtoolsCommandMenu].</span><span class="sxs-lookup"><span data-stu-id="4b51d-117">[Open the Command Menu][DevtoolsCommandMenu].</span></span>  
 1.  <span data-ttu-id="4b51d-118">Начните вводить текст `dark` , выберите команду " **темная тема** ", а затем нажмите, `Enter` чтобы выполнить команду.</span><span class="sxs-lookup"><span data-stu-id="4b51d-118">Start typing `dark`, select the **Switch To Dark Theme** command, and then press `Enter` to run the command.</span></span>  
     
-    :::image type="complex" source="../media/customize-command-menu-dark.msft.png" alt-text="Команда "темная тема"" lightbox="../media/customize-command-menu-dark.msft.png":::
+    :::image type="complex" source="../media/customize-command-menu-dark.msft.png" alt-text="Темная тема" lightbox="../media/customize-command-menu-dark.msft.png":::
        <span data-ttu-id="4b51d-120">Команда "темная тема"</span><span class="sxs-lookup"><span data-stu-id="4b51d-120">The dark theme command</span></span>  
     :::image-end:::  
     

@@ -63,26 +63,26 @@ ms.locfileid: "10993284"
 
 1.  <span data-ttu-id="3c495-129">Откройте [Исходный код][GlitchAlluringShockIndex].</span><span class="sxs-lookup"><span data-stu-id="3c495-129">Open the [source code][GlitchAlluringShockIndex].</span></span>  <span data-ttu-id="3c495-130">Эта вкладка будет называться **вкладкой "редактор"** в рамках этого учебника.</span><span class="sxs-lookup"><span data-stu-id="3c495-130">This tab will be called the **editor tab** throughout this tutorial.</span></span>  
     
-    :::image type="complex" source="../media/beginners-html-setup1.msft.png" alt-text="Вкладка "редактор"" lightbox="../media/beginners-html-setup1.msft.png":::
+    :::image type="complex" source="../media/beginners-html-setup1.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-setup1.msft.png":::
        <span data-ttu-id="3c495-132">Вкладка "редактор"</span><span class="sxs-lookup"><span data-stu-id="3c495-132">The editor tab</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="3c495-133">Щелкните **alluring-удар**.</span><span class="sxs-lookup"><span data-stu-id="3c495-133">Click **alluring-shock**.</span></span>  <span data-ttu-id="3c495-134">В левом верхнем углу откроется меню "Параметры проекта".</span><span class="sxs-lookup"><span data-stu-id="3c495-134">The Project Options menu opens in the top-left corner.</span></span>  
     
-    :::image type="complex" source="../media/beginners-html-setup2.msft.png" alt-text="Меню "Параметры проекта"" lightbox="../media/beginners-html-setup2.msft.png":::
+    :::image type="complex" source="../media/beginners-html-setup2.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-setup2.msft.png":::
        <span data-ttu-id="3c495-136">Меню "Параметры проекта"</span><span class="sxs-lookup"><span data-stu-id="3c495-136">The Project Options menu</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="3c495-137">Щелкните **Remix Project (проект**).</span><span class="sxs-lookup"><span data-stu-id="3c495-137">Click **Remix Project**.</span></span>  <span data-ttu-id="3c495-138">При возникновении недостаточной версии создается копия проекта, которую можно редактировать и случайным образом создает новое имя для проекта.</span><span class="sxs-lookup"><span data-stu-id="3c495-138">Glitch creates a copy of the project that you can edit and randomly generates a new name for the project.</span></span>  <span data-ttu-id="3c495-139">Содержимое будет таким же, как и раньше.</span><span class="sxs-lookup"><span data-stu-id="3c495-139">The content is the same as before.</span></span>  
     
-    :::image type="complex" source="../media/beginners-html-setup3.msft.png" alt-text="Смешанный проект" lightbox="../media/beginners-html-setup3.msft.png":::
+    :::image type="complex" source="../media/beginners-html-setup3.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-setup3.msft.png":::
        <span data-ttu-id="3c495-141">Смешанный проект</span><span class="sxs-lookup"><span data-stu-id="3c495-141">The remixed project</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="3c495-142">Если вы планируете выполнить следующий учебник в этой серии, нажмите **Вход** и войдите в систему, чтобы завершить работу с учетной записью GitHub или Facebook.</span><span class="sxs-lookup"><span data-stu-id="3c495-142">If you plan on completing the next tutorial in this series, click **Sign In** and sign in to Glitch with your GitHub or Facebook account.</span></span>  <span data-ttu-id="3c495-143">Если вы не входите в свою учетную запись, то после закрытия вкладки Правка вы потеряли возможность изменить этот проект.</span><span class="sxs-lookup"><span data-stu-id="3c495-143">If you don't sign in you will lose the ability to edit this project once you close the editing tab.</span></span>  
 1.  <span data-ttu-id="3c495-144">Нажмите кнопку **Показать** и выберите **в новом окне**.</span><span class="sxs-lookup"><span data-stu-id="3c495-144">Click **Show** and select **In a New Window**.</span></span>  <span data-ttu-id="3c495-145">Откроется новая вкладка, на которой отображается активная страница.</span><span class="sxs-lookup"><span data-stu-id="3c495-145">A new tab opens, showing you the live page.</span></span>  <span data-ttu-id="3c495-146">Эта вкладка будет называться на **вкладке динамический** в рамках этого учебника.</span><span class="sxs-lookup"><span data-stu-id="3c495-146">This tab will be called the **live tab** throughout this tutorial.</span></span>  
     
-    :::image type="complex" source="../media/beginners-html-setup4.msft.png" alt-text="Вкладка "динамический"" lightbox="../media/beginners-html-setup4.msft.png":::
+    :::image type="complex" source="../media/beginners-html-setup4.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-setup4.msft.png":::
        <span data-ttu-id="3c495-148">Вкладка "динамический"</span><span class="sxs-lookup"><span data-stu-id="3c495-148">The live tab</span></span>  
     :::image-end:::  
     
@@ -108,7 +108,7 @@ ms.locfileid: "10993284"
           ```  
        :::column-end:::
        :::column span="":::
-          :::image type="complex" source="../media/beginners-html-add1.msft.png" alt-text="На вкладке "редактор" выделена новая программа" lightbox="../media/beginners-html-add1.msft.png":::
+          :::image type="complex" source="../media/beginners-html-add1.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-add1.msft.png":::
              <span data-ttu-id="3c495-154">На вкладке "редактор" выделена новая программа</span><span class="sxs-lookup"><span data-stu-id="3c495-154">The new code is highlighted in the editor tab</span></span>  
           :::image-end:::  
        :::column-end:::
@@ -116,7 +116,7 @@ ms.locfileid: "10993284"
     
 1.  <span data-ttu-id="3c495-155">Просмотрите изменения на **вкладке "живые"**.  Текст `About Me` будет отображаться на странице.</span><span class="sxs-lookup"><span data-stu-id="3c495-155">View your changes in the **live tab**.  The text `About Me` is visible on the page.</span></span>  <span data-ttu-id="3c495-156">Он больше, чем оставшаяся часть текста, так как `<h1>` элемент представляет заголовок раздела.</span><span class="sxs-lookup"><span data-stu-id="3c495-156">It's larger than the rest of the text, because the `<h1>` element represents a section heading.</span></span>  <span data-ttu-id="3c495-157">В веб-браузере стили заголовков автоматически заменяются на более крупные размеры шрифта.</span><span class="sxs-lookup"><span data-stu-id="3c495-157">Your web browser automatically styles headings in larger font sizes.</span></span>  
     
-    :::image type="complex" source="../media/beginners-html-add2.msft.png" alt-text="Новый заголовок отображается на вкладке "живые"" lightbox="../media/beginners-html-add2.msft.png":::
+    :::image type="complex" source="../media/beginners-html-add2.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-add2.msft.png":::
        <span data-ttu-id="3c495-159">Новый заголовок отображается на вкладке "живые"</span><span class="sxs-lookup"><span data-stu-id="3c495-159">The new heading is visible in the live tab</span></span>  
     :::image-end:::  
     
@@ -139,7 +139,7 @@ ms.locfileid: "10993284"
           ```  
        :::column-end:::
        :::column span="":::
-          :::image type="complex" source="../media/beginners-html-add3.msft.png" alt-text="На вкладке "редактор" выделена новая программа" lightbox="../media/beginners-html-add3.msft.png":::
+          :::image type="complex" source="../media/beginners-html-add3.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-add3.msft.png":::
              <span data-ttu-id="3c495-162">На вкладке "редактор" выделена новая программа</span><span class="sxs-lookup"><span data-stu-id="3c495-162">The new code is highlighted in the editor tab</span></span>  
           :::image-end:::  
        :::column-end:::
@@ -167,7 +167,7 @@ ms.locfileid: "10993284"
           ```  
        :::column-end:::
        :::column span="":::
-          :::image type="complex" source="../media/beginners-html-add4.msft.png" alt-text="На вкладке "редактор" выделена новая программа" lightbox="../media/beginners-html-add4.msft.png":::
+          :::image type="complex" source="../media/beginners-html-add4.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-add4.msft.png":::
              <span data-ttu-id="3c495-166">На вкладке "редактор" выделена новая программа</span><span class="sxs-lookup"><span data-stu-id="3c495-166">The new code is highlighted in the editor tab</span></span>  
           :::image-end:::  
        :::column-end:::
@@ -175,7 +175,7 @@ ms.locfileid: "10993284"
     
 1.  <span data-ttu-id="3c495-167">Опять же, вернитесь на **вкладку динамический** , чтобы убедиться, что новое содержимое отображается правильно.</span><span class="sxs-lookup"><span data-stu-id="3c495-167">Again, go back to the **live tab** to make sure that the new content is displaying correctly.</span></span>  
     
-    :::image type="complex" source="../media/beginners-html-add5.msft.png" alt-text="Новый список отображается на вкладке "живые"" lightbox="../media/beginners-html-add5.msft.png":::
+    :::image type="complex" source="../media/beginners-html-add5.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-add5.msft.png":::
        <span data-ttu-id="3c495-169">Новый список отображается на вкладке "живые"</span><span class="sxs-lookup"><span data-stu-id="3c495-169">The new list is visible in the live tab</span></span>  
     :::image-end:::  
     
@@ -189,25 +189,25 @@ ms.locfileid: "10993284"
 
 1.  <span data-ttu-id="3c495-176">Перейдите на **вкладку динамический**.  В нижней части страницы отображается текст `A new element!?!` .</span><span class="sxs-lookup"><span data-stu-id="3c495-176">Go to the **live tab**.  At the bottom of your page you see the text `A new element!?!`.</span></span>  
     
-    :::image type="complex" source="../media/beginners-html-dom1.msft.png" alt-text="В нижней части страницы текст — это новый элемент!?! может отображаться" lightbox="../media/beginners-html-dom1.msft.png":::
+    :::image type="complex" source="../media/beginners-html-dom1.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-dom1.msft.png":::
        <span data-ttu-id="3c495-179">В нижней части страницы текст — это новый элемент!?!</span><span class="sxs-lookup"><span data-stu-id="3c495-179">At the bottom of the page the text A new element!?!</span></span> <span data-ttu-id="3c495-180">может отображаться</span><span class="sxs-lookup"><span data-stu-id="3c495-180">can be seen</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="3c495-181">Вернитесь на **вкладку Редактор** и попробуйте найти этот текст в `index.html` .</span><span class="sxs-lookup"><span data-stu-id="3c495-181">Go back to the **editor tab** and try to find this text in `index.html`.</span></span>  <span data-ttu-id="3c495-182">Это не так!</span><span class="sxs-lookup"><span data-stu-id="3c495-182">It's not there!</span></span>  
     
-    :::image type="complex" source="../media/beginners-html-dom2.msft.png" alt-text="Текст "Загадка" — новый элемент!?! <span data-ttu-id="3c495-184">не удается найти в index.html</span><span class="sxs-lookup"><span data-stu-id="3c495-184">is nowhere to be found in index.html</span></span>" lightbox="../media/beginners-html-dom2.msft.png":::
+    :::image type="complex" source="../media/beginners-html-dom2.msft.png" alt-text="Готовый сайт" — новый элемент!?! <span data-ttu-id="3c495-184">не удается найти в index.html</span><span class="sxs-lookup"><span data-stu-id="3c495-184">is nowhere to be found in index.html</span></span>" lightbox="../media/beginners-html-dom2.msft.png":::
        <span data-ttu-id="3c495-185">Текст загадкы `A new element!?!` не удается найти в</span><span class="sxs-lookup"><span data-stu-id="3c495-185">The mystery text `A new element!?!` is nowhere to be found in</span></span> `index.html`  
     :::image-end:::  
     
 1.  <span data-ttu-id="3c495-186">Вернитесь на **вкладку динамический**, щелкните правой кнопкой мыши `A new element!?!` и выберите команду **проверить**.</span><span class="sxs-lookup"><span data-stu-id="3c495-186">Go back to the **live tab**, right-click `A new element!?!`, and select **Inspect**.</span></span>  
     
-    :::image type="complex" source="../media/beginners-html-dom3.msft.png" alt-text="Проверка текста" lightbox="../media/beginners-html-dom3.msft.png":::
+    :::image type="complex" source="../media/beginners-html-dom3.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-dom3.msft.png":::
        <span data-ttu-id="3c495-188">Проверка текста</span><span class="sxs-lookup"><span data-stu-id="3c495-188">Inspecting some text</span></span>  
     :::image-end:::  
     
     <span data-ttu-id="3c495-189">DevTools открывается вместе со страницей.</span><span class="sxs-lookup"><span data-stu-id="3c495-189">DevTools opens up alongside your page.</span></span>  `<div>A new element!?!</div>` <span data-ttu-id="3c495-190">выделяется синим цветом.</span><span class="sxs-lookup"><span data-stu-id="3c495-190">is highlighted blue.</span></span>  <span data-ttu-id="3c495-191">Несмотря на то, что структура в DevTools выглядит так же, как и у вашего HTML-кода, она действительно является **деревом DOM**.</span><span class="sxs-lookup"><span data-stu-id="3c495-191">Although this structure in DevTools looks like your HTML, it is actually the **DOM Tree**.</span></span>  
     
-    :::image type="complex" source="../media/beginners-html-dom4.msft.png" alt-text="DevTools открывается вместе со страницей" lightbox="../media/beginners-html-dom4.msft.png":::
+    :::image type="complex" source="../media/beginners-html-dom4.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-dom4.msft.png":::
        <span data-ttu-id="3c495-193">DevTools открывается вместе со страницей</span><span class="sxs-lookup"><span data-stu-id="3c495-193">DevTools is open alongside the page</span></span>  
     :::image-end:::  
     
@@ -219,7 +219,7 @@ ms.locfileid: "10993284"
 
 1.  <span data-ttu-id="3c495-203">В DevTools щелкните правой кнопкой мыши `Your site!` и выберите команду **изменить в HTML**.</span><span class="sxs-lookup"><span data-stu-id="3c495-203">In DevTools, right-click `Your site!` and select **Edit as HTML**.</span></span>  
     
-    :::image type="complex" source="../media/beginners-html-edit1.msft.png" alt-text="Редактирование узла в формате HTML" lightbox="../media/beginners-html-edit1.msft.png":::
+    :::image type="complex" source="../media/beginners-html-edit1.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-edit1.msft.png":::
        <span data-ttu-id="3c495-205">Редактирование узла в формате HTML</span><span class="sxs-lookup"><span data-stu-id="3c495-205">Editing the node as HTML</span></span>  
     :::image-end:::  
     
@@ -241,7 +241,7 @@ ms.locfileid: "10993284"
           ```  
        :::column-end:::
        :::column span="":::
-          :::image type="complex" source="../media/beginners-html-edit2.msft.png" alt-text="Редактирование узла в формате HTML" lightbox="../media/beginners-html-edit2.msft.png":::
+          :::image type="complex" source="../media/beginners-html-edit2.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-edit2.msft.png":::
              <span data-ttu-id="3c495-208">Редактирование узла в формате HTML</span><span class="sxs-lookup"><span data-stu-id="3c495-208">Editing the node as HTML</span></span>  
           :::image-end:::  
        :::column-end:::
@@ -249,7 +249,7 @@ ms.locfileid: "10993284"
     
 1.  <span data-ttu-id="3c495-209">Нажмите клавиши `Control` + `Enter` \ (Windows \) или `Command` + `Enter` \ (macOS \), чтобы сохранить изменения, или щелкните любое место за пределами поля.</span><span class="sxs-lookup"><span data-stu-id="3c495-209">Press `Control`+`Enter` \(Windows\) or `Command`+`Enter` \(macOS\) to save your changes, or click outside of the box.</span></span>  <span data-ttu-id="3c495-210">Изменения автоматически отображаются в режиме реального времени на странице.</span><span class="sxs-lookup"><span data-stu-id="3c495-210">Your changes automatically show up in the live view of your page.</span></span>  <span data-ttu-id="3c495-211">Текст `Your site!` заменен новым содержимым.</span><span class="sxs-lookup"><span data-stu-id="3c495-211">The text `Your site!` has been replaced with the new content.</span></span>  
     
-    :::image type="complex" source="../media/beginners-html-edit3.msft.png" alt-text="Новое содержимое немедленно появляется на странице" lightbox="../media/beginners-html-edit3.msft.png":::
+    :::image type="complex" source="../media/beginners-html-edit3.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-edit3.msft.png":::
        <span data-ttu-id="3c495-213">Новое содержимое немедленно появляется на странице</span><span class="sxs-lookup"><span data-stu-id="3c495-213">The new content shows up immediately on the page</span></span>  
     :::image-end:::  
     
@@ -261,7 +261,7 @@ ms.locfileid: "10993284"
 
 1.  <span data-ttu-id="3c495-222">Найдите `<nav>` узел в **дереве DOM** DevTools.</span><span class="sxs-lookup"><span data-stu-id="3c495-222">Find the `<nav>` node in the **DOM Tree** of DevTools.</span></span>  
     
-    :::image type="complex" source="../media/beginners-html-reorder1.msft.png" alt-text="Узел навигации выделяется синим цветом в DevTools" lightbox="../media/beginners-html-reorder1.msft.png":::
+    :::image type="complex" source="../media/beginners-html-reorder1.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-reorder1.msft.png":::
        <span data-ttu-id="3c495-224">Узел навигации выделяется синим цветом в DevTools</span><span class="sxs-lookup"><span data-stu-id="3c495-224">The nav node is highlighted blue in DevTools</span></span>  
     :::image-end:::  
     
@@ -269,14 +269,14 @@ ms.locfileid: "10993284"
     
     :::row:::
        :::column span="":::
-          :::image type="complex" source="../media/beginners-html-reorder2.msft.png" alt-text="Перетаскивание узла навигации в начало" lightbox="../media/beginners-html-reorder2.msft.png":::
+          :::image type="complex" source="../media/beginners-html-reorder2.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-reorder2.msft.png":::
              <span data-ttu-id="3c495-227">Перетаскивание узла навигации в начало</span><span class="sxs-lookup"><span data-stu-id="3c495-227">Dragging the nav node to the top</span></span>  
           :::image-end:::  
        :::column-end:::
        :::column span="":::
           <span data-ttu-id="3c495-228">`<nav>`Теперь узел отображается в верхней части страницы.</span><span class="sxs-lookup"><span data-stu-id="3c495-228">The `<nav>` node is now displaying at the top of your page.</span></span>  
           
-          :::image type="complex" source="../media/beginners-html-reorder3.msft.png" alt-text="Узел навигации находится в верхней части страницы" lightbox="../media/beginners-html-reorder3.msft.png":::
+          :::image type="complex" source="../media/beginners-html-reorder3.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-reorder3.msft.png":::
              <span data-ttu-id="3c495-230">Узел навигации находится в верхней части страницы</span><span class="sxs-lookup"><span data-stu-id="3c495-230">The nav node is at the top of the page</span></span>  
           :::image-end:::  
        :::column-end:::
@@ -288,13 +288,13 @@ ms.locfileid: "10993284"
 
 1.  <span data-ttu-id="3c495-233">В **дереве DOM**щелкните `<div>A new element!?!</div>` .</span><span class="sxs-lookup"><span data-stu-id="3c495-233">In the **DOM Tree**, click `<div>A new element!?!</div>`.</span></span>  <span data-ttu-id="3c495-234">DevTools выделяет узел синим цветом.</span><span class="sxs-lookup"><span data-stu-id="3c495-234">DevTools highlights the node blue.</span></span>  
     
-    :::image type="complex" source="../media/beginners-html-delete1.msft.png" alt-text="Выбор узла для удаления" lightbox="../media/beginners-html-delete1.msft.png":::
+    :::image type="complex" source="../media/beginners-html-delete1.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-delete1.msft.png":::
        <span data-ttu-id="3c495-236">Выбор узла для удаления</span><span class="sxs-lookup"><span data-stu-id="3c495-236">Selecting the node to be deleted</span></span>  
     :::image-end:::  
     
 1.  <span data-ttu-id="3c495-237">Нажмите клавишу `Delete` на клавиатуре.</span><span class="sxs-lookup"><span data-stu-id="3c495-237">Press the `Delete` key on your keyboard.</span></span>  <span data-ttu-id="3c495-238">`<div>A new element!?!</div>`Узел удаляется из дерева DOM.</span><span class="sxs-lookup"><span data-stu-id="3c495-238">The `<div>A new element!?!</div>` node is removed from your DOM Tree.</span></span>  
     
-    :::image type="complex" source="../media/beginners-html-delete2.msft.png" alt-text="Узел удален" lightbox="../media/beginners-html-delete2.msft.png":::
+    :::image type="complex" source="../media/beginners-html-delete2.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-delete2.msft.png":::
        <span data-ttu-id="3c495-240">Узел удален</span><span class="sxs-lookup"><span data-stu-id="3c495-240">The node has been deleted</span></span>  
     :::image-end:::  
     
@@ -304,7 +304,7 @@ ms.locfileid: "10993284"
 
 1.  <span data-ttu-id="3c495-244">Обновите **вкладку Live**.  Изменения, внесенные в дереве DOM, исчезнут.</span><span class="sxs-lookup"><span data-stu-id="3c495-244">Refresh your **live tab**.  The changes that you made in the DOM Tree disappear.</span></span>  <span data-ttu-id="3c495-245">В частности, текст `Your site!` возвращается в верхней части страницы, а текст `A new element!?!` возвращается в нижнюю часть.</span><span class="sxs-lookup"><span data-stu-id="3c495-245">In particular, the text `Your site!` returns to the top of the page, and the text `A new element!?!` returns to the bottom.</span></span>  
     
-    :::image type="complex" source="../media/beginners-html-copy1.msft.png" alt-text="Внесенные вами изменения исчезли" lightbox="../media/beginners-html-copy1.msft.png":::
+    :::image type="complex" source="../media/beginners-html-copy1.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-copy1.msft.png":::
        <span data-ttu-id="3c495-247">Внесенные вами изменения исчезли</span><span class="sxs-lookup"><span data-stu-id="3c495-247">The changes that you've made are gone</span></span>  
     :::image-end:::  
     
@@ -344,7 +344,7 @@ ms.locfileid: "10993284"
     
 1.  <span data-ttu-id="3c495-249">Вернитесь на **вкладку Редактор** и замените содержимое `index.html` файла кодом, который вы только что скопировали.</span><span class="sxs-lookup"><span data-stu-id="3c495-249">Go back to the **editor tab** and replace the contents of your `index.html` file with the code that you just copied.</span></span>  
     
-    :::image type="complex" source="../media/beginners-html-copy2.msft.png" alt-text="Как должен выглядеть файл index.html" lightbox="../media/beginners-html-copy2.msft.png":::
+    :::image type="complex" source="../media/beginners-html-copy2.msft.png" alt-text="Готовый сайт" lightbox="../media/beginners-html-copy2.msft.png":::
        <span data-ttu-id="3c495-251">Как `index.html` должен выглядеть файл</span><span class="sxs-lookup"><span data-stu-id="3c495-251">How your `index.html` file should look</span></span>  
     :::image-end:::  
     
