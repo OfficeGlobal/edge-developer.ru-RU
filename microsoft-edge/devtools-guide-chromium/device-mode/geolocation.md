@@ -45,7 +45,7 @@ ms.locfileid: "10992990"
 1.  Введите текст `sensors` , установите флажок **Показать датчики**и нажмите клавишу `Enter` .  Вкладка **датчики** откроется в нижней части окна DevTools.  
 1.  В списке **географическое положение** выберите один из готовых городов `Tokyo` или выберите **другое расположение** , чтобы указать пользовательские координаты долготы и широты, или выберите пункт **расположение недоступно** , чтобы увидеть, как работает сайт, когда его расположение недоступно.  
     
-    :::image type="complex" source="../media/device-mode-console-sensors-geolocation-tokyo.msft.png" alt-text="Выберите Токио в списке "географическое положение"" lightbox="../media/device-mode-console-sensors-geolocation-tokyo.msft.png":::
+    :::image type="complex" source="../media/device-mode-console-sensors-geolocation-tokyo.msft.png" alt-text="Меню команд" lightbox="../media/device-mode-console-sensors-geolocation-tokyo.msft.png":::
        Выберите в `Tokyo` списке " **географическое положение** "  
     :::image-end:::  
     

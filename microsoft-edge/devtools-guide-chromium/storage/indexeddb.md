@@ -48,7 +48,7 @@ ms.locfileid: "10993564"
     
 1.  Разверните меню **IndexedDB** , чтобы узнать, какие базы данных доступны.  
     
-    :::image type="complex" source="../media/storage-application-storage-indexeddb.msft.png" alt-text="Меню IndexedDB" lightbox="../media/storage-application-storage-indexeddb.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb.msft.png":::
        Меню **IndexedDB**  
     :::image-end:::  
     
@@ -61,7 +61,7 @@ ms.locfileid: "10993564"
     
 1.  Выберите базу данных, чтобы увидеть источник и номер версии.  
     
-    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db.msft.png" alt-text="База данных Notes" lightbox="../media/storage-application-storage-indexeddb-notes_db.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db.msft.png":::
        База данных **Notes**  
     :::image-end:::  
     
@@ -70,7 +70,7 @@ ms.locfileid: "10993564"
     > [!NOTE]
     > Данные IndexedDB не обновляются в режиме реального времени.  Смотрите раздел [Обновление данных IndexedDB](#refresh-indexeddb-data).  
     
-    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os.msft.png" alt-text="Хранилище объектов "Заметки"" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os.msft.png":::
        Хранилище объектов " **заметки** "  
     :::image-end:::  
     
@@ -79,13 +79,13 @@ ms.locfileid: "10993564"
     
 1.  Выберите ячейку в столбце **значение** , чтобы развернуть это значение.  
     
-    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-edge-chromium.msft.png" alt-text="Просмотр значения IndexedDB" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-edge-chromium.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-edge-chromium.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-edge-chromium.msft.png":::
        Просмотр значения **IndexedDB**  
     :::image-end:::  
     
 1.  Выберите индекс (например, **заголовок** или **текст** ) на приведенном ниже рисунке, чтобы отсортировать хранилище объектов согласно значениям этого индекса.  
    
-    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-title.msft.png" alt-text="Сортировка хранилища объектов по индексу" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-title.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-title.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-title.msft.png":::
        Сортировка хранилища объектов по индексу  
     :::image-end:::  
     
@@ -93,7 +93,7 @@ ms.locfileid: "10993564"
 
 Значения IndexedDB на панели **приложения** не обновляются в режиме реального времени.  Выберите команду **Обновить** \ ( ![ обновить ][ImageReloadIcon] \) при просмотре хранилища объектов, чтобы обновить данные, или просмотрите базу данных и нажмите **обновить базу данных** , чтобы обновить все данные.  
 
-:::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-refresh-database.msft.png" alt-text="Просмотр базы данных" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-refresh-database.msft.png":::
+:::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-refresh-database.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-refresh-database.msft.png":::
    Просмотр базы данных  
 :::image-end:::  
 
@@ -105,7 +105,7 @@ IndexedDB ключи и значения не подлежат редактир�
 
 [Фрагменты][DevtoolsJavascriptSnippets] — это способ хранения и выполнения блоков кода JavaScript в DevTools.  При выполнении фрагмента на **консоль**выписывается результат.  Вы можете использовать сниппет для выполнения кода JavaScript, чтобы изменить базу данных IndexedDB.  
 
-:::image type="complex" source="../media/storage-sources-snippets-indexeddb-output.msft.png" alt-text="Использование фрагмента для взаимодействия с IndexedDB" lightbox="../media/storage-sources-snippets-indexeddb-output.msft.png":::
+:::image type="complex" source="../media/storage-sources-snippets-indexeddb-output.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-sources-snippets-indexeddb-output.msft.png":::
    Использование фрагмента для взаимодействия с IndexedDB  
 :::image-end:::  
 
@@ -116,13 +116,13 @@ IndexedDB ключи и значения не подлежат редактир�
 1.  [Просмотр хранилища объектов IndexedDB](#view-indexeddb-data).  
 1.  Выберите пару "ключ-значение", которую вы хотите удалить.  DevTools выделит ее, чтобы показать, что она выбрана.  
     
-    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os2.msft.png" alt-text="Выберите пару "ключ-значение", чтобы удалить ее" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os2.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os2.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os2.msft.png":::
        Выберите пару "ключ-значение", чтобы удалить ее  
     :::image-end:::  
     
 1.  Нажмите клавишу `Delete` или нажмите кнопку **Удалить выделенные** \ ( ![ Удалить выбранные \ ][ImageDeleteIcon] ).  
     
-    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-delete-selected.msft.png" alt-text="Как выглядит хранилище объектов после удаления пары "ключ-значение"" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-delete-selected.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-delete-selected.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-delete-selected.msft.png":::
        Как выглядит хранилище объектов после удаления пары "ключ-значение"  
     :::image-end:::  
     
@@ -130,7 +130,7 @@ IndexedDB ключи и значения не подлежат редактир�
 
 1.  [Просмотр хранилища объектов IndexedDB](#view-indexeddb-data).  
     
-    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-clear-object-store.msft.png" alt-text="Просмотр хранилища объектов" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-clear-object-store.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-notes_os-clear-object-store.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db-notes_os-clear-object-store.msft.png":::
        Просмотр хранилища объектов  
     :::image-end:::  
     
@@ -141,7 +141,7 @@ IndexedDB ключи и значения не подлежат редактир�
 1.  [Просмотрите базу данных IndexedDB](#view-indexeddb-data) , которую вы хотите удалить.  
 1.  Выберите команду **Удалить базу данных**.  
     
-    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-delete-database.msft.png" alt-text="Кнопка "удалить базу данных"" lightbox="../media/storage-application-storage-indexeddb-notes_db-delete-database.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-indexeddb-notes_db-delete-database.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-indexeddb-notes_db-delete-database.msft.png":::
        Кнопка " **Удалить базу данных** "  
     :::image-end:::  
     
@@ -151,7 +151,7 @@ IndexedDB ключи и значения не подлежат редактир�
 1.  Убедитесь, что флажок **IndexedDB** установлен.  
 1.  Нажмите кнопку **Очистить данные сайта**.  
     
-    :::image type="complex" source="../media/storage-application-clear-storage-indexeddb-clear-site-data.msft.png" alt-text="Область "Очистка хранилища"" lightbox="../media/storage-application-clear-storage-indexeddb-clear-site-data.msft.png":::
+    :::image type="complex" source="../media/storage-application-clear-storage-indexeddb-clear-site-data.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-clear-storage-indexeddb-clear-site-data.msft.png":::
        Область " **Очистка хранилища** "  
     :::image-end:::  
     

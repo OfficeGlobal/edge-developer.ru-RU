@@ -88,7 +88,7 @@ node example.js
 
 `puppeteer-core` запускает Microsoft EDGE, переходит `https://www.microsoftedgeinsider.com` и сохраняет снимок экрана 800px x 600px страницы.  Вы можете настроить размер страницы с помощью [Page. setViewport ()][PuppeteerApipagesetviewport].  
 
-:::image type="complex" source="./media/puppeteer-example.png" alt-text="Файл example.png, созданный example.js":::
+:::image type="complex" source="./media/puppeteer-example.png" alt-text="Файл example.png, созданный example.js&quot;:::
    Рисунок 1: `example.png` файл, созданный с помощью `example.js`  
 :::image-end:::  
 
@@ -102,53 +102,24 @@ node example.js
 
 ## Знакомство с командой Microsoft Edge DevTools  
 
-Группа разработчиков Microsoft Edge может услышать отзывы об использовании Puppeteer `puppeteer-core` и Microsoft Edge.  С помощью значка " **Отправить отзыв** " в Microsoft Edge DevTools или твит [@EdgeDevTools][TwitterIntentTweetEdgedevtools] , чтобы группа Microsoft Edge знала, что вы думаете.  
+Группа разработчиков Microsoft Edge может услышать отзывы об использовании Puppeteer `puppeteer-core` и Microsoft Edge.  С помощью значка &quot; **Отправить отзыв** " в Microsoft Edge DevTools или твит [@EdgeDevTools][TwitterIntentTweetEdgedevtools] , чтобы группа Microsoft Edge знала, что вы думаете.  
 
 
-:::image type="complex" source="./devtools-guide-chromium/media/bing-devtools-send-feedback.msft.png" alt-text="Значок "Отправить отзыв" в Microsoft Edge DevTools":::
-   Значок " **Отправить отзыв** " в Microsoft Edge DevTools  
+:::image type="complex" source="./devtools-guide-chromium/media/bing-devtools-send-feedback.msft.png" alt-text="Файл example.png, созданный example.js&quot;:::
+   Рисунок 1: `example.png` файл, созданный с помощью `example.js`  
 :::image-end:::  
 
 <!--  
-> ##### Figure 2  
-> The **Feedback** icon in the Microsoft Edge DevTools  
-> ![The Feedback icon in the Microsoft Edge DevTools](./devtools-guide-chromium/media/devtools-feedback.png)  
+> ##### Figure 1  
+> The `example.png` file produced by `example.js`  
+> ![The example.png file produced by example.js](./media/puppeteer-example.png)  
 -->  
 
-<!--## See also  
+Это простой пример сценариев автоматизации и тестирования, включенных в Puppeteer и `puppeteer-core` .  Дополнительные сведения о Puppeteer и том, как это работает, можно найти в статьях [Puppeteer][|::ref2::|Main].  
 
-*   [WebDriver (Chromium)][WebdriverChromiumMain]  
-*   [WebDriver (EdgeHTML)][WebdriverEdgehtmlMain]  
-*   [Chrome DevTools Protocol Viewer on GitHub][GithubChromedevtoolsProtocol]  
-*   [Microsoft Edge: Making the web better through more open source collaboration on Microsoft Experience Blog][MicrosoftBlogsWindowsExperience20181206]  
-*   [Download Microsoft Edge Insider Channels][MicrosoftedgeinsiderDownload]  
-*   [Chromium on The Chromium Projects][ChromiumHome]  
-*   [Node.js][NodejsMain]  
-*   [Puppeteer][PuppeteerMain]  
-*   [puppeteer vs. puppeteer-core][PuppeteerApivscore]  
-*   [page.setViewport() on Puppeteer][PuppeteerApipagesetviewport]  
-*   [Headless browser on Wikipedia][WikiHeadlessBrowser]  -->  
+## Знакомство с командой Microsoft Edge DevTools  
 
-<!-- image links -->  
-
-<!-- links -->  
-
-[WebdriverChromiumMain]: ./webdriver-chromium.md "Chromium"  
-[WebdriverEdgehtmlMain]: ./webdriver.md "EdgeHTML"  
-
-[GithubChromedevtoolsProtocol]: https://chromedevtools.github.io/devtools-protocol "Средство просмотра протоколов Chrome DevTools | GitHub"  
-
-[MicrosoftBlogsWindowsExperience20181206]: https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration "Microsoft Edge: улучшение веб-сайта с помощью более эффективной работы в открытых источниках | Блог Microsoft Experience"  
-
-[MicrosoftedgeinsiderDownload]: https://www.microsoftedgeinsider.com/download "Скачайте каналы предварительной оценки Microsoft Edge"  
-
-[ChromiumHome]: https://www.chromium.org/Home "Chromium | Проекты Chromium"  
-
-[NodejsMain]: https://nodejs.org "Node.js"  
-
-[npmEdgePaths]: https://www.npmjs.com/package/edge-paths "NPM | Пути к краям"
-
-[PuppeteerMain]: https://pptr.dev "Puppeteer"  
+Группа разработчиков Microsoft Edge может услышать отзывы об использовании Puppeteer `puppeteer-core` и Microsoft Edge.  С помощью значка &quot; **Отправить отзыв** "  
 [PuppeteerApivscore]: https://pptr.dev/#?product=Puppeteer&version=v2.0.0&show=api-puppeteer-vs-puppeteer-core "puppeteer и puppeteer-Core | Puppeteer"  
 [PuppeteerApipagesetviewport]: https://pptr.dev/#?product=Puppeteer&version=v2.0.0&show=api-pagesetviewportviewport "Page. setViewport (окно просмотра) | Puppeteer"  
 

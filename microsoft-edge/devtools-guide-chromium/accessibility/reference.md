@@ -80,19 +80,19 @@ ms.locfileid: "10993270"
 1.  Флажок **clear Storage (очистить хранилище** ) позволяет очистить все хранилище перед загрузкой страницы или сохранением хранилища между загрузкой страниц.  Этот параметр также может быть неважен для оценки доступности, поэтому вы можете использовать любой из них.  
 1.  Нажмите кнопку **запустить аудиты**. После 10 – 30 секунд DevTools предоставляет отчет.  В отчете приводятся различные советы по улучшению доступности страницы.  
     
-    :::image type="complex" source="../media/accessibility-audits-run-audits-result.msft.png" alt-text="Отчет" lightbox="../media/accessibility-audits-run-audits-result.msft.png":::
+    :::image type="complex" source="../media/accessibility-audits-run-audits-result.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-audits-run-audits-result.msft.png":::
        Отчет  
     :::image-end:::  
     
 1.  Щелкните аудиторию, чтобы получить дополнительные сведения о нем.  
     
-    :::image type="complex" source="../media/accessibility-audits-run-audits-result-issues-expanded.msft.png" alt-text="Дополнительные сведения об аудите" lightbox="../media/accessibility-audits-run-audits-result-issues-expanded.msft.png":::
+    :::image type="complex" source="../media/accessibility-audits-run-audits-result-issues-expanded.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-audits-run-audits-result-issues-expanded.msft.png":::
        Дополнительные сведения об аудите  
     :::image-end:::  
     
 1.  Щелкните ссылку **Дополнительные сведения** , чтобы просмотреть документацию по аудиту.  
     
-    :::image type="complex" source="../media/accessibility-web-dev-accessibility-audits-learn-more.msft.png" alt-text="Просмотр документации по аудиту" lightbox="../media/accessibility-web-dev-accessibility-audits-learn-more.msft.png":::
+    :::image type="complex" source="../media/accessibility-web-dev-accessibility-audits-learn-more.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-web-dev-accessibility-audits-learn-more.msft.png":::
        Просмотр документации по аудиту  
     :::image-end:::  
     
@@ -102,7 +102,7 @@ ms.locfileid: "10993270"
 Расширение aXe обычно предоставляет те же сведения, так как это базовый обработчик, который включает в себя панель аудита.  Расширение aXe имеет другой пользовательский интерфейс и описывает аудит слегка разными способами.  
 Одно из преимуществ, которое имеет расширение aXe на панели **аудитов** , состоит в том, что она позволяет проверять и вымечать узлы, в которых произошел сбой.  
 
-:::image type="complex" source="../media/accessibility-devtools-extension-axe-panel.msft.png" alt-text="Расширение aXe" lightbox="../media/accessibility-devtools-extension-axe-panel.msft.png":::
+:::image type="complex" source="../media/accessibility-devtools-extension-axe-panel.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-devtools-extension-axe-panel.msft.png":::
    Расширение aXe  
 :::image-end:::  
 
@@ -116,7 +116,7 @@ ms.locfileid: "10993270"
 1.  В **дереве DOM**выберите элемент, который нужно проверить.  
 1.  Откройте вкладку **Специальные возможности** .  Эта вкладка может быть скрыта за кнопкой **другие вкладки** \ ( ![ другие вкладки ][ImageMoreTabsIcon] \).  
 
-:::image type="complex" source="../media/accessibility-elements-accessibility.msft.png" alt-text="Проверка элемента H1 на домашней странице DevTools в области "Специальные возможности"" lightbox="../media/accessibility-elements-accessibility.msft.png":::
+:::image type="complex" source="../media/accessibility-elements-accessibility.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-elements-accessibility.msft.png":::
    Проверка `h1` элемента домашней страницы DevTools в области " **Специальные возможности** "  
 :::image-end:::  
 
@@ -126,7 +126,7 @@ ms.locfileid: "10993270"
 
 Проверьте расположение элемента в дереве специальных возможностей в [области "Специальные возможности](#the-accessibility-pane)".  
 
-:::image type="complex" source="../media/accessibility-elements-accessibility-tree.msft.png" alt-text="Раздел дерева специальных возможностей" lightbox="../media/accessibility-elements-accessibility-tree.msft.png":::
+:::image type="complex" source="../media/accessibility-elements-accessibility-tree.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-elements-accessibility-tree.msft.png":::
    Раздел **дерева специальных возможностей**  
 :::image-end:::  
 
@@ -136,7 +136,7 @@ ms.locfileid: "10993270"
 
 Просмотрите атрибуты ARIA элемента в [области "Специальные возможности](#the-accessibility-pane)".  
 
-:::image type="complex" source="../media/accessibility-elements-accessibility-aria-attributes.msft.png" alt-text="Раздел атрибутов ARIA" lightbox="../media/accessibility-elements-accessibility-aria-attributes.msft.png":::
+:::image type="complex" source="../media/accessibility-elements-accessibility-aria-attributes.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-elements-accessibility-aria-attributes.msft.png":::
    Раздел **атрибутов ARIA**  
 :::image-end:::  
 
@@ -149,7 +149,7 @@ ms.locfileid: "10993270"
 
 Просмотр вычисляемых свойств специальных возможностей для элемента в [области специальных возможностей](#the-accessibility-pane).  
 
-:::image type="complex" source="../media/accessibility-elements-accessibility-computed-properties.msft.png" alt-text="Раздел "вычисляемые свойства" области "Специальные возможности"" lightbox="../media/accessibility-elements-accessibility-computed-properties.msft.png":::
+:::image type="complex" source="../media/accessibility-elements-accessibility-computed-properties.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-elements-accessibility-computed-properties.msft.png":::
    Раздел " **вычисляемые свойства** " области " **Специальные возможности** "  
 :::image-end:::  
 
@@ -164,25 +164,25 @@ ms.locfileid: "10993270"
 1.  Откройте вкладку **элементы** .  
 1.  В **дереве DOM**выделите текстовый элемент, который нужно проверить.  
     
-    :::image type="complex" source="../media/accessibility-elements-paragraph-highlight.msft.png" alt-text="Проверка абзаца в дереве DOM" lightbox="../media/accessibility-elements-paragraph-highlight.msft.png":::
+    :::image type="complex" source="../media/accessibility-elements-paragraph-highlight.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-elements-paragraph-highlight.msft.png":::
        Проверка абзаца в **дереве DOM**  
     :::image-end:::  
     
 1.  В области **стили** щелкните квадратик цвета рядом со `color` значением элемента.  
     
-    :::image type="complex" source="../media/accessibility-elements-styles-paragraph-highlight-color.msft.png" alt-text="Свойство Color элемента" lightbox="../media/accessibility-elements-styles-paragraph-highlight-color.msft.png":::
+    :::image type="complex" source="../media/accessibility-elements-styles-paragraph-highlight-color.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-elements-styles-paragraph-highlight-color.msft.png":::
        `color`Свойство элемента  
     :::image-end:::  
     
 1.  Проверьте раздел **коэффициент контрастности** в палитре цветов.  Один флажок означает, что элемент соответствует [минимальным рекомендациям][W3CContrastMinimum].  Два флажка означают, что они соответствуют [улучшенным рекомендациям][W3CContrastEnhanced].  
     
-    :::image type="complex" source="../media/accessibility-elements-styles-paragraph-highlight-color-picker.msft.png" alt-text="В разделе "степень контрастности" в окне выбора цвета показаны 2 метки и значение 13,97" lightbox="../media/accessibility-elements-styles-paragraph-highlight-color-picker.msft.png":::
+    :::image type="complex" source="../media/accessibility-elements-styles-paragraph-highlight-color-picker.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-elements-styles-paragraph-highlight-color-picker.msft.png":::
        В разделе " **степень контрастности** " в окне выбора цвета показаны 2 метки и значение `13.97`  
     :::image-end:::  
     
 1.  Щелкните раздел **коэффициент контрастности** , чтобы просмотреть дополнительные сведения.  В визуальном элементе выбора в верхней части окна выбора цвета появится линия.  Если текущий цвет соответствует рекомендациям, то все элементы на одной и той же стороне линии также соответствуют рекомендациям.  Если текущий цвет не соответствует рекомендациям, то на одном и том же стороне не будут выводится соответствие рекомендациям.  
     
-    :::image type="complex" source="../media/accessibility-elements-styles-paragraph-highlight-color-picker-contrast-ratio-details.msft.png" alt-text="Линия коэффициента контрастности в средстве выбора визуальных элементов" lightbox="../media/accessibility-elements-styles-paragraph-highlight-color-picker-contrast-ratio-details.msft.png":::
+    :::image type="complex" source="../media/accessibility-elements-styles-paragraph-highlight-color-picker-contrast-ratio-details.msft.png" alt-text="Настройка аудита" lightbox="../media/accessibility-elements-styles-paragraph-highlight-color-picker-contrast-ratio-details.msft.png":::
        Линия **коэффициента контрастности** в средстве выбора визуальных элементов  
     :::image-end:::  
     

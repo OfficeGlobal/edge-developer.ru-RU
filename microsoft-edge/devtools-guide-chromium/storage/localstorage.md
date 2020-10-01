@@ -48,19 +48,19 @@ ms.locfileid: "10993557"
     
 1.  Разверните меню **Локальное хранилище** .  
     
-    :::image type="complex" source="../media/storage-application-local-storage.msft.png" alt-text="Меню «локальное хранилище»" lightbox="../media/storage-application-local-storage.msft.png":::
+    :::image type="complex" source="../media/storage-application-local-storage.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-local-storage.msft.png":::
        Меню « **Локальное хранилище** »  
     :::image-end:::  
     
 1.  Выберите домен, чтобы просмотреть пары "ключ-значение".  
     
-    :::image type="complex" source="../media/storage-application-local-storage-view-key-value.msft.png" alt-text="LocalStorage пары "ключ-значение" для https://www.bing.com домена" lightbox="../media/storage-application-local-storage-view-key-value.msft.png":::
+    :::image type="complex" source="../media/storage-application-local-storage-view-key-value.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-local-storage-view-key-value.msft.png":::
        `localStorage`Пары "ключ-значение" для `https://www.bing.com` домена  
     :::image-end:::  
     
 1.  Выделите строку таблицы, чтобы просмотреть ее значение в представлении под таблицей.  
     
-    :::image type="complex" source="../media/storage-application-local-storage-view-key-value-selected.msft.png" alt-text="Просмотр значения ключа eventLogQueue_Online" lightbox="../media/storage-application-local-storage-view-key-value-selected.msft.png":::
+    :::image type="complex" source="../media/storage-application-local-storage-view-key-value-selected.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-local-storage-view-key-value-selected.msft.png":::
        Просмотр значения `eventLogQueue_Online` ключа  
     :::image-end:::  
     
@@ -69,7 +69,7 @@ ms.locfileid: "10993557"
 1.  [Просмотр `localStorage` пар "ключ-значение" домена](#view-localstorage-keys-and-values).  
 1.  Дважды щелкните пустую часть таблицы.  DevTools создает новую строку и нафокусирует указатель мыши на **ключевом** столбце.  
     
-    :::image type="complex" source="../media/storage-application-local-storage-new-key-value.msft.png" alt-text="Пустая часть таблицы для двойного щелчка, чтобы создать новую пару ключ-значение." lightbox="../media/storage-application-local-storage-new-key-value.msft.png":::
+    :::image type="complex" source="../media/storage-application-local-storage-new-key-value.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-local-storage-new-key-value.msft.png":::
        Пустая часть таблицы для двойного щелчка, чтобы создать новую пару ключ-значение.  
     :::image-end:::  
     
@@ -78,7 +78,7 @@ ms.locfileid: "10993557"
 1.  [Просмотр `localStorage` пар "ключ-значение" домена](#view-localstorage-keys-and-values).  
 1.  Дважды щелкните ячейку в столбце " **раздел** " или " **значение** ", чтобы изменить этот раздел или значение.  
     
-    :::image type="complex" source="../media/storage-application-local-storage-edit-key-value.msft.png" alt-text="Изменение ключа localStorage" lightbox="../media/storage-application-local-storage-edit-key-value.msft.png":::
+    :::image type="complex" source="../media/storage-application-local-storage-edit-key-value.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-local-storage-edit-key-value.msft.png":::
        Изменение `localStorage` ключа  
     :::image-end:::  
     
@@ -99,13 +99,13 @@ ms.locfileid: "10993557"
 
 1.  Используйте меню "контексты **JavaScript** " для изменения контекста JavaScript на **консоли** , если требуется получить доступ к `localStorage` парам "ключ-значение" домена, отличного от отображаемой страницы.  
     
-    :::image type="complex" source="../media/storage-console-local-storage.msft.png" alt-text="Изменение контекста JavaScript консоли" lightbox="../media/storage-console-local-storage.msft.png":::
+    :::image type="complex" source="../media/storage-console-local-storage.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-console-local-storage.msft.png":::
        Изменение контекста JavaScript консоли  
     :::image-end:::  
     
 1.  Выполняйте `localStorage` выражения на консоли так же, как и в JavaScript.  
     
-    :::image type="complex" source="../media/storage-console-local-storage-interaction.msft.png" alt-text="Взаимодействие с localStorage с помощью консоли" lightbox="../media/storage-console-local-storage-interaction.msft.png":::
+    :::image type="complex" source="../media/storage-console-local-storage-interaction.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-console-local-storage-interaction.msft.png":::
        Взаимодействие с `localStorage` **консолью**  
     :::image-end:::  
     

@@ -83,7 +83,7 @@ ms.locfileid: "10992724"
     <!--1.  Choose the project name.  -->  
     <!--1.  Select **Advanced Options** > **Download Project**.  
     
-    :::image type="complex" source="../media/workspaces-glitch-advanced-options-download-project.msft.png" alt-text="The Download Project button" lightbox="../media/workspaces-glitch-advanced-options-download-project.msft.png":::
+    :::image type="complex" source="../media/workspaces-glitch-advanced-options-download-project.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-glitch-advanced-options-download-project.msft.png":::
        The Download Project button  
     :::image-end:::  
 
@@ -111,7 +111,7 @@ ms.locfileid: "10992724"
     
 1.  Откройте вкладку в Microsoft EDGE и перейдите на веб-сайт с локально размещенной версией.  Доступ к ней можно получить с помощью URL-адреса, например `localhost:8080` или `http://0.0.0.0:8080` .  Точный [номер порта][WikiPortURLs] может отличаться от остальных.  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo.msft.png" alt-text="Демонстрация" lightbox="../media/workspaces-workspaces-demo.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo.msft.png":::
        Демонстрация  
     :::image-end:::  
     
@@ -119,14 +119,14 @@ ms.locfileid: "10992724"
 
 1.  Выберите `Control` + `Shift` + `J` \ (Windows \) или `Command` + `Option` + `J` \ (macOS \), чтобы открыть панель **консоли** DevTools.  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-console.msft.png" alt-text="Панель консоли" lightbox="../media/workspaces-workspaces-demo-console.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-console.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-console.msft.png":::
        Панель **консоли**  
     :::image-end:::  
     
 1.  Перейдите на вкладку **источники** .  
 1.  Перейдите на вкладку **FileSystem (файловая система** ).  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-sources-filesystem.msft.png" alt-text="Вкладка "файловая система"" lightbox="../media/workspaces-workspaces-demo-sources-filesystem.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-sources-filesystem.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-sources-filesystem.msft.png":::
        Вкладка " **Файловая система** "  
     :::image-end:::  
     
@@ -135,7 +135,7 @@ ms.locfileid: "10992724"
 1.  Нажмите кнопку **Разрешить** , чтобы предоставить DevTools разрешение на чтение и запись в каталог.  
     На вкладке **FileSystem** теперь есть зеленая точка рядом с `index.html` , `script.js` и `styles.css` .  Эти зеленые точки означают, что в DevTools установлено соответствие между сетевыми ресурсами страницы и файлами в `~/Desktop/app` .  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-sources-filesystem-folder.msft.png" alt-text="На вкладке FileSystem теперь показано соответствие между локальными и сетевыми файлами." lightbox="../media/workspaces-workspaces-demo-sources-filesystem-folder.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-sources-filesystem-folder.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-sources-filesystem-folder.msft.png":::
        На вкладке **FileSystem** теперь показано соответствие между локальными и сетевыми файлами.  
     :::image-end:::  
     
@@ -146,7 +146,7 @@ ms.locfileid: "10992724"
     > [!NOTE]
     > `color` `h1` Для свойства элементы задано значение `fuchsia` .  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-sources-filesystem-css.msft.png" alt-text="Просмотр стилей. CSS в текстовом редакторе" lightbox="../media/workspaces-workspaces-demo-sources-filesystem-css.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-sources-filesystem-css.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-sources-filesystem-css.msft.png":::
        Просмотр `styles.css` в текстовом редакторе  
     :::image-end:::  
     
@@ -154,7 +154,7 @@ ms.locfileid: "10992724"
 1.  Измените значение `color` свойства `<h1>` элемента на предпочтительный цвет.  
     Помните о том, что для `<h1>` просмотра примененных к нему правил CSS в области **стили** необходимо выбрать элемент в **дереве DOM** .  Зеленая точка рядом с `styles.css:1` ней означает, что все изменения, внесенные вами, сопоставлены `~/Desktop/app/styles.css` .  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-elements-styles-css.msft.png" alt-text="Зеленый индикатор, связанный с файлом" lightbox="../media/workspaces-workspaces-demo-elements-styles-css.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-elements-styles-css.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-elements-styles-css.msft.png":::
        Зеленый индикатор, связанный с файлом  
     :::image-end:::  
     
@@ -177,7 +177,7 @@ ms.locfileid: "10992724"
 1.  Choose the **Elements** tab.  
 1.  Choose and edit the text content of the `h1` element, which says `Workspaces Demo`, and replace it with `I ❤️  Cake`.  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-change-h1.msft.png" alt-text="Attempt to change html from the DOM Tree of the Elements panel" lightbox="../media/workspaces-workspaces-demo-change-h1.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-change-h1.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-change-h1.msft.png":::
        Attempt to change html from the DOM Tree of the **Elements** panel  
     :::image-end:::  
     
@@ -210,7 +210,7 @@ In short, the **DOM Tree** `!==` HTML.
 1.  Выберите `Control` + `S` \ (Windows \) или `Command` + `S` \ (macOS \), чтобы сохранить изменения.  
 1.  Обновите страницу.  `<h1>`Элемент по-прежнему отображается в новом тексте.  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-sources-page-h1.msft.png" alt-text="Изменение HTML на панели «источники»" lightbox="../media/workspaces-workspaces-demo-sources-page-h1.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-sources-page-h1.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-sources-page-h1.msft.png":::
        Изменение HTML на панели « **источники** »  
     :::image-end:::  
     
@@ -224,14 +224,14 @@ In short, the **DOM Tree** `!==` HTML.
 1.  Выберите `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \).  Откроется **меню команд** .  
 1.  Введите текст `QS` и выберите параметр **Показать быстрый источник**.  В нижней части окна DevTools теперь есть вкладка **быстрый источник** .  На вкладке отображается содержимое `index.html` , которое является последним файлом, измененным на панели « **источники** ».  На вкладке **быстрый источник** вы можете открыть редактор из панели **источники** , чтобы можно было редактировать файлы, не открывая другие панели.  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-search-show-quick-source.msft.png" alt-text="Открытие вкладки "быстрый источник" с помощью командного меню" lightbox="../media/workspaces-workspaces-demo-search-show-quick-source.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-search-show-quick-source.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-search-show-quick-source.msft.png":::
        Открытие вкладки " **быстрый источник** " с помощью **командного меню**  
     :::image-end:::  
     
 1.  `Control` + `P` `Command` + `P` Чтобы открыть диалоговое окно " **Открытие файла** ", выберите \ (Windows \) или \ (macOS \).  Смотрите на рисунке ниже.  
 1.  Введите текст и `script` выберите **приложение/script.js**.  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-search-script.msft.png" alt-text="Открытие script.js с помощью диалогового окна "Открытие файла"" lightbox="../media/workspaces-workspaces-demo-search-script.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-search-script.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-search-script.msft.png":::
        Открытие `script.js` с помощью диалогового окна " **Открыть файл** "  
     :::image-end:::  
     
@@ -251,7 +251,7 @@ In short, the **DOM Tree** `!==` HTML.
     > [!NOTE]
     > Ссылка на странице теперь будет курсивной.  
     
-    :::image type="complex" source="../media/workspaces-workspaces-demo-elements-styles-quick-source-script.msft.png" alt-text="Ссылка на странице теперь выделена курсивом" lightbox="../media/workspaces-workspaces-demo-elements-styles-quick-source-script.msft.png":::
+    :::image type="complex" source="../media/workspaces-workspaces-demo-elements-styles-quick-source-script.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-elements-styles-quick-source-script.msft.png":::
        Ссылка на странице теперь выделена курсивом  
     :::image-end:::  
     

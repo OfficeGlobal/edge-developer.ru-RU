@@ -55,7 +55,7 @@ Visual Studio предоставляет различные инструмент
     1. В установщике Visual Studio на установленной версии нажмите кнопку **Дополнительно** , а затем выберите команду **изменить**.  
     1. В Visual Studio в разделе **рабочие нагрузки**выберите параметр **Разработка классической среды на C++** .  
         
-        :::image type="complex" source="./media/workloads.png" alt-text="Экран изменения рабочей нагрузки в Visual Studio" lightbox="./media/workloads.png":::
+        :::image type="complex" source="./media/workloads.png" alt-text="Отладка DevTools" lightbox="./media/workloads.png":::
             Экран изменения рабочей нагрузки в Visual Studio :::image-end:::  
         
     1.  Выберите **отдельные компоненты**.  
@@ -63,7 +63,7 @@ Visual Studio предоставляет различные инструмент
     1.  Выберите параметр **диагностики JavaScript** .  
     1.  Нажмите кнопку **изменить**. 
         
-        :::image type="complex" source="./media/indivcomp.png" alt-text="Вкладка "изменение отдельных компонентов" в Visual Studio" lightbox="./media/indivcomp.png":::
+        :::image type="complex" source="./media/indivcomp.png" alt-text="Отладка DevTools" lightbox="./media/indivcomp.png":::
            Вкладка "изменение отдельных компонентов" в Visual Studio  
         :::image-end:::  
         
@@ -72,7 +72,7 @@ Visual Studio предоставляет различные инструмент
     1.  В разделе **Свойства конфигурации**выберите пункт **Отладка**.  
     1.  В разделе **Тип отладчика**выберите **JavaScript (WebView2)**.  
         
-        :::image type="complex" source="./media/enbjs.png" alt-text="Свойство конфигурации отладки в Visual Studio" lightbox="./media/enbjs.png":::
+        :::image type="complex" source="./media/enbjs.png" alt-text="Отладка DevTools" lightbox="./media/enbjs.png":::
            Свойство конфигурации **отладки** в Visual Studio  
         :::image-end:::  
         
@@ -80,19 +80,19 @@ Visual Studio предоставляет различные инструмент
 
 1.  Чтобы задать точку останова в исходном коде, наведите указатель мыши на левый номер строки и выберите точку останова.  Адаптеры отладки JS-и ст не выполняют сопоставление исходного пути.  Вы должны открыть именно тот же путь, связанный с вашим WebView2.  
     
-    :::image type="complex" source="./media/breakpoint.png" alt-text="Добавление точки останова в Visual Studio" lightbox="./media/breakpoint.png"::: 
+    :::image type="complex" source="./media/breakpoint.png" alt-text="Отладка DevTools" lightbox="./media/breakpoint.png"::: 
        Добавление точки останова в Visual Studio  
     :::image-end:::  
     
 1.  Чтобы запустить отладчик, выберите битовый Размер платформы, а затем нажмите зеленую кнопку воспроизведения рядом с **местным отладчиком Windows**.  Приложение запустится, и отладчик подключится к первому процессу WebView2, который вы создали.  
     
-    :::image type="complex" source="./media/run.png" alt-text=" Локальный отладчик Windows для Visual Studio" lightbox="./media/run.png"::: 
+    :::image type="complex" source="./media/run.png" alt-text="Отладка DevTools" lightbox="./media/run.png"::: 
        **Локальный отладчик Windows** для Visual Studio  
     :::image-end:::  
     
 1.  В **консоли отладки**найдите выходные данные отладчика.  
     
-    :::image type="complex" source="./media/console.png" alt-text=" Консоль отладки Visual Studio" lightbox="./media/console.png"::: 
+    :::image type="complex" source="./media/console.png" alt-text="Отладка DevTools" lightbox="./media/console.png"::: 
        **Консоль отладки** Visual Studio  
     :::image-end:::  
     
@@ -119,7 +119,7 @@ Visual Studio предоставляет различные инструмент
         
 1.  Чтобы задать точку останова в исходном коде, наведите указатель мыши на строку и выберите `F9`
     
-    :::image type="complex" source="./media/breakpointvs.png" alt-text="Точка останова, заданная в коде Visual Studio" lightbox="./media/breakpointvs.png":::
+    :::image type="complex" source="./media/breakpointvs.png" alt-text="Отладка DevTools" lightbox="./media/breakpointvs.png":::
        Точка останова, заданная в коде Visual Studio  
     :::image-end:::
     
@@ -130,13 +130,13 @@ Visual Studio предоставляет различные инструмент
     1.  На вкладке " **выполнить** " в раскрывающемся меню выберите пункт "Настройка запуска".  
     1.  Чтобы начать отладку приложения, нажмите кнопку начать отладку, которая является зеленым треугольником рядом с раскрывающимся списком настройки запуска.  
         
-        :::image type="complex" source="./media/runvs.png" alt-text=" Вкладка "запуск кода" в Visual Studio" lightbox="./media/runvs.png":::
+        :::image type="complex" source="./media/runvs.png" alt-text="Отладка DevTools" lightbox="./media/runvs.png":::
            Вкладка "запуск кода" в Visual Studio  
         :::image-end:::  
         
 1.  Откройте **консоль отладки** , чтобы просмотреть результаты отладки и ошибки.  
     
-    :::image type="complex" source="./media/resultsvs.png" alt-text=" Консоль отладки кода Visual Studio" lightbox="./media/resultsvs.png":::
+    :::image type="complex" source="./media/resultsvs.png" alt-text="Отладка DevTools" lightbox="./media/resultsvs.png":::
        Консоль отладки кода Visual Studio  
     :::image-end:::  
     
@@ -208,7 +208,7 @@ Visual Studio предоставляет различные инструмент
                 ,"trace": true  // Turn on  debug tracing, and save the output to a log file.
               ```  
               
-              :::image type="complex" source="./media/tracelog.png" alt-text=" Сохранение выходных данных отладки в файле журнала." lightbox="./media/tracelog.png":::
+              :::image type="complex" source="./media/tracelog.png" alt-text="Отладка DevTools" lightbox="./media/tracelog.png":::
                  Сохранение выходных данных отладки в файле журнала  
               :::image-end:::  
            :::column-end:::
@@ -217,7 +217,7 @@ Visual Studio предоставляет различные инструмент
               ,"trace": "verbose"  // Turn on verbose tracing in the Debug Output pane.
               ```  
               
-              :::image type="complex" source="./media/verbose.png" alt-text=" Подробный вывод" lightbox="./media/verbose.png":::
+              :::image type="complex" source="./media/verbose.png" alt-text="Отладка DevTools" lightbox="./media/verbose.png":::
                  Отладочный вывод кода Visual Studio с включенной подробной трассировкой  
               :::image-end:::  
            :::column-end:::

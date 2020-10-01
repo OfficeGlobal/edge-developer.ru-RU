@@ -41,8 +41,7 @@ ms.locfileid: "10986215"
     
 1.  Перейдите на страницу [загрузки драйвера Microsoft Edge][MicrosoftDeveloperEdgeToolsWebdriverDownloads] и скачайте драйвер, который соответствует номеру версии Edge.  
     
-    :::image type="complex" source="./media/webdriver-chromium/edge-driver-install.png" alt-text="Раздел "загружаемые файлы" на странице драйвера Microsoft Edge":::
-       Рисунок 2.  Раздел "загружаемые файлы" на странице [драйвера Microsoft Edge][MicrosoftDeveloperEdgeToolsWebdriver]
+    :::image type="complex" source="./media/webdriver-chromium/edge-driver-install.png" alt-text="Номер сборки Microsoft Edge Канарские 14 января 2020 г." на странице [драйвера Microsoft Edge][MicrosoftDeveloperEdgeToolsWebdriver]
     :::image-end:::  
     
     > [!NOTE] 
@@ -325,23 +324,7 @@ docker run -d -p 9515:9515 mcr.microsoft.com/msedge/msedgedriver
 Группа Microsoft Edge – это информация о том, как использовать веб – диски, Selenium и Microsoft Edge.  С помощью значка **обратной связи** в Microsoft Edge DevTools или твит [@EdgeDevTools][TwitterTweetEdgeDevTools] , чтобы команда знала, что вы думаете.  
 
 
-:::image type="complex" source="./devtools-guide-chromium/media/bing-devtools-send-feedback.msft.png" alt-text="Значок "Отправить отзыв" в Microsoft Edge DevTools":::
-   Значок " **Отправить отзыв** " в Microsoft Edge DevTools  
-:::image-end:::  
-
-<!-- image links -->  
-
-<!-- links -->  
-
-[DevToolsMain]: ./devtools-guide-chromium.md "Инструменты разработчика Microsoft EDGE (Chromium) | Документы Microsoft"
-[Webdriver]: ./webdriver.md "[EdgeHTML) | Документы Microsoft"  
-
-[DeployedgePoliciesDevelopertoolsavailability]: /deployedge/microsoft-edge-policies#developertoolsavailability "DeveloperToolsAvailability-Microsoft Edge-Policies | Документы Microsoft"  
-
-[Chocolatey]: https://chocolatey.org "Шоколад | Шоколадное программное обеспечение"  
-[ChocolateyPackagesSeleniumChromiumEdgeDriver]: https://chocolatey.org/packages/selenium-chromium-edge-driver "Драйвер Selenium Chromium Edge | Шоколад"  
-
-[DockerHub]: https://hub.docker.com "Закрепляемый центр"  
+:::image type="complex" source="./devtools-guide-chromium/media/bing-devtools-send-feedback.msft.png" alt-text="Номер сборки Microsoft Edge Канарские 14 января 2020 г."  
 [DockerHubMsedgedriver]: https://hub.docker.com/_/microsoft-msedge-msedgedriver?tab=description "msedgedriver | Закрепляемый центр"  
 
 [GithubMicrosoftEdgeSeleniumTools]: https://github.com/microsoft/edge-selenium-tools "Microsoft/Edge-Selenium-Tools | GitHub"  

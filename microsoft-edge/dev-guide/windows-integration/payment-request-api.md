@@ -34,7 +34,7 @@ ms.locfileid: "10941850"
 
 Браузер проводит проверку подлинности пользователя, позволяет пользователю выбрать поддерживаемый способ оплаты для файла и обрабатывать платежные данные.  После этого браузер отправляет сведения об оплате на веб-сайт из готового платежа, чтобы производитель мог завершить платеж.  Кроме принятия сведений об оплате, профиль также может получить в запросе платежа, а также получать информацию о **доставке.**  
 
-:::image type="complex" source="../media/payment_response_construct.png" alt-text="Построение ответа платежа" lightbox="../media/payment_response_construct.png":::
+:::image type="complex" source="../media/payment_response_construct.png" alt-text="Конструктивная оплата запроса на оплату" lightbox="../media/payment_response_construct.png":::
    Построение ответа платежа  
 :::image-end:::  
 
@@ -61,7 +61,7 @@ var payment = new PaymentRequest (
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/pay_with.png" alt-text="Оплата со списком в пользовательском интерфейсе "Бульты(Майкрософт)"" lightbox="../media/pay_with.png":::
+      :::image type="complex" source="../media/pay_with.png" alt-text="Конструктивная оплата запроса на оплату" lightbox="../media/pay_with.png":::
          **Оплата со списком** в пользовательском интерфейсе "Бульты(Майкрософт)"  
       :::image-end:::  
    :::column-end:::
@@ -89,7 +89,7 @@ var payment = new PaymentRequest (
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/show_details.png" alt-text="Промежуточный итог, отправка, налоги и общие сведения об итогах" lightbox="../media/show_details.png":::
+      :::image type="complex" source="../media/show_details.png" alt-text="Конструктивная оплата запроса на оплату" lightbox="../media/show_details.png":::
          Промежуточный итог, отправка, налоги и общие сведения об итогах  
       :::image-end:::  
    :::column-end:::
@@ -120,7 +120,7 @@ var payment = new PaymentRequest (
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/email_snippet.png" alt-text="Раскрывающееся меню "Адрес электронной почты"" lightbox="../media/email_snippet.png":::
+      :::image type="complex" source="../media/email_snippet.png" alt-text="Конструктивная оплата запроса на оплату" lightbox="../media/email_snippet.png":::
          Раскрывающееся меню "Адрес электронной почты"  
       :::image-end:::  
    :::column-end:::
@@ -140,7 +140,7 @@ var payment = new PaymentRequest (
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/pay_screen_default.png" alt-text="Подтвердите и оплатите сведения об оплате" lightbox="../media/pay_screen_default.png":::
+      :::image type="complex" source="../media/pay_screen_default.png" alt-text="Конструктивная оплата запроса на оплату" lightbox="../media/pay_screen_default.png":::
          Подтвердите и оплатите сведения об оплате  
       :::image-end:::  
    :::column-end:::
@@ -179,7 +179,7 @@ payment.abort();
 
 После поступления ответа **на оплату веб-сайт**отправляет платежную информацию об оплате его процессором.  Во время обработки платежа в браузере отобразится страница счетчика.  
 
-:::image type="complex" source="../media/loading_screen.png" alt-text="Страница, которая отображается при обработке платежа" lightbox="../media/loading_screen.png":::
+:::image type="complex" source="../media/loading_screen.png" alt-text="Конструктивная оплата запроса на оплату" lightbox="../media/loading_screen.png":::
    Страница, которая отображается при обработке платежа  
 :::image-end:::  
 
@@ -187,12 +187,12 @@ payment.abort();
 
 :::row:::
    :::column span="":::
-      :::image type="complex" source="../media/response_payment-request_complete.png" alt-text="Интерфейс, отображаемый при успешном приобретении" lightbox="../media/response_payment-request_complete.png":::
+      :::image type="complex" source="../media/response_payment-request_complete.png" alt-text="Конструктивная оплата запроса на оплату" lightbox="../media/response_payment-request_complete.png":::
          Интерфейс, отображаемый при успешном приобретении  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
-      :::image type="complex" source="../media/response_payment-request_failure.png" alt-text="Интерфейс, отображаемый при сбое покупки" lightbox="../media/response_payment-request_failure.png":::
+      :::image type="complex" source="../media/response_payment-request_failure.png" alt-text="Конструктивная оплата запроса на оплату" lightbox="../media/response_payment-request_failure.png":::
          Интерфейс, отображаемый при сбое покупки  
       :::image-end:::  
    :::column-end:::

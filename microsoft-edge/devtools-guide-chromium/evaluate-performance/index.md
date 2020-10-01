@@ -69,7 +69,7 @@ ms.locfileid: "10992948"
 1.  Выберите **Параметры захвата** \ (! [ Параметры захвата] [ImageCaptureSettingsIcon] \).  DevTools показывает параметры, связанные с тем, как они захватывают метрики производительности.  
 1.  На вкладке **ЦП**выберите пункт **замедление 4X**.  DevTools загружает ЦП так, чтобы он был 4 медленнее, чем обычно.  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-capture-settings.msft.png" alt-text="Интервал регулирования ЦП" lightbox="../media/evaluate-performance-performance-capture-settings.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-capture-settings.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-capture-settings.msft.png":::
        Интервал регулирования ЦП  
     :::image-end:::  
     
@@ -95,14 +95,14 @@ ms.locfileid: "10992948"
 
 1.  В DevTools выберите **запись** \ (! [ Record] [ImageRecordIcon] \).  DevTools захватывает метрики производительности по мере выполнения страницы.  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-profiling.msft.png" alt-text="Профилирование страницы" lightbox="../media/evaluate-performance-performance-profiling.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-profiling.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-profiling.msft.png":::
        Профилирование страницы  
     :::image-end:::  
     
 1.  Подождите несколько секунд.  
 1.  Нажмите кнопку **остановить**.  DevTools останавливает запись, обрабатывает данные, а затем отображает результаты на панели Performance.  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-capture-results.msft.png" alt-text="Результаты профиля" lightbox="../media/evaluate-performance-performance-capture-results.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-capture-results.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-capture-results.msft.png":::
        Результаты профиля  
     :::image-end:::  
     
@@ -118,25 +118,25 @@ Wow, это является большим объемом данных.  не �
 
 1.  Посмотрите на диаграмму в **кадре** .  Если вы видите красную полосу над **кадром кадров**, это означает, что частота кадров, отброшенных таким образом, что она может повредить взаимодействие с пользователем.  Как правило, чем больше зеленая полоса, тем выше кадр кадров.  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-fps-chart.msft.png" alt-text="Диаграмма кадр/с" lightbox="../media/evaluate-performance-performance-fps-chart.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-fps-chart.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-fps-chart.msft.png":::
        Диаграмма **кадр/** с  
     :::image-end:::  
     
 1.  Под диаграммой с **кадром кадров** вы видите диаграмму **ЦП** .  Цвета на диаграмме **ЦП** соответствуют цветам на вкладке " **Сводка** " в нижней части панели "производительность".  Тот факт, что диаграмма **ЦП** заполнена цветом, означает, что ЦП был maxed во время записи.  Всякий раз, когда вы видите maxed ЦП в течение длительного времени, это подсказка для поиска способов уменьшения объема работы.  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-cpu-chart.msft.png" alt-text="Вкладка "Диаграмма ЦП" и "Сводка"" lightbox="../media/evaluate-performance-performance-cpu-chart.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-cpu-chart.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-cpu-chart.msft.png":::
        Вкладка "Диаграмма **ЦП** " и " **Сводка** "  
     :::image-end:::  
     
 1.  Наведите указатель мыши на диаграммы **кадров**, **ЦП**или **нетто** .  В DevTools показан снимок страницы на данный момент времени.  Чтобы воспроизвести запись, передвиньте указатель влево и вправо.  Действие, на которое указывает ссылка, используется как элемент очистки, и его можно использовать для анализа хода анимации вручную.  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-screenshot-hover.msft.png" alt-text="Просмотр снимка страницы в 2500ms отметке записи" lightbox="../media/evaluate-performance-performance-screenshot-hover.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-screenshot-hover.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-screenshot-hover.msft.png":::
        Просмотр снимка страницы в 2500ms отметке записи  
     :::image-end:::  
     
 1.  В разделе **кадры** наведите указатель мыши на один из зеленых квадратиков.  DevTools показывает, что этот конкретный кадр находится в кадре/сек.  Скорее всего, каждый кадр расположен ниже целевого числа 60 кадр/с.  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-frame-hover.msft.png" alt-text="Наведение указателя мыши на рамку" lightbox="../media/evaluate-performance-performance-frame-hover.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-frame-hover.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-frame-hover.msft.png":::
        Наведение указателя мыши на рамку  
     :::image-end:::  
     
@@ -150,7 +150,7 @@ Wow, это является большим объемом данных.  не �
 1.  Начните вводить текст `Rendering` в **меню команд** и выберите пункт **Показать отрисовку**.  
 1.  На вкладке " **рендеринг** " Включите **индикатор кадров**.  В правом верхнем углу окна просмотра появится новая наложение.  
     
-    :::image type="complex" source="../media/evaluate-performance-fps-meter-overlay.msft.png" alt-text="Индикатор кадров в кадре" lightbox="../media/evaluate-performance-fps-meter-overlay.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-fps-meter-overlay.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-fps-meter-overlay.msft.png":::
        **Индикатор кадров в кадре**  
         :::image-end:::  
     
@@ -162,19 +162,19 @@ Wow, это является большим объемом данных.  не �
 
 1.  Если не выбрано ни одного события, на вкладке **Сводка** показана разбивка действий.  Страница потратила большую часть времени на отрисовку.  Так как производительность — это изображение, которое уменьшает трудозатраты, цель состоит в том, чтобы уменьшить время, затраченное на обработку результатов.  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-summary-tab.msft.png" alt-text="Вкладка "Сводка"" lightbox="../media/evaluate-performance-performance-summary-tab.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-summary-tab.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-summary-tab.msft.png":::
        Вкладка " **Сводка** "  
     :::image-end:::  
     
 1.  Разверните раздел **основной** .  DevTools показывает flameную диаграмму активности в главном потоке с течением времени.  С течением времени ось x представляет запись.  Каждая строка представляет событие.  Более широкий отрезок означает, что событие занимает больше времени.  Ось y представляет стек вызова.  Если вы видите события, наложенные друг на друга, это означает, что события верхнего уровня приводили к появлению младших событий.  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-main.msft.png" alt-text="Основной раздел" lightbox="../media/evaluate-performance-performance-main.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-main.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-main.msft.png":::
        **Основной** раздел  
     :::image-end:::  
     
 1.  В записи много данных.  Изменение масштаба одного события; Выберите, удерживайте и наведите указатель мыши на **Обзор**, который включает в себя раздел с диаграммами в **кадрах**, **ЦП**и **сети** .  В **главном** разделе и на вкладке " **Сводка** " отображаются только сведения о выбранной части записи.  
     
-    :::image type="complex" source="../media/evaluate-performance-performance-main-zoomed.msft.png" alt-text="Изменение размера события" lightbox="../media/evaluate-performance-performance-main-zoomed.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-main-zoomed.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-main-zoomed.msft.png":::
        Изменение размера события  
     :::image-end:::  
     
@@ -188,7 +188,7 @@ Wow, это является большим объемом данных.  не �
     
 1.  Выберите событие **кадр анимации, которое активировалось** .  На вкладке **Сводка** теперь отображаются сведения об этом событии.  Обратите внимание на ссылку " **Показать** ".  После того как вы выберете его, DevTools выделит событие, которое инициировало событие **кадра анимации** .  Кроме того, обратите внимание на ссылку **app.js:95** .  После того как вы выберете его, отобразится соответствующая строка исходного кода.
     
-    :::image type="complex" source="../media/evaluate-performance-performance-animation-frame-fired.msft.png" alt-text="Дополнительные сведения о событии анимации запускаемого кадра" lightbox="../media/evaluate-performance-performance-animation-frame-fired.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-performance-animation-frame-fired.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-performance-animation-frame-fired.msft.png":::
        Дополнительные сведения о событии **анимации запускаемого кадра**  
     :::image-end:::  
     
@@ -200,7 +200,7 @@ Wow, это является большим объемом данных.  не �
     
 1.  На вкладке **Сводка** щелкните ссылку **app.js:71** в разделе **Макет принудительно**.  DevTools перенесет вас в строку кода, которая замещает макет.  
     
-    :::image type="complex" source="../media/evaluate-performance-sources-app-update.msft.png" alt-text="Строка кода, вызвавшая принудительный макет." lightbox="../media/evaluate-performance-sources-app-update.msft.png":::
+    :::image type="complex" source="../media/evaluate-performance-sources-app-update.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-sources-app-update.msft.png":::
        Строка кода, вызвавшая принудительный макет.  
     :::image-end:::  
     
@@ -227,7 +227,7 @@ See [Measure Performance With The RAIL Model][RAIL] to learn more.  -->
 
 Для более удобного функционирования с помощью панели "производительность" лучше всего сделать это.  Попробуйте выполнить профилирование страниц и проанализировать результаты.  Если у вас возникли вопросы по поводу ваших результатов, используйте значок **Отправить отзыв** , выберите `Alt` + `Shift` + `I` \ (Windows \), выберите `Option` + `Shift` + `I` \ (macOS \) или [твит в группу DevTools][TwitterEdgeDevtools].  Включите снимки экрана или ссылки на воспроизводимые страницы, если это возможно.  
 
-:::image type="complex" source="../media/evaluate-performance-feedback-icon.msft.png" alt-text="Значок * * Feedback * * в Microsoft Edge DevTools" lightbox="../media/evaluate-performance-feedback-icon.msft.png":::
+:::image type="complex" source="../media/evaluate-performance-feedback-icon.msft.png" alt-text="Демонстрация слева и DevTools справа" lightbox="../media/evaluate-performance-feedback-icon.msft.png":::
    Значок " **Отправить отзыв** " в Microsoft Edge DevTools  
 :::image-end:::  
 

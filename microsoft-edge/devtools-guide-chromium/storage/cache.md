@@ -50,25 +50,25 @@ ms.locfileid: "10993298"
     
 1.  Разверните раздел **хранилище кэша** , чтобы просмотреть доступные кэши.  
     
-    :::image type="complex" source="../media/storage-application-cache-storage.msft.png" alt-text="Доступные кэши" lightbox="../media/storage-application-cache-storage.msft.png":::
+    :::image type="complex" source="../media/storage-application-cache-storage.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-cache-storage.msft.png":::
        Доступные кэши  
     :::image-end:::  
     
 1.  Выберите кэш, чтобы просмотреть его содержимое.  
     
-    :::image type="complex" source="../media/storage-application-cache-storage-domain-root-headers.msft.png" alt-text="Просмотр содержимого кэша" lightbox="../media/storage-application-cache-storage-domain-root-headers.msft.png":::
+    :::image type="complex" source="../media/storage-application-cache-storage-domain-root-headers.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-cache-storage-domain-root-headers.msft.png":::
        Просмотр содержимого кэша  
     :::image-end:::  
     
 1.  Выберите ресурс для просмотра заголовков HTTP в разделе под таблицей.  
     
-    :::image type="complex" source="../media/storage-application-cache-storage-index-headers.msft.png" alt-text="Просмотр заголовков HTTP для ресурса" lightbox="../media/storage-application-cache-storage-index-headers.msft.png":::
+    :::image type="complex" source="../media/storage-application-cache-storage-index-headers.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-cache-storage-index-headers.msft.png":::
        Просмотр заголовков HTTP для ресурса  
     :::image-end:::  
     
 1.  Нажмите кнопку **Предварительный просмотр** , чтобы просмотреть содержимое ресурса.  
     
-    :::image type="complex" source="../media/storage-application-cache-storage-domain-js-preview.msft.png" alt-text="Просмотр содержимого ресурса" lightbox="../media/storage-application-cache-storage-domain-js-preview.msft.png":::
+    :::image type="complex" source="../media/storage-application-cache-storage-domain-js-preview.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-cache-storage-domain-js-preview.msft.png":::
        Просмотр содержимого ресурса  
     :::image-end:::  
     
@@ -77,7 +77,7 @@ ms.locfileid: "10993298"
 1.  [Просмотр данных для кэша](#view-cache-data).  
 1.  Выберите ресурс, который вы хотите обновить.  DevTools выделит ее, чтобы показать, что она выбрана.  
     
-    :::image type="complex" source="../media/storage-application-cache-storage-domain-refresh.msft.png" alt-text="Выберите ресурс" lightbox="../media/storage-application-cache-storage-domain-refresh.msft.png":::
+    :::image type="complex" source="../media/storage-application-cache-storage-domain-refresh.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-cache-storage-domain-refresh.msft.png":::
        Выберите ресурс  
     :::image-end:::  
     
@@ -88,7 +88,7 @@ ms.locfileid: "10993298"
 1.  [Просмотр данных для кэша](#view-cache-data).  
 1.  С помощью текстового поля **Фильтр по пути** можно отфильтровать ресурсы, которые не соответствуют указанному вами пути.  
     
-    :::image type="complex" source="../media/storage-application-cache-storage-filter.msft.png" alt-text="Фильтрация ресурсов, не соответствующих указанному пути" lightbox="../media/storage-application-cache-storage-filter.msft.png":::
+    :::image type="complex" source="../media/storage-application-cache-storage-filter.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-cache-storage-filter.msft.png":::
        Фильтрация ресурсов, не соответствующих указанному пути  
     :::image-end:::  
     
@@ -97,7 +97,7 @@ ms.locfileid: "10993298"
 1.  [Просмотр данных для кэша](#view-cache-data).  
 1.  Выберите ресурс, который вы хотите удалить.  DevTools выделит ее, чтобы показать, что она выбрана.  
     
-    :::image type="complex" source="../media/storage-application-cache-storage-delete-selected.msft.png" alt-text="Выберите ресурс" lightbox="../media/storage-application-cache-storage-delete-selected.msft.png":::
+    :::image type="complex" source="../media/storage-application-cache-storage-delete-selected.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-cache-storage-delete-selected.msft.png":::
        Выберите ресурс  
     :::image-end:::  
     
@@ -108,13 +108,13 @@ ms.locfileid: "10993298"
 1.  Откройте **приложение**  >  , чтобы**Очистить хранилище**.  
 1.  Убедитесь, что флажок **хранилище кэша** включен.  
     
-    :::image type="complex" source="../media/storage-application-clear-storage-cache-storage-checkbox.msft.png" alt-text="Флажок "хранилище кэша"" lightbox="../media/storage-application-clear-storage-cache-storage-checkbox.msft.png":::
+    :::image type="complex" source="../media/storage-application-clear-storage-cache-storage-checkbox.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-clear-storage-cache-storage-checkbox.msft.png":::
        Флажок " **хранилище кэша** "  
     :::image-end:::  
     
 1.  Нажмите кнопку **Очистить данные сайта**.  
     
-    :::image type="complex" source="../media/storage-application-clear-storage-cache-storage-checkbox-clear-site-data-button.msft.png" alt-text="Кнопка "очистить данные сайта"" lightbox="../media/storage-application-clear-storage-cache-storage-checkbox-clear-site-data-button.msft.png":::
+    :::image type="complex" source="../media/storage-application-clear-storage-cache-storage-checkbox-clear-site-data-button.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-clear-storage-cache-storage-checkbox-clear-site-data-button.msft.png":::
        Кнопка " **Очистить данные сайта** "  
     :::image-end:::  
     

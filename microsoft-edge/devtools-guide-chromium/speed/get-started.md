@@ -67,32 +67,32 @@ ms.locfileid: "10993444"
 
 1.  [Откройте исходный код для сайта](https://glitch.com/edit/#!/tony).  Эта вкладка называется **вкладкой "редактор"**.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-server-js.msft.png" alt-text="Вкладка "редактор"" lightbox="../media/speed-glitch-tony-server-js.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-server-js.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-server-js.msft.png":::
        **Вкладка "редактор"**  
     :::image-end:::  
     
 1.  Выберите **Илья**.  Откроется меню.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-server-js-remix-project.msft.png" alt-text="Меню, которое появляется после нажатия кнопки Илья" lightbox="../media/speed-glitch-tony-server-js-remix-project.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-server-js-remix-project.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-server-js-remix-project.msft.png":::
        Меню, которое появляется после нажатия кнопки **Илья**  
     :::image-end:::  
     
 1.  Выберите **Remix проект**.  Имя проекта меняется с **Илья** на случайное сгенерированное имя.  Теперь у вас есть Редактируемая копия кода.  Позже вы можете внести изменения в этот код.  
 1.  Нажмите кнопку **Показать** и выберите **в новом окне**.  Демонстрационный ролик откроется на новой вкладке.  Эта вкладка упоминается как **вкладка Demo**.  Загрузка сайта может занять некоторое время.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-show-live.msft.png" alt-text="Вкладка "демонстрация"" lightbox="../media/speed-glitch-tony-show-live.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-show-live.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-show-live.msft.png":::
        Вкладка "демонстрация"  
     :::image-end:::  
     
 1.  Нажмите клавиши `Control` + `Shift` + `J` \ (Windows \) или `Command` + `Option` + `J` \ (macOS \).  Рядом с демоном DevTools откроется Microsoft Edge.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-show-live-console.msft.png" alt-text="DevTools и демонстрация" lightbox="../media/speed-glitch-tony-show-live-console.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-show-live-console.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-show-live-console.msft.png":::
        DevTools и демонстрация  
     :::image-end:::  
     
 Для остальных снимков экрана в этом учебнике DevTools отображается в отдельном окне.  Нажмите клавиши `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \), чтобы открыть меню команд, введите его `Undock` и выберите команду **открепить в отдельном окне**.  
 
-:::image type="complex" source="../media/speed-console.msft.png" alt-text="Незакрепленные DevTools" lightbox="../media/speed-console.msft.png":::
+:::image type="complex" source="../media/speed-console.msft.png" alt-text="Илья CAT" lightbox="../media/speed-console.msft.png":::
    Незакрепленные DevTools  
 :::image-end:::  
 
@@ -104,7 +104,7 @@ ms.locfileid: "10993444"
     
     [!INCLUDE [audits-panel-note](../includes/audits-panel-note.md)]  
     
-    :::image type="complex" source="../media/speed-audits-performance.msft.png" alt-text="Панель «аудит»" lightbox="../media/speed-audits-performance.msft.png":::
+    :::image type="complex" source="../media/speed-audits-performance.msft.png" alt-text="Илья CAT" lightbox="../media/speed-audits-performance.msft.png":::
        Панель « **Аудит** »  
     :::image-end:::  
     
@@ -120,7 +120,7 @@ ms.locfileid: "10993444"
     
 1.  Нажмите кнопку **запустить аудиты**.  После 10 – 30 секунд на панели «аудиты» отображается отчет о быстродействии сайта.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed.msft.png" alt-text="Отчет для панели «аудит» для производительности сайта" lightbox="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed.msft.png":::
        Отчет для панели «аудит» для производительности сайта  
     :::image-end:::  
     
@@ -130,7 +130,7 @@ ms.locfileid: "10993444"
 
 <!--todo: add screen capture for error in audit -->  
 <!--
-:::image type="complex" source="../media/speed-.msft.png" alt-text="A report that errored" lightbox="../media/speed-.msft.png":::
+:::image type="complex" source="../media/speed-.msft.png" alt-text="Илья CAT" lightbox="../media/speed-.msft.png":::
    A report that errored  
 :::image-end:::  
 -->  
@@ -139,55 +139,55 @@ ms.locfileid: "10993444"
 
 Число в верхней части отчета является общим показателем эффективности сайта.  После внесения изменений в код вы должны увидеть этот номер.  Более высокие баллы означают более высокую производительность.  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed-metrics-highlighted.msft.png" alt-text="Общая оценка производительности" lightbox="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed-metrics-highlighted.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed-metrics-highlighted.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed-metrics-highlighted.msft.png":::
    Общая оценка производительности  
 :::image-end:::  
 
 Раздел **метрики** содержит количественные измерения производительности сайта.  Каждая метрика обеспечивает различные аспекты производительности.  Например, при первом обобщении с **содержимым** появляется сообщение о том, что содержимое сначала закрашено на экран, что является важной вехой в восприятии загрузки страницы, в то время как в **интерактивном режиме** отмечается тот момент, когда страница будет готова для обработки взаимодействия с пользователем.  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed-highlighted.msft.png" alt-text="Раздел метрики" lightbox="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed-highlighted.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed-highlighted.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-metrics-collapsed-highlighted.msft.png":::
    Раздел **метрики**  
 :::image-end:::  
 
 Щелкните выделенный выключатель на приведенном ниже рисунке, чтобы просмотреть описание каждой метрики, а затем нажмите Дополнительные **сведения** , чтобы прочитать его документацию.  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-metrics-expanded.msft.png" alt-text="Щелкните выделенный выключатель, чтобы развернуть элементы метрик" lightbox="../media/speed-glitch-tony-remix-audits-performance-metrics-expanded.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-metrics-expanded.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-metrics-expanded.msft.png":::
    Щелкните выделенный выключатель, чтобы развернуть элементы метрик  
 :::image-end:::  
 
 Под метриками представлен набор снимков экрана, показывающий, как страница выглядит как загруженная.  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-view-trace.msft.png" alt-text="Снимки экрана, посвященные загрузке страницы" lightbox="../media/speed-glitch-tony-remix-audits-performance-view-trace.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-view-trace.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-view-trace.msft.png":::
    Снимки экрана, посвященные загрузке страницы  
 :::image-end:::  
 
 В разделе " **возможности** " представлены конкретные советы по повышению производительности загрузки данной страницы.  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-view-trace.msft.png" alt-text="Раздел "возможности"" lightbox="../media/speed-glitch-tony-remix-audits-performance-view-trace.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-view-trace.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-view-trace.msft.png":::
    Раздел " **возможности** "  
 :::image-end:::  
 
 Выберите возможность, чтобы узнать больше о ней.  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-opportunities-expanded.msft.png" alt-text="Исключение ресурсов блокировки рендеринга возможная сделка" lightbox="../media/speed-glitch-tony-remix-audits-performance-opportunities-expanded.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-opportunities-expanded.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-opportunities-expanded.msft.png":::
    **Исключение ресурсов блокировки рендеринга** возможная сделка  
 :::image-end:::  
 
 Выберите дополнительные **сведения** , чтобы ознакомиться с документацией о важности возможной сделки, и конкретные рекомендации по ее устранению.  
 
-:::image type="complex" source="../media/speed-web-dev-performance-audits.msft.png" alt-text="Документация по устранению ресурсов с блокировкой рендеринга возможная сделка" lightbox="../media/speed-web-dev-performance-audits.msft.png":::
+:::image type="complex" source="../media/speed-web-dev-performance-audits.msft.png" alt-text="Илья CAT" lightbox="../media/speed-web-dev-performance-audits.msft.png":::
    Документация по **устранению ресурсов с блокировкой рендеринга** возможная сделка  
 :::image-end:::  
 
 Раздел **Диагностика** содержит дополнительные сведения о факторах, которые влияют на время загрузки страницы.  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-diagnostics.msft.png" alt-text="Раздел "Диагностика"" lightbox="../media/speed-glitch-tony-remix-audits-performance-diagnostics.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-diagnostics.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-diagnostics.msft.png":::
    Раздел " **Диагностика** "  
 :::image-end:::  
 
 В разделе **переданные аудиты** показано, что делает сайт правильно.  Выберите этот пункт, чтобы развернуть раздел.  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-passed-audits.msft.png" alt-text="Раздел "пройденные аудиты"" lightbox="../media/speed-glitch-tony-remix-audits-performance-passed-audits.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-audits-performance-passed-audits.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-audits-performance-passed-audits.msft.png":::
    Раздел " **пройденные аудиты** "  
 :::image-end:::  
 
@@ -205,14 +205,14 @@ ms.locfileid: "10993444"
 
 1.  Откройте вкладку **сеть** .  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-network.msft.png" alt-text="Панель "сеть"" lightbox="../media/speed-glitch-tony-remix-network.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-network.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-network.msft.png":::
        Панель " **сеть** "  
     :::image-end:::  
     
 1.  Выберите значок **Параметры сети** .  
 1.  Установите флажок **использовать строки большого запроса** .  Высота строк в таблице сетевых запросов возрастает.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-network-use-large-request-rows.msft.png" alt-text="Большие строки в таблице "сетевые запросы"" lightbox="../media/speed-glitch-tony-remix-network-use-large-request-rows.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-network-use-large-request-rows.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-network-use-large-request-rows.msft.png":::
        Большие строки в таблице "сетевые запросы"  
     :::image-end:::  
     
@@ -226,7 +226,7 @@ ms.locfileid: "10993444"
 1.  Выберите **bundle.js**.  
 1.  Откройте вкладку **заголовки** .  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-network-use-large-request-rows-bundle-js.msft.png" alt-text="Вкладка "заголовки"" lightbox="../media/speed-glitch-tony-remix-network-use-large-request-rows-bundle-js.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-network-use-large-request-rows-bundle-js.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-network-use-large-request-rows-bundle-js.msft.png":::
        Вкладка " **заголовки** "  
     :::image-end:::  
     
@@ -236,7 +236,7 @@ ms.locfileid: "10993444"
 
 1.  На вкладке "редактор" нажмите кнопку " **server.js**".  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-server-js.msft.png" alt-text="Изменить server.js" lightbox="../media/speed-glitch-tony-remix-server-js.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-server-js.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-server-js.msft.png":::
        Edit `server.js`  
     :::image-end:::  
     
@@ -262,7 +262,7 @@ ms.locfileid: "10993444"
 1.  Дождитесь, пока не будет развернуто новая сборка сайта.  Неузорная анимация рядом с **инструментами** означает, что сайт перестраивается и повторно развертывается.  Изменение будет готово, когда анимация рядом с пунктом " **инструменты** " исчезает.  Нажмите кнопку **Показать** и выберите **в новом окне** еще раз.  
     
     <!--
-    :::image type="complex" source="../media/speed-glitch-tony-remix-server-js-edited.msft.png" alt-text="The animation that indicates that the site is getting built" lightbox="../media/speed-glitch-tony-remix-server-js-edited.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-server-js-edited.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-server-js-edited.msft.png":::
        The animation that indicates that the site is getting built  
     :::image-end:::  
     -->  
@@ -271,13 +271,13 @@ ms.locfileid: "10993444"
 
 1.  Вернитесь на вкладку Demo и повторно загрузите страницу.  Столбец « **Размер** » теперь должен показывать 2 разных значения для текстовых ресурсов `bundle.js` , таких как.  На рисунке после следующего значения аргумента " `256 KB` `bundle.js` равно" — Размер файла, отправленного по сети, а в качестве нижнего значения `1.2 MB` — несжатый размер файла.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-network-main.msft.png" alt-text="В столбце "размер" теперь показано 2 разных значения для текстовых ресурсов." lightbox="../media/speed-glitch-tony-remix-network-main.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-network-main.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-network-main.msft.png":::
        В столбце " **Размер** " теперь показано 2 разных значения для текстовых ресурсов.  
     :::image-end:::  
     
 1.  В разделе **заголовки ответа** `bundle.js` теперь должен быть указан `content-encoding: gzip` верхний колонтитул.
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-network-bundle-js-headers-response.msft.png" alt-text="Раздел заголовки ответа теперь содержат заголовок Content-Encoding" lightbox="../media/speed-glitch-tony-remix-network-bundle-js-headers-response.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-network-bundle-js-headers-response.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-network-bundle-js-headers-response.msft.png":::
        Раздел **заголовки ответа** теперь содержат заголовок Content-Encoding  
     :::image-end:::  
     
@@ -288,7 +288,7 @@ ms.locfileid: "10993444"
 1.  Параметры не совпадают.  
 1.  Нажмите кнопку **запустить аудит**.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance.msft.png" alt-text="Отчет "Аудит" после включения сжатия текста" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance.msft.png":::
        Отчет "Аудит" после включения сжатия текста  
     :::image-end:::  
     
@@ -305,7 +305,7 @@ ms.locfileid: "10993444"
 1.  В отчете выберите команду **Избегайте огромных полезных данных сети** , чтобы узнать, какие изображения нужно изменить.  Похоже, что 2 файлов JPG — более 2000 КБ, что больше не требуется.  
     
     <!--
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-opportunities-expanded.msft.png" alt-text="Details about the properly size images opportunity" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-opportunities-expanded.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-opportunities-expanded.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-opportunities-expanded.msft.png":::
        Details about the properly size images opportunity  
     :::image-end:::  
     -->
@@ -314,7 +314,7 @@ ms.locfileid: "10993444"
 1.  Заменить `const dir = 'big'` на `const dir = 'small'` .  Этот каталог содержит копии тех же изображений, размер которых был изменен.  
 1.  Вновь проведите аудит страницы, чтобы увидеть, как это изменение влияет на производительность загрузки.  
     
-    :::image type="complex" source="../media/speed-glitch-compression-small-images-audits-performance.msft.png" alt-text="Отчет об аудите после изменения размеров изображений" lightbox="../media/speed-glitch-compression-small-images-audits-performance.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-compression-small-images-audits-performance.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-compression-small-images-audits-performance.msft.png":::
        Отчет об аудите после изменения размеров изображений  
     :::image-end:::  
     
@@ -345,29 +345,29 @@ ms.locfileid: "10993444"
 1.  Чтобы просмотреть блокируемые ресурсы, выберите пункт **удалить ресурсы блокировки рендеринга** .  
     `lodash.js` и `jquery.js` .  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded.msft.png" alt-text="Дополнительные сведения о ресурсах блокировки обработки с возможностью устранения" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded.msft.png":::
        Дополнительные сведения о **ресурсах блокировки обработки** с возможностью устранения  
     :::image-end:::  
     
 1.  Нажмите клавиши `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \), чтобы открыть меню команд, начните вводить текст `Coverage` и выберите пункт **Показать покрытие**.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-command-coverage.msft.png" alt-text="Открытие меню "команд" на панели "Аудит"" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-command-coverage.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-command-coverage.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-command-coverage.msft.png":::
        Открытие меню "команд" на панели " **Аудит** "  
     :::image-end:::  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-drawer-coverage.msft.png" alt-text="Вкладка "покрытие"" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-drawer-coverage.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-drawer-coverage.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-drawer-coverage.msft.png":::
        Вкладка " **покрытие** "  
     :::image-end:::  
     
 1.  Нажмите кнопку **Обновить** \ ( ![ обновить ][ImageRefreshIcon] \).  На вкладке " **покрытие** " представлены общие сведения о том, какая часть `bundle.js` кода `jquery.js` и `lodash.js` выполняется при загрузке страницы.  На рисунке ниже показано, что около 76% и 30% файлов jQuery и Lodash не используются соответственно.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-drawer-coverage-reloaded.msft.png" alt-text="Отчет о покрытии" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-drawer-coverage-reloaded.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-drawer-coverage-reloaded.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-audits-performance-oppportunities-expanded-drawer-coverage-reloaded.msft.png":::
        Отчет о покрытии  
     :::image-end:::  
     
 1.  Выделите строку **jquery.js** .  DevTools откроет файл на панели «источники».  Строка кода была выполнена, если рядом с ней есть синяя полоска.  Красная черта означает, что она не была выполнена и определенно не требуется при загрузке страницы.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-sources-drawer-coverage-reloaded-jquery-js.msft.png" alt-text="Просмотр файла jQuery на панели «источники»" lightbox="../media/speed-glitch-tony-remix-updated-sources-drawer-coverage-reloaded-jquery-js.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-sources-drawer-coverage-reloaded-jquery-js.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-sources-drawer-coverage-reloaded-jquery-js.msft.png":::
        Просмотр файла jQuery на панели « **источники** »  
     :::image-end:::  
     
@@ -381,19 +381,19 @@ ms.locfileid: "10993444"
 1.  Нажмите клавиши `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \), чтобы снова открыть меню команд.  
 1.  Начните вводить данные `blocking` и установите флажок **Показать блокировку запросов**.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-network-drawer-request-blocking-empty.msft.png" alt-text="Вкладка "блокировка запросов"" lightbox="../media/speed-glitch-tony-remix-updated-network-drawer-request-blocking-empty.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-network-drawer-request-blocking-empty.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-network-drawer-request-blocking-empty.msft.png":::
        Вкладка " **Блокировка запросов** "  
     :::image-end:::  
     
 1.  Нажмите кнопку **Добавить узор** \ ( ![ Добавить шаблон ][ImageAddPatternIcon] \), введите текст и нажмите `/libs/*` кнопку, `Enter` чтобы подтвердить.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-network-drawer-request-blocking-added.msft.png" alt-text="Добавление шаблона для блокирования запросов в каталог библиотек" lightbox="../media/speed-glitch-tony-remix-updated-network-drawer-request-blocking-added.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-network-drawer-request-blocking-added.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-network-drawer-request-blocking-added.msft.png":::
        Добавление шаблона для блокирования запросов в `libs` Каталог  
     :::image-end:::  
     
 1.  Обновите страницу.  Запросы jQuery и Lodash красного цвета, означающие, что запросы были заблокированы.   Страница по-прежнему загружается и является интерактивной, поэтому она выглядит так, как это не требуется.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-network-reloaded-drawer-request-blocking-added.msft.png" alt-text="На панели Network (сеть) показано, что запросы заблокированы" lightbox="../media/speed-glitch-tony-remix-updated-network-reloaded-drawer-request-blocking-added.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-network-reloaded-drawer-request-blocking-added.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-network-reloaded-drawer-request-blocking-added.msft.png":::
        На панели **Network (сеть** ) показано, что запросы заблокированы  
     :::image-end:::  
     
@@ -408,7 +408,7 @@ ms.locfileid: "10993444"
 1.  Дождитесь повторного создания и повторного развертывания сайта.  
 1.  Снова проведите аудит страницы с помощью панели **аудита** .  Ваши общие баллы должны быть улучшены.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-2-audits-performance.msft.png" alt-text="Отчет об аудите после удаления ресурсов блокировки рендеринга" lightbox="../media/speed-glitch-tony-remix-updated-2-audits-performance.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-2-audits-performance.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-2-audits-performance.msft.png":::
        Отчет об **аудите** после удаления ресурсов блокировки рендеринга  
     :::image-end:::  
     
@@ -436,13 +436,13 @@ ms.locfileid: "10993444"
 1.  Настройте **сеть** на **медленное 3G** и **ЦП** , чтобы **6X замедление**.  На мобильных устройствах обычно используются больше ограничений на оборудование, чем на ноутбуках или настольных компьютерах, поэтому эти параметры позволяют загрузить страницу так, как если бы вы использовали менее мощное устройство.  
 1.  Нажмите кнопку **Обновить** \ ( ![ обновить ][ImageRefreshIcon] \).  DevTools обновляет страницу и создает визуализацию всей выполненной работы, чтобы загрузить страницу.  Этот зрительный образ называется **трассировкой**.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu.msft.png" alt-text="Трассировка загрузки страницы на панели производительности" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu.msft.png":::
        Трассировка загрузки страницы на панели **производительности**  
     :::image-end:::  
     
 Трассировка отображает операцию в хронологическом порядке, слева направо.  На диаграммах с частотой кадров, ЦП и нетто в верхней части экрана дается обзор кадров в секунду, активности ЦП и активности сети.  Выделенный блок желтого цвета, показанный на рисунке после следующего, ЦП полностью загружен с действиями в сценарии.  Это говорит о том, что вы можете ускорить загрузку страницы, выполнив меньше действий JavaScript.  
 
-:::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-main-highlight.msft.png" alt-text="Раздел обзора трассировки" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-main-highlight.msft.png":::
+:::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-main-highlight.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-main-highlight.msft.png":::
    Раздел обзора трассировки  
 :::image-end:::  
 
@@ -450,20 +450,20 @@ ms.locfileid: "10993444"
 
 1.  Щелкните раздел **время показа** , чтобы развернуть его.  В зависимости от того факта, что существует ряд мер [времени][MDNUserTimingApi] , не отклика, может показаться, что приложение Илья использует режим разработки реагируй.  Переключение в режим рабочего режима может привести к снижению производительности WINS.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings.msft.png" alt-text="Раздел "временные интервалы"" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings.msft.png":::
        Раздел " **временные интервалы** "  
     :::image-end:::  
     
 1.  Чтобы свернуть этот раздел, выберите пункт **время показа** .  
 1.  Просмотрите **основной** раздел.  В этом разделе показан хронологический журнал основных операций потока, слева направо.  Ось y (сверху вниз) показывает причины возникновения событий.  Например, в figyre после указанных ниже `Evaluate Script` событий событие привело `(anonymous)` к выполнению функции, которое привело к выполнению `(anonymous)` `__webpack__require__` и т. д.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-main.msft.png" alt-text="Основной раздел" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-main.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-main.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-main.msft.png":::
        **Основной** раздел  
     :::image-end:::  
     
 1.  Прокрутите страницу вниз до конца **основного** раздела.  При использовании платформы большая часть верхнего действия вызывается платформой, которая обычно находится в вашем элементе управления.  Действия, вызванные вашим приложением, обычно находятся в нижней части экрана.  В этом приложении это похоже на функцию с именем, которая `App` вызывает большое количество запросов к `mineBitcoin` функции.  Это звучит так, как Илья может использовать устройства своего вентилятора для cryptocurrency...  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings-minebitcoin.msft.png" alt-text="Наведите указатель мыши на действие mineBitcoin" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings-minebitcoin.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings-minebitcoin.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings-minebitcoin.msft.png":::
        Наведение указателя на `mineBitcoin` мероприятие  
     :::image-end:::  
     
@@ -472,7 +472,7 @@ ms.locfileid: "10993444"
     
 1.  Разверните раздел **снизу вверх** .  На этой вкладке прерываются действия, которые выполнялись в течение всего времени.  Если в разделе снизу вверх ничего не видно, щелкните надпись для **основного** раздела.  В разделе " **снизу вверх** " отображаются только сведения о каких-либо действиях или группах действий, которые вы уже выбрали.  Например, если вы `mineBitcoin` **настроили** одно из действий, в разделе снизу вверх будет отображаться только информация для этого действия.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings-summary-minebitcoin.msft.png" alt-text="Вкладка "снизу вверх"" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings-summary-minebitcoin.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings-summary-minebitcoin.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-performance-slow-network-slow-cpu-timings-summary-minebitcoin.msft.png":::
        Вкладка " **снизу вверх** "  
     :::image-end:::  
     
@@ -485,7 +485,7 @@ ms.locfileid: "10993444"
 1.  Дождитесь завершения развертывания новой сборки.  
 1.  Вновь проведите аудит страницы.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-3-audits-performance.msft.png" alt-text="Отчет по аудиту после настройки пакета для использования режима "в производство"" lightbox="../media/speed-glitch-tony-remix-updated-3-audits-performance.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-3-audits-performance.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-3-audits-performance.msft.png":::
        Отчет по аудиту после настройки пакета для использования режима "в производство"  
     :::image-end:::  
     
@@ -496,7 +496,7 @@ ms.locfileid: "10993444"
 1.  Дождитесь завершения развертывания новой сборки.  
 1.  Вновь проведите аудит страницы.  
     
-    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-4-audits-performance.msft.png" alt-text="Отчет по аудиту после удаления ненужных действий JavaScript" lightbox="../media/speed-glitch-tony-remix-updated-4-audits-performance.msft.png":::
+    :::image type="complex" source="../media/speed-glitch-tony-remix-updated-4-audits-performance.msft.png" alt-text="Илья CAT" lightbox="../media/speed-glitch-tony-remix-updated-4-audits-performance.msft.png":::
        Отчет по аудиту после удаления ненужных действий JavaScript  
     :::image-end:::  
     

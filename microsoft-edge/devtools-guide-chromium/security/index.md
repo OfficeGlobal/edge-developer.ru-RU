@@ -47,7 +47,7 @@ ms.locfileid: "10993578"
 1.  [Откройте DevTools][DevToolsOpen].  
 1.  Щелкните вкладку " **Безопасность** ", чтобы открыть панель " **Безопасность** ".  
     
-    :::image type="complex" source="../media/security-security-overview-secure.msft.png" alt-text="Панель "безопасность"" lightbox="../media/security-security-overview-secure.msft.png":::
+    :::image type="complex" source="../media/security-security-overview-secure.msft.png" alt-text="Панель &quot;безопасность&quot;" lightbox="../media/security-security-overview-secure.msft.png":::
        Панель " **Безопасность** "  
     :::image-end:::  
     
@@ -57,7 +57,7 @@ ms.locfileid: "10993578"
 
 Если основной источник страницы небезопасен, в **обзоре безопасности** указано, что **Эта страница не является безопасной**.  
 
-:::image type="complex" source="../media/security-security-overview-non-secure.msft.png" alt-text="Небезопасная страница" lightbox="../media/security-security-overview-non-secure.msft.png":::
+:::image type="complex" source="../media/security-security-overview-non-secure.msft.png" alt-text="Панель &quot;безопасность&quot;" lightbox="../media/security-security-overview-non-secure.msft.png":::
    Небезопасная страница  
 :::image-end:::  
 
@@ -74,13 +74,13 @@ ms.locfileid: "10993578"
 
 **Смешанное содержимое** указывает на то, что основной источник страницы является безопасным, но страница запрашивает ресурсы из незащищенных источников.  Смешанные страницы содержимого защищены только частично, так как содержимое HTTP доступно для прослушивания и уязвимо для атак "злоумышленник в середине".  
 
-:::image type="complex" source="../media/security-security-overview-mixed-secure.msft.png" alt-text="Смешанное содержимое" lightbox="../media/security-security-overview-mixed-secure.msft.png":::
+:::image type="complex" source="../media/security-security-overview-mixed-secure.msft.png" alt-text="Панель &quot;безопасность&quot;" lightbox="../media/security-security-overview-mixed-secure.msft.png":::
    Смешанное содержимое  
 :::image-end:::  
 
 На предыдущем рисунке щелкните **Просмотреть 1 запрос на панели "сеть** ", чтобы открыть панель " **сеть** ", и примените `mixed-content:displayed` фильтр, чтобы в **журнале сети** отображались не безопасные ресурсы.  
 
-:::image type="complex" source="../media/security-network-filter.msft.png" alt-text="Смешанные ресурсы в сетевом журнале" lightbox="../media/security-network-filter.msft.png":::
+:::image type="complex" source="../media/security-network-filter.msft.png" alt-text="Панель &quot;безопасность&quot;" lightbox="../media/security-network-filter.msft.png":::
    Смешанные ресурсы в **сетевом журнале**  
 :::image-end:::  
 
@@ -90,7 +90,7 @@ ms.locfileid: "10993578"
 
 В разделе " **Общие сведения о безопасности**" щелкните ссылку **Просмотр сертификата** для быстрого проверки сертификата для основного источника.  
 
-:::image type="complex" source="../media/security-security-overview-secure-view-certificate.msft.png" alt-text="Основной сертификат источника" lightbox="../media/security-security-overview-secure-view-certificate.msft.png":::
+:::image type="complex" source="../media/security-security-overview-secure-view-certificate.msft.png" alt-text="Панель &quot;безопасность&quot;" lightbox="../media/security-security-overview-secure-view-certificate.msft.png":::
    Основной сертификат источника  
 :::image-end:::  
 
@@ -98,7 +98,7 @@ ms.locfileid: "10993578"
 
 Щелкните одну из записей на левой панели навигации, чтобы просмотреть подробные сведения об источнике.  На странице сведения вы можете просмотреть сведения о подключении и сертификате.  Информация о прозрачности сертификата также отображается, если она доступна.  
 
-:::image type="complex" source="../media/security-security-overview-mixed-secure-main-origin.msft.png" alt-text="Сведения о главном источнике" lightbox="../media/security-security-overview-mixed-secure-main-origin.msft.png":::
+:::image type="complex" source="../media/security-security-overview-mixed-secure-main-origin.msft.png" alt-text="Панель &quot;безопасность&quot;" lightbox="../media/security-security-overview-mixed-secure-main-origin.msft.png":::
    Сведения о главном источнике  
 :::image-end:::  
 

@@ -63,7 +63,7 @@ ms.locfileid: "10993067"
         
     1.  В `aloha` классе найдите значение для `padding` стиля и скопируйте его.  
         
-        :::image type="complex" source="../media/css-elements-inspect-me-styles.msft.png" alt-text="Классы CSS, примененные к проверяемому элементу, выделяются на вкладке "стили"" lightbox="../media/css-elements-inspect-me-styles.msft.png":::
+        :::image type="complex" source="../media/css-elements-inspect-me-styles.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-inspect-me-styles.msft.png":::
            Рисунок 2: классы CSS, примененные к выбранному элементу, такие как `aloha` , отображаются на вкладке **стили**  
         :::image-end:::  
         
@@ -82,7 +82,7 @@ ms.locfileid: "10993067"
 1.  Введите текст `background-color` и нажмите клавишу `Enter` .  
 1.  Введите текст `honeydew` и нажмите клавишу `Enter` .  В **дереве DOM** вы увидите, что к элементу применено объявление встроенного стиля.  
     
-    :::image type="complex" source="../media/css-elements-add-background-color-to-me-styles-p.msft.png" alt-text="Добавление объявления CSS к элементу с помощью вкладки "стили"" lightbox="../media/css-elements-add-background-color-to-me-styles-p.msft.png":::
+    :::image type="complex" source="../media/css-elements-add-background-color-to-me-styles-p.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-add-background-color-to-me-styles-p.msft.png":::
        Рисунок 3: `background-color:honeydew` объявление применено к элементу с помощью `element.style` раздела вкладки " **стили** "  
     :::image-end:::  
     
@@ -98,7 +98,7 @@ ms.locfileid: "10993067"
 1.  Выберите **. CLS**.  DevTools открывает текстовое поле, в котором можно добавлять классы к выбранному элементу.  
 1.  Введите `color_me` текст в текстовом поле **Добавить новый класс** и нажмите клавишу `Enter` .  Флажок отображается под текстовым полем " **Добавить новый класс** ", в котором можно включить или отключить класс.  Если `Add A Class To Me!` к элементу применены другие классы, вы также можете переключаться между ними.  
     
-    :::image type="complex" source="../media/css-elements-add-a-class-to-me-styles-cls.msft.png" alt-text="Применение класса color_me к элементу" lightbox="../media/css-elements-add-a-class-to-me-styles-cls.msft.png":::
+    :::image type="complex" source="../media/css-elements-add-a-class-to-me-styles-cls.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-add-a-class-to-me-styles-cls.msft.png":::
        Рисунок 4: `color_me` класс применен к элементу с помощью раздела **. CLS** на вкладке " **стили** ".  
     :::image-end:::  
     
@@ -115,7 +115,7 @@ ms.locfileid: "10993067"
 1.  На вкладке **стили** выберите **: Hov**.  
 1.  Установите флажок **: наведение указателя мыши** .  Цвет фона изменится так же, как и раньше, несмотря на то, что вы не наводите указатель мыши на элемент.  
     
-    :::image type="complex" source="../media/css-elements-hover-over-me-styles-hov-hover.msft.png" alt-text="Переключение наведения указателя на PseudoState элемента" lightbox="../media/css-elements-hover-over-me-styles-hov-hover.msft.png":::
+    :::image type="complex" source="../media/css-elements-hover-over-me-styles-hov-hover.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-hover-over-me-styles-hov-hover.msft.png":::
        Рисунок 5: Переключение `:hover` PseudoState на элементе  
     :::image-end:::  
     
@@ -138,12 +138,12 @@ ms.locfileid: "10993067"
     
     :::row:::
        :::column span="":::
-          :::image type="complex" source="../media/css-elements-change-my-margin-styles-padding.msft.png" alt-text="Наведение указателя мыши на заполнение элемента" lightbox="../media/css-elements-change-my-margin-styles-padding.msft.png":::
+          :::image type="complex" source="../media/css-elements-change-my-margin-styles-padding.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-change-my-margin-styles-padding.msft.png":::
              Рисунок 6: наведение указателя мыши на заполнение элемента  
           :::image-end:::  
        :::column-end:::
        :::column span="":::
-          :::image type="complex" source="../media/css-elements-change-my-margin-styles-margin-edit.msft.png" alt-text="Изменение левого поля элемента" lightbox="../media/css-elements-change-my-margin-styles-margin-edit.msft.png":::
+          :::image type="complex" source="../media/css-elements-change-my-margin-styles-margin-edit.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-change-my-margin-styles-margin-edit.msft.png":::
              Рисунок 7: изменение левого поля элемента  
           :::image-end:::  
        :::column-end:::
@@ -157,25 +157,25 @@ ms.locfileid: "10993067"
 
 1.  Откройте Инструменты разработчика и выберите значок **Переключить панель инструментов** на вкладке на верхнем левом углу или нажмите клавиши `Ctrl` + `Shift` + `M` \ ( `Cmd` + `Shift` + `M` на macOS \).  
     
-    :::image type="complex" source="../media/css-elements-media-queries-open-device-toolbar.msft.png" alt-text="Открытие панели инструментов устройства" lightbox="../media/css-elements-media-queries-open-device-toolbar.msft.png":::
+    :::image type="complex" source="../media/css-elements-media-queries-open-device-toolbar.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-media-queries-open-device-toolbar.msft.png":::
        Рисунок 8: Открытие панели инструментов устройства  
     :::image-end:::  
     
 1.  На панели инструментов устройства откройте `...` меню в правом верхнем углу и выберите **просмотреть запросы мультимедиа**.  На экран выводится цветная полоса, представляющая различные запросы мультимедиа.  
     
-    :::image type="complex" source="../media/css-elements-media-queries-showing-mq.msft.png" alt-text="Отображение запросов мультимедиа на панели инструментов устройства" lightbox="../media/css-elements-media-queries-showing-mq.msft.png":::
+    :::image type="complex" source="../media/css-elements-media-queries-showing-mq.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-media-queries-showing-mq.msft.png":::
        Рис. 9: отображение запросов мультимедиа на панели инструментов устройства  
     :::image-end:::  
     
 1.  Наведите указатель мыши на границу линии, чтобы просмотреть значения различных запросов мультимедиа. Выберите каждый из них, чтобы изменить размер веб-страницы.  
     
-    :::image type="complex" source="../media/css-elements-media-queries-select-bar.msft.png" alt-text="Выбор запроса мультимедиа из панели предварительного просмотра" lightbox="../media/css-elements-media-queries-select-bar.msft.png":::
+    :::image type="complex" source="../media/css-elements-media-queries-select-bar.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-media-queries-select-bar.msft.png":::
        Рисунок 10: выбор запроса мультимедиа из панели предварительного просмотра  
     :::image-end:::  
     
 1.  Чтобы выполнить отладку запросов мультимедиа и открыть CSS-файл в `Sources` редакторе, наведите указатель мыши на любой из сегментов отрезков, откройте контекстное меню, а затем выберите команду `reveal in source code` .  
     
-    :::image type="complex" source="../media/css-elements-media-queries-reveal-in-sources.msft.png" alt-text="Открываются запросы мультимедиа в редакторе источников" lightbox="../media/css-elements-media-queries-reveal-in-sources.msft.png":::
+    :::image type="complex" source="../media/css-elements-media-queries-reveal-in-sources.msft.png" alt-text="Проверяемый элемент выделен в дереве DOM" lightbox="../media/css-elements-media-queries-reveal-in-sources.msft.png":::
        Рисунок 11: отображение запросов мультимедиа в редакторе источников  
     :::image-end:::  
     

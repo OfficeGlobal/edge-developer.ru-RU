@@ -71,7 +71,7 @@ ms.locfileid: "10993095"
 1.  [Открытие меню команд][DevToolsCommandMenu].  
 1.  Начните вводить текст `coverage` , выберите команду **Показать покрытие** , а затем нажмите `Enter` , чтобы выполнить команду.  В **денежном ящике**откроется вкладка **покрытие** .  
 
-    :::image type="complex" source="../media/coverage-console-drawer-coverage-empty.msft.png" alt-text="Вкладка "покрытие"" lightbox="../media/coverage-console-drawer-coverage-empty.msft.png":::
+    :::image type="complex" source="../media/coverage-console-drawer-coverage-empty.msft.png" alt-text="Анализ объема протестированного кода" lightbox="../media/coverage-console-drawer-coverage-empty.msft.png":::
        Вкладка " **покрытие** "  
     :::image-end:::  
     
@@ -86,7 +86,7 @@ ms.locfileid: "10993095"
 
 В таблице на вкладке **покрытие** показано, какие ресурсы были проанализированы, и сколько кода используется в каждом ресурсе.  Щелкните строку, чтобы открыть ресурс на панели « **источники** » и просмотреть разбиение по строкам используемого кода и неиспользуемый код.  
 
-:::image type="complex" source="../media/coverage-sources-resource-drawer-coverage-selected.msft.png" alt-text="Отчет о покрытии кода" lightbox="../media/coverage-sources-resource-drawer-coverage-selected.msft.png":::
+:::image type="complex" source="../media/coverage-sources-resource-drawer-coverage-selected.msft.png" alt-text="Анализ объема протестированного кода" lightbox="../media/coverage-sources-resource-drawer-coverage-selected.msft.png":::
    Отчет о покрытии кода  
 :::image-end:::  
 

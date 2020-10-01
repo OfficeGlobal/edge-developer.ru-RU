@@ -51,13 +51,13 @@ ms.locfileid: "10993536"
     
 1.  Разверните раздел **веб-SQL** , чтобы просмотреть базы данных и таблицы.  На приведенном ниже рисунке под **html5meetup** является база данных, а **комнаты** — таблица.  
     
-    :::image type="complex" source="../media/storage-application-storage-web-sql.msft.png" alt-text="Область "веб-SQL"" lightbox="../media/storage-application-storage-web-sql.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-web-sql.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-web-sql.msft.png":::
        Область " **веб-SQL** "  
     :::image-end:::  
     
 1.  Выберите таблицу, чтобы просмотреть данные для этой таблицы.  
     
-    :::image type="complex" source="../media/storage-application-storage-web-sql-html5meetup-rooms-1.msft.png" alt-text="Просмотр данных таблицы веб-SQL" lightbox="../media/storage-application-storage-web-sql-html5meetup-rooms-1.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-web-sql-html5meetup-rooms-1.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-web-sql-html5meetup-rooms-1.msft.png":::
        Просмотр данных таблицы веб-SQL  
     :::image-end:::  
     
@@ -70,7 +70,7 @@ ms.locfileid: "10993536"
 1.  Выберите базу данных, чтобы открыть для нее консоль.  
 1.  Введите инструкцию веб-SQL и нажмите `Enter` для ее запуска.  
     
-    :::image type="complex" source="../media/storage-application-storage-web-sql-html5meetup-commands.msft.png" alt-text="Удаление строки из таблицы с помощью веб-консоли SQL" lightbox="../media/storage-application-storage-web-sql-html5meetup-commands.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-web-sql-html5meetup-commands.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-web-sql-html5meetup-commands.msft.png":::
        Удаление строки из таблицы с помощью веб-консоли SQL  
     :::image-end:::  
     
@@ -86,7 +86,7 @@ DevTools не обновляет таблицы в режиме реальног
 1.  [Просмотр данных в таблице веб-SQL](#view-web-sql-data).  
 1.  С помощью текстового поля **видимые столбцы** можно указать, какие столбцы вы хотите отобразить.  Укажите имена столбцов в виде CSV-списка.  
     
-    :::image type="complex" source="../media/storage-application-storage-web-sql-html5meetup-rooms-2.msft.png" alt-text="Использование текстового поля "видимые столбцы" для уменьшения количества отображаемых столбцов" lightbox="../media/storage-application-storage-web-sql-html5meetup-rooms-2.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-web-sql-html5meetup-rooms-2.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-web-sql-html5meetup-rooms-2.msft.png":::
        Использование текстового поля " **видимые столбцы** " для уменьшения количества отображаемых столбцов  
     :::image-end:::  
     
@@ -95,13 +95,13 @@ DevTools не обновляет таблицы в режиме реальног
 1.  Открытие области **очистки хранилища** .  
 1.  Убедитесь, что установлен флажок **веб-SQL** .  
     
-    :::image type="complex" source="../media/storage-application-clear-storage-web-sql.msft.png" alt-text="Флажок "веб-SQL"" lightbox="../media/storage-application-clear-storage-web-sql.msft.png":::
+    :::image type="complex" source="../media/storage-application-clear-storage-web-sql.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-clear-storage-web-sql.msft.png":::
        Флажок " **веб-SQL** "  
     :::image-end:::  
     
 1.  Нажмите кнопку **Очистить данные сайта**.  
     
-    :::image type="complex" source="../media/storage-application-clear-storage-clear-site-data-button.msft.png" alt-text="Кнопка "очистить данные сайта"" lightbox="../media/storage-application-clear-storage-clear-site-data-button.msft.png":::
+    :::image type="complex" source="../media/storage-application-clear-storage-clear-site-data-button.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-clear-storage-clear-site-data-button.msft.png":::
        Кнопка " **Очистить данные сайта** "  
     :::image-end:::  
     

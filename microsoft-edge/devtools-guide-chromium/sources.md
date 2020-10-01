@@ -61,7 +61,7 @@ ms.locfileid: "10993543"
     
 Щелкните файл в области **страницы** , чтобы просмотреть содержимое в области " **Редактор** ".  Вы можете просматривать файлы любого типа.  Для изображений вы видите изображение для предварительного просмотра.  
 
-:::image type="complex" source="./media/sources-editor-pane.msft.png" alt-text="Просмотр содержимого a4d10f71.index-docs.js в области "редактор"" lightbox="./media/sources-editor-pane.msft.png":::
+:::image type="complex" source="./media/sources-editor-pane.msft.png" alt-text="Область страницы" lightbox="./media/sources-editor-pane.msft.png":::
    Просмотр содержимого `a4d10f71.index-docs.js` в области " **Редактор** "  
 :::image-end:::  
 
@@ -77,13 +77,13 @@ ms.locfileid: "10993543"
 
 Вы увидите, что изменения вступают в силу немедленно.
 
-:::image type="complex" source="./media/edit-css.msft.png" alt-text="Редактирование CSS на панели «редактор» для изменения цвета текста подзаголовка на красный" lightbox="./media/edit-css.msft.png":::
+:::image type="complex" source="./media/edit-css.msft.png" alt-text="Область страницы" lightbox="./media/edit-css.msft.png":::
    Редактирование CSS на панели « **Редактор** » для изменения цвета текста подзаголовка на красный  
 :::image-end:::  
 
 Изменения в CSS вступают в силу немедленно, сохранение не требуется.  Чтобы изменения в JavaScript вступили в силу, нажмите клавиши `Control` + `S` \ (Windows \) или `Command` + `S` \ (macOS \).  DevTools не выполняет повторно сценарий, поэтому изменения, которые вступают в силу, выполняются только в рамках функций.  Например, на приведенном ниже рисунке обратите внимание на `console.log('A')` то, что не выполняется, в то время как `console.log('B')` оно делает.  Если после внесения изменений DevTools повторно запускает весь сценарий, он `A` будет записан в журнал на **консоли**.  
 
-:::image type="complex" source="./media/edit-js.msft.png" alt-text="Редактирование JavaScript в области "редактор"" lightbox="./media/edit-js.msft.png":::
+:::image type="complex" source="./media/edit-js.msft.png" alt-text="Область страницы" lightbox="./media/edit-js.msft.png":::
    Редактирование JavaScript в области " **Редактор** "  
 :::image-end:::  
 
@@ -103,7 +103,7 @@ document.head.appendChild(script);
 
 Вместо этого вы можете сохранить этот код во **фрагменте** и выполнить его с помощью нескольких нажатий кнопки, когда вам понадобится.  DevTools сохранит **фрагмент** в файловой системе.  
 
-:::image type="complex" source="./media/snippet.msft.png" alt-text="Фрагмент кода, который вставляет библиотеку jQuery на страницу" lightbox="./media/snippet.msft.png":::
+:::image type="complex" source="./media/snippet.msft.png" alt-text="Область страницы" lightbox="./media/snippet.msft.png":::
    **Фрагмент кода** , который вставляет библиотеку jQuery на страницу  
 :::image-end:::  
 
@@ -120,7 +120,7 @@ document.head.appendChild(script);
 
 Сведения об отладке в DevTools можно найти в статье Начало [работы с отладкой JavaScript][DevtoolsGuideChromiumJavascriptIndex] .
 
-:::image type="complex" source="./media/debugging.msft.png" alt-text="Отладка JavaScript" lightbox="./media/debugging.msft.png":::
+:::image type="complex" source="./media/debugging.msft.png" alt-text="Область страницы" lightbox="./media/debugging.msft.png":::
    Отладка JavaScript  
 :::image-end:::  
 

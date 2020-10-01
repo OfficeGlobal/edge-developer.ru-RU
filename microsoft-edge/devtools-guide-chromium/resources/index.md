@@ -52,7 +52,7 @@ ms.locfileid: "10993592"
     
 1.  Выберите файл из раскрывающегося списка или введите имя файла и нажмите `Enter` один раз, чтобы выделить его в поле "Автозаполнение".  
     
-    :::image type="complex" source="../media/resources-command-menu-file-search.msft.png" alt-text="Введите имя файла в диалоговом окне "Открытие файла"" lightbox="../media/resources-command-menu-file-search.msft.png":::
+    :::image type="complex" source="../media/resources-command-menu-file-search.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-command-menu-file-search.msft.png":::
        Введите имя файла в диалоговом окне " **Открытие файла** "  
     :::image-end:::  
     
@@ -60,7 +60,7 @@ ms.locfileid: "10993592"
 
 Ознакомьтесь [с подробными сведениями о ресурсе][DevtoolsNetworkInspectDetailsResource].  
 
-:::image type="complex" source="../media/resources-network-response.msft.png" alt-text="Проверка ресурса на панели "сеть"" lightbox="../media/resources-network-response.msft.png":::
+:::image type="complex" source="../media/resources-network-response.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-network-response.msft.png":::
    Проверка ресурса на панели " **сеть** "  
 :::image-end:::  
 
@@ -68,7 +68,7 @@ ms.locfileid: "10993592"
 
 В разделе [Обзор ресурсов](#browse-resources) ниже показано, как просматривать ресурсы из различных частей пользовательского интерфейса DevTools.  Если вы когда-нибудь хотите просмотреть ресурс на панели **сеть** , щелкните ресурс правой кнопкой мыши и выберите пункт **Показать на панели "сеть**".  
 
-:::image type="complex" source="../media/resources-sources-page-reveal-in-network-panel.msft.png" alt-text="Панель "Показать в сети"" lightbox="../media/resources-sources-page-reveal-in-network-panel.msft.png":::
+:::image type="complex" source="../media/resources-sources-page-reveal-in-network-panel.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-sources-page-reveal-in-network-panel.msft.png":::
    **Панель "Показать в сети"**  
 :::image-end:::  
 
@@ -78,7 +78,7 @@ ms.locfileid: "10993592"
 
 Просмотр [журнала активности сети][DevtoolsNetworkLogActivity].  
 
-:::image type="complex" source="../media/resources-network-resources.msft.png" alt-text="Ресурсы страницы в журнале сети" lightbox="../media/resources-network-resources.msft.png":::
+:::image type="complex" source="../media/resources-network-resources.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-network-resources.msft.png":::
    Ресурсы страницы в журнале **сети**  
 :::image-end:::  
 
@@ -89,7 +89,7 @@ ms.locfileid: "10993592"
 1.  Перейдите на вкладку **источники** , чтобы открыть панель " **источники** ".  
 1.  Щелкните вкладку **страницы** , чтобы показать ресурсы страницы.  Откроется область **страница** .  
     
-    :::image type="complex" source="../media/resources-sources-page-empty.msft.png" alt-text="Область страницы" lightbox="../media/resources-sources-page-empty.msft.png":::
+    :::image type="complex" source="../media/resources-sources-page-empty.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-sources-page-empty.msft.png":::
        Область **страницы**  
     :::image-end:::  
     
@@ -105,7 +105,7 @@ ms.locfileid: "10993592"
     
 1.  Щелкните ресурс, чтобы просмотреть его в **редакторе**.  
     
-    :::image type="complex" source="../media/resources-sources-page-resource.msft.png" alt-text="Просмотр файла в редакторе" lightbox="../media/resources-sources-page-resource.msft.png":::
+    :::image type="complex" source="../media/resources-sources-page-resource.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-sources-page-resource.msft.png":::
        Просмотр файла в **редакторе**  
     :::image-end:::  
     
@@ -116,13 +116,13 @@ ms.locfileid: "10993592"
 1.  Открытие области **страницы** .  Просмотр [по каталогу](#browse-by-directory).  
 1.  Нажмите кнопку **Дополнительные параметры** `...` и отключите функцию **Группировка по папкам**.  
     
-    :::image type="complex" source="../media/resources-sources-page-resource-group-by-folder.msft.png" alt-text="Параметр Группировка по папке" lightbox="../media/resources-sources-page-resource-group-by-folder.msft.png":::
+    :::image type="complex" source="../media/resources-sources-page-resource-group-by-folder.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-sources-page-resource-group-by-folder.msft.png":::
        Параметр **Группировка по папке**  
     :::image-end:::  
     
     Ресурсы упорядочены по типам файлов.  В каждом типе файла ресурсы упорядочены по алфавиту.  
     
-    :::image type="complex" source="../media/resources-sources-page-resources-empty-not-grouped-by-folder.msft.png" alt-text="Область страницы после отключения группировки по папке" lightbox="../media/resources-sources-page-resources-empty-not-grouped-by-folder.msft.png":::
+    :::image type="complex" source="../media/resources-sources-page-resources-empty-not-grouped-by-folder.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-sources-page-resources-empty-not-grouped-by-folder.msft.png":::
        Область **страницы** после отключения **группировки по папке**  
     :::image-end:::  
     
@@ -132,20 +132,20 @@ ms.locfileid: "10993592"
 
 1.  Откройте вкладку **приложение** .  Откроется панель **приложения** .  По умолчанию область **манифеста** обычно открывается в первую очередь.  
     
-    :::image type="complex" source="../media/resources-application-mainfest-airhorner.msft.png" alt-text="Панель приложения" lightbox="../media/resources-application-mainfest-airhorner.msft.png":::
+    :::image type="complex" source="../media/resources-application-mainfest-airhorner.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-application-mainfest-airhorner.msft.png":::
        Панель **приложения**  
     :::image-end:::  
     
 1.  Прокрутите страницу вниз до области **рамок** .  
     
-    :::image type="complex" source="../media/resources-application-mainfest-airhorner-frames-expanded.msft.png" alt-text="Область рамок" lightbox="../media/resources-application-mainfest-airhorner-frames-expanded.msft.png":::
+    :::image type="complex" source="../media/resources-application-mainfest-airhorner-frames-expanded.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-application-mainfest-airhorner-frames-expanded.msft.png":::
        Область **рамок**  
     :::image-end:::  
     
 1.  Разверните разделы, в которых вы заинтересованы.  
 1.  Щелкните ресурс, чтобы просмотреть его.  
     
-    :::image type="complex" source="../media/resources-application-mainfest-airhorner-expanded-resources.msft.png" alt-text="Просмотр ресурса на панели «приложение»" lightbox="../media/resources-application-mainfest-airhorner-expanded-resources.msft.png":::
+    :::image type="complex" source="../media/resources-application-mainfest-airhorner-expanded-resources.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-application-mainfest-airhorner-expanded-resources.msft.png":::
        Просмотр ресурса на панели « **приложение** »  
     :::image-end:::  
     
@@ -153,7 +153,7 @@ ms.locfileid: "10993592"
 
 Просмотреть [Фильтр по типу ресурсов][DevtoolsNetworkFilterByResourceType].  
 
-:::image type="complex" source="../media/resources-network-resources-filter-css.msft.png" alt-text="Фильтр для CSS в сетевом журнале" lightbox="../media/resources-network-resources-filter-css.msft.png":::
+:::image type="complex" source="../media/resources-network-resources-filter-css.msft.png" alt-text="Диалоговое окно «Открытие файла»" lightbox="../media/resources-network-resources-filter-css.msft.png":::
    Фильтр для CSS в **сетевом** журнале  
 :::image-end:::  
 

@@ -47,14 +47,14 @@ ms.locfileid: "10992822"
        :::column span="":::
           Нажмите кнопку **Перейти к разделу "проблемы** " на желтой панели предупреждения.  
           
-          :::image type="complex" source="../media/issues-open-issues-tab.msft.png" alt-text="Нажатие кнопки "проблемы" на желтой полосе предупреждения при обнаружении проблем" lightbox="../media/issues-open-issues-tab.msft.png":::
+          :::image type="complex" source="../media/issues-open-issues-tab.msft.png" alt-text="Нажатие кнопки &quot;проблемы&quot; на желтой полосе предупреждения при обнаружении проблем" lightbox="../media/issues-open-issues-tab.msft.png":::
              Кнопка **Перейти к проблемам** на желтой полосе предупреждения при обнаружении проблем.  
           :::image-end:::  
        :::column-end:::
        :::column span="":::
           Кроме того, можно выбрать пункт " **проблемы** " в меню " **другие инструменты** ".  
           
-          :::image type="complex" source="../media//issues-more-tools-menu.msft.png" alt-text="Средство "вопросы" в меню "другие инструменты"" lightbox="../media//issues-more-tools-menu.msft.png":::
+          :::image type="complex" source="../media//issues-more-tools-menu.msft.png" alt-text="Нажатие кнопки &quot;проблемы&quot; на желтой полосе предупреждения при обнаружении проблем" lightbox="../media//issues-more-tools-menu.msft.png":::
              Средство " **вопросы** " в меню " **другие инструменты** "  
           :::image-end:::  
        :::column-end:::
@@ -62,13 +62,13 @@ ms.locfileid: "10992822"
     
 1.  При необходимости нажмите кнопку **перезагрузить страницу** .  
     
-    :::image type="complex" source="../media/issues-tab-before-refresh.msft.png" alt-text="Инструмент "проблемы" в DevTools ящике с кнопкой "перезагрузить страницу"" lightbox="../media/issues-tab-before-refresh.msft.png":::
+    :::image type="complex" source="../media/issues-tab-before-refresh.msft.png" alt-text="Нажатие кнопки &quot;проблемы&quot; на желтой полосе предупреждения при обнаружении проблем" lightbox="../media/issues-tab-before-refresh.msft.png":::
        Инструмент " **проблемы** " в DevTools ящике с кнопкой " **перезагрузить страницу** "  
     :::image-end:::  
 
     Проблемы, обнаруженные в **консоли** , довольно сложно понять, например предупреждения о cookie-файлах на рисунке ниже.  На основе обнаруженных проблем может быть не ясно, что необходимо сделать.  
     
-    :::image type="complex" source="../media/issues-tab-after-refresh.msft.png" alt-text="Инструмент "проблемы" в денежном ящике DevTools с тремя неполадками с файлами cookie" lightbox="../media/issues-tab-after-refresh.msft.png":::
+    :::image type="complex" source="../media/issues-tab-after-refresh.msft.png" alt-text="Нажатие кнопки &quot;проблемы&quot; на желтой полосе предупреждения при обнаружении проблем" lightbox="../media/issues-tab-after-refresh.msft.png":::
        Инструмент " **проблемы** " в денежном ящике DevTools с тремя неполадками с файлами cookie  
     :::image-end:::  
     
@@ -78,7 +78,7 @@ ms.locfileid: "10992822"
 
 1.  Выберите элемент в инструменте " **вопросы** ", чтобы получить инструкции по устранению проблемы и поиску затронутых ресурсов.  
     
-    :::image type="complex" source="../media/issues-tab-issue-open.msft.png" alt-text="Пометка cookie-файлов другого сайта как безопасной проблемы при открытии в инструменте "вопросы"" lightbox="../media/issues-tab-issue-open.msft.png":::
+    :::image type="complex" source="../media/issues-tab-issue-open.msft.png" alt-text="Нажатие кнопки &quot;проблемы&quot; на желтой полосе предупреждения при обнаружении проблем" lightbox="../media/issues-tab-issue-open.msft.png":::
        **Пометка cookie-файлов другого сайта как безопасной проблемы при** открытии в инструменте " **вопросы** "  
     :::image-end:::  
     
@@ -91,7 +91,7 @@ ms.locfileid: "10992822"
     
 1.  Чтобы просмотреть подробные сведения, выберите элементы в **затронутых ресурсах** .  В следующем примере **cookie-файлы межсайтового сайта как безопасные** вопросы влияют на один файл cookie и два запроса.  
     
-    :::image type="complex" source="../media/issues-tab-affected-resources.msft.png" alt-text="Затронутые ресурсы, открытые на вкладке "ящик вопросов"" lightbox="../media/issues-tab-affected-resources.msft.png":::
+    :::image type="complex" source="../media/issues-tab-affected-resources.msft.png" alt-text="Нажатие кнопки &quot;проблемы&quot; на желтой полосе предупреждения при обнаружении проблем" lightbox="../media/issues-tab-affected-resources.msft.png":::
        Затронутые ресурсы, открытые в инструменте " **вопросы** " в ящике DevTools  
     :::image-end:::  
     
@@ -99,13 +99,13 @@ ms.locfileid: "10992822"
 
 1.  Выберите ссылку на ресурс, чтобы просмотреть элемент в соответствующем контексте в DevTools.  В следующем примере выберите `samesite-sandbox.glitch.me` в разделе **запросы** для отображения файлов cookie, вложенных в запрос.  
     
-    :::image type="complex" source="../media/issues-tab-view-request.msft.png" alt-text="Просмотр затрагиваемого cookie-файла на панели DevTools Network" lightbox="../media/issues-tab-view-request.msft.png":::
+    :::image type="complex" source="../media/issues-tab-view-request.msft.png" alt-text="Нажатие кнопки &quot;проблемы&quot; на желтой полосе предупреждения при обнаружении проблем" lightbox="../media/issues-tab-view-request.msft.png":::
        Просмотр затрагиваемого cookie-файла на панели DevTools **Network**  
     :::image-end:::  
 
 1.  Прокрутите экран, чтобы просмотреть элемент с проблемой: в следующем примере показан `ck02` объект cookie.  Наведите указатель мыши на столбец **SameSite** , чтобы увидеть `None` значение, которое обнаружено проблемой.  
     
-    :::image type="complex" source="../media/issues-tab-view-issue.msft.png" alt-text="Значение None в столбце SameSite для cookie-файла ck02 на панели DevTools Network" lightbox="../media/issues-tab-view-issue.msft.png":::
+    :::image type="complex" source="../media/issues-tab-view-issue.msft.png" alt-text="Нажатие кнопки &quot;проблемы&quot; на желтой полосе предупреждения при обнаружении проблем" lightbox="../media/issues-tab-view-issue.msft.png":::
        `None` значение в столбце " **SameSite** " для `ck02` файла cookie на панели DevTools **Network (сеть** )  
     :::image-end:::  
 
