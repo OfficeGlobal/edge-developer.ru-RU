@@ -36,8 +36,10 @@
   href: roadmap.md
 - name: Инструкции
   items:
+    - name: Статический загрузчик ссылок
+      href: howto/static.md
     - name: Отладка WebView2
-      href: howto/Debug.md
+      href: howto/debug.md
     - name: Автоматизация с помощью драйвера Edge
       href: howto/webdriver.md
 - name: Справочные материалы
