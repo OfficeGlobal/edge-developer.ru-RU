@@ -1,131 +1,205 @@
 ---
-description: Прогрессивные веб-приложения работают с родными в Windows 10.  Вот все, что вам нужно знать как веб-разработчик.
+description: Прогрессивные веб-приложения (Chromium) изначально работают в Windows 10.  Вот все, что вам нужно знать как веб-разработчик.
 title: Прогрессивные веб-приложения для Windows
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 04/17/2020
+ms.date: 10/01/2020
 ms.topic: article
 ms.prod: microsoft-edge
 ms.technology: pwa
 keywords: прогрессивные веб-приложения, PWA, EDGE, JavaScript, Windows, UWP, Microsoft Store
-ms.openlocfilehash: 90740bac07ebfd74f89e2524e6955621e1b09b05
-ms.sourcegitcommit: a06c86ef7c69e1e400a0be5938449f3c4ba6ec72
+ms.openlocfilehash: a9fa08a9c84ee5da8eab3c9c3edeea34439b6557
+ms.sourcegitcommit: be76feed0d616a96c77ea2748a9f0d6c0c06284b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "10882809"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "11103944"
 ---
 # Прогрессивные веб-приложения для Windows  
 
-С помощью [последовательного веб-приложения][MDNApps] \ (или просто PWAs \) вам не нужно определять использование открытых веб-технологий для взаимодействия между платформами и предоставление пользователям собственного приложения, такого как приложение, настроенное для своих устройств.  PWAs — это только веб-сайты, которые [последовательно расширены][AListApartUnderstandingProgressiveEnhancement] для работы, например собственные приложения на поддерживаемых платформах.  В приложениях PWA объединены лучшие качестве веб- и собственных приложения.  
+[Прогрессивные веб-приложения][MDNApps] \ (PWAs \) предоставляют доступ к открытым веб-технологиям для взаимодействия между платформами и предоставляют пользователям собственный интерфейс, подобный приложению, настроенный для своих устройств.  PWAs — это веб-сайты, которые будут [последовательно расширены][AListApartUnderstandingProgressiveEnhancement] для работы, например собственные приложения на поддерживаемых платформах.  В приложениях PWA объединены лучшие качестве веб- и собственных приложения.  
 
 :::row:::
     :::column:::
-        ![Значок с возможностью обнаружения][ImageISearch]
+        :::image type="icon" source="./media/i_search.png":::
         ### [Обнаруживаемым][MDNPwaAdvantagesDiscoverable]
         Из результатов поиска в Интернете и поддержки магазинов приложений
     :::column-end:::
     :::column:::
-        ![Устанавливаемый значок][ImageIPackage]
+        :::image type="icon" source="./media/i_package.png":::
         ### [Устанавливаемый][MDNPwaAdvantagesInstallable]
         Закрепление и запуск на начальном экране, меню "Пуск", панели задач и т. д.
     :::column-end:::
     :::column:::
-        ![Значок повторного запуска][ImageIPushNotification]
+        :::image type="icon" source="./media/i_push-notification.png":::
         ### [Повторное участие][MDNPwaAdvantagesReEngageable]
         Отправлять push-уведомления, даже если приложение неактивно
     :::column-end:::
+:::row-end:::  
+:::row:::
     :::column:::
-        ![Значок, не зависящий от сети][ImageIOffline]
+        :::image type="icon" source="./media/i_offline.png":::
         ### [Сетевая независимость][MDNPwaAdvantagesNetworkIndependent]
         Работа в автономном режиме и в условиях низкой сети
     :::column-end:::
-:::row-end:::
-:::row:::
     :::column:::
-        ![Значок прогрессивной развертки][ImageIProgressive]
+        :::image type="icon" source="./media/i_progressive.png":::
         ### [JPEG][MDNPwaAdvantagesProgressive]
         Работа с возможностями устройства в масштабе (или в меньшую сторону)
     :::column-end:::
     :::column:::
-        ![Значок "безопасный"][ImageISecurity]
+        :::image type="icon" source="./media/i_security.png":::
         ### [Безопасной][MDNPwaAdvantagesSafe]
         Обеспечивает защищенную конечную точку HTTPS и другие меры для защиты от пользователей
     :::column-end:::
+:::row-end:::  
+:::row:::
     :::column:::
-        ![Значок отклика][ImageIResponsive]
+        :::image type="icon" source="./media/i_responsive.png":::
         ### [Хорошая скорость отклика][MDNPwaAdvantagesResponsive]
         Адаптируется к размеру экрана или ориентации и методу ввода для пользователя
     :::column-end:::
     :::column:::
-        ![Значок ссылки][ImageILink]
+        :::image type="icon" source="./media/i_link.png":::
         ### [Связь][MDNPwaAdvantagesLinkable]
         Предоставление общего доступа к файлу и его запуск с помощью стандартной гиперссылки
     :::column-end:::
-:::row-end:::
+    :::column:::
+        &nbsp;  
+    :::column-end:::
+:::row-end:::  
 
-Создав или преобразуя существующий веб-сайт в PWA, вы приносите к ним более эффективное использование push-уведомлений, интеграция с приложением и поддержку в автономном режиме.  В то же время вы должны продолжать собирать аудиторию в открытом веб-браузере, так как пользователи могут найти ваше приложение PWA с помощью поиска и совместного использования ссылок.  Вы можете обновить свое приложение, просто обновив код веб-сервера.  
+
+Создайте или преобразуйте существующий веб-сайт в Project Web App, чтобы улучшить свое сотрудничество с пользователями.  Усовершенствования включают push-уведомления, интеграцию с приложением и поддержку в автономном режиме.  Продолжайте разрабатывать аудитории в открытом веб-браузере, чтобы пользователи обнаружили, что вы можете найти в PWA с помощью поиска и совместного использования ссылок.  Для этого ваше приложение Обновлено с использованием кода веб-сервера.  
 
 ## PWAs в Microsoft EDGE (Chromium)  
 
-При создании последовательного веб-приложения, нацеленного на веб-интерфейс API, приложение может быть развернуто на разных платформах и устройствах, а также доступны специальные возможности устройства, доступные для использования.  PWAs в Microsoft Edge \ (Chromium \) являются полностью стандартными на основе веб-платформы и позволяют пользователям устанавливать приложение прямо из браузера, не требуя наличия развертывания и регистрации на основе магазина.  Классическое PWAs поддерживается на любой из платформ Microsoft Edge \ (Chromium \), включая Windows 7, Windows 10 и macOS.  К другим преимуществам относятся:  
+При создании последовательного веб-приложения, нацеленного на веб-интерфейс API, приложение может быть развернуто на разных платформах и устройствах и использовать возможности, доступные для конкретных устройств.  PWAs в Microsoft Edge \ (Chromium \) добавьте следующие преимущества на ваш веб-сайт.  
+
+*   Ваше приложение строится на веб-платформе, основанной на стандартах.  
+*   Позволяет пользователям устанавливать приложение прямо из браузера.  
+*   Позволяет пользователям устанавливать приложение без развертывания и регистрации на основе магазина.  
+    
+Классическое PWAs поддерживается на любой из платформ Microsoft Edge \ (Chromium \). Microsoft Edge \ (Chromium \) доступен в Windows 7, Windows 10 и macOS.  Включены следующие преимущества:  
 
 *   Приложения можно устанавливать прямо из браузера с помощью значка **установки** на панели навигации.  
     
-    ![Всплывающее меню и значок установки приложения][ImageInstallPwa]  
+    :::image type="complex" source="./media/install_pwa_icon.png" alt-text="Всплывающее меню и значок установки приложения" lightbox="./media/install_pwa_icon.png":::
+       Всплывающее меню и значок установки приложения  
+    :::image-end:::  
     
-*   Приложения также могут быть установлены, запущены и обрабатываются в меню " **Параметры**  >  **Apps** "  
+*   Кроме того, в меню " **Параметры**" приложения можно устанавливать, запускать и управлять приложениями.  >  **Apps**  
     
-    ![Элементы меню "приложение" в разделе "Параметры"][ImageAppMenus]  
-
-*   Веб-уведомления интегрированы в систему уведомлений Windows
-*   Общее хранилище файлов cookie с профилем браузера, в котором установлено приложение
-*   Доступ к другим функциям браузера через `...` меню, включая проверку сертификата, разрешения сайтов, защиту от слежения и расширения браузера.
+    :::image type="complex" source="./media/app_menus.png" alt-text="Всплывающее меню и значок установки приложения" lightbox="./media/app_menus.png":::
+       Элементы меню "приложение" в разделе "Параметры"  
+    :::image-end:::  
+    
+*   Веб-уведомления интегрированы в систему уведомлений Windows  
+*   Общее хранилище файлов cookie с профилем браузера, в котором установлено приложение  
+*   Доступ к другим функциям браузера с помощью меню " **Настройка" и других** параметров \ ( `...` \), включая проверку сертификата, разрешения сайтов, защиту от слежения и расширения браузера.  
 *   Полный доступ к [Microsoft Edge DevTools][DevtoolsProgressiveWebApps] для отладки приложения  
-
+    
 > [!IMPORTANT]
-> Чтобы настроить PWAs специально для Windows 10, которые делают запросы API WinRT с помощью JavaScript, ознакомьтесь с [документацией, относящейся к функциям EDGEHTML PWA][PwaEdgehtmlIndex].  Узнайте больше о том, как тестировать PWA в Windows 10 и распространять его в Microsoft Store.  
+> Чтобы настроить PWAs специально для Windows 10, которые делают запросы API WinRT с помощью JavaScript, перейдите в [документацию, относящуюся к функциям EDGEHTML PWA][PwaEdgehtmlIndex].  Узнайте больше о том, как тестировать PWA в Windows 10 и распространять его в Microsoft Store.  
 
 > [!NOTE]
-> В [сеансе сборки 2020 PWA][BuildVideo] вы можете найти общие сведения о преимуществах PWA, предстоящих функциях и кратких видеодемонстрациях. 
+> Дополнительные сведения о преимуществах PWA, предстоящих функциях и кратких видеодемонстрациях можно найти в разделе [Сборка сеанса 2020 PWA][BuildVideo]. 
 
 ## Требования  
 
 Для работы в качестве PWA веб-приложение, размещенное на сервере, должно включать следующие минимальные требования.  
 
-| Требование | Сведения | 
-|:--- |:--- |  
-| [HTTPS][WikiHttps] | Защитите своих пользователей, обеспечив надежную связь с сервером или приложением.  Сотрудники служб и другие технологии PWA работают только с веб-ресурсами, обслуживаемыми в безопасном соединении (или в `localhost` целях отладки).  |  
-| [Служебные сценарии][MDNServiceWorkerApi] | Используйте рабочие потоки служб, чтобы выступать в качестве сетевых прокси между сервером и клиентским приложением, чтобы обеспечить поддержку в автономном режиме, кэшировании ресурсов, push-уведомлениях, фоновой синхронизации данных и оптимизации производительности загрузки страниц.  |  
-| [Манифест веб-приложения][MDNWebAppManifest] | Предоставьте файл метаданных на основе JSON, описывающий ключевые сведения о вашем веб-приложении, (например, значки, язык и точку входа URL \), поэтому Windows 10 и другие платформы узла смогут предоставлять пользователям PWA доступ к устанавливаемому исходному приложению.  |  
+:::row:::
+   :::column span="1":::
+      [HTTPS][WikiHttps]  
+   :::column-end:::
+   :::column span="2":::
+      Защищает пользователей, обеспечивая безопасное подключение для обмена данными между сервером и приложением.  Сотрудники служб и другие технологии PWA работают только с веб-ресурсами, обслуживаемыми в безопасном соединении (или в `localhost` целях отладки).  
+   :::column-end:::
+:::row-end:::  
+:::row:::
+   :::column span="1":::
+      [Служебные сценарии][MDNServiceWorkerApi]  
+   :::column-end:::
+   :::column span="2":::
+      Использует рабочие потоки службы, чтобы выступать в качестве сетевых прокси между сервером и клиентским приложением.  Рабочие потоки служб предоставляют поддержку в автономном режиме, кэширование ресурсов, Push-уведомления, фоновую синхронизацию данных и оптимизации производительности загрузки страниц.    
+   :::column-end:::
+:::row-end:::  
+:::row:::
+   :::column span="1":::
+      [Манифест веб-приложения][MDNWebAppManifest]  
+   :::column-end:::
+   :::column span="2":::
+      Предоставляет файл метаданных на основе JSON, в котором описаны ключевые сведения о вашем веб-приложении, так что Windows 10 и другие платформы узла предоставляют пользователям PWA возможности устанавливаемого и собственного приложения.  Ключевые сведения включают значки, язык и точку входа URL-адреса. 
+   :::column-end:::
+:::row-end:::  
 
 Для того чтобы стать прекрасным PWA, ваше приложение должно также отвечать указанным ниже требованиям.  
 
-| Требование | Сведения | 
-|:--- |:--- |  
-| [Совместимость с различными браузерами][MDNCrossBrowserTesting] | Убедитесь, что веб-приложение PWA [работает в разных][MicrosoftDeveloperEdgeToolsRemote] браузерах и средах.  |  
-| [Адаптивный дизайн][WikiResponsiveWebDesign] | Использование жидкостных макетов и гибких изображений с помощью [сетки][MDNCssGridLayout]CSS, [гибкого бокса][MDNCssFlexibleBoxLayout], [сетки][MDNCssGridLayout] CSS и гибкого [бокса][MDNCssFlexibleBoxLayout] , [мультимедийных запросов][MDNMediaQueries]и [отклика изображений][MDNResponsiveImages] для адаптации вашего UX к устройству пользователя.  Используйте [средства эмуляции устройства][DevToolsGuide|::ref1::|] в браузере для проверки на локальном компьютере или настройте [сеанс удаленной отладки][DevToolsProtocolClientsEdgeDevToolsPreview] для проверки непосредственно на целевом устройстве.  |  
-| [Глубокая связь][WikiDeepLinking] | Перенаправление каждой страницы сайта на уникальный URL-адрес, чтобы пользователи могли пользоваться более широкой аудиторией через функцию совместного использования социальных сетей.  |  
-| [Рекомендации][Webhint] | Используйте средства качества кода, такие как Linter веб – [Подсказка][Webhint] , чтобы оптимизировать эффективность, надежность, безопасность и доступность вашего приложения.  |  
-| [Контрольный список для Chromium PWA][WebDevGoodPwaChecklist] | Убедитесь, что у PWA есть контрольный список Google Baseline PWA.  |  
+:::row:::
+   :::column span="1":::
+      [Совместимость с различными браузерами][MDNCrossBrowserTesting]  
+   :::column-end:::
+   :::column span="2":::
+      Убедитесь, что веб-приложение PWA [работает в разных][MicrosoftDeveloperEdgeToolsRemote] браузерах и средах.  
+   :::column-end:::
+:::row-end:::  
+:::row:::
+   :::column span="1":::
+      [Адаптивный дизайн][WikiResponsiveWebDesign]  
+   :::column-end:::
+   :::column span="2":::
+      Применение жидких макетов и гибких изображений.  Высокореагируый дизайн включает следующие элементы, которые адаптирует пользовательский интерфейс к устройству пользователя.  
+      
+      *   [Сетка][MDNCssGridLayout] CSS  
+      *   [расположен][MDNCssFlexibleBoxLayout]  
+      *   Сетка и [Гибкая][MDNCssFlexibleBoxLayout] [Таблица][MDNCssGridLayout] CSS  
+      *   [запросы мультимедиа][MDNMediaQueries]  
+      *   [отклики изображений][MDNResponsiveImages]  
+      
+      Использует [средства эмуляции устройства][DevToolsGuide|::ref1::|] в браузере для проверки локально или создания [сеанса удаленной отладки][DevToolsProtocolClientsEdgeDevToolsPreview] для проверки непосредственно на целевом устройстве.
+   :::column-end:::
+:::row-end:::  
+:::row:::
+   :::column span="1":::
+      [Глубокая связь][WikiDeepLinking]  
+   :::column-end:::
+   :::column span="2":::
+      Каждая страница сайта отправляется на уникальный URL-адрес, чтобы пользователи могли использовать более обширную аудиторию через функцию совместного использования социальных сетей.  
+   :::column-end:::
+:::row-end:::  
+:::row:::
+   :::column span="1":::
+      [Рекомендации по проверке и тестированию][Webhint]  
+   :::column-end:::
+   :::column span="2":::
+      Использование средств качества кода, таких как Linter веб – [Подсказка][Webhint] , для оптимизации эффективности, надежности, безопасности и специальных возможностей вашего приложения.  
+   :::column-end:::
+:::row-end:::  
+:::row:::
+   :::column span="1":::
+      [Контрольный список для Chromium PWA][WebDevGoodPwaChecklist]  
+   :::column-end:::
+   :::column span="2":::
+      Проверка PWA на соответствие контрольному списку Google Baseline Access.  
+   :::column-end:::
+:::row-end:::  
 
-Если вы хотите преобразовать PWA в приложение [Microsoft Store][MicrosoftDeveloperStore] , заголовков, посвященных [последовательной документации на веб-приложения (EdgeHTML)][PwaEdgehtmlMicrosoftStore] .  
+> [!NOTE]
+> Чтобы преобразовать PWA в приложение [Microsoft Store][MicrosoftDeveloperStore] , перейдите в [раздел прогрессивные веб-приложения (EdgeHTML) в Microsoft Store][PwaEdgehtmlMicrosoftStore].  
   
+## См. также  
 
-<!-- image links -->  
-
-[ImageISearch]: media/i_search.png  
-[ImageIPackage]: media/i_package.png  
-[ImageIPushNotification]: media/i_push-notification.png  
-[ImageIOffline]: media/i_offline.png  
-[ImageIProgressive]: media/i_progressive.png  
-[ImageISecurity]: media/i_security.png  
-[ImageIResponsive]: media/i_responsive.png  
-[ImageILink]: media/i_link.png  
-
-[ImageInstallPwa]: ./media/Install_PWA.png  
-[ImageAppMenus]: ./media/App_menus.png  
-
+*   [Myth Busting PWAs][Davrous20191018MythBustingPwasNewEdgeEdition]  
+*   [Прогрессивный план для последовательного веб-приложения][CloudfourThinksProgressiveRoadmapYourWebApp]  
+*   [Автономные публикации с прогрессивными веб-приложениями][MediumWebEdgeOfflinePostsProgressiveWebApps]  
+*   [PWA Q&A][AaronGustafsonNotebookPwaQa]  
+*   [Ставкам в Интернете][JoretegBlogBettingWeb]  
+*   [Именование последовательного веб-приложения][Fberriman20170626NamingProgressiveWebApps]  
+*   [Проектирование и создание последовательного веб-приложения без структуры (часть 1)][Smashingmagazine201907ProgressiveWebApplicationFrameworkPart1]  
+*   [Проектирование и создание последовательного веб-приложения без структуры (часть 2)][Smashingmagazine201907ProgressiveWebApplicationFrameworkPart2]  
+*   [Проектирование и создание последовательного веб-приложения без структуры (часть 3)][Smashingmagazine201907ProgressiveWebApplicationFrameworkPart3]  
+    
 <!-- links -->  
 
 [DevToolsProtocolClientsEdgeDevToolsPreview]: ../devtools-protocol/0.1/clients.md#microsoft-edge-devtools-preview "Предварительный просмотр Средств разработчика в Microsoft Edge — Клиенты протокола средств разработчика"  
@@ -156,6 +230,8 @@ ms.locfileid: "10882809"
 [MicrosoftSupportWindowsFocusAssist]: https://support.microsoft.com/help/4026996/windows-10-turn-focus-assist-on-or-off "Включение и отключение фокусной помощи в Windows 10"  
 [MicrosoftSupportWindowsNotificationSettings]: https://support.microsoft.com/help/4028678/windows-10-change-notification-settings "Изменение параметров уведомлений в Windows 10"  
 
+[AaronGustafsonNotebookPwaQa]: https://www.aaron-gustafson.com/notebook/pwa-qa "PWA Q&A"  
+
 [AListApartUnderstandingProgressiveEnhancement]: https://alistapart.com/article/understandingprogressiveenhancement "Раскрывающийся список "последовательное расширение""  
 
 [MDNApps]: https://developer.mozilla.org/Apps/Progressive "приложения | MDN"  
@@ -180,9 +256,25 @@ ms.locfileid: "10882809"
 [MDNSyncManager]: https://developer.mozilla.org/docs/Web/API/SyncManager "SyncManager | MDN"  
 [MDNWebAppManifest]: https://developer.mozilla.org/docs/Web/Manifest "Манифест веб-приложения | MDN"  
 
-[BuildVideo]: https://www.youtube.com/watch?v=y4p_QHZtMKM "Видео PWA"
+[BuildVideo]: https://www.youtube.com/watch?v=y4p_QHZtMKM "Видео PWA"  
+
+[CloudfourThinksProgressiveRoadmapYourWebApp]: https://cloudfour.com/thinks/a-progressive-roadmap-for-your-progressive-web-app "Прогрессивный план для последовательного веб-приложения"  
+
+[Davrous20191018MythBustingPwasNewEdgeEdition]: https://www.davrous.com/2019/10/18/myth-busting-pwas-the-new-edge-edition "Myth busting PWAs — новый выпуск Edge"  
+
+[Fberriman20170626NamingProgressiveWebApps]: https://fberriman.com/2017/06/26/naming-progressive-web-apps "Именование последовательного веб-приложения"  
+
+[JoretegBlogBettingWeb]: https://joreteg.com/blog/betting-on-the-web "Ставкам в Интернете"  
+
+[MediumWebEdgeOfflinePostsProgressiveWebApps]: https://medium.com/web-on-the-edge/offline-posts-with-progressive-web-apps-fc2dc4ad895 "Автономные публикации с прогрессивными веб-приложениями"  
 
 [PWABuilder]: https://www.pwabuilder.com "PWABuilder"  
+
+[Smashingmagazine201907ProgressiveWebApplicationFrameworkPart1]: https://www.smashingmagazine.com/2019/07/progressive-web-application-pwa-framework-part-1 "Проектирование и создание последовательного веб-приложения без структуры (часть 1)"  
+
+[Smashingmagazine201907ProgressiveWebApplicationFrameworkPart2]: https://www.smashingmagazine.com/2019/07/progressive-web-application-pwa-framework-part-2 "Проектирование и создание последовательного веб-приложения без структуры (часть 2)"  
+
+[Smashingmagazine201907ProgressiveWebApplicationFrameworkPart3]: https://www.smashingmagazine.com/2019/07/progressive-web-application-pwa-framework-part-3 "Проектирование и создание последовательного веб-приложения без структуры (часть 3)"  
 
 [WebDevGoodPwaChecklist]: https://web.dev/pwa-checklist "Что делает подходящее прогрессивное веб-приложение? | Web. dev"  
 

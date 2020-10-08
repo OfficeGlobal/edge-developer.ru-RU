@@ -64,7 +64,7 @@ ms.locfileid: "11015774"
     1.  Перейдите к вложенному меню **другие инструменты** .  
     1.  Выберите **анимации**:  
         
-        :::image type="complex" source="../media/inspect-styles-elements-styles-more-tools-animations.msft.png" alt-text="Анимация с помощью главного меню" lightbox="../media/inspect-styles-elements-styles-more-tools-animations.msft.png":::
+        :::image type="complex" source="../media/inspect-styles-elements-styles-more-tools-animations.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-elements-styles-more-tools-animations.msft.png":::
            **Анимация** с помощью главного меню  
     :::image-end:::  
         
@@ -73,7 +73,7 @@ ms.locfileid: "11015774"
 
 Инспектор анимации открывается в виде вкладки рядом с лотком консоли.  Поскольку инспектор анимаций является вкладкой ящика, вы можете использовать инспектор анимации на любой DevTools панели.  
 
-:::image type="complex" source="../media/inspect-styles-elements-styles-drawer-animations.msft.png" alt-text="Пустой инспектор анимации" lightbox="../media/inspect-styles-elements-styles-drawer-animations.msft.png":::
+:::image type="complex" source="../media/inspect-styles-elements-styles-drawer-animations.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-elements-styles-drawer-animations.msft.png":::
    Пустой инспектор анимации  
 :::image-end:::  
 
@@ -86,7 +86,7 @@ ms.locfileid: "11015774"
 | Трехконтактный | **Информация о сроках** | Задержите и начните анимацию отсюда или переходите к определенной точке анимации. |  
 | четырехпроцессорном | **Сведения** | Проверка и изменение выбранной в данный момент группы эффектов анимации. |  
 
-:::image type="complex" source="../media/inspect-styles-elements-styles-drawer-animations-selected-paused.msft.png" alt-text="Инспектор анимации с заметками" lightbox="../media/inspect-styles-elements-styles-drawer-animations-selected-paused.msft.png":::
+:::image type="complex" source="../media/inspect-styles-elements-styles-drawer-animations-selected-paused.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-elements-styles-drawer-animations-selected-paused.msft.png":::
    Инспектор анимации с заметками  
 :::image-end:::  
 
@@ -110,25 +110,25 @@ ms.locfileid: "11015774"
 
 После захвата группы анимации щелкните ее в области " **Обзор** ", чтобы просмотреть подробные сведения.  В области **сведений** каждая из анимаций назначается отдельной строке.  
 
-:::image type="complex" source="../media/inspect-styles-elements-styles-drawer-animations-selected-completed.msft.png" alt-text="Сведения о группе эффектов анимации" lightbox="../media/inspect-styles-elements-styles-drawer-animations-selected-completed.msft.png":::
+:::image type="complex" source="../media/inspect-styles-elements-styles-drawer-animations-selected-completed.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-elements-styles-drawer-animations-selected-completed.msft.png":::
    Сведения о группе эффектов анимации  
 :::image-end:::  
 
 Наведите указатель мыши на анимацию, чтобы выделить ее в окне просмотра.  Щелкните анимацию, чтобы выделить ее на панели " **элементы** ".  
 
-:::image type="complex" source="../media/inspect-styles-split-elements-styles-drawer-animations-selected-completed.msft.png" alt-text="Наведите указатель мыши на анимацию, чтобы выделить ее в окне просмотра" lightbox="../media/inspect-styles-split-elements-styles-drawer-animations-selected-completed.msft.png":::
+:::image type="complex" source="../media/inspect-styles-split-elements-styles-drawer-animations-selected-completed.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-split-elements-styles-drawer-animations-selected-completed.msft.png":::
    Наведите указатель мыши на анимацию, чтобы выделить ее в окне просмотра  
 :::image-end:::  
 
 Самым левым и темным разделом анимации является определение.  Справа, более размытые части представляют собой итерации.  Например, на приведенном ниже рисунке две и три части представляют собой итерации раздела One.  
 
-:::image type="complex" source="../media/inspect-styles-glitch-display-animations-highlight.msft.png" alt-text="Схема итераций анимации" lightbox="../media/inspect-styles-glitch-display-animations-highlight.msft.png":::
+:::image type="complex" source="../media/inspect-styles-glitch-display-animations-highlight.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-glitch-display-animations-highlight.msft.png":::
    Схема итераций анимации  
 :::image-end:::  
 
 Если к двум элементам применена одинаковая анимация, инспектор анимации назначает элементам один и тот же цвет.  Цвет является произвольным и не имеет значимости.  Например, на приведенном ниже рисунке показаны два элемента `div.cwccw.earlier` и `div.cwccw.later` применена одинаковая анимация \ ( `spinrightleft` \), как `div.ccwcw.earlier` и `div.ccwcw.later` элементы.  
 
-:::image type="complex" source="../media/inspect-styles-glitch-display-animations.msft.png" alt-text="Анимация с цветовым кодированием" lightbox="../media/inspect-styles-glitch-display-animations.msft.png":::
+:::image type="complex" source="../media/inspect-styles-glitch-display-animations.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-glitch-display-animations.msft.png":::
    Анимация с цветовым кодированием  
 :::image-end:::  
 
@@ -142,25 +142,25 @@ ms.locfileid: "11015774"
     
 На приведенном ниже рисунке представлена исходная анимация.  
 
-:::image type="complex" source="../media/inspect-styles-glitch-spin-animations-console-animations.msft.png" alt-text="Исходная анимация перед изменением" lightbox="../media/inspect-styles-glitch-spin-animations-console-animations.msft.png":::
+:::image type="complex" source="../media/inspect-styles-glitch-spin-animations-console-animations.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-glitch-spin-animations-console-animations.msft.png":::
    Исходная анимация перед изменением  
 :::image-end:::  
 
 Чтобы изменить длительность анимации, щелкните и перетащите первый или последний круг.  
 
-:::image type="complex" source="../media/inspect-styles-glitch-spin-animations-console-animations-shorter.msft.png" alt-text="Измененная длительность" lightbox="../media/inspect-styles-glitch-spin-animations-console-animations-shorter.msft.png":::
+:::image type="complex" source="../media/inspect-styles-glitch-spin-animations-console-animations-shorter.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-glitch-spin-animations-console-animations-shorter.msft.png":::
    Измененная длительность  
 :::image-end:::  
 
 Если анимация определяет любые правила для ключевого кадра, они будут представлены как белые внутренние круги.  Щелкните и перетащите один из них, чтобы изменить временные показатели для ключевого кадра.  
 
-:::image type="complex" source="../media/inspect-styles-glitch-spin-animations-console-animations-keyframe-modification.msft.png" alt-text="Измененный ключевой кадр" lightbox="../media/inspect-styles-glitch-spin-animations-console-animations-keyframe-modification.msft.png":::
+:::image type="complex" source="../media/inspect-styles-glitch-spin-animations-console-animations-keyframe-modification.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-glitch-spin-animations-console-animations-keyframe-modification.msft.png":::
    Измененный ключевой кадр  
 :::image-end:::  
 
 Чтобы добавить задержку для анимации, щелкните и перетащите ее в любое место за исключением кругов.  
 
-:::image type="complex" source="../media/inspect-styles-glitch-spin-animations-console-animations-delay.msft.png" alt-text="Измененная задержка" lightbox="../media/inspect-styles-glitch-spin-animations-console-animations-delay.msft.png":::
+:::image type="complex" source="../media/inspect-styles-glitch-spin-animations-console-animations-delay.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-glitch-spin-animations-console-animations-delay.msft.png":::
    Измененная задержка  
 :::image-end:::  
 

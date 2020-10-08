@@ -108,7 +108,7 @@ ms.locfileid: "10993235"
     
 Если развернуть раздел **источники** , вы увидите новый файл с пользовательским именем, введенным ранее.  Если дважды щелкнуть для просмотра этого файла, он будет содержать скомпилированный код JavaScript для первоначального источника.  Однако в последней строке есть `// @sourceURL` Примечание, указывающее исходный исходный файл.  Это может помочь при отладке при работе с языковыми абстракциями.  
 
-:::image type="complex" source="../media/javascript-sources-page-coffeeeeeeee.msft.png" alt-text="Работа с sourceURL" lightbox="../media/javascript-sources-page-coffeeeeeeee.msft.png":::
+:::image type="complex" source="../media/javascript-sources-page-coffeeeeeeee.msft.png" alt-text="Включение карт исходного кода" lightbox="../media/javascript-sources-page-coffeeeeeeee.msft.png":::
    Работа с `sourceURL`  
 :::image-end:::  
 

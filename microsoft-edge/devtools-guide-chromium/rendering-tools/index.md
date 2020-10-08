@@ -131,7 +131,7 @@ ms.locfileid: "10992709"
 
 Область **производительности** определяет, когда страница вызывает принудительно синхронные макеты.  Эти `Layout` события помечены красными отрезками.  
 
-:::image type="complex" source="../media/rendering-tools-jank-performance-recalculate-style-summary.msft.png" alt-text="Принудительно синхронный макет" lightbox="../media/rendering-tools-jank-performance-recalculate-style-summary.msft.png":::
+:::image type="complex" source="../media/rendering-tools-jank-performance-recalculate-style-summary.msft.png" alt-text="Длинный стиль пересчета" lightbox="../media/rendering-tools-jank-performance-recalculate-style-summary.msft.png":::
    Принудительно синхронный макет  
 :::image-end:::  
 
@@ -161,7 +161,7 @@ ms.locfileid: "10992709"
 Хотите узнать, как долго рисуются и как часто происходит рисование?  Установите флажок [включить дополнительные возможности инструментирования Paint][DevtoolsChromiumEvaluatePerformanceReferenceEnableadvancedpaintinstrumentation] на панели **производительности** и сделайте запись.  Если большая часть времени отрисовки потратила на рисование, у вас возникли проблемы с рисованием.  
 
 <!--
-:::image type="complex" source="../media/rendering-tools-jank-performance-advanced-paint-instrumentation-summary.msft.png" alt-text="Long paint times in timeline recording" lightbox="../media/rendering-tools-jank-performance-advanced-paint-instrumentation-summary.msft.png":::
+:::image type="complex" source="../media/rendering-tools-jank-performance-advanced-paint-instrumentation-summary.msft.png" alt-text="Длинный стиль пересчета" lightbox="../media/rendering-tools-jank-performance-advanced-paint-instrumentation-summary.msft.png":::
    Long paint times in timeline recording  
 :::image-end:::  
 -->  

@@ -38,7 +38,7 @@ ms.locfileid: "11003975"
 
 Если вы пытаетесь просмотреть режим документов на веб-сайте в режиме IE, выберите индикатор в адресной строке.  
 
-:::image type="complex" source="./media/ie-mode-badge-doc-mode.msft.png" alt-text="Просмотр режима документов с помощью эмблемы в режиме IE" lightbox="./media/ie-mode-badge-doc-mode.msft.png":::
+:::image type="complex" source="./media/ie-mode-badge-doc-mode.msft.png" alt-text="Значок режима IE в адресной строке" lightbox="./media/ie-mode-badge-doc-mode.msft.png":::
    Просмотр режима документов с помощью эмблемы в режиме IE  
 :::image-end:::  
 
@@ -55,7 +55,7 @@ ms.locfileid: "11003975"
 
 Причина, по которой не работают некоторые инструменты в DevTools \ (например, **сеть** и **производительность** ), — средство визуализации переключается с Chromium на Internet Explorer 11 в режиме IE.  Чтобы отправить отзыв, перейдите к [разделу знакомство с командой Microsoft Edge DevTools](#getting-in-touch-with-the-microsoft-edge-devtools-team).  
 
-:::image type="complex" source="./media/ie-mode-devtools.msft.png" alt-text="DevTools запущен в режиме IE" lightbox="./media/ie-mode-devtools.msft.png":::
+:::image type="complex" source="./media/ie-mode-devtools.msft.png" alt-text="Значок режима IE в адресной строке" lightbox="./media/ie-mode-devtools.msft.png":::
    DevTools запущен в режиме IE  
 :::image-end:::  
 

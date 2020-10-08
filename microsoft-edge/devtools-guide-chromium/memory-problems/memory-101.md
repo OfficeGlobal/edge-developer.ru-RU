@@ -49,7 +49,7 @@ ms.locfileid: "10992752"
 
 При работе с панелью [памяти][DevtoolsMemoryProblemsHeapSnapshots] в DevTools \ (средство для исследования проблем с памятью, обнаруженных в **памяти**\), вы можете просмотреть несколько разных столбцов данных.  Два из них выделены **неполной** и **сохраненной размерностью**, но что они представляют?  
 
-:::image type="complex" source="../media/memory-problems-shallow-retained.msft.png" alt-text="Неглубокий и сохраненный размер" lightbox="../media/memory-problems-shallow-retained.msft.png":::
+:::image type="complex" source="../media/memory-problems-shallow-retained.msft.png" alt-text="Визуальное представление памяти" lightbox="../media/memory-problems-shallow-retained.msft.png":::
    Неглубокий и сохраненный размер  
 :::image-end:::  
 
@@ -78,7 +78,7 @@ ms.locfileid: "10992752"
 
 Граф памяти начинается с корневого элемента, который может представлять собой `window` объект браузера или `Global` объект модуля Node.js.  Нельзя управлять тем, как этот корневой объект собирается сборщиком мусора (НОД).  
 
-:::image type="complex" source="../media/memory-problems-dontcontrol.msft.png" alt-text="Управлять тем, как корневой объект будет собираться сборщиком мусора, невозможно." lightbox="../media/memory-problems-dontcontrol.msft.png":::
+:::image type="complex" source="../media/memory-problems-dontcontrol.msft.png" alt-text="Визуальное представление памяти" lightbox="../media/memory-problems-dontcontrol.msft.png":::
    Управлять тем, как корневой объект будет собираться сборщиком мусора, невозможно.  
 :::image-end:::  
 
@@ -96,7 +96,7 @@ ms.locfileid: "10992752"
 
 Сведения [о том, как записать профиль с помощью профилировщика кучи][DevtoolsMemoryProblemsHeapSnapshots].  На приведенном ниже рисунке показаны некоторые из глазных элементов, которые можно увидеть в записи снимков кучи на [панели памяти][DevtoolsMemoryProblemsHeapSnapshots] : расстояние от сборщика мусора \ (GC \).  Если почти все объекты одного и того же типа находятся на одном и том же расстоянии, то это может потребоваться для исследования.  
 
-:::image type="complex" source="../media/memory-problems-root.msft.png" alt-text="Расстояние от корня" lightbox="../media/memory-problems-root.msft.png":::
+:::image type="complex" source="../media/memory-problems-root.msft.png" alt-text="Визуальное представление памяти" lightbox="../media/memory-problems-root.msft.png":::
    Расстояние от корня  
 :::image-end:::  
 
@@ -112,13 +112,13 @@ ms.locfileid: "10992752"
 *   Узел 5 лидеры в узле 8  
 *   Узел 6, являющийся узлом 7  
 
-:::image type="complex" source="../media/memory-problems-dominatorsspanning.msft.png" alt-text="Структура дерева (лидера)" lightbox="../media/memory-problems-dominatorsspanning.msft.png":::
+:::image type="complex" source="../media/memory-problems-dominatorsspanning.msft.png" alt-text="Визуальное представление памяти" lightbox="../media/memory-problems-dominatorsspanning.msft.png":::
    Структура дерева (лидера)  
 :::image-end:::  
 
 На приведенном ниже рисунке Node `#3` — это лидер `#10` , но он `#7` также существует в каждом простом пути от сборщика мусора \ (GC \) to `#10` .  Таким образом, объект B является лидером объекта A, если в каждом простом пути от корня к объекту A есть B.  
 
-:::image type="complex" source="../media/memory-problems-dominators.msft.gif" alt-text="Анимированный лидеровый свет" lightbox="../media/memory-problems-dominators.msft.gif":::
+:::image type="complex" source="../media/memory-problems-dominators.msft.gif" alt-text="Визуальное представление памяти" lightbox="../media/memory-problems-dominators.msft.gif":::
    Анимированный лидеровый свет  
 :::image-end:::  
 

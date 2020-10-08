@@ -1,12 +1,12 @@
 ---
-description: A comprehensive reference of Microsoft Edge DevTools Network panel features.
-title: Network Analysis reference
+description: Полный справочник по функциям панели DevTools сети Microsoft Edge.
+title: Справочник по анализу сети
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.date: 09/30/2020
 ms.topic: article
 ms.prod: microsoft-edge
-keywords: microsoft edge, web development, f12 tools, devtools
+keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
 ms.openlocfilehash: 758623482ab2179987c6467f8e30c72d8893d710
 ms.sourcegitcommit: addfd27bb765c92880a59f259dc702f6e4e1bf28
 ms.translationtype: MT
@@ -28,62 +28,62 @@ ms.locfileid: "11092316"
    See the License for the specific language governing permissions and
    limitations under the License.  -->  
 
-# Network Analysis reference  
+# Справочник по анализу сети  
 
-Discover new ways to analyze how your page loads in this comprehensive reference of Microsoft Edge DevTools network analysis features.  
+Ознакомьтесь с новыми способами для анализа того, как страница загружается в этой полной версии справочника по функциям сетевого анализа Microsoft Edge DevTools.  
 
 <!--
 > [!NOTE]
 > This reference is based on Microsoft Edge 58.  If you use another version of Microsoft Edge, the UI, and features of DevTools may be different.  To verify which version of Microsoft Edge you are running, navigate to `edge://help`.  
 -->
 
-## Record network requests  
+## Запись сетевых запросов  
 
-By default, DevTools record all network requests in the Network panel, so long as DevTools is open.  
+По умолчанию DevTools запись всех сетевых запросов на панели "сеть", пока открыта DevTools.  
 
-:::image type="complex" source="../media/network-network-panel.msft.png" alt-text="The Network panel" lightbox="../media/network-network-panel.msft.png":::
-   The **Network** panel  
+:::image type="complex" source="../media/network-network-panel.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-panel.msft.png":::
+   Панель " **сеть** "  
 :::image-end:::  
 
-### Stop recording network requests  
+### Прекращение записи сетевых запросов  
 
-To stop recording requests, complete the following steps.  
+Чтобы остановить запись запросов, выполните указанные ниже действия.  
 
-1.  Select **Stop recording network log** \(![Stop recording network log][ImageRecordOnIcon]\) on the **Network** panel.  It turns grey to indicate that DevTools is no longer recording requests.  
-1.  Press `Control`+`E` \(Windows\) or `Command`+`E` \(macOS\) while the **Network** panel is in focus.  
+1.  Выберите **остановить запись журнала сети** \ ( ![ остановить запись сетевого журнала ][ImageRecordOnIcon] \) на панели **сеть** .  Оно превращается в серый, чтобы показать, что DevTools больше не записывает запросы.  
+1.  Нажимайте клавиши `Control` + `E` \ (Windows \) или `Command` + `E` \ (macOS \), пока фокус находится на панели " **сеть** ".  
 
-### Clear requests  
+### Очистка запросов  
 
-Select **Clear** \(![Clear][ImageClearIcon]\) on the Network panel to clear all requests from the Requests table.  
+На панели Network (сеть) выберите **clear** \ ( ![ очистить ][ImageClearIcon] \), чтобы удалить все запросы из таблицы запросы.  
 
-:::image type="complex" source="../media/network-network-clear-button.msft.png" alt-text="The Network panel" lightbox="../media/network-network-clear-button.msft.png":::
-   The **Clear** button  
+:::image type="complex" source="../media/network-network-clear-button.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-clear-button.msft.png":::
+   Кнопка " **очистить** "  
 :::image-end:::  
 
-### Save requests across page loads  
+### Сохранение запросов на загрузку страниц  
 
-To save requests across page loads, check the **Preserve log** checkbox on the Network panel.  DevTools saves all requests until you disable **Preserve log**.  
+Для сохранения запросов на страницах загрузок на панели "сеть" установите флажок **сохранить журнал** .  DevTools сохраняет все запросы, пока не отключайте параметр **сохранить журнал**.  
 
-:::image type="complex" source="../media/network-network-preserve-log.msft.png" alt-text="The Network panel" lightbox="../media/network-network-preserve-log.msft.png":::
-   The **Preserve Log** checkbox  
+:::image type="complex" source="../media/network-network-preserve-log.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-preserve-log.msft.png":::
+   Флажок " **сохранить журнал** "  
 :::image-end:::  
 
-### Capture screenshots during page load  
+### Захват снимков экрана при загрузке страницы  
 
-Capture screenshots to analyze what displays for users while waiting for your page to load.  
+Выведите снимки экрана, чтобы проанализировать, какие дисплеи отображаются для пользователей во время ожидания загрузки страницы.  
 
-To enable screenshots, select **Network settings** and select **Capture screenshots** checkbox on the **Network** panel.  
+Чтобы включить снимки экрана, нажмите кнопку **Параметры сети** и выберите команду **захватить снимки экрана** на панели " **сеть** ".  
 
-Refresh the page while the **Network** panel is in focus to capture screenshots.  
+Обновите страницу, когда фокус находится на панели " **сеть** ", чтобы захватить снимки экрана.  
 
-After capturing a screenshot, you interact with it in the following ways.  
+После захвата снимка экрана вы взаимодействуете с ним следующими способами.  
 
-*   Hover over a screenshot to view the point at which that screenshot was captured.  A yellow line is displayed on the **Overview** pane.  
-*   Select the thumbnail of a screen to filter out any requests that occurred after the screenshot was captured.  
-*   Double-click a thumbnail to zoom into it.  
+*   Наведите указатель мыши на снимок экрана, чтобы просмотреть точку, в которой был записан снимок экрана.  На панели **обзора** появится желтая линия.  
+*   Щелкните эскиз экрана, чтобы отфильтровать все запросы, произошедшие после захвата снимка экрана.  
+*   Дважды щелкните эскиз, чтобы увеличить его.  
 
-:::image type="complex" source="../media/network-network-screenshot-hover.msft.png" alt-text="The Network panel" lightbox="../media/network-network-screenshot-hover.msft.png":::
-   Hovering over a screenshot  
+:::image type="complex" source="../media/network-network-screenshot-hover.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-screenshot-hover.msft.png":::
+   Наведение указателя на снимок экрана  
 :::image-end:::  
 
 <!--  ### Replay XHR request  -->
@@ -91,124 +91,124 @@ After capturing a screenshot, you interact with it in the following ways.
 <!--  To replay an XHR request, hover on the request in the Requests table, open the contextual menu \(right-click\), and select **Replay XHR**.  -->
 
 <!--  
-:::image type="complex" source="../media/network-replay-xhr.msft.png" alt-text="The Network panel" lightbox="../media/network-replay-xhr.msft.png":::
+:::image type="complex" source="../media/network-replay-xhr.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-replay-xhr.msft.png":::
    Selecting Replay XHR  
 :::image-end:::  
 -->  
 
-## Change loading behavior  
+## Изменение поведения при загрузке  
 
-### Emulate a first-time visitor by disabling the browser cache  
+### Эмуляция первого времени посетителя с помощью отключения кэша браузера  
 
-To emulate how a first-time user experiences your site, check the **Disable cache** checkbox.  DevTools disables the browser cache.  This feature more accurately emulates a first-time user's experience, because requests are served from the browser cache on repeat visits.  
+Чтобы эмулировать, как пользователь попытается получить доступ к сайту, установите флажок **отключить кэш** .  DevTools отключает кэш браузера.  Эта функция более точно эмулирует взаимодействие с пользователем при первом запуске, так как запросы размещаются из кэша браузера на повторных посещениях.  
 
-:::image type="complex" source="../media/network-network-disable-cache-checkbox.msft.png" alt-text="The Network panel" lightbox="../media/network-network-disable-cache-checkbox.msft.png":::
-   The **Disable Cache** checkbox  
+:::image type="complex" source="../media/network-network-disable-cache-checkbox.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-disable-cache-checkbox.msft.png":::
+   Флажок " **отключить кэш** "  
 :::image-end:::  
 
-#### Disable the browser cache from the Network Conditions drawer  
+#### Отключение кэша браузера из денежных ящиков условий сети  
 
-If you want to disable the cache while working in other DevTools panels, use the Network Conditions drawer.  
+Если вы хотите отключить кэш при работе с другими панелями DevTools, используйте денежные ящики условия сети.  
 
-1.  Open the **Network Conditions** drawer.  
-1.  Check or uncheck the **Disable cache** checkbox.  
+1.  Откройте денежный ящик **условий сети** .  
+1.  Установите или снимите флажок **отключить кэш** .  
 
 <!--todo: add network condition section when available -->  
 
-### Manually clear the browser cache  
+### Очистка кэша браузера вручную  
 
-To manually clear the browser cache at any time, open the contextual menu \(right-click\) anywhere in the Requests table and select **Clear Browser Cache**.  
+Чтобы вручную очистить кэш браузера в любое время, откройте контекстное меню (щелкните правой кнопкой мыши в любом месте таблицы запросов и выберите пункт **очистить кэш браузера**).  
 
-:::image type="complex" source="../media/network-network-clear-browser-cache.msft.png" alt-text="The Network panel" lightbox="../media/network-network-clear-browser-cache.msft.png":::
-   Selecting **Clear Browser Cache**  
+:::image type="complex" source="../media/network-network-clear-browser-cache.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-clear-browser-cache.msft.png":::
+   Выбор **очистки кэша браузера**  
 :::image-end:::  
 
-### Emulate offline  
+### Эмуляция в автономном режиме  
 
-A new class of web apps, named [Progressive Web Apps][DevtoolsProgressiveWebApps], functions offline with the help of **service workers**.  You may find it useful to quickly simulate a device that has no data connection when you are building this type of app.  
+Новый класс веб-приложений, именуемых [прогрессивными веб-приложениями][DevtoolsProgressiveWebApps], не будет работать в автономном режиме с помощью **обслуживания сотрудников**.  Возможно, вам будет удобно быстро смоделировать устройство, которое не имеет подключения к данным, при построении такого типа приложения.  
 
 <!--[ServiceWorkers]: /web/fundamentals/getting-started/primers/service-workers  -->
 
-Select the **Online** dropdown menu, search under **Presets**, and select **Offline** to simulate an offline network experience.  
+Щелкните раскрывающееся меню **онлайн** , выполните поиск в разделе **пресеты**и выберите пункт в **автономном режиме** , чтобы имитировать автономный режим работы сети.  
 
-:::image type="complex" source="../media/network-network-offline-dropdown.msft.png" alt-text="The Network panel" lightbox="../media/network-network-offline-dropdown.msft.png":::
-   The **Offline** dropdown menu  
+:::image type="complex" source="../media/network-network-offline-dropdown.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-offline-dropdown.msft.png":::
+   Раскрывающееся меню " **автономный режим** "  
 :::image-end:::  
 
-### Emulate slow network connections  
+### Эмуляция медленных сетевых подключений  
 
-Emulate Slow 3G, Fast 3G, and other connection speeds from the **Online** dropdown menu.  
+Эмуляция медленной сети 3G, Fast 3G и других скоростей соединения из раскрывающегося меню **Online** .  
 
-:::image type="complex" source="../media/network-network-throttling-menu.msft.png" alt-text="The Network panel" lightbox="../media/network-network-throttling-menu.msft.png":::
-   The **Throttling** dropdown menu  
+:::image type="complex" source="../media/network-network-throttling-menu.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-throttling-menu.msft.png":::
+   Раскрывающееся меню **регулирования**  
 :::image-end:::  
 
-You may select from different presets, such as Slow 3G or Fast 3G.  You may also add your own custom presets by opening the Throttling menu and selecting **Custom** > **Add**.  
+Вы можете выбрать один из различных наборов параметров, например "медленный" или "Быстрая 3G".  Вы также можете добавить собственные пользовательские стили, открыв меню регулирования и выбрав пункт **настраиваемое**  >  **Добавление**.  
 
-DevTools displays a warning icon next to the **Network** tab to remind you that throttling is enabled.  
+DevTools отображает значок предупреждения рядом с вкладкой **сеть** , чтобы напомнить вам, что регулирование разрешено.  
 
-#### Emulate slow network connections from the Network Conditions drawer  
+#### Эмуляция медленных сетевых подключений из денежных ящиков условий сети  
 
-If you want to throttle the network connection while working in other DevTools panels, use the Network Conditions drawer.  
+Если вы хотите регулировать сетевое соединение при работе с другими панелями DevTools, используйте денежные ящики условий сети.  
 
-1.  Open the **Network Conditions** drawer.  
-1.  Select your connection speed from the **Throttling** menu.  
+1.  Откройте денежный ящик **условий сети** .  
+1.  Выберите скорость соединения в меню **регулирования** .  
 
 <!--todo: add network condition section when available -->  
 
-### Manually clear browser cookies  
+### Очистка файлов cookie браузера вручную  
 
-To manually clear browser cookies at any time, open the contextual menu \(right-click\) anywhere in the Requests table and select **Clear Browser Cookies**.  
+Чтобы вручную удалить cookie-файлы браузера в любое время, откройте контекстное меню (щелкните правой кнопкой мыши, где угодно в таблице запросов и выберите команду **Очистить cookie-файлы браузера**).  
 
-:::image type="complex" source="../media/network-network-clear-browser-cookies.msft.png" alt-text="The Network panel" lightbox="../media/network-network-clear-browser-cookies.msft.png":::
-   Selecting **Clear Browser Cookies**  
+:::image type="complex" source="../media/network-network-clear-browser-cookies.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-clear-browser-cookies.msft.png":::
+   Выбор **очистки cookie-файлов браузера**  
 :::image-end:::  
 
-### Override the user agent  
+### Переопределение агента пользователя  
 
-To manually override the user agent, use the following steps.  
+Чтобы вручную переопределить агент пользователя, выполните указанные ниже действия.  
 
-1.  Open the **Network Conditions** drawer.  
-1.  Uncheck **Select automatically**.  
-1.  Choose a user agent option from the menu, or enter a custom one in the text box.  
+1.  Откройте денежный ящик **условий сети** .  
+1.  Снимите флажок **автоматически**.  
+1.  Выберите в меню пункт агента пользователя или введите его в текстовом поле.  
 
 <!--todo: add network condition section when available -->  
 
-## Filter requests  
+## Фильтрация запросов  
 
-### Filter requests by properties  
+### Фильтрация запросов по свойствам  
 
-Use the **Filter** text box to filter requests by properties, such as the domain or size of the request.  
+С помощью текстового поля **Фильтр** можно отфильтровать запросы по свойствам, таким как домен или размер запроса.  
 
-If the text box is not displayed, the **Filters** pane is probably hidden.  
-For more information, navigate to [Hide the Filters pane](#hide-the-filters-pane).  
+Если текстовое поле не отображается, возможно, область **фильтры** скрыта.  
+Чтобы получить дополнительные сведения, перейдите в раздел [скрыть область фильтров](#hide-the-filters-pane).  
 
-:::image type="complex" source="../media/network-network-filters-textbox.msft.png" alt-text="The Network panel" lightbox="../media/network-network-filters-textbox.msft.png":::
-   The **Filter** text box  
+:::image type="complex" source="../media/network-network-filters-textbox.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-filters-textbox.msft.png":::
+   Текстовое поле " **Фильтр** "  
 :::image-end:::  
 
-You may use multiple properties simultaneously by separating each property with a space.  For example, `mime-type:image/png larger-than:1K` displays all PNGs that are larger than 1 kilobyte.  The multi-property filters are equivalent to `AND` operations.  `OR` operations are currently not supported.  
+Вы можете использовать несколько свойств одновременно, разделяя каждое свойство пробелами.  Например, `mime-type:image/png larger-than:1K` отображает все PNGs, размер которых больше 1 Кбайт.  Фильтры с несколькими свойствами эквивалентны `AND` операциям.  `OR` операции в настоящее время не поддерживаются.  
 
-The complete list of supported properties.  
+Полный список поддерживаемых свойств.  
 
-| Property | Details |  
+| Свойство | Сведения |  
 |:--- | :--- |  
-| `domain` | Only display resources from the specified domain.  You may use a wildcard character \(`*`\) to include multiple domains.  For example, `*.com` displays resources from all domain names ending in `.com`.  DevTools populate the autocomplete dropdown menu with all of the domains that are found. |  
-| `has-response-header` | Displays the resources that contain the specified HTTP response header.  DevTools populate the autocomplete dropdown with all of the response headers that are found. |  
-| `is` | Use `is:running` to find `WebSocket` resources. |  
-| `larger-than` | Displays resources that are larger than the specified size, in bytes.  Setting a value of `1000` is equivalent to setting a value of `1k`. |  
-| `method` | Displays resources that were retrieved over a specified HTTP method type.  DevTools populate the dropdown with all of the HTTP methods  that are found. |  
-| `mime-type` | Displays resources of a specified MIME type.  DevTools populate the dropdown with all MIME types  that are found. |  
-| `mixed-content` | Show all mixed content resources \(`mixed-content:all`\) or just the ones that are currently displayed \(`mixed-content:displayed`\). |  
-| `scheme` | Displays resources retrieved over unprotected HTTP \(`scheme:http`\) or protected HTTPS \(`scheme:https`\). |  
-| `set-cookie-domain` | Displays resources that have a `Set-Cookie` header with a `Domain` attribute that matches the specified value.  DevTools populate the autocomplete with all of the cookie domains that are found. |  
-| `set-cookie-name` | Displays resources that have a `Set-Cookie` header with a name that matches the specified value.  DevTools populate the autocomplete with all of the cookie names that are found. |  
-| `set-cookie-value` | Displays resources that have a `Set-Cookie` header with a value that matches the specified value.  DevTools populate the autocomplete with all of the cookie values that are found. |  
-| `status-code` | Displays resources that match the specific HTTP status code.  DevTools populates the autocomplete dropdown menu with all of the status codes that are found. |  
+| `domain` | Отображать только ресурсы из указанного домена.  Вы можете использовать подстановочный знак "\ `*` ", чтобы включить несколько доменов.  Например, `*.com` отображаются ресурсы из всех доменных имен, которые заканчиваются на `.com` .  DevTools Заполнение раскрывающегося меню "Автозаполнение" всеми найденными доменами. |  
+| `has-response-header` | Выводит ресурсы, содержащие указанный заголовок HTTP-ответа.  DevTools заполнить раскрывающийся список автозавершения всеми найденными заголовками ответов. |  
+| `is` | Используется `is:running` для поиска `WebSocket` ресурсов. |  
+| `larger-than` | Отображаются ресурсы, размер которых превышает указанный в байтах.  Установка значения эквивалентно значению свойства `1000` `1k` . |  
+| `method` | Отображает ресурсы, полученные с помощью указанного типа метода HTTP.  DevTools заполнить раскрывающийся список всеми найденными методами HTTP. |  
+| `mime-type` | Выводит ресурсы указанного типа MIME.  DevTools заполнить раскрывающийся список всеми найденными типами MIME. |  
+| `mixed-content` | Показать все смешанные ресурсы контента \ ( `mixed-content:all` \) или только те из них, которые в данный момент отображаются \ ( `mixed-content:displayed` \). |  
+| `scheme` | Отображаются ресурсы, полученные по незащищенным HTTP-( `scheme:http` \) или защищенным HTTPS-( `scheme:https` \). |  
+| `set-cookie-domain` | Отображает ресурсы с `Set-Cookie` заголовком с `Domain` атрибутом, соответствующим указанному значению.  DevTools заполнить Автозаполнение всеми найденными доменами cookie-файлов. |  
+| `set-cookie-name` | Отображаются ресурсы, у которых есть `Set-Cookie` заголовок с именем, соответствующим указанному значению.  DevTools заполните Автозаполнение всеми найденными именами cookie-файлов. |  
+| `set-cookie-value` | Отображает ресурсы с `Set-Cookie` заголовком со значением, которое соответствует указанному значению.  DevTools заполнить Автозаполнение всеми найденными значениями cookie-файлов. |  
+| `status-code` | Отображает ресурсы, соответствующие указанному коду состояния HTTP.  DevTools заполняет раскрывающееся меню автозаполнения всеми найденными кодами состояния. |  
 
-### Filter requests by type  
+### Фильтрация запросов по типу  
 
-To filter requests by request type, select the one of the following buttons on the **Network** panel.  
+Чтобы отфильтровать запросы по типу запроса, выберите один из указанных ниже кнопок на панели **сеть** .  
 
 :::row:::
    :::column span="1":::
@@ -236,7 +236,7 @@ To filter requests by request type, select the one of the following buttons on t
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Img**  
+      **IMG**  
    :::column-end:::
    :::column span="2":::
       &nbsp;  
@@ -244,7 +244,7 @@ To filter requests by request type, select the one of the following buttons on t
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Media**  
+      **Мультимедиа**  
    :::column-end:::
    :::column span="2":::
       &nbsp;  
@@ -252,7 +252,7 @@ To filter requests by request type, select the one of the following buttons on t
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Font**  
+      **Шрифт**  
    :::column-end:::
    :::column span="2":::
       &nbsp;  
@@ -260,7 +260,7 @@ To filter requests by request type, select the one of the following buttons on t
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Doc**  
+      **Тов**  
    :::column-end:::
    :::column span="2":::
       &nbsp;  
@@ -276,7 +276,7 @@ To filter requests by request type, select the one of the following buttons on t
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Manifest**  
+      **Является**  
    :::column-end:::
    :::column span="2":::
       &nbsp;  
@@ -287,146 +287,146 @@ To filter requests by request type, select the one of the following buttons on t
       **Other**  
    :::column-end:::
    :::column span="2":::
-      Any other type not listed.  
+      Любые другие типы не указаны в списке.  
    :::column-end:::
 :::row-end:::  
 
-If the buttons do not display, the **Filters** pane may be hidden.  
-For more information, navigate to [Hide the Filters pane](#hide-the-filters-pane).  
+Если кнопки не отображаются, область **фильтров** может быть скрыта.  
+Чтобы получить дополнительные сведения, перейдите в раздел [скрыть область фильтров](#hide-the-filters-pane).  
 
-To enable multiple type filters simultaneously, hold `Control` \(Windows\) or `Command` \(macOS\) and then select.  
+Чтобы включить множественные фильтры типов одновременно, удерживайте клавишу `Control` \ (Windows \) или `Command` \ (macOS \) и выберите.  
 
-:::image type="complex" source="../media/network-network-type-filters.msft.png" alt-text="The Network panel" lightbox="../media/network-network-type-filters.msft.png":::
-   Using the Type filters to display JS, CSS, and Document resources  
+:::image type="complex" source="../media/network-network-type-filters.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-type-filters.msft.png":::
+   Использование фильтров типов для отображения ресурсов JS, CSS и документов  
 :::image-end:::  
 
-### Filter requests by time  
+### Фильтрация запросов по времени  
 
-Select and drag left or right on the Overview pane to only display requests that were active during that time frame.  The filter is inclusive.  Any request that was active during the highlighted time is shown.  
+Чтобы отобразить только те запросы, которые были активны в течение этого времени, выберите и перетащите его влево или вправо в области "Обзор".  Фильтр является инклюзивным.  Отображается любой запрос, который был активен в течение выбранного периода времени.  
 
-:::image type="complex" source="../media/network-network-overview-filter.msft.png" alt-text="The Network panel" lightbox="../media/network-network-overview-filter.msft.png":::
-   Filtering out any requests that were inactive around 300 ms  
+:::image type="complex" source="../media/network-network-overview-filter.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-overview-filter.msft.png":::
+   Фильтрация запросов, которые были неактивны около 300 MS  
 :::image-end:::  
 
-### Hide data URLs  
+### Скрыть URL-адреса данных  
 
-[Data URLs][MDNHTTPDataURIs] are small files embedded into other documents.  Any request that displays in the Requests table that starts with `data:` is a data URL.  
+[URL-адреса данных][MDNHTTPDataURIs] — это небольшие файлы, внедренные в другие документы.  Любые запросы, которые отображаются в таблице запросов, которая начинается с `data:` URL-адреса данных.  
 
-Check the **Hide data URLs** checkbox to hide the requests.  
+Установите флажок **скрыть URL-адреса данных** , чтобы скрыть запросы.  
 
-:::image type="complex" source="../media/network-network-hide-data-urls.msft.png" alt-text="The Network panel" lightbox="../media/network-network-hide-data-urls.msft.png":::
-   The **Hide Data URLs** checkbox  
+:::image type="complex" source="../media/network-network-hide-data-urls.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-hide-data-urls.msft.png":::
+   Флажок " **скрыть URL-адреса данных** "  
 :::image-end:::  
 
-## Sort requests  
+## Запросы сортировки  
 
-By default, the requests in the Requests table are sorted by initiation time, but you may sort the table using other criteria.  
+По умолчанию запросы в таблице запросов сортируются по времени запуска, но вы можете отсортировать таблицу с помощью других условий.  
 
-### Sort by column  
+### Сортировка по столбцам  
 
-Select the header of any column in the Requests to sort requests by that column.  
+Выберите верхний колонтитул любого столбца в списке запросы для сортировки запросов по этому столбцу.  
 
-### Sort by activity phase  
+### Этап сортировки по действию  
 
-To change how the Waterfall sorts requests, hover on the header of the Requests table, open the contextual menu \(right-click\), hover over **Waterfall**, and select one of the following options.  
+Чтобы изменить способ сортировки запросов, наведите указатель мыши на заголовок таблицы запросы, откройте контекстное меню, наведите указатель мыши на пункт **Каскад**и выберите один из следующих вариантов.  
 
 :::row:::
    :::column span="1":::
-      **Start Time**  
+      **Время начала**  
    :::column-end:::
    :::column span="2":::
-      The first request that was initiated is at the top.  
+      Первый инициированный запрос находится наверху.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Response Time**  
+      **Время ответа**  
    :::column-end:::
    :::column span="2":::
-      The first request that started downloading is at the top.  
+      Первый запрос, загруженный в верхней части экрана.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **End Time**  
+      **Время окончания**  
    :::column-end:::
    :::column span="2":::
-      The first request that finished is at the top.  
+      Первый завершенный запрос вверху.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Total Duration**  
+      **Общая длительность**  
    :::column-end:::
    :::column span="2":::
-      The request with the shortest connection settings and request or response is at the top.  
+      В верхней части запроса с минимальными параметрами подключения и запроса или ответа.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Latency**  
+      **Задержка**  
    :::column-end:::
    :::column span="2":::
-      The request that waited the shortest time for a response is at the top.  
+      Запрос, который ожидает наиболее короткий момент ответа, находится наверху.  
    :::column-end:::
 :::row-end:::  
 
-These descriptions assume that each respective option is ranked from shortest to longest.  Selecting the header of the **Waterfall** column reverses the order.  
+В этих описаниях предполагается, что каждый из вариантов имеет приоритет от кратчайшего к наиболее продолжительному.  Если выбрать верхний колонтитул столбца **каскадом** , порядок будет изменен на противоположный.  
 
-:::image type="complex" source="../media/network-network-waterfall-total-duration.msft.png" alt-text="The Network panel" lightbox="../media/network-network-waterfall-total-duration.msft.png":::
-   Sorting the Waterfall by total duration  \(The lighter portion of each bar is time spent waiting and the darker portion is time spent downloading bytes\)  
+:::image type="complex" source="../media/network-network-waterfall-total-duration.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-waterfall-total-duration.msft.png":::
+   Сортировка каскадом по общей длительности \ (светлая часть каждого элемента диаграммы затратила время ожидания, а темная часть — это время, затраченное на загрузку байтов)  
 :::image-end:::  
 
-## Analyze requests  
+## Анализ запросов  
 
-So long as DevTools are open, it logs all requests in the Network panel.  
-Use the Network panel to analyze requests.  
+Пока DevTools открыты, все запросы на панели "сеть" записываются в журнал.  
+Проанализируйте запросы с помощью панели "сеть".  
 
-### View a log of requests  
+### Просмотр журнала запросов  
 
-Use the Requests table to view a log of all requests made while DevTools have been open.  Selecting or hovering over requests reveals more information about each item.  
+С помощью таблицы "запросы" можно просмотреть журнал всех запросов, выполненных, когда DevTools открыты.  При выборе или наведении указателя мыши на запросы открывается больше сведений о каждом элементе.  
 
-:::image type="complex" source="../media/network-network-requests-table.msft.png" alt-text="The Network panel" lightbox="../media/network-network-requests-table.msft.png":::
-   The Requests table  
+:::image type="complex" source="../media/network-network-requests-table.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-requests-table.msft.png":::
+   Таблица запросов  
 :::image-end:::  
 
-The Requests table displays the following columns by default.  
+По умолчанию в таблице запросов отображаются следующие столбцы.  
 
 :::row:::
    :::column span="1":::
-      **Name**  
+      **Имя**  
    :::column-end:::
    :::column span="2":::
-      The filename of, or an identifier for, the resource.  
+      Имя или идентификатор ресурса.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Status**  
+      **Состояние**  
    :::column-end:::
    :::column span="2":::
-      The HTTP status code.  
+      Код состояния HTTP.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Type**  
+      **Тип**  
    :::column-end:::
    :::column span="2":::
-      The MIME type of the requested resource.  
+      Тип MIME запрашиваемого ресурса.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Initiator**  
+      **Владельцы**  
    :::column-end:::
    :::column span="2":::
-      The following objects or processes initiate requests.  
+      Следующие объекты или процессы инициируют запросы.  
       
-      *   **Parser**  The HTML parser for Microsoft Edge.  
-      *   **Redirect**  An HTTP redirect.  
-      *   **Script**  A JavaScript function.  
-      *   **Other**  Some other process or action, such as navigating to a page using a link or entering a URL in the address bar.  
+      *   **Средство синтаксического анализа**  Средство синтаксического анализа HTML для Microsoft Edge.  
+      *   **Redirect (перенаправление**  )  Переадресация HTTP.  
+      *   **Сценарий**  Функция JavaScript.  
+      *   **Другие**  Некоторые другие процессы или действия, например переход на страницу с помощью ссылки или ввод URL-адреса в адресную строку.  
    :::column-end:::
 :::row-end:::  
 :::row:::
@@ -434,52 +434,52 @@ The Requests table displays the following columns by default.
       **Size**  
    :::column-end:::
    :::column span="2":::
-      The combined size of the response headers plus the response body, as delivered by the server.  
+      Объединенный размер заголовков ответа и текст ответа, доставленный сервером.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Time**  
+      **Время**  
    :::column-end:::
    :::column span="2":::
-      The total duration, from the start of the request to the receipt of the final byte in the response.  
+      Общая продолжительность от начала запроса до получения последнего байта в ответе.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      [Waterfall](#view-the-timing-relationship-of-requests)  
+      [Каскад](#view-the-timing-relationship-of-requests)  
    :::column-end:::
    :::column span="2":::
-      A visual breakdown of the activity for each request.  
+      Визуальная декомпозиция мероприятия для каждого запроса.  
    :::column-end:::
 :::row-end:::  
 
-#### Add or remove columns  
+#### Добавление и удаление столбцов  
 
-Hover on the header of the Requests table, open the contextual menu \(right-click\), and select an option to hide or show it.  Currently displayed options have checkmarks next to each item.  
+Наведите указатель мыши на заголовок таблицы запросы, откройте контекстное меню (щелкните правой кнопкой мыши \) и выберите один из вариантов, чтобы скрыть или отобразить его.  Параметры, отображаемые в данный момент, отмечены флажками рядом с каждым элементом.  
 
-:::image type="complex" source="../media/network-network-requests-add-column.msft.png" alt-text="The Network panel" lightbox="../media/network-network-requests-add-column.msft.png":::
-   Adding a column to the Requests table  
+:::image type="complex" source="../media/network-network-requests-add-column.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-requests-add-column.msft.png":::
+   Добавление столбца в таблицу "запросы"  
 :::image-end:::  
 
-#### Add custom columns  
+#### Добавление настраиваемых столбцов  
 
-To add a custom column to the Requests table, hover on the header of the Requests table, open the contextual menu \(right-click\), and select **Response Headers** > **Manage Header Columns**.  
+Чтобы добавить настраиваемый столбец в таблицу запросы, наведите указатель мыши на заголовок таблицы запросы, откройте контекстное меню (щелкните правой кнопкой мыши \) и выберите **заголовки ответов**  >  .**Управление столбцами заголовков**.  
 
-:::image type="complex" source="../media/network-network-requests-add-custom.msft.png" alt-text="The Network panel" lightbox="../media/network-network-requests-add-custom.msft.png":::
-   Adding a custom column to the Requests table  
+:::image type="complex" source="../media/network-network-requests-add-custom.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-requests-add-custom.msft.png":::
+   Добавление настраиваемого столбца в таблицу "запросы"  
 :::image-end:::  
 
-### View the timing relationship of requests  
+### Просмотр отношения времени между запросами  
 
-Use the Waterfall to view the timing relationships of requests.  
-The default organization of the Waterfall uses the start time of the requests.  
-So, requests that are farther to the left started earlier than the requests that are farther to the right.  
+Используйте Каскад для просмотра межвременных отношений запросов.  
+В структуре, используемой по умолчанию для каскадов, используется время начала запроса.  
+Таким образом, запросы, которые раньше приступили к началу, чем те, которые находятся дальше по правому краю.  
 
-To review the different ways that you may sort the Waterfall, navigate to [Sort by activity phase](#sort-by-activity-phase).  
+Чтобы просмотреть различные способы сортировки каскадов, перейдите на [фазу "Сортировка по действию](#sort-by-activity-phase)".  
 
-:::image type="complex" source="../media/network-network-requests-waterfall.msft.png" alt-text="The Network panel" lightbox="../media/network-network-requests-waterfall.msft.png":::
-   The Waterfall column of the **Requests** pane  
+:::image type="complex" source="../media/network-network-requests-waterfall.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-requests-waterfall.msft.png":::
+   Столбец "Каскад" на панели " **запросы** "  
 :::image-end:::  
 
 <!-- ### Analyze the frames of a WebSocket Connection  -->
@@ -492,7 +492,7 @@ To review the different ways that you may sort the Waterfall, navigate to [Sort 
 To refresh the table, re-select the name of the WebSocket connection under the **Name** column of the Requests table.  -->
 
 <!--
-:::image type="complex" source="../media/network-frames.msft.png" alt-text="The Network panel" lightbox="../media/network-frames.msft.png":::
+:::image type="complex" source="../media/network-frames.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-frames.msft.png":::
    The **Frames** tab  
 :::image-end:::  
 -->
@@ -510,267 +510,267 @@ To refresh the table, re-select the name of the WebSocket connection under the *
 *   WebSocket opcodes are light-yellow.  
 *   Errors are light-red.  -->
 
-### View a preview of a response body  
+### Предварительный просмотр тела ответа  
 
-To view a preview of a response body, use the following steps.  
+Для предварительного просмотра текста ответа выполните указанные ниже действия.  
 
-1.  Select the URL of the request, under the **Name** column of the Requests table.  
-1.  Select the **Preview** tab.  
+1.  Выберите URL-адрес запроса в столбце " **имя** " таблицы "запросы".  
+1.  Откройте вкладку **Предварительный просмотр** .  
 
-This tab is mostly useful for viewing images.  
+Эта вкладка особенно полезна для просмотра изображений.  
 
-:::image type="complex" source="../media/network-network-resources-preview.msft.png" alt-text="The Network panel" lightbox="../media/network-network-resources-preview.msft.png":::
-   The **Preview** tab  
+:::image type="complex" source="../media/network-network-resources-preview.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-resources-preview.msft.png":::
+   Вкладка " **Предварительный просмотр** "  
 :::image-end:::  
 
-### View a response body  
+### Просмотр текста ответа  
 
-To view the response body to a request, use the following steps.  
+Чтобы просмотреть текст ответа на запрос, выполните указанные ниже действия.  
 
-1.  Select the URL of the request, under the **Name** column of the Requests table.  
-1.  Select the **Response** tab.  
+1.  Выберите URL-адрес запроса в столбце " **имя** " таблицы "запросы".  
+1.  Откройте вкладку **ответ** .  
 
-:::image type="complex" source="../media/network-network-resources-response.msft.png" alt-text="The Network panel" lightbox="../media/network-network-resources-response.msft.png":::
-   The **Response** tab  
+:::image type="complex" source="../media/network-network-resources-response.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-resources-response.msft.png":::
+   Вкладка " **ответ** "  
 :::image-end:::  
 
-### View HTTP headers  
+### Просмотр заголовков HTTP  
 
-To view HTTP header data about a request, use the following steps.  
+Чтобы просмотреть данные заголовка HTTP для запроса, выполните указанные ниже действия.  
 
-1.  Select the URL of the request, under the **Name** column of the Requests table.  
-1.  Select the **Headers** tab.  
+1.  Выберите URL-адрес запроса в столбце " **имя** " таблицы "запросы".  
+1.  Откройте вкладку **заголовки** .  
 
-:::image type="complex" source="../media/network-resources-headers.msft.png" alt-text="The Network panel" lightbox="../media/network-resources-headers.msft.png":::
-   The **Headers** tab  
+:::image type="complex" source="../media/network-resources-headers.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-resources-headers.msft.png":::
+   Вкладка " **заголовки** "  
 :::image-end:::  
 
-#### View HTTP header source  
+#### Просмотр источника заголовков HTTP  
 
-By default, the Headers tab shows header names alphabetically.  To view the HTTP header names in the order received, use the following steps.  
+По умолчанию на вкладке заголовки отображаются имена заголовков в алфавитном порядке.  Чтобы просмотреть имена HTTP-заголовков в полученном порядке, выполните указанные ниже действия.  
 
-1.  Open the **Headers** tab for the request that interests you.  For more information, navigate to [View HTTP headers](#view-http-headers).  
-1.  Select **view source**, next to the **Request Header** or **Response Header** section.  
+1.  Открытие вкладки " **заголовки** " для запроса, который вас интересует.  Дополнительные сведения можно найти в разделе [Просмотр заголовков HTTP](#view-http-headers).  
+1.  Нажмите кнопку **источник**, рядом с разделом **заголовок запроса** или **заголовок ответа** .  
 
-### View query string parameters  
+### Просмотр параметров строки запроса  
 
-To view the query string parameters of a URL in a human-readable format, use the following steps.  
+Чтобы просмотреть параметры строки запроса URL-адреса в удобочитаемом формате, выполните указанные ниже действия.  
 
-1.  Open the **Headers** tab for the request that interests you.  For more information, navigate to [View HTTP headers](#view-http-headers).  
-1.  Go to the **Query String Parameters** section.  
+1.  Открытие вкладки " **заголовки** " для запроса, который вас интересует.  Дополнительные сведения можно найти в разделе [Просмотр заголовков HTTP](#view-http-headers).  
+1.  Перейдите к разделу **Параметры строки запроса** .  
 
-:::image type="complex" source="../media/network-network-resources-headers-query-string-parameters.msft.png" alt-text="The Network panel" lightbox="../media/network-network-resources-headers-query-string-parameters.msft.png":::
-   The **Query String Parameters** section  
+:::image type="complex" source="../media/network-network-resources-headers-query-string-parameters.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-resources-headers-query-string-parameters.msft.png":::
+   Раздел " **Параметры строки запроса** "  
 :::image-end:::  
 
-#### View query string parameters source  
+#### Просмотр источника параметров строки запроса  
 
-To view the query string parameter source of a request, use the following steps.  
+Чтобы просмотреть источник параметра строки запроса для запроса, выполните указанные ниже действия.  
 
-1.  Go to the Query String Parameters section.  For more information, navigate to [View query string parameters](#view-query-string-parameters).  
-1.  Select **view source**.  
+1.  Перейдите к разделу Параметры строки запроса.  Дополнительные сведения можно найти в разделе [Просмотр параметров строки запроса](#view-query-string-parameters).  
+1.  Нажмите кнопку **Просмотр источника**.  
 
-#### View URL-encoded query string parameters  
+#### Просмотр строковых параметров запроса в кодировке URL  
 
-To view query string parameters in a human-readable format, but with encodings preserved, use the following steps.  
+Чтобы просмотреть параметры строки запроса в удобочитаемом формате, но с сохранением кодировки, выполните указанные ниже действия.  
 
-1.  Go to the Query String Parameters section.  For more information, navigate to [View query string parameters](#view-query-string-parameters).  
-1.  Select **view URL encoded**.  
+1.  Перейдите к разделу Параметры строки запроса.  Дополнительные сведения можно найти в разделе [Просмотр параметров строки запроса](#view-query-string-parameters).  
+1.  Выберите команду **Просмотреть закодированный URL-адрес**.  
 
-### View cookies  
+### Просмотр файлов cookie  
 
-To view the cookies sent in the HTTP header of a request, use the following steps.  
+Чтобы просмотреть cookie-файлы, отправленные в заголовке запроса HTTP, выполните указанные ниже действия.  
 
-1.  Select the URL of the request, under the **Name** column of the Requests table.  
-1.  Select the **Cookies** tab.  
+1.  Выберите URL-адрес запроса в столбце " **имя** " таблицы "запросы".  
+1.  Перейдите на вкладку " **cookie** ".  
 
 <!--For more information about each of the columns, navigate to [Fields][ManageDataCookiesFields].  -->  
 
 <!--[ManageDataCookiesFields]: manage-data/cookies#fields  -->  
 <!--TODO: add link when section is available -->  
 
-:::image type="complex" source="../media/network-network-resources-cookies.msft.png" alt-text="The Network panel" lightbox="../media/network-network-resources-cookies.msft.png":::
-   The Cookies tab  
+:::image type="complex" source="../media/network-network-resources-cookies.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-resources-cookies.msft.png":::
+   Вкладка "cookie"  
 :::image-end:::  
 
-### View the timing breakdown of a request  
+### Просмотр разбиения по времени для запроса  
 
-To view the timing breakdown of a request, use the following steps.  
+Чтобы просмотреть межвременную разбивку запроса, выполните указанные ниже действия.  
 
-1.  Select the URL of the request, under the **Name** column of the Requests table.  
-1.  Select the **Timing** tab.  
+1.  Выберите URL-адрес запроса в столбце " **имя** " таблицы "запросы".  
+1.  Откройте вкладку **время** .  
 
-For a faster way to access the data, navigate to [Preview a timing breakdown](#preview-a-timing-breakdown).  
+Для более удобного доступа к данным перейдите к разделу [Предварительный просмотр разбивки времени](#preview-a-timing-breakdown).  
 
-For more information about each of the phases that may be displayed in the **Timing** tab, navigate to [Timing breakdown phases explained](#timing-breakdown-phases-explained).  
+Дополнительные сведения о каждой из фаз, которые могут отображаться на вкладке **время** , можно найти в разделе [этапы разбивки по времени](#timing-breakdown-phases-explained).  
 
-:::image type="complex" source="../media/network-network-resources-timing.msft.png" alt-text="The Network panel" lightbox="../media/network-network-resources-timing.msft.png":::
-   The **Timing** tab  
+:::image type="complex" source="../media/network-network-resources-timing.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-resources-timing.msft.png":::
+   Вкладка **время**  
 :::image-end:::  
 
-More information about each of the phases.  
+Дополнительные сведения о каждой из фаз.  
 
-For more information about accessing the view, navigate to [View timing breakdown](#view-the-timing-breakdown-of-a-request).  
+Для получения дополнительных сведений о доступе к представлению перейдите в раздел [Просмотр временных интервалов](#view-the-timing-breakdown-of-a-request).  
 
-#### Preview a timing breakdown  
+#### Предварительный просмотр разбивки по времени  
 
-To view a preview of the timing breakdown of a request, in the **Waterfall** column of the Requests table, hover on the entry for the request.  
+Чтобы просмотреть сведения о разбиении по времени для запроса, наведите указатель мыши на запись запроса в столбце " **Каскад** " таблицы "запросы".  
 
-For more information about how to access the data without hovering, navigate to [View the timing breakdown of a request](#view-the-timing-breakdown-of-a-request).  
+Дополнительные сведения о том, как получить доступ к данным без наведения указателя мыши, можно найти, [просмотрев временные разбивки запроса](#view-the-timing-breakdown-of-a-request).  
 
-:::image type="complex" source="../media/network-network-resources-waterfall-hover.msft.png" alt-text="The Network panel" lightbox="../media/network-network-resources-waterfall-hover.msft.png":::
-   Previewing the timing breakdown of a request  
+:::image type="complex" source="../media/network-network-resources-waterfall-hover.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-resources-waterfall-hover.msft.png":::
+   Предварительный просмотр разбиения по времени для запроса  
 :::image-end:::  
 
-#### Timing breakdown phases explained  
+#### Описание этапов разделения времени  
 
-More information about each of the phases that may display in the **Timing** tab.  
+Дополнительные сведения о каждой из фаз, которые могут отображаться на вкладке **время** .  
 
 :::row:::
    :::column span="1":::
-      **Queueing**  
+      **Очередь**  
    :::column-end:::
    :::column span="2":::
-      The browser queues requests when any of the following are true.  
-      *   Higher priority requests exist.  
-      *   Six TCP connections are open for the same origin, which is the limit.  Applies to HTTP/1.0 and HTTP/1.1 only.  
-      *   The browser is briefly allocating space in the disk cache.  
+      Браузер помещает запросы в очередь, если выполняется одно из следующих условий.  
+      *   Существуют запросы с более высокими приоритетами.  
+      *   Шесть подключений TCP открыты для одного и того же источника, что является ограничением.  Применимо только к HTTP/1.0 и HTTP/1.1.  
+      *   Браузер временно выделяет место в кэше на диске.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Stalled**  
+      **Блокированы**  
    :::column-end:::
    :::column span="2":::
-      The request is stalled for any of the reasons described in **Queueing**.  
+      Запрос будет остановлен в любой из причин, описанных в разделе **очереди**.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **DNS Lookup**  
+      **Поиск DNS**  
    :::column-end:::
    :::column span="2":::
-      The browser is resolving the IP address for the request.  
+      Браузер разрешает IP-адрес запроса.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Initial connection**  
+      **Начальное соединение**  
    :::column-end:::
    :::column span="2":::
-      The browser establishes a connection including TCP handshakes, TCP retries, and negotiates a Secure Socket Layer.
+      Браузер устанавливает подключение, в том числе подтверждения TCP, повторы TCP и согласовывающие безопасный уровень сокетов.
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Proxy negotiation**  
+      **Согласование прокси-сервера**  
    :::column-end:::
    :::column span="2":::
-      The browser is negotiating the request with a [proxy server][WikiProxyServer].  
+      Браузер согласовывает запрос с [прокси-сервером][WikiProxyServer].  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Request sent**  
+      **Отправлено запросов**  
    :::column-end:::
    :::column span="2":::
-      The request is being sent.  
+      Запрос отправляется.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **ServiceWorker Preparation**  
+      **Подготовка ServiceWorker**  
    :::column-end:::
    :::column span="2":::
-      The browser is starting the service worker.  
+      Браузер запускает сотрудника службы.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Request to ServiceWorker**  
+      **Запрос на ServiceWorker**  
    :::column-end:::
    :::column span="2":::
-      The request is being sent to the service worker.  
+      Запрос отправляется сотруднику службы.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Waiting \(TTFB\)**  
+      **Ожидание \ (TTFB \)**  
    :::column-end:::
    :::column span="2":::
-      The browser is waiting for the first byte of a response.  TTFB stands for Time To First Byte.  This timing includes one round trip of latency and the time the server took to prepare the response.  
+      Браузер ожидает первый байт ответа.  TTFB означает время для первого байта.  Это время включает один цикл обработки задержки и время, затраченное сервером на подготовку ответа.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Content Download**  
+      **Загрузка содержимого**  
    :::column-end:::
    :::column span="2":::
-      The browser is receiving the response.  
+      Браузер получает ответ.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Receiving Push**  
+      **Получение push-уведомлений**  
    :::column-end:::
    :::column span="2":::
-      The browser is receiving data for this response via HTTP/2 Server Push.  
+      Браузер получает данные для этого ответа через HTTP/2 серверную извещающую передачу.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Reading Push**  
+      **Чтение push-уведомлений**  
    :::column-end:::
    :::column span="2":::
-      The browser is reading the local data previously received.  
+      Браузер читает локальные данные, полученные ранее.  
    :::column-end:::
 :::row-end:::  
 
-### View initiators and dependencies  
+### Просмотр инициаторов и зависимостей  
 
-To view the initiators and dependencies of a request, hold `Shift`and hover over the request in the Requests table.  DevTools colors: initiators are shown in green and dependencies are shown in red.  
+Чтобы просмотреть инициаторы и зависимости запроса, удерживайте `Shift` и наведите указатель мыши на запрос в таблице запросы.  DevTools цвета: инициаторы отображаются зеленым цветом, а зависимости — красным.  
 
-:::image type="complex" source="../media/network-network-resources-initiators-dependencies.msft.png" alt-text="The Network panel" lightbox="../media/network-network-resources-initiators-dependencies.msft.png":::
-   Viewing the initiators and dependencies of a request  
+:::image type="complex" source="../media/network-network-resources-initiators-dependencies.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-resources-initiators-dependencies.msft.png":::
+   Просмотр инициаторов и зависимостей запроса  
 :::image-end:::  
 
-When the Requests table is ordered chronologically, if you hover on a line, the line preceding it displays a green request.  The green request is the initiator of the dependency.  If another green request is displayed on the line before that, that higher request is the initiator of the initiator.  And so on.  
+Если таблица запросы упорядочивается хронологически, при наведении указателя мыши на строку, предшествующую ей, выводится зеленый запрос.  Зеленый запрос — инициатор зависимости.  Если в строке перед этим отображается еще один зеленый запрос, это более высокий запрос является инициатором инициатора.  И так далее.  
 
-### View load events  
+### Просмотр событий загрузки  
 
-DevTools displays the timing of the `DOMContentLoaded` and `load` events in multiple places on the Network panel.  The `DOMContentLoaded` event is colored blue, and the `load` event is red.  
+DevTools отображает время показа `DOMContentLoaded` `load` событий в нескольких местах на панели "сеть".  `DOMContentLoaded`Событие окрашивается синим цветом, а `load` событие — красным.  
 
-:::image type="complex" source="../media/network-network-requests-load-events.msft.png" alt-text="The Network panel" lightbox="../media/network-network-requests-load-events.msft.png":::
-   The locations of the `DOMContentLoaded` and `load` events on the Network panel  
+:::image type="complex" source="../media/network-network-requests-load-events.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-requests-load-events.msft.png":::
+   Расположение `DOMContentLoaded` событий "и" `load` на панели "сеть"  
 :::image-end:::  
 
-### View the total number of requests  
+### Просмотр общего числа запросов  
 
-The total number of requests is listed in the Summary pane, at the bottom of the Network panel.  
+Общее количество запросов можно найти в области сводки в нижней части панели "сеть".  
 
 > [!CAUTION]
-> This number only tracks requests that have been logged since DevTools was opened.  If other requests occurred before DevTools was opened, those requests are not counted.  
+> Этот номер отслеживает только те запросы, которые были зарегистрированы с момента открытия DevTools.  Если при открытии DevTools возникли другие запросы, эти запросы не учитываются.  
 
-:::image type="complex" source="../media/network-network-total-requests.msft.png" alt-text="The Network panel" lightbox="../media/network-network-total-requests.msft.png":::
-   The total number of requests since DevTools were opened  
+:::image type="complex" source="../media/network-network-total-requests.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-total-requests.msft.png":::
+   Общее количество запросов с момента открытия DevTools  
 :::image-end:::  
 
-### View the total download size  
+### Просмотр общего объема загружаемого файла  
 
-The total download size of requests is listed in the Summary pane, at the bottom of the Network panel.  
+Общий объем загруженных запросов отображается в области Сводка в нижней части панели "сеть".  
 
 > [!CAUTION]
-> This number only tracks requests that have been logged since DevTools was opened.  If other requests occurred before DevTools was opened, the previous requests are not counted.  
+> Этот номер отслеживает только те запросы, которые были зарегистрированы с момента открытия DevTools.  Если при открытии DevTools возникли другие запросы, предыдущие запросы не учитываются.  
 
-:::image type="complex" source="../media/network-network-total-download-size.msft.png" alt-text="The Network panel" lightbox="../media/network-network-total-download-size.msft.png":::
-   The total download size of requests  
+:::image type="complex" source="../media/network-network-total-download-size.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-total-download-size.msft.png":::
+   Общий объем загруженных запросов  
 :::image-end:::  
 
-To verify how large resources are after the browser uncompresses each item, navigate to [View the uncompressed size of a resource](#view-the-uncompressed-size-of-a-resource).  
+Чтобы убедиться в том, что после того как браузер распаковать все элементы, перейдите к разделу [Просмотр несжатого размера ресурса](#view-the-uncompressed-size-of-a-resource).  
 
-### View the stack trace that caused a request  
+### Просмотр трассировки стека, которая привела к запросу  
 
-After a JavaScript statement requests a resource, hover over the **Initiator** column to view the stack trace leading up to the request.  
+После того, как инструкция JavaScript запрашивает ресурс, наведите указатель мыши на столбец **инициатора** , чтобы просмотреть трассировку стека, выступающей в запрос.  
 
 <!-- [codepen.io/contoso/pen/yLBrOWa?editors=0010#0](https://codepen.io/contoso/pen/yLBrOWa?editors=0010#0) -->  
 
@@ -788,60 +788,60 @@ init();
 ```  
 -->  
 
-:::image type="complex" source="../media/network-network-requests-initiator-stack.msft.png" alt-text="The Network panel" lightbox="../media/network-network-requests-initiator-stack.msft.png":::
-   The stack trace leading up to a resource request  
+:::image type="complex" source="../media/network-network-requests-initiator-stack.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-requests-initiator-stack.msft.png":::
+   Трассировка стека, ведущая к запросу ресурсов  
 :::image-end:::  
 
-### View the uncompressed size of a resource  
+### Просмотр несжатого размера ресурса  
 
-Select the **Use large request rows** checkbox and then look at the bottom value of the **Size** column.  
+Установите флажок **использовать строки большого запроса** , а затем посмотрите на нижнее значение столбца **Размер** .  
 
-:::image type="complex" source="../media/network-network-requests-uncompressed-compare.msft.png" alt-text="The Network panel" lightbox="../media/network-network-requests-uncompressed-compare.msft.png":::
-   An example of uncompressed resources  \(The compressed size of the `jquery-3.3.1.min.js` file that was sent over the network was `29.9 KB`, whereas the uncompressed size was `84.9 KB`\)  
+:::image type="complex" source="../media/network-network-requests-uncompressed-compare.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-requests-uncompressed-compare.msft.png":::
+   Пример несжатых ресурсов \ (сжатый размер `jquery-3.3.1.min.js` файла, отправленного по сети `29.9 KB` , в то время как несжатый размер `84.9 KB` )  
 :::image-end:::  
 
-## Export requests data  
+## Данные запросов на экспорт  
 
-### Save all network requests to a HAR file  
+### Сохранение всех сетевых запросов в файле HAR  
 
-To save all network requests to a HAR file, complete the following steps.  
+Чтобы сохранить все сетевые запросы в файле HAR, выполните указанные ниже действия.  
 
-1.  Hover on any request in the Requests table and open the contextual menu \(right-click\).  
-1.  Select **Save as HAR with Content**.  DevTools saves all requests that have occurred since you opened DevTools to the HAR file.  You are not able to filter requests.  You are also not able to save a single request.  
+1.  Наведите указатель мыши на любой запрос в таблице запросов и откройте контекстное меню (щелкните правой кнопкой мыши \).  
+1.  Выберите команду **Сохранить как HAR с содержимым**.  DevTools сохраняет все запросы, произошедшие после того, как вы открыли DevTools в файл HAR.  Вы не можете фильтровать запросы.  Вы также не можете сохранить один запрос.  
 
-Once you save a HAR file, you may import it back into DevTools for analysis.  Just drag-and-drop the HAR file into the Requests table.  
+После того как вы сохраните файл HAR, вы можете импортировать его обратно в DevTools для анализа.  Просто перетащите файл HAR в таблицу запросы.  
 <!--For more information, navigate to also [HAR Analyzer][HARAnalyzer].  -->  
 
 <!--[HARAnalyzer]: https://toolbox.alphabetapps.com/apps/har_analyzer  -->  
 <!--Todo: add section link when content is available  -->  
 
-:::image type="complex" source="../media/network-network-requests-save-har-content.msft.png" alt-text="The Network panel" lightbox="../media/network-network-requests-save-har-content.msft.png":::
-   Selecting **Save as HAR with Content**  
+:::image type="complex" source="../media/network-network-requests-save-har-content.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-requests-save-har-content.msft.png":::
+   Выбор команды " **Сохранить как HAR с контентом** "  
 :::image-end:::  
 
-### Copy one or more requests to the clipboard  
+### Копирование одного или нескольких запросов в буфер обмена  
 
-Under the **Name** column of the Requests table, hover on a request, open the contextual menu \(right-click\), hover over **Copy**, and select one of the following options.  
+В столбце **имя** таблицы запросы наведите указатель мыши на запрос, откройте контекстное меню (щелкните правой кнопкой мыши \), наведите указатель на пункт **Копировать**и выберите один из следующих вариантов.  
 
 :::row:::
    :::column span="1":::
-      **Copy Link Address**  
+      **Копировать адрес ссылки**  
    :::column-end:::
    :::column span="2":::
-      Copy the URL of the request to the clipboard.  
+      Скопируйте URL-адрес запроса в буфер обмена.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Copy Response**  
+      **Копирование ответа**  
    :::column-end:::
    :::column span="2":::
-      Copy the response body to the clipboard.  
+      Скопировать текст ответа в буфер обмена.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Copy as Fetch**  
+      **Копировать как выборку**  
    :::column-end:::
    :::column span="2":::
       &nbsp;  
@@ -849,15 +849,15 @@ Under the **Name** column of the Requests table, hover on a request, open the co
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Copy as cURL**  
+      **Копирование в виде изогнутого документа**  
    :::column-end:::
    :::column span="2":::
-      Copy the request as a cURL command.  
+      Копирование запроса в виде текстовой команды.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Copy All as Fetch**  
+      **Копировать все как выборку**  
    :::column-end:::
    :::column span="2":::
       &nbsp;  
@@ -865,58 +865,58 @@ Under the **Name** column of the Requests table, hover on a request, open the co
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Copy All as cURL**  
+      **Копирование в виде изогнутого документа**  
    :::column-end:::
    :::column span="2":::
-      Copy all requests as a chain of cURL commands.  
+      Копирование всех запросов в виде последовательности команд с фигурой.  
    :::column-end:::
 :::row-end:::  
 :::row:::
    :::column span="1":::
-      **Copy All as HAR**  
+      **Копирование всех как HAR**  
    :::column-end:::
    :::column span="2":::
-      Copy all requests as HAR data.  
+      Скопируйте все запросы как данные HAR.  
    :::column-end:::
 :::row-end:::  
 
-:::image type="complex" source="../media/network-network-requests-copy-response.msft.png" alt-text="The Network panel" lightbox="../media/network-network-requests-copy-response.msft.png":::
-   Selecting **Copy Response**  
+:::image type="complex" source="../media/network-network-requests-copy-response.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-requests-copy-response.msft.png":::
+   Выбор пункта " **Копировать ответ** "  
 :::image-end:::  
 
-## Change the layout of the Network panel  
+## Изменение макета панели "сеть"  
 
-You may expand or collapse sections of the Network panel UI to focus important information.  
+Вы можете развернуть или свернуть разделы пользовательского интерфейса панели "сеть", чтобы сосредоточиться на важных сведениях.  
 
-### Hide the Filters pane  
+### Скрытие области фильтров  
 
-By default, DevTools show the **Filters pane**.  
-Select **Filter** \(![Filter][ImageFilterIcon]\) to hide it.  
+По умолчанию DevTools отображает **область фильтров**.  
+Щелкните **Фильтр** \ ( ![ фильтр ][ImageFilterIcon] \), чтобы скрыть его.  
 
-:::image type="complex" source="../media/network-network-resources-hide-filters-button.msft.png" alt-text="The Network panel" lightbox="../media/network-network-resources-hide-filters-button.msft.png":::
-   The Hide Filters button  
+:::image type="complex" source="../media/network-network-resources-hide-filters-button.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-resources-hide-filters-button.msft.png":::
+   Кнопка "скрыть фильтры"  
 :::image-end:::  
 
-### Use large request rows  
+### Использование строк большого запроса  
 
-Use large rows when you want more whitespace in your network requests table.  Some columns also provide a little more information when using large rows.  For example, the bottom value of the **Size** column is the uncompressed size of a request.  
+Используйте большие строки, если вы хотите, чтобы в таблице сетевых запросов больше пробелов.  Некоторые столбцы также содержат дополнительные сведения при использовании больших строк.  Например, минимальное значение столбца « **Размер** » — это несжатый размер запроса.  
 
-:::image type="complex" source="../media/network-network-requests-large-request-rows.msft.png" alt-text="The Network panel" lightbox="../media/network-network-requests-large-request-rows.msft.png":::
-   An example of large request rows in the **Requests** pane  
+:::image type="complex" source="../media/network-network-requests-large-request-rows.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-requests-large-request-rows.msft.png":::
+   Пример строк большого запроса в области " **запросы** "  
 :::image-end:::  
 
-Select the **Use large request rows** checkbox to enable large rows.  
+Установите флажок **использовать строки большого запроса** , чтобы включить большие строки.  
 
-:::image type="complex" source="../media/network-network-requests-use-large-request-rows-on.msft.png" alt-text="The Network panel" lightbox="../media/network-network-requests-use-large-request-rows-on.msft.png":::
-   The **Use large request rows** checkbox  
+:::image type="complex" source="../media/network-network-requests-use-large-request-rows-on.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-requests-use-large-request-rows-on.msft.png":::
+   Флажок " **использовать строки большого запроса** "  
 :::image-end:::  
 
-### Hide the Overview pane  
+### Скрытие области обзора  
 
-By default, DevTools show the **Overview pane**.  Deselect the **Show Overview** checkbox to hide it.  
+По умолчанию DevTools отображает **область "Общие сведения**".  Снимите флажок **Показать общие сведения** , чтобы скрыть его.  
 
-:::image type="complex" source="../media/network-network-requests-show-overview-off.msft.png" alt-text="The Network panel" lightbox="../media/network-network-requests-show-overview-off.msft.png":::
-   The **Show Overview** checkbox  
+:::image type="complex" source="../media/network-network-requests-show-overview-off.msft.png" alt-text="Панель &quot;сеть&quot;" lightbox="../media/network-network-requests-show-overview-off.msft.png":::
+   Флажок " **Показать общие сведения** "  
 :::image-end:::  
 
 <!-- image links -->  
@@ -930,20 +930,20 @@ By default, DevTools show the **Overview pane**.  Deselect the **Show Overview**
 
 <!-- links -->  
 
-[DevtoolsProgressiveWebApps]: ../progressive-web-apps.md "Debug Progressive Web Apps | Microsoft Docs"  
+[DevtoolsProgressiveWebApps]: ../progressive-web-apps.md "Отладка последовательного веб-приложения | Документы Microsoft"  
 
 <!--[NetworkConditions]: /microsoft-edge/devtools-guide-chromium/network/network-conditions "Optimize Performance Under Varying Network Conditions | Microsoft Docs"  -->  
 
-[MDNHTTPDataURIs]: https://developer.mozilla.org/docs/Web/HTTP/Basics_of_HTTP/Data_URIs "Data URLs | MDN"  
+[MDNHTTPDataURIs]: https://developer.mozilla.org/docs/Web/HTTP/Basics_of_HTTP/Data_URIs "URL-адреса данных | MDN"  
 
-[WikiProxyServer]: https://en.wikipedia.org/wiki/Proxy_server "Proxy server - Wikipedia"  
+[WikiProxyServer]: https://en.wikipedia.org/wiki/Proxy_server "Прокси-сервер — Википедии"  
 
 > [!NOTE]
-> Portions of this page are modifications based on work created and [shared by Google][GoogleSitePolicies] and used according to terms described in the [Creative Commons Attribution 4.0 International License][CCA4IL].  
-> The original page is found [here](https://developers.google.com/web/tools/chrome-devtools/network/reference) and is authored by [Kayce Basques][KayceBasques] \(Technical Writer, Chrome DevTools \& Lighthouse\).  
+> Части этой страницы представляют собой изменения, основанные на работе, созданной и [предоставленной компанией Google][GoogleSitePolicies] и использованными в соответствии с условиями, описанными в [лицензии Creative Commons 4,0 международная лицензия][CCA4IL].  
+> Исходная страница будет найдена [здесь](https://developers.google.com/web/tools/chrome-devtools/network/reference) и была написана с помощью [Kayce Basques][KayceBasques] \ (технический писатель, Chrome DevTools \ & Lighthouse \).  
 
-[![Creative Commons License][CCby4Image]][CCA4IL]  
-This work is licensed under a [Creative Commons Attribution 4.0 International License][CCA4IL].  
+[![Лицензия Creative Commons][CCby4Image]][CCA4IL]  
+Эта работа предоставляется в рамках международной лицензии [Creative Commons Attribution 4.0 International License][CCA4IL].  
 
 [CCA4IL]: https://creativecommons.org/licenses/by/4.0  
 [CCby4Image]: https://i.creativecommons.org/l/by/4.0/88x31.png  

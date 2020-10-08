@@ -45,7 +45,7 @@ ms.locfileid: "10992934"
     
     :::row:::
        :::column span="":::
-          :::image type="complex" source="../media/device-mode-console-sensors-orientation-portrait-upside-down.msft.png" alt-text="Выбор книжной ориентации сверху вниз в списке" lightbox="../media/device-mode-console-sensors-orientation-portrait-upside-down.msft.png":::
+          :::image type="complex" source="../media/device-mode-console-sensors-orientation-portrait-upside-down.msft.png" alt-text="Меню команд" lightbox="../media/device-mode-console-sensors-orientation-portrait-upside-down.msft.png":::
              Выбор `Portrait upside down` из списка **ориентации**  
           :::image-end:::  
        :::column-end:::
@@ -55,7 +55,7 @@ ms.locfileid: "10992934"
           <!--todo: update links to alpha, beta, and gamma section when available -->  
           Вы также можете настроить пользовательскую ориентацию, перетащив **модель ориентации**.  Удерживайте `Shift` перед перетаскиванием, чтобы повернуть вдоль `alpha` оси.  
           
-          :::image type="complex" source="../media/device-mode-console-sensors-orientation-custom.msft.png" alt-text="Модель ориентации" lightbox="../media/device-mode-console-sensors-orientation-custom.msft.png":::
+          :::image type="complex" source="../media/device-mode-console-sensors-orientation-custom.msft.png" alt-text="Меню команд" lightbox="../media/device-mode-console-sensors-orientation-custom.msft.png":::
              **Модель ориентации**  
           :::image-end:::  
        :::column-end:::
