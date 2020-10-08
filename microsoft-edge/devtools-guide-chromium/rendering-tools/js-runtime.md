@@ -66,19 +66,19 @@ ms.locfileid: "10993585"
 
 <span data-ttu-id="3d09b-126">**Диаграмма**.</span><span class="sxs-lookup"><span data-stu-id="3d09b-126">**Chart**.</span></span>  <span data-ttu-id="3d09b-127">Диаграмма, на которой показана Хронология записи.</span><span class="sxs-lookup"><span data-stu-id="3d09b-127">Displays a chronological chart of the recording.</span></span>  
 
-:::image type="complex" source="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart.msft.png" alt-text="Flame диаграмма" lightbox="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart.msft.png":::
+:::image type="complex" source="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart.msft.png" alt-text="Образцы профилей" lightbox="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart.msft.png":::
    <span data-ttu-id="3d09b-129">Flame диаграмма</span><span class="sxs-lookup"><span data-stu-id="3d09b-129">Flame chart</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="3d09b-130">**Тяжелая – (снизу вверх)**.</span><span class="sxs-lookup"><span data-stu-id="3d09b-130">**Heavy \(Bottom Up\)**.</span></span>  <span data-ttu-id="3d09b-131">Перечисление функций, влияющих на производительность, и позволяет исследовать пути вызова функций.</span><span class="sxs-lookup"><span data-stu-id="3d09b-131">Lists functions by impact on performance and enables you to examine the calling paths to the functions.</span></span>  <span data-ttu-id="3d09b-132">Это представление по умолчанию.</span><span class="sxs-lookup"><span data-stu-id="3d09b-132">This is the default view.</span></span>  
 
-:::image type="complex" source="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-heavy-bottom-up.msft.png" alt-text="Тяжелая диаграмма" lightbox="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-heavy-bottom-up.msft.png":::
+:::image type="complex" source="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-heavy-bottom-up.msft.png" alt-text="Образцы профилей" lightbox="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-heavy-bottom-up.msft.png":::
    <span data-ttu-id="3d09b-134">Тяжелая диаграмма</span><span class="sxs-lookup"><span data-stu-id="3d09b-134">Heavy chart</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="3d09b-135">**Дерево \ (сверху вниз)**.</span><span class="sxs-lookup"><span data-stu-id="3d09b-135">**Tree \(Top Down\)**.</span></span>  <span data-ttu-id="3d09b-136">Показывает общую картину структуры вызова, начиная с верхней части стека вызова.</span><span class="sxs-lookup"><span data-stu-id="3d09b-136">Shows an overall picture of the calling structure, starting at the top of the call stack.</span></span>  
 
-:::image type="complex" source="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-tree-top-down.msft.png" alt-text="Древовидная диаграмма" lightbox="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-tree-top-down.msft.png":::
+:::image type="complex" source="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-tree-top-down.msft.png" alt-text="Образцы профилей" lightbox="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-tree-top-down.msft.png":::
    <span data-ttu-id="3d09b-138">Древовидная диаграмма</span><span class="sxs-lookup"><span data-stu-id="3d09b-138">Tree chart</span></span>  
 :::image-end:::  
 
@@ -94,7 +94,7 @@ ms.locfileid: "10993585"
 
 <span data-ttu-id="3d09b-145">После [записи профиля выборочной](#record-a-sampling-profile)настройки просмотрите запись в виде Flame диаграммы, [изменив порядок сортировки](#change-sort-order) на **Chart**.</span><span class="sxs-lookup"><span data-stu-id="3d09b-145">After you [record a Sampling Profile](#record-a-sampling-profile), view the recording as a flame chart by [changing the sort order](#change-sort-order) to **Chart**.</span></span>  
 
-:::image type="complex" source="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart.msft.png" alt-text="Flame представления диаграммы" lightbox="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart.msft.png":::
+:::image type="complex" source="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart.msft.png" alt-text="Образцы профилей" lightbox="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart.msft.png":::
    <span data-ttu-id="3d09b-147">Flame представления диаграммы</span><span class="sxs-lookup"><span data-stu-id="3d09b-147">Flame chart view</span></span>  
 :::image-end:::  
 
@@ -107,7 +107,7 @@ ms.locfileid: "10993585"
 
 <span data-ttu-id="3d09b-163">Функции окрашены в случайном порядке.</span><span class="sxs-lookup"><span data-stu-id="3d09b-163">Functions are colored randomly.</span></span>  <span data-ttu-id="3d09b-164">Нет связи с цветами, используемыми в других панелях.</span><span class="sxs-lookup"><span data-stu-id="3d09b-164">There is no correlation to the colors used in the other panels.</span></span>  <span data-ttu-id="3d09b-165">Однако функции всегда выделяются одинаково во всех вызовах, чтобы можно было видеть закономерности в каждой среде выполнения.</span><span class="sxs-lookup"><span data-stu-id="3d09b-165">However, functions are always colored the same across invocations so that you are able to see patterns in each runtime.</span></span>  
 
-:::image type="complex" source="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart-highlighted.msft.png" alt-text="Диаграмма с аннотированными Flame" lightbox="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart-highlighted.msft.png":::
+:::image type="complex" source="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart-highlighted.msft.png" alt-text="Образцы профилей" lightbox="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart-highlighted.msft.png":::
    <span data-ttu-id="3d09b-167">Диаграмма с аннотированными Flame</span><span class="sxs-lookup"><span data-stu-id="3d09b-167">Annotated flame chart</span></span>  
 :::image-end:::  
 
@@ -117,7 +117,7 @@ ms.locfileid: "10993585"
 
 <span data-ttu-id="3d09b-172">Выберите, удерживайте и перетащите указатель мыши по левому краю обзора и проведите по экрану, чтобы увеличить масштаб отдельных частей стека вызова.</span><span class="sxs-lookup"><span data-stu-id="3d09b-172">Select, hold, and drag your mouse left and right across the overview to zoom in on particular parts of the call stack.</span></span>  <span data-ttu-id="3d09b-173">После масштабирования стек вызовов автоматически отображает выбранную часть записи.</span><span class="sxs-lookup"><span data-stu-id="3d09b-173">After you zoom, the call stack automatically displays the portion of the recording that you selected.</span></span>  
 
-:::image type="complex" source="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart-zoomed.msft.png" alt-text="Диаграмма с увеличенным масштабом" lightbox="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart-zoomed.msft.png":::
+:::image type="complex" source="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart-zoomed.msft.png" alt-text="Образцы профилей" lightbox="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart-zoomed.msft.png":::
    <span data-ttu-id="3d09b-175">Диаграмма с увеличенным масштабом</span><span class="sxs-lookup"><span data-stu-id="3d09b-175">Chart zoomed</span></span>  
 :::image-end:::  
 
@@ -137,7 +137,7 @@ ms.locfileid: "10993585"
 <!--*   **Aggregated total time**.  Aggregate total time for all invocations of the function, including functions called by this function.  -->  
 <!--*   **Not optimized**.  If the profiler has detected a potential optimization for the function it lists it here.  -->  
 
-:::image type="complex" source="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart-hover.msft.png" alt-text="Просмотр сведений о функциях на диаграмме" lightbox="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart-hover.msft.png":::
+:::image type="complex" source="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart-hover.msft.png" alt-text="Образцы профилей" lightbox="../media/rendering-tools-gh-nodejs-benchmarks-run-memory-sampling-profiles-chart-hover.msft.png":::
    <span data-ttu-id="3d09b-191">Просмотр сведений о функциях на диаграмме</span><span class="sxs-lookup"><span data-stu-id="3d09b-191">View functions details in chart</span></span>  
 :::image-end:::  
 

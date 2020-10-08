@@ -56,7 +56,7 @@ ms.locfileid: "10993508"
 1.  <span data-ttu-id="2ea63-118">Откройте панель **память** и выберите переключатель **Инструментирование выделения на временной шкале** .</span><span class="sxs-lookup"><span data-stu-id="2ea63-118">Open the **Memory** panel, select the **Allocation instrumentation on timeline** radio button.</span></span>  
 1.  <span data-ttu-id="2ea63-119">Start recording.</span><span class="sxs-lookup"><span data-stu-id="2ea63-119">Start recording.</span></span>  
     
-    :::image type="complex" source="../media/memory-problems-memory-allocation-instrumentation-on-timeline-selected.msft.png" alt-text="Профилировщик записи для выделения кучи" lightbox="../media/memory-problems-memory-allocation-instrumentation-on-timeline-selected.msft.png":::
+    :::image type="complex" source="../media/memory-problems-memory-allocation-instrumentation-on-timeline-selected.msft.png" alt-text="Инструментирование выделения на временной шкале" lightbox="../media/memory-problems-memory-allocation-instrumentation-on-timeline-selected.msft.png":::
        <span data-ttu-id="2ea63-121">Профилировщик записи для выделения кучи</span><span class="sxs-lookup"><span data-stu-id="2ea63-121">Record heap allocations profiler</span></span>  
     :::image-end:::  
     
@@ -66,7 +66,7 @@ ms.locfileid: "10993508"
 
 <span data-ttu-id="2ea63-125">Высота каждой линии соответствует размеру недавно выделенных объектов, а цвет отрезков показывает, будут ли эти объекты по-прежнему находиться в последнем снимке кучи.</span><span class="sxs-lookup"><span data-stu-id="2ea63-125">The height of each bar corresponds to the size of the recently allocated objects, and the color of the bars indicate whether or not those objects are still live in the final heap snapshot.</span></span>  <span data-ttu-id="2ea63-126">Синие отрезки указывают на объекты, которые по-прежнему находятся в конце временной шкалы, а серые — на объекты, которые были выделены на временной шкале, но с момента сбора мусора.</span><span class="sxs-lookup"><span data-stu-id="2ea63-126">Blue bars indicate objects that are still live at the end of the timeline, Gray bars indicate objects that were allocated during the timeline, but have since been garbage collected.</span></span>  
 
-:::image type="complex" source="../media/memory-problems-memory-allocation-timelines-snapshot.msft.png" alt-text="Инструментирование выделения для снимка временной шкалы" lightbox="../media/memory-problems-memory-allocation-timelines-snapshot.msft.png":::
+:::image type="complex" source="../media/memory-problems-memory-allocation-timelines-snapshot.msft.png" alt-text="Инструментирование выделения на временной шкале" lightbox="../media/memory-problems-memory-allocation-timelines-snapshot.msft.png":::
    <span data-ttu-id="2ea63-128">**Инструментирование выделения для снимка временной шкалы**</span><span class="sxs-lookup"><span data-stu-id="2ea63-128">**Allocation instrumentation on timeline** snapshot</span></span>  
 :::image-end:::  
 
@@ -75,7 +75,7 @@ ms.locfileid: "10993508"
 
 <span data-ttu-id="2ea63-129">Вы можете использовать ползунки на временной шкале выше, чтобы увеличить этот конкретный снимок и просмотреть объекты, которые были недавно выделены в данный момент.</span><span class="sxs-lookup"><span data-stu-id="2ea63-129">You are able to use the sliders in the timeline above to zoom into that particular snapshot and see the objects that were recently allocated at that point:</span></span>  
 
-:::image type="complex" source="../media/memory-problems-memory-allocation-timeline-snapshot-highlighted-annotated.msft.png" alt-text="Изменение размера снимка" lightbox="../media/memory-problems-memory-allocation-timeline-snapshot-highlighted-annotated.msft.png":::
+:::image type="complex" source="../media/memory-problems-memory-allocation-timeline-snapshot-highlighted-annotated.msft.png" alt-text="Инструментирование выделения на временной шкале" lightbox="../media/memory-problems-memory-allocation-timeline-snapshot-highlighted-annotated.msft.png":::
    <span data-ttu-id="2ea63-131">Изменение размера снимка</span><span class="sxs-lookup"><span data-stu-id="2ea63-131">Zoom into snapshot</span></span>  
 :::image-end:::  
 

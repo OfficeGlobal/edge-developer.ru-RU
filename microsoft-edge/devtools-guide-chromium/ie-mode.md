@@ -38,7 +38,7 @@ ms.locfileid: "11003975"
 
 <span data-ttu-id="770cf-121">Если вы пытаетесь просмотреть режим документов на веб-сайте в режиме IE, выберите индикатор в адресной строке.</span><span class="sxs-lookup"><span data-stu-id="770cf-121">If you are trying to view the document mode of a web site in IE mode, choose the badge in the address bar.</span></span>  
 
-:::image type="complex" source="./media/ie-mode-badge-doc-mode.msft.png" alt-text="Просмотр режима документов с помощью эмблемы в режиме IE" lightbox="./media/ie-mode-badge-doc-mode.msft.png":::
+:::image type="complex" source="./media/ie-mode-badge-doc-mode.msft.png" alt-text="Значок режима IE в адресной строке" lightbox="./media/ie-mode-badge-doc-mode.msft.png":::
    <span data-ttu-id="770cf-123">Просмотр режима документов с помощью эмблемы в режиме IE</span><span class="sxs-lookup"><span data-stu-id="770cf-123">View document mode using IE mode badge</span></span>  
 :::image-end:::  
 
@@ -55,7 +55,7 @@ ms.locfileid: "11003975"
 
 <span data-ttu-id="770cf-128">Причина, по которой не работают некоторые инструменты в DevTools \ (например, **сеть** и **производительность** ), — средство визуализации переключается с Chromium на Internet Explorer 11 в режиме IE.</span><span class="sxs-lookup"><span data-stu-id="770cf-128">The reason that a number of the tools within the DevTools \(like the **Network** and **Performance** tools\) do not work is the rendering engine switches from Chromium to Internet Explorer 11 in IE mode.</span></span>  <span data-ttu-id="770cf-129">Чтобы отправить отзыв, перейдите к [разделу знакомство с командой Microsoft Edge DevTools](#getting-in-touch-with-the-microsoft-edge-devtools-team).</span><span class="sxs-lookup"><span data-stu-id="770cf-129">To provide feedback, navigate to [Getting in touch with the Microsoft Edge DevTools team](#getting-in-touch-with-the-microsoft-edge-devtools-team).</span></span>  
 
-:::image type="complex" source="./media/ie-mode-devtools.msft.png" alt-text="DevTools запущен в режиме IE" lightbox="./media/ie-mode-devtools.msft.png":::
+:::image type="complex" source="./media/ie-mode-devtools.msft.png" alt-text="Значок режима IE в адресной строке" lightbox="./media/ie-mode-devtools.msft.png":::
    <span data-ttu-id="770cf-131">DevTools запущен в режиме IE</span><span class="sxs-lookup"><span data-stu-id="770cf-131">DevTools launched in IE mode</span></span>  
 :::image-end:::  
 

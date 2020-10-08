@@ -131,7 +131,7 @@ ms.locfileid: "10992709"
 
 <span data-ttu-id="ba337-179">Область **производительности** определяет, когда страница вызывает принудительно синхронные макеты.</span><span class="sxs-lookup"><span data-stu-id="ba337-179">The **Performance** pane identifies when a page causes forced synchronous layouts.</span></span>  <span data-ttu-id="ba337-180">Эти `Layout` события помечены красными отрезками.</span><span class="sxs-lookup"><span data-stu-id="ba337-180">These `Layout` events are marked with red bars.</span></span>  
 
-:::image type="complex" source="../media/rendering-tools-jank-performance-recalculate-style-summary.msft.png" alt-text="Принудительно синхронный макет" lightbox="../media/rendering-tools-jank-performance-recalculate-style-summary.msft.png":::
+:::image type="complex" source="../media/rendering-tools-jank-performance-recalculate-style-summary.msft.png" alt-text="Длинный стиль пересчета" lightbox="../media/rendering-tools-jank-performance-recalculate-style-summary.msft.png":::
    <span data-ttu-id="ba337-182">Принудительно синхронный макет</span><span class="sxs-lookup"><span data-stu-id="ba337-182">Forced synchronous layout</span></span>  
 :::image-end:::  
 
@@ -161,7 +161,7 @@ ms.locfileid: "10992709"
 <span data-ttu-id="ba337-205">Хотите узнать, как долго рисуются и как часто происходит рисование?</span><span class="sxs-lookup"><span data-stu-id="ba337-205">Want to know how long painting takes or how often painting occurs?</span></span>  <span data-ttu-id="ba337-206">Установите флажок [включить дополнительные возможности инструментирования Paint][DevtoolsChromiumEvaluatePerformanceReferenceEnableadvancedpaintinstrumentation] на панели **производительности** и сделайте запись.</span><span class="sxs-lookup"><span data-stu-id="ba337-206">Check the [Enable advanced paint instrumentation][DevtoolsChromiumEvaluatePerformanceReferenceEnableadvancedpaintinstrumentation] setting in the **Performance** panel and then take a recording.</span></span>  <span data-ttu-id="ba337-207">Если большая часть времени отрисовки потратила на рисование, у вас возникли проблемы с рисованием.</span><span class="sxs-lookup"><span data-stu-id="ba337-207">If most of your rendering time is spent painting, you have paint problems.</span></span>  
 
 <!--
-:::image type="complex" source="../media/rendering-tools-jank-performance-advanced-paint-instrumentation-summary.msft.png" alt-text="Long paint times in timeline recording" lightbox="../media/rendering-tools-jank-performance-advanced-paint-instrumentation-summary.msft.png":::
+:::image type="complex" source="../media/rendering-tools-jank-performance-advanced-paint-instrumentation-summary.msft.png" alt-text="Длинный стиль пересчета" lightbox="../media/rendering-tools-jank-performance-advanced-paint-instrumentation-summary.msft.png":::
    Long paint times in timeline recording  
 :::image-end:::  
 -->  

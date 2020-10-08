@@ -45,7 +45,7 @@ ms.locfileid: "10992934"
     
     :::row:::
        :::column span="":::
-          :::image type="complex" source="../media/device-mode-console-sensors-orientation-portrait-upside-down.msft.png" alt-text="Выбор книжной ориентации сверху вниз в списке" lightbox="../media/device-mode-console-sensors-orientation-portrait-upside-down.msft.png":::
+          :::image type="complex" source="../media/device-mode-console-sensors-orientation-portrait-upside-down.msft.png" alt-text="Меню команд" lightbox="../media/device-mode-console-sensors-orientation-portrait-upside-down.msft.png":::
              <span data-ttu-id="b18e0-113">Выбор `Portrait upside down` из списка **ориентации**</span><span class="sxs-lookup"><span data-stu-id="b18e0-113">Select `Portrait upside down` from the **Orientation** list</span></span>  
           :::image-end:::  
        :::column-end:::
@@ -55,7 +55,7 @@ ms.locfileid: "10992934"
           <!--todo: update links to alpha, beta, and gamma section when available -->  
           <span data-ttu-id="b18e0-115">Вы также можете настроить пользовательскую ориентацию, перетащив **модель ориентации**.</span><span class="sxs-lookup"><span data-stu-id="b18e0-115">You are also able to set a custom orientation by dragging the **Orientation Model**.</span></span>  <span data-ttu-id="b18e0-116">Удерживайте `Shift` перед перетаскиванием, чтобы повернуть вдоль `alpha` оси.</span><span class="sxs-lookup"><span data-stu-id="b18e0-116">Hold `Shift` before dragging to rotate along the `alpha` axis.</span></span>  
           
-          :::image type="complex" source="../media/device-mode-console-sensors-orientation-custom.msft.png" alt-text="Модель ориентации" lightbox="../media/device-mode-console-sensors-orientation-custom.msft.png":::
+          :::image type="complex" source="../media/device-mode-console-sensors-orientation-custom.msft.png" alt-text="Меню команд" lightbox="../media/device-mode-console-sensors-orientation-custom.msft.png":::
              <span data-ttu-id="b18e0-118">**Модель ориентации**</span><span class="sxs-lookup"><span data-stu-id="b18e0-118">The **Orientation Model**</span></span>  
           :::image-end:::  
        :::column-end:::

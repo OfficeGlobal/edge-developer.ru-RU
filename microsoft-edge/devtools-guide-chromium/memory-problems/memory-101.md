@@ -49,7 +49,7 @@ ms.locfileid: "10992752"
 
 <span data-ttu-id="2def7-116">При работе с панелью [памяти][DevtoolsMemoryProblemsHeapSnapshots] в DevTools \ (средство для исследования проблем с памятью, обнаруженных в **памяти**\), вы можете просмотреть несколько разных столбцов данных.</span><span class="sxs-lookup"><span data-stu-id="2def7-116">When working with the [Memory][DevtoolsMemoryProblemsHeapSnapshots] panel in DevTools \(a tool for investigating memory issues found under **Memory**\), you may find yourself looking at a few different columns of information.</span></span>  <span data-ttu-id="2def7-117">Два из них выделены **неполной** и **сохраненной размерностью**, но что они представляют?</span><span class="sxs-lookup"><span data-stu-id="2def7-117">Two that stand out are **Shallow Size** and **Retained Size**, but what do these represent?</span></span>  
 
-:::image type="complex" source="../media/memory-problems-shallow-retained.msft.png" alt-text="Неглубокий и сохраненный размер" lightbox="../media/memory-problems-shallow-retained.msft.png":::
+:::image type="complex" source="../media/memory-problems-shallow-retained.msft.png" alt-text="Визуальное представление памяти" lightbox="../media/memory-problems-shallow-retained.msft.png":::
    <span data-ttu-id="2def7-119">Неглубокий и сохраненный размер</span><span class="sxs-lookup"><span data-stu-id="2def7-119">Shallow and Retained Size</span></span>  
 :::image-end:::  
 
@@ -78,7 +78,7 @@ ms.locfileid: "10992752"
 
 <span data-ttu-id="2def7-142">Граф памяти начинается с корневого элемента, который может представлять собой `window` объект браузера или `Global` объект модуля Node.js.</span><span class="sxs-lookup"><span data-stu-id="2def7-142">The memory graph starts with a root, which may be the `window` object of the browser or the `Global` object of a Node.js module.</span></span>  <span data-ttu-id="2def7-143">Нельзя управлять тем, как этот корневой объект собирается сборщиком мусора (НОД).</span><span class="sxs-lookup"><span data-stu-id="2def7-143">You do not control how this root object is garbage collected (GCd).</span></span>  
 
-:::image type="complex" source="../media/memory-problems-dontcontrol.msft.png" alt-text="Управлять тем, как корневой объект будет собираться сборщиком мусора, невозможно." lightbox="../media/memory-problems-dontcontrol.msft.png":::
+:::image type="complex" source="../media/memory-problems-dontcontrol.msft.png" alt-text="Визуальное представление памяти" lightbox="../media/memory-problems-dontcontrol.msft.png":::
    <span data-ttu-id="2def7-145">Управлять тем, как корневой объект будет собираться сборщиком мусора, невозможно.</span><span class="sxs-lookup"><span data-stu-id="2def7-145">You are not able to control how the root object is garbage collected.</span></span>  
 :::image-end:::  
 
@@ -96,7 +96,7 @@ ms.locfileid: "10992752"
 
 <span data-ttu-id="2def7-154">Сведения [о том, как записать профиль с помощью профилировщика кучи][DevtoolsMemoryProblemsHeapSnapshots].</span><span class="sxs-lookup"><span data-stu-id="2def7-154">Learn [how to record a profile using the Heap Profiler][DevtoolsMemoryProblemsHeapSnapshots].</span></span>  <span data-ttu-id="2def7-155">На приведенном ниже рисунке показаны некоторые из глазных элементов, которые можно увидеть в записи снимков кучи на [панели памяти][DevtoolsMemoryProblemsHeapSnapshots] : расстояние от сборщика мусора \ (GC \).</span><span class="sxs-lookup"><span data-stu-id="2def7-155">In the following figure, some of the eye-catching things that you may see in the Heap Snapshot recording in the [Memory panel][DevtoolsMemoryProblemsHeapSnapshots] include distance:  the distance from the Garbage Collector \(GC\) root.</span></span>  <span data-ttu-id="2def7-156">Если почти все объекты одного и того же типа находятся на одном и том же расстоянии, то это может потребоваться для исследования.</span><span class="sxs-lookup"><span data-stu-id="2def7-156">If almost all the objects of the same type are at the same distance, and a few are at a bigger distance, that is something worth investigating.</span></span>  
 
-:::image type="complex" source="../media/memory-problems-root.msft.png" alt-text="Расстояние от корня" lightbox="../media/memory-problems-root.msft.png":::
+:::image type="complex" source="../media/memory-problems-root.msft.png" alt-text="Визуальное представление памяти" lightbox="../media/memory-problems-root.msft.png":::
    <span data-ttu-id="2def7-158">Расстояние от корня</span><span class="sxs-lookup"><span data-stu-id="2def7-158">Distance from root</span></span>  
 :::image-end:::  
 
@@ -112,13 +112,13 @@ ms.locfileid: "10992752"
 *   <span data-ttu-id="2def7-166">Узел 5 лидеры в узле 8</span><span class="sxs-lookup"><span data-stu-id="2def7-166">Node 5 dominates node 8</span></span>  
 *   <span data-ttu-id="2def7-167">Узел 6, являющийся узлом 7</span><span class="sxs-lookup"><span data-stu-id="2def7-167">Node 6 dominates node 7</span></span>  
 
-:::image type="complex" source="../media/memory-problems-dominatorsspanning.msft.png" alt-text="Структура дерева (лидера)" lightbox="../media/memory-problems-dominatorsspanning.msft.png":::
+:::image type="complex" source="../media/memory-problems-dominatorsspanning.msft.png" alt-text="Визуальное представление памяти" lightbox="../media/memory-problems-dominatorsspanning.msft.png":::
    <span data-ttu-id="2def7-169">Структура дерева (лидера)</span><span class="sxs-lookup"><span data-stu-id="2def7-169">Dominator tree structure</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="2def7-170">На приведенном ниже рисунке Node `#3` — это лидер `#10` , но он `#7` также существует в каждом простом пути от сборщика мусора \ (GC \) to `#10` .</span><span class="sxs-lookup"><span data-stu-id="2def7-170">In the following figure, node `#3` is the dominator of `#10`, but `#7` also exists in every simple path from Garbage Collector \(GC\) to `#10`.</span></span>  <span data-ttu-id="2def7-171">Таким образом, объект B является лидером объекта A, если в каждом простом пути от корня к объекту A есть B.</span><span class="sxs-lookup"><span data-stu-id="2def7-171">Therefore, an object B is a dominator of an object A if B exists in every simple path from the root to the object A.</span></span>  
 
-:::image type="complex" source="../media/memory-problems-dominators.msft.gif" alt-text="Анимированный лидеровый свет" lightbox="../media/memory-problems-dominators.msft.gif":::
+:::image type="complex" source="../media/memory-problems-dominators.msft.gif" alt-text="Визуальное представление памяти" lightbox="../media/memory-problems-dominators.msft.gif":::
    <span data-ttu-id="2def7-173">Анимированный лидеровый свет</span><span class="sxs-lookup"><span data-stu-id="2def7-173">Animated dominator illustration</span></span>  
 :::image-end:::  
 

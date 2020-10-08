@@ -64,7 +64,7 @@ ms.locfileid: "11015774"
     1.  <span data-ttu-id="01f0c-132">Перейдите к вложенному меню **другие инструменты** .</span><span class="sxs-lookup"><span data-stu-id="01f0c-132">Navigate to the **More tools** sub-menu.</span></span>  
     1.  <span data-ttu-id="01f0c-133">Выберите **анимации**:</span><span class="sxs-lookup"><span data-stu-id="01f0c-133">Select **Animations**:</span></span>  
         
-        :::image type="complex" source="../media/inspect-styles-elements-styles-more-tools-animations.msft.png" alt-text="Анимация с помощью главного меню" lightbox="../media/inspect-styles-elements-styles-more-tools-animations.msft.png":::
+        :::image type="complex" source="../media/inspect-styles-elements-styles-more-tools-animations.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-elements-styles-more-tools-animations.msft.png":::
            <span data-ttu-id="01f0c-135">**Анимация** с помощью главного меню</span><span class="sxs-lookup"><span data-stu-id="01f0c-135">**Animations** using Main Menu</span></span>  
     :::image-end:::  
         
@@ -73,7 +73,7 @@ ms.locfileid: "11015774"
 
 <span data-ttu-id="01f0c-138">Инспектор анимации открывается в виде вкладки рядом с лотком консоли.</span><span class="sxs-lookup"><span data-stu-id="01f0c-138">The Animation Inspector opens up as a tab next to the Console Drawer.</span></span>  <span data-ttu-id="01f0c-139">Поскольку инспектор анимаций является вкладкой ящика, вы можете использовать инспектор анимации на любой DevTools панели.</span><span class="sxs-lookup"><span data-stu-id="01f0c-139">Since the Animation Inspector is a Drawer tab, you may use the Animation Inspector from any DevTools panel.</span></span>  
 
-:::image type="complex" source="../media/inspect-styles-elements-styles-drawer-animations.msft.png" alt-text="Пустой инспектор анимации" lightbox="../media/inspect-styles-elements-styles-drawer-animations.msft.png":::
+:::image type="complex" source="../media/inspect-styles-elements-styles-drawer-animations.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-elements-styles-drawer-animations.msft.png":::
    <span data-ttu-id="01f0c-141">Пустой инспектор анимации</span><span class="sxs-lookup"><span data-stu-id="01f0c-141">Empty Animation Inspector</span></span>  
 :::image-end:::  
 
@@ -86,7 +86,7 @@ ms.locfileid: "11015774"
 | <span data-ttu-id="01f0c-153">Трехконтактный</span><span class="sxs-lookup"><span data-stu-id="01f0c-153">3</span></span> | **<span data-ttu-id="01f0c-154">Информация о сроках</span><span class="sxs-lookup"><span data-stu-id="01f0c-154">Timeline</span></span>** | <span data-ttu-id="01f0c-155">Задержите и начните анимацию отсюда или переходите к определенной точке анимации.</span><span class="sxs-lookup"><span data-stu-id="01f0c-155">Pause and start an animation from here, or jump to a specific point in the animation.</span></span> |  
 | <span data-ttu-id="01f0c-156">четырехпроцессорном</span><span class="sxs-lookup"><span data-stu-id="01f0c-156">4</span></span> | **<span data-ttu-id="01f0c-157">Сведения</span><span class="sxs-lookup"><span data-stu-id="01f0c-157">Details</span></span>** | <span data-ttu-id="01f0c-158">Проверка и изменение выбранной в данный момент группы эффектов анимации.</span><span class="sxs-lookup"><span data-stu-id="01f0c-158">Inspect and modify the currently selected Animation Group.</span></span> |  
 
-:::image type="complex" source="../media/inspect-styles-elements-styles-drawer-animations-selected-paused.msft.png" alt-text="Инспектор анимации с заметками" lightbox="../media/inspect-styles-elements-styles-drawer-animations-selected-paused.msft.png":::
+:::image type="complex" source="../media/inspect-styles-elements-styles-drawer-animations-selected-paused.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-elements-styles-drawer-animations-selected-paused.msft.png":::
    <span data-ttu-id="01f0c-160">Инспектор анимации с заметками</span><span class="sxs-lookup"><span data-stu-id="01f0c-160">Annotated Animation Inspector</span></span>  
 :::image-end:::  
 
@@ -110,25 +110,25 @@ ms.locfileid: "11015774"
 
 <span data-ttu-id="01f0c-172">После захвата группы анимации щелкните ее в области " **Обзор** ", чтобы просмотреть подробные сведения.</span><span class="sxs-lookup"><span data-stu-id="01f0c-172">After you capture an Animation Group, click on it from the **Overview** pane to view the details.</span></span>  <span data-ttu-id="01f0c-173">В области **сведений** каждая из анимаций назначается отдельной строке.</span><span class="sxs-lookup"><span data-stu-id="01f0c-173">In the **Details** pane each individual animation is assigned the a row.</span></span>  
 
-:::image type="complex" source="../media/inspect-styles-elements-styles-drawer-animations-selected-completed.msft.png" alt-text="Сведения о группе эффектов анимации" lightbox="../media/inspect-styles-elements-styles-drawer-animations-selected-completed.msft.png":::
+:::image type="complex" source="../media/inspect-styles-elements-styles-drawer-animations-selected-completed.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-elements-styles-drawer-animations-selected-completed.msft.png":::
    <span data-ttu-id="01f0c-175">Сведения о группе эффектов анимации</span><span class="sxs-lookup"><span data-stu-id="01f0c-175">Animation Group details</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="01f0c-176">Наведите указатель мыши на анимацию, чтобы выделить ее в окне просмотра.</span><span class="sxs-lookup"><span data-stu-id="01f0c-176">Hover over an animation to highlight it in the viewport.</span></span>  <span data-ttu-id="01f0c-177">Щелкните анимацию, чтобы выделить ее на панели " **элементы** ".</span><span class="sxs-lookup"><span data-stu-id="01f0c-177">Click on the animation to select it in the **Elements** panel.</span></span>  
 
-:::image type="complex" source="../media/inspect-styles-split-elements-styles-drawer-animations-selected-completed.msft.png" alt-text="Наведите указатель мыши на анимацию, чтобы выделить ее в окне просмотра" lightbox="../media/inspect-styles-split-elements-styles-drawer-animations-selected-completed.msft.png":::
+:::image type="complex" source="../media/inspect-styles-split-elements-styles-drawer-animations-selected-completed.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-split-elements-styles-drawer-animations-selected-completed.msft.png":::
    <span data-ttu-id="01f0c-179">Наведите указатель мыши на анимацию, чтобы выделить ее в окне просмотра</span><span class="sxs-lookup"><span data-stu-id="01f0c-179">Hover over the animation to highlight it in viewport</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="01f0c-180">Самым левым и темным разделом анимации является определение.</span><span class="sxs-lookup"><span data-stu-id="01f0c-180">The leftmost, darker section of an animation is the definition.</span></span>  <span data-ttu-id="01f0c-181">Справа, более размытые части представляют собой итерации.</span><span class="sxs-lookup"><span data-stu-id="01f0c-181">The right, more faded section represents iterations.</span></span>  <span data-ttu-id="01f0c-182">Например, на приведенном ниже рисунке две и три части представляют собой итерации раздела One.</span><span class="sxs-lookup"><span data-stu-id="01f0c-182">For example, in the following figure, sections two and three represent iterations of section one.</span></span>  
 
-:::image type="complex" source="../media/inspect-styles-glitch-display-animations-highlight.msft.png" alt-text="Схема итераций анимации" lightbox="../media/inspect-styles-glitch-display-animations-highlight.msft.png":::
+:::image type="complex" source="../media/inspect-styles-glitch-display-animations-highlight.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-glitch-display-animations-highlight.msft.png":::
    <span data-ttu-id="01f0c-184">Схема итераций анимации</span><span class="sxs-lookup"><span data-stu-id="01f0c-184">Diagram of animation iterations</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="01f0c-185">Если к двум элементам применена одинаковая анимация, инспектор анимации назначает элементам один и тот же цвет.</span><span class="sxs-lookup"><span data-stu-id="01f0c-185">If two elements have the same animation applied, the Animation Inspector assigns the same color to the elements.</span></span>  <span data-ttu-id="01f0c-186">Цвет является произвольным и не имеет значимости.</span><span class="sxs-lookup"><span data-stu-id="01f0c-186">The color is random and has no significance.</span></span>  <span data-ttu-id="01f0c-187">Например, на приведенном ниже рисунке показаны два элемента `div.cwccw.earlier` и `div.cwccw.later` применена одинаковая анимация \ ( `spinrightleft` \), как `div.ccwcw.earlier` и `div.ccwcw.later` элементы.</span><span class="sxs-lookup"><span data-stu-id="01f0c-187">For example, in the following figure, the two elements `div.cwccw.earlier` and `div.cwccw.later` have the same animation \(`spinrightleft`\) applied, as do the `div.ccwcw.earlier` and `div.ccwcw.later` elements.</span></span>  
 
-:::image type="complex" source="../media/inspect-styles-glitch-display-animations.msft.png" alt-text="Анимация с цветовым кодированием" lightbox="../media/inspect-styles-glitch-display-animations.msft.png":::
+:::image type="complex" source="../media/inspect-styles-glitch-display-animations.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-glitch-display-animations.msft.png":::
    <span data-ttu-id="01f0c-189">Анимация с цветовым кодированием</span><span class="sxs-lookup"><span data-stu-id="01f0c-189">Color-coded animations</span></span>  
 :::image-end:::  
 
@@ -142,25 +142,25 @@ ms.locfileid: "11015774"
     
 <span data-ttu-id="01f0c-195">На приведенном ниже рисунке представлена исходная анимация.</span><span class="sxs-lookup"><span data-stu-id="01f0c-195">In the following figure, the original animation is represented.</span></span>  
 
-:::image type="complex" source="../media/inspect-styles-glitch-spin-animations-console-animations.msft.png" alt-text="Исходная анимация перед изменением" lightbox="../media/inspect-styles-glitch-spin-animations-console-animations.msft.png":::
+:::image type="complex" source="../media/inspect-styles-glitch-spin-animations-console-animations.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-glitch-spin-animations-console-animations.msft.png":::
    <span data-ttu-id="01f0c-197">Исходная анимация перед изменением</span><span class="sxs-lookup"><span data-stu-id="01f0c-197">Original animation before modification</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="01f0c-198">Чтобы изменить длительность анимации, щелкните и перетащите первый или последний круг.</span><span class="sxs-lookup"><span data-stu-id="01f0c-198">To change the duration of an animation, click and drag the first or last circle.</span></span>  
 
-:::image type="complex" source="../media/inspect-styles-glitch-spin-animations-console-animations-shorter.msft.png" alt-text="Измененная длительность" lightbox="../media/inspect-styles-glitch-spin-animations-console-animations-shorter.msft.png":::
+:::image type="complex" source="../media/inspect-styles-glitch-spin-animations-console-animations-shorter.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-glitch-spin-animations-console-animations-shorter.msft.png":::
    <span data-ttu-id="01f0c-200">Измененная длительность</span><span class="sxs-lookup"><span data-stu-id="01f0c-200">Modified duration</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="01f0c-201">Если анимация определяет любые правила для ключевого кадра, они будут представлены как белые внутренние круги.</span><span class="sxs-lookup"><span data-stu-id="01f0c-201">If the animation defines any keyframe rules, then these are represented as white inner circles.</span></span>  <span data-ttu-id="01f0c-202">Щелкните и перетащите один из них, чтобы изменить временные показатели для ключевого кадра.</span><span class="sxs-lookup"><span data-stu-id="01f0c-202">Click and drag one of these to change the timing of the keyframe.</span></span>  
 
-:::image type="complex" source="../media/inspect-styles-glitch-spin-animations-console-animations-keyframe-modification.msft.png" alt-text="Измененный ключевой кадр" lightbox="../media/inspect-styles-glitch-spin-animations-console-animations-keyframe-modification.msft.png":::
+:::image type="complex" source="../media/inspect-styles-glitch-spin-animations-console-animations-keyframe-modification.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-glitch-spin-animations-console-animations-keyframe-modification.msft.png":::
    <span data-ttu-id="01f0c-204">Измененный ключевой кадр</span><span class="sxs-lookup"><span data-stu-id="01f0c-204">Modified keyframe</span></span>  
 :::image-end:::  
 
 <span data-ttu-id="01f0c-205">Чтобы добавить задержку для анимации, щелкните и перетащите ее в любое место за исключением кругов.</span><span class="sxs-lookup"><span data-stu-id="01f0c-205">To add a delay to an animation, click and drag it anywhere except the circles.</span></span>  
 
-:::image type="complex" source="../media/inspect-styles-glitch-spin-animations-console-animations-delay.msft.png" alt-text="Измененная задержка" lightbox="../media/inspect-styles-glitch-spin-animations-console-animations-delay.msft.png":::
+:::image type="complex" source="../media/inspect-styles-glitch-spin-animations-console-animations-delay.msft.png" alt-text="Инспектор анимации" lightbox="../media/inspect-styles-glitch-spin-animations-console-animations-delay.msft.png":::
    <span data-ttu-id="01f0c-207">Измененная задержка</span><span class="sxs-lookup"><span data-stu-id="01f0c-207">Modified delay</span></span>  
 :::image-end:::  
 

@@ -51,7 +51,7 @@ ms.locfileid: "11003938"
 
 ## <span data-ttu-id="e860a-131">Основные средства</span><span class="sxs-lookup"><span data-stu-id="e860a-131">Core tools</span></span>  
 
-:::image type="complex" source="./devtools-guide-chromium/media/devtools-core-tools.png" alt-text="Основные инструменты для Microsoft EDGE (Chromium) DevTools":::
+:::image type="complex" source="./devtools-guide-chromium/media/devtools-core-tools.png" alt-text="Microsoft EDGE (Chromium) DevTools":::
    <span data-ttu-id="e860a-133">Основные инструменты для Microsoft EDGE (Chromium) DevTools</span><span class="sxs-lookup"><span data-stu-id="e860a-133">Microsoft Edge (Chromium) DevTools core tools</span></span>  
 :::image-end::: 
 
@@ -80,7 +80,7 @@ ms.locfileid: "11003938"
 
 <span data-ttu-id="e860a-155">Вы также можете добавлять расширения из [веб-магазина Chrome][GoogleChromeWebstoreExtensions].</span><span class="sxs-lookup"><span data-stu-id="e860a-155">You may also add extensions from the [Chrome Web Store][GoogleChromeWebstoreExtensions].</span></span>  
 
-:::image type="complex" source="./devtools-guide-chromium/media/allow-extensions-from-stores.png" alt-text="Веб-магазин Chrome в Microsoft Edge":::
+:::image type="complex" source="./devtools-guide-chromium/media/allow-extensions-from-stores.png" alt-text="Microsoft EDGE (Chromium) DevTools":::
    <span data-ttu-id="e860a-157">Веб-магазин Chrome в Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="e860a-157">Chrome Web Store in Microsoft Edge</span></span>  
 :::image-end:::  
 
@@ -91,7 +91,7 @@ ms.locfileid: "11003938"
 
 <span data-ttu-id="e860a-160">Нажмите кнопку **Добавить в хром** , чтобы добавить расширение DevTools в Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="e860a-160">Select **Add to Chrome** to add your DevTools extension to Microsoft Edge!</span></span>  
 
-:::image type="complex" source="./devtools-guide-chromium/media/install-extension-from-chrome-store.png" alt-text="Добавление расширения из веб-магазина Chrome в Microsoft Edge":::
+:::image type="complex" source="./devtools-guide-chromium/media/install-extension-from-chrome-store.png" alt-text="Microsoft EDGE (Chromium) DevTools":::
    <span data-ttu-id="e860a-162">Добавление расширения из веб-магазина Chrome в Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="e860a-162">Adding extension from Chrome Web Store to Microsoft Edge</span></span>  
 :::image-end:::  
 
