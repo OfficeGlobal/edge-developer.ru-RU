@@ -3,16 +3,16 @@ description: Соответствие сочетаний клавиш для к�
 title: Новые возможности DevTools (Microsoft Edge 86)
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/08/2020
+ms.date: 10/08/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 943eca7e73385513b264feb74ec37c450d5c5a2f
-ms.sourcegitcommit: 6b577cb118f34f3ff2c65eab2908b65f155dc151
+ms.openlocfilehash: 74fb4e276547d9f653a5bcbdcab9c4406d09a81a
+ms.sourcegitcommit: 912609aa49864e3363aaa3b245ff2aa4bec3fc3e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "11004228"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "11104863"
 ---
 # Новые возможности DevTools (Microsoft Edge 86)  
 
@@ -174,7 +174,7 @@ The current effort to improve translation quality enables easier support for mor
 
 ### Новая панель мультимедиа  
 
-DevTools теперь отображает сведения о проигрывателях мультимедиа на панели " [мультимедиа][DevtoolsMediaIndex] ".  
+DevTools теперь отображает сведения о проигрывателях мультимедиа на панели " [мультимедиа][DevtoolsMediaPanelIndex] ".  
 
 Чтобы открыть новую панель **мультимедиа** , выполните указанные ниже действия.  
 
@@ -468,7 +468,7 @@ DevTools теперь будет отображать тот же тип рес�
 [DevtoolsCoverageIndex]: /microsoft-edge/devtools-guide-chromium/coverage/index "Поиск неиспользуемых кодов JavaScript и CSS с помощью вкладки "покрытие" в Microsoft Edge DevTools | Документы Microsoft"  
 [DevtoolsCustomizeIndexDrawer]: /microsoft-edge/devtools-guide-chromium/customize/index#drawer "Ящик — настройка Microsoft Edge DevTools | Документы Microsoft"  
 [DevtoolsEvaluatePerformanceReferenceAnalyzeRenderingPerformance]: /microsoft-edge/devtools-guide-chromium/evaluate-performance/reference#analyze-rendering-performance-with-the-rendering-tab "Анализ производительности отрисовки с помощью вкладки "рендеринг" — Справка по анализу производительности | Документы Microsoft"  
-[DevtoolsMediaIndex]: /microsoft-edge/devtools-guide-chromium/media/index "Просмотр и отладка сведений о проигрывателях мультимедиа | Документы Microsoft"  
+[DevtoolsMediaPanelIndex]: /microsoft-edge/devtools-guide-chromium/media-panel/index "Просмотр и отладка сведений о проигрывателях мультимедиа | Документы Microsoft"  
 
 [DualScreenIntroductionHowWorkSeam]:  /dual-screen/introduction#how-to-work-with-the-seam "Работа с стыками — введение в работу с устройствами с двумя экранами | Документы Microsoft"  
 [DualScreenWebCssMediaSpanning]: /dual-screen/web/css-media-spanning "Функция многоэкранной группировки с экрана в каскадных таблицах CSS | Документы Microsoft"  

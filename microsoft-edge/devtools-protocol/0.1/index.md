@@ -7,12 +7,12 @@ ms.date: 03/05/2020
 ms.topic: reference
 ms.prod: microsoft-edge
 ms.custom: seodec18
-ms.openlocfilehash: 29dc8f1b0ba67cb2b3155cb2135d488609e9bff9
-ms.sourcegitcommit: 6860234c25a8be863b7f29a54838e78e120dbb62
+ms.openlocfilehash: 3c0648467c20572a525fe257788068966efd193c
+ms.sourcegitcommit: 845a0d53a86bee3678f421adee26b3372cefce57
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "10571683"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "11104737"
 ---
 # Протокол DevTools версии 0,1 заметки о выпуске
 
@@ -25,7 +25,7 @@ ms.locfileid: "10571683"
 
  - Предоставьте общедоступный API для нашего приложения DevTools, чтобы присоединиться к Microsoft Edge
  - Расширение доступа к функциональным возможностям DevTools с помощью внешних клиентов
- - Разрешите удаленную отладку в диапазоне устройств с Windows 10, работающих в Micrsoft Edge 
+ - Разрешите удаленную отладку в диапазоне устройств с Windows 10, работающих под управлением Microsoft Edge. 
 
 В этом предварительном выпуске доступны основные функциональные возможности отладки, такие как установка точек останова, пошаговое выполнение кода и изучение трассировок стека. В пользовательском интерфейсе DevTools это преобразуется в функциональные возможности, доступные на панели [**отладчика**](../../devtools-guide/debugger.md) , за вычетом проверки кэша (для веб-хранилища, рабочего процесса службы, кэша API и IndexedDB). 
 

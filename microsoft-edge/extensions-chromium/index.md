@@ -7,14 +7,14 @@ ms.date: 05/28/2020
 ms.topic: conceptual
 ms.prod: microsoft-edge
 keywords: EDGE, Разработка расширений, расширения браузера, надстройки, центр партнера, разработчик, расширения Chromium
-ms.openlocfilehash: 2c4c34805e93bf6fbae57f1d0230cc821d1f3f65
-ms.sourcegitcommit: a5392ab44133d742c0e1fa500ad9a872989b7c3f
+ms.openlocfilehash: 85858fc7e1159db3175c3a67c3cfd5f6dfbb448f
+ms.sourcegitcommit: 845a0d53a86bee3678f421adee26b3372cefce57
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "10684701"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "11104702"
 ---
-# Расширения Microsoft EDGE (Chromium)  
+# Расширения Microsoft EDGE (Chromium) 
 
 Расширение — это небольшая программа, которую вы (разработчик) может использовать для добавления новых функций в Microsoft Edge \ (Chromium \) или изменения существующих функциональных возможностей.  Расширение предназначено для повышения ежедневного обзора пользователей, предоставляя функции специализированные, важные для целевой аудитории.  
 
@@ -22,7 +22,7 @@ ms.locfileid: "10684701"
 
 Расширение структурировано так же, как обычное веб-приложение.  Как минимум, он содержит JSON-файл манифеста приложения, который содержит основные сведения о платформе, файл JavaScript для определения функциональных возможностей, а также HTML и CSS-файл, чтобы определить внешний вид пользовательского интерфейса \ (как требуется).  Для работы непосредственно с веб-браузером, например окном или вкладкой, необходимо отправить запросы API и часто ссылаться на веб-браузер по имени.  
 
-:::image type="complex" source="./media/example-extension-screenshot.png" alt-text="Расширение Microsoft EDGE (Chromium)":::
+:::image type="complex" source="./media/example-extension-screenshot.png" alt-text="Расширение Microsoft EDGE (Chromium)&quot;:::
   Расширение Microsoft Edge \ (Chromium \)  
 :::image-end:::  
 
@@ -42,7 +42,7 @@ ms.locfileid: "10684701"
 > [!IMPORTANT]
 > Многие учебники по сайтам используют API, зависящие от браузера, которые могут не совпадать с браузером, для которого вы разрабатываете.  В большинстве случаев расширение Chromium работает так же, как в разных браузерах Chromium, и API работают должным образом.  Только некоторые менее распространенные API могут быть строго специфичными для браузера.  Ссылки на учебники можно найти в [разделе Дополнительные сведения](#see-also).  
 
-## Зачем Chromium  
+## Зачем Chromium?
 
 Если вы хотите опубликовать расширение в максимально возможном количестве хранилищ расширений браузера, оно должно быть изменено для нескольких версий, чтобы обеспечить целевую работу и работать в каждой из различных сред браузера.  [Расширения Safari][AppleDeveloperSafariservicesAppExtensions], в отличие от других типов расширений, могут использовать как веб-, так и машинный код для связи с собственными машинными приложениями.  [Расширения Firefox][MDNWebextensions] совместно используются вместе с другими типами расширений, но есть и другие [отличия][ExtensionworkshopPorting] , которые следует учитывать.  Однако есть и другие хорошие новости; последние четыре браузера, описанные выше, позволяют использовать один и тот же пакет кода и свести к минимуму необходимость изменения и поддержки параллельных версий.  Это связано с тем, что браузеры основаны на [проекте с открытым исходным кодом Chromium][|::ref1::|Home].  
 
@@ -98,7 +98,7 @@ ms.locfileid: "10684701"
 *   [Перенос расширения Google Chrome][ExtensionworkshopPorting]  
 *   [Создание расширения приложения Safari][AppleDeveloperSafariservicesAppExtensionsBuilding]  
 *   [Свое первое расширение (Firefox)][MDNWebextensionsYourFirst]  
-*   [Учебник "Приступая к работе" (Chrome)][ChromeDeveloperExtensionsGetstarted]  
+*   [Учебник &quot;Приступая к работе&quot; (Chrome)][ChromeDeveloperExtensionsGetstarted]  
 *   [Приступая к работе (Opera)][OperaDevExtensionsGettingStarted]  
 *   [Начало работы с расширениями Microsoft EDGE (Chromium)][ExtensionsChromiumGettingStartedIndex]  
 
@@ -106,35 +106,35 @@ ms.locfileid: "10684701"
 
 <!-- links -->  
 
-[ExtensionsChromiumDeveloperGuidePortChrome]: ./developer-guide/port-chrome-extension.md "Расширение Chrome для порта в Microsoft (Chromium) Edge | Документы Microsoft"  
-[ExtensionsChromiumGettingStartedIndex]: ./getting-started/index.md "Начало работы с расширениями Microsoft EDGE (Chromium) | Документы Microsoft"  
-[ExtensionsChromiumPublish]: ./publish/publish-extension.md "Опубликовать расширение | Документы Microsoft"  
+[ExtensionsChromiumDeveloperGuidePortChrome]: ./developer-guide/port-chrome-extension.md &quot;Расширение Chrome для порта в Microsoft (Chromium) Edge | Документы Microsoft&quot;  
+[ExtensionsChromiumGettingStartedIndex]: ./getting-started/index.md &quot;Начало работы с расширениями Microsoft EDGE (Chromium) | Документы Microsoft&quot;  
+[ExtensionsChromiumPublish]: ./publish/publish-extension.md &quot;Опубликовать расширение | Документы Microsoft&quot;  
 
-[MicrosoftDeveloperEdgeExtensions]: https://developer.microsoft.com/microsoft-edge/extensions "Разработка расширений для Microsoft Edge | Разработчик Майкрософт"  
-[MicrosoftDeveloperRegistration]: https://developer.microsoft.com/registration "Центр партнеров | Разработчик Майкрософт"  
+[MicrosoftDeveloperEdgeExtensions]: https://developer.microsoft.com/microsoft-edge/extensions &quot;Разработка расширений для Microsoft Edge | Разработчик Майкрософт&quot;  
+[MicrosoftDeveloperRegistration]: https://developer.microsoft.com/registration &quot;Центр партнеров | Разработчик Майкрософт&quot;  
 
-[MicrosoftEdgeAddonsCategoryExtensions]: https://microsoftedge.microsoft.com/addons/category/Edge-Extensions "Расширения Microsoft Edge | Microsoft Edge"  
+[MicrosoftEdgeAddonsCategoryExtensions]: https://microsoftedge.microsoft.com/addons/category/Edge-Extensions &quot;Расширения Microsoft Edge | Microsoft Edge&quot;  
 
-[AppleDeveloperSafariservicesAppExtensions]: https://developer.apple.com/documentation/safariservices/safari_app_extensions "Расширения приложения Safari | Разработчик Apple"  
-[AppleDeveloperSafariservicesAppExtensionsBuilding]: https://developer.apple.com/documentation/safariservices/safari_app_extensions/building_a_safari_app_extension "Создание расширения приложения Safari | Разработчик Apple"  
+[AppleDeveloperSafariservicesAppExtensions]: https://developer.apple.com/documentation/safariservices/safari_app_extensions &quot;Расширения приложения Safari | Разработчик Apple&quot;  
+[AppleDeveloperSafariservicesAppExtensionsBuilding]: https://developer.apple.com/documentation/safariservices/safari_app_extensions/building_a_safari_app_extension &quot;Создание расширения приложения Safari | Разработчик Apple&quot;  
 
-[ChromeDeveloperExtensions]: https://developer.chrome.com/extensions "Что такое расширения? | Разработчик Chrome"  
-[ChromeDeveloperExtensionsApiIndex]: https://developer.chrome.com/extensions/api_index "Интерфейсы API Chrome | Разработчик Chrome"  
-[ChromeDeveloperExtensionsGetstarted]: https://developer.chrome.com/extensions/getstarted "Учебник "Приступая к работе" | Разработчик Chrome"  
+[ChromeDeveloperExtensions]: https://developer.chrome.com/extensions &quot;Что такое расширения? | Разработчик Chrome&quot;  
+[ChromeDeveloperExtensionsApiIndex]: https://developer.chrome.com/extensions/api_index &quot;Интерфейсы API Chrome | Разработчик Chrome&quot;  
+[ChromeDeveloperExtensionsGetstarted]: https://developer.chrome.com/extensions/getstarted &quot;Учебник &quot;Приступая к работе&quot; | Разработчик Chrome&quot;  
 
-[ChromiumHome]: https://www.chromium.org/Home "Chromium"  
+[ChromiumHome]: https://www.chromium.org/Home &quot;Chromium&quot;  
 
-[ExtensionworkshopPorting]: https://extensionworkshop.com/documentation/develop/porting-a-google-chrome-extension "Перенос расширения Google Chrome | Семинар по добавочному номеру"  
+[ExtensionworkshopPorting]: https://extensionworkshop.com/documentation/develop/porting-a-google-chrome-extension &quot;Перенос расширения Google Chrome | Семинар по добавочному номеру&quot;  
 
-[GoogleChromeWebstoreCategoryExtensions]: https://chrome.google.com/webstore/category/extensions "Расширения | Веб-магазин Chrome"  
+[GoogleChromeWebstoreCategoryExtensions]: https://chrome.google.com/webstore/category/extensions &quot;Расширения | Веб-магазин Chrome&quot;  
 
-[MDNWebextensions]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions "Расширения браузера | MDN"  
-[MDNWebextensionsYourFirst]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension "Первое расширение | MDN"  
+[MDNWebextensions]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions &quot;Расширения браузера | MDN&quot;  
+[MDNWebextensionsYourFirst]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension &quot;Первое расширение | MDN&quot;  
 
-[MozillaAddonsFirefoxExtensions]: https://addons.mozilla.org/firefox/extensions "Расширения | Надстройки для Firefox"  
+[MozillaAddonsFirefoxExtensions]: https://addons.mozilla.org/firefox/extensions &quot;Расширения | Надстройки для Firefox&quot;  
 
-[OperaAddonsExtensions]: https://addons.opera.com/extensions "Расширения | Надстройки для Opera"  
+[OperaAddonsExtensions]: https://addons.opera.com/extensions &quot;Расширения | Надстройки для Opera&quot;  
 
-[OperaDevExtensions]: https://dev.opera.com/extensions "Документация по расширениям | Dev. Opera"  
-[OperaDevExtensionsApis]: https://dev.opera.com/extensions/apis "API расширения, поддерживаемые в Opera | Dev. Opera"  
-[OperaDevExtensionsGettingStarted]: https://dev.opera.com/extensions/getting-started "Приступая к работе | Dev. Opera"  
+[OperaDevExtensions]: https://dev.opera.com/extensions &quot;Документация по расширениям | Dev. Opera&quot;  
+[OperaDevExtensionsApis]: https://dev.opera.com/extensions/apis &quot;API расширения, поддерживаемые в Opera | Dev. Opera&quot;  
+[OperaDevExtensionsGettingStarted]: https://dev.opera.com/extensions/getting-started &quot;Приступая к работе | Dev. Opera"  

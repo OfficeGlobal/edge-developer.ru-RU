@@ -1,63 +1,61 @@
 ---
-description: Расширение "Начало работы", часть 1
-title: Создавайте простое расширение, которое выталкивает на картину дня в NASA
+description: Создание расширения, которое выводится на картину месяца на NASA
+title: Учебник по созданию расширения — часть 1
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/15/2020
-ms.topic: article
+ms.date: 09/23/2020
+ms.topic: conceptual
 ms.prod: microsoft-edge
 keywords: Edge — Chromium, Web Development, HTML, CSS, JavaScript, разработчик, расширения
-ms.openlocfilehash: 826401869b98d339e9b156a3727d94bd1182063d
-ms.sourcegitcommit: d360e419b5f96f4f691cf7330b0d8dff9126f82e
+ms.openlocfilehash: 3809bfac714621cf97184127132487ed93958a2f
+ms.sourcegitcommit: 845a0d53a86bee3678f421adee26b3372cefce57
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "11015767"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "11104709"
 ---
-# Создавайте простое расширение, которое выталкивает на картину дня в NASA 
- 
-<!--  
-[Completed Extension Package Source for This Part][ArchiveExtensionGettingStartedPart1]  
--->  
+# Учебник по созданию расширения — часть 1  
 
 ## Обзор  
 
-В части 1 цель состоит в том, чтобы создать очень простое расширение Chromium EDGE, начиная с пустого каталога.  Цель этого расширения — выполнить следующие задачи.  
+Цель этого учебника состоит в том, чтобы создать расширение Microsoft EDGE (Chromium), начиная с пустого каталога. Мы создадим расширение, которое будет выводится в виде фотографии на вашем дне NASA. В этом учебнике вы узнаете, как создать расширение, выполнив следующие действия:
 
-*   Создание значков для расширения, которое может использоваться в разных местах и в разных размерах  
-*   Создание простого `manifest.json` файла  
-*   Отображение значка запуска, на котором выводится всплывающее окно с изображением в виде NASA дня  
+*   Создание `manifest.json` файла.  
+*   Добавление значков.  
+*   Открытие всплывающего окна по умолчанию.  
 
-## Основы файла манифеста  
+## Подготовка
 
-У каждого пакета расширения должен быть `manifest.json` файл в корне.  Вы должны представить этот план для расширения.  Она сообщает обработчику о том, какая версия API расширения ожидает расширений, имя и описание расширения, а также множество других сведений, которые обсуждаются в данном руководстве по началу работы с несколькими компонентами.  
+Если вы хотите протестировать заполненное расширение, которое будет построено в этом учебнике, скачайте [Исходный код][ArchiveExtensionGettingStartedPart1].  
 
-Ниже приведен простой  `manifest.json`  
+## Действие 1: создание `manifest.json` файла
+
+У каждого пакета расширения должен быть `manifest.json` файл в корне.  Манифест предоставляет сведения о расширении, версию пакета расширения, имя и описание расширения и т. д.  
+
+В приведенном ниже фрагменте кода отображаются основные сведения, необходимые для `manifest.json` файла.  
 
 ```json
 {
-    "name": "NASA Picture of the day viewer",
+    "name": "NASA picture of the day viewer",
     "version": "0.0.0.1",
     "manifest_version": 2,
-    "description": "A Chromium Extension to show the NASA Picture of the Day."
+    "description": "A Chromium extension to display the NASA picture of the day."
 }
 ```  
 
-## Настройка значков расширений  
+## Действие 2: Добавление значков  
 
-Затем добавьте в файл несколько значков `manifest.json` \ (и создайте новый `/icons` каталог с файлами значков \).  Значки используются для фонового изображения кнопки, которую пользователь выбирает, чтобы запустить расширение \ (если есть), и другие подходящие места.  
+Начните с создания `icons` каталога в проекте для хранения файлов изображений значков.  Значки используются для фонового изображения кнопки, которую пользователь выбирает для запуска расширения.  
 
-`PNG` является рекомендуемым форматом, но вы также можете `BMP` использовать `GIF` , `ICO` и `JPEG` .  Рекомендуется всегда иметь значок размера 128x128 пикселей, и браузер автоматически изменяет их размер по мере необходимости.  
-
-Структура каталогов должна выглядеть так, как показано на рисунке ниже.  
-
-<!--  
-:::image type="complex" source="./media/part1-heirarchy.png" alt-text="Directory Structure":::
-   Directory Structure
+:::image type="complex" source="./media/part1-badge1.png" alt-text="Значок на панели инструментов, чтобы открыть расширение&quot;:::
+   Значок на панели инструментов, чтобы открыть расширение
 :::image-end:::
--->  
 
-<!--![Directory Structure][ImagePart1Heirarchy]  -->  
+Для значков рекомендуется использовать: 
+*   `PNG` формат значков, но вы также можете использовать `BMP` , `GIF` `ICO` или `JPEG` Форматировать.  
+*   Изображения размером 128 x 128 px, которые при необходимости изменяются в браузере.  
+
+Каталоги проекта должны выглядеть так, как показано в приведенной ниже структуре.   
 
 ```shell
 └── part1
@@ -69,85 +67,44 @@ ms.locfileid: "11015767"
         └── nasapod128x128.png
 ```  
 
-Обновленный `manifest.json` файл должен выглядеть следующим образом.  
+Затем добавьте значки в `manifest.json` файл. Обновите `manifest.json` файл со сведениями о значке, чтобы он соответствовал следующему фрагменту кода. `png`Файлы, перечисленные в приведенном ниже коде, доступны в файле download, упомянутом ранее в этой статье.  
 
 ```json
 {
-    "name": "NASA Picture of the day viewer",
-    "version": "0.0.0.1",
-    "manifest_version": 2,
-    "description": "A chromium extension to show the NASA Picture of the Day.",
-    "icons": {
-        "16": "icons/nasapod16x16.png",
-        "32": "icons/nasapod32x32.png",
-        "48": "icons/nasapod48x48.png",
-        "128": "icons/nasapod128x128.png"
+    &quot;name&quot;: &quot;NASA picture of the day viewer&quot;,
+    &quot;version&quot;: &quot;0.0.0.1&quot;,
+    &quot;manifest_version&quot;: 2,
+    &quot;description&quot;: &quot;A chromium extension to show the NASA picture of the day.&quot;,
+    &quot;icons&quot;: {
+        &quot;16&quot;: &quot;icons/nasapod16x16.png&quot;,
+        &quot;32&quot;: &quot;icons/nasapod32x32.png&quot;,
+        &quot;48&quot;: &quot;icons/nasapod48x48.png&quot;,
+        &quot;128&quot;: &quot;icons/nasapod128x128.png"
     }
 }
 ```  
 
-> [!NOTE]
-> Файлы значков, `png` перечисленные в предыдущем коде, находятся в файле с расширением ZIP, упомянутом в верхней части этой страницы.  
+## Шаг 3: открытие всплывающего окна, используемого по умолчанию  
 
-## Добавление всплывающего окна по умолчанию  
+Теперь создайте `HTML` файл, который запускается, когда пользователь запускает расширение.  Создайте HTML-файл, вызываемый `popup.html` в каталоге с именем `popup` .  Когда пользователи выбирают этот значок для запуска расширения, `popup/popup.html` он отображается как модальное диалоговое окно.  
 
-Теперь создайте `HTML` файл, который автоматически запускается, когда пользователь выбирает значок расширения.  
-
-:::image type="complex" source="./media/part1-badge1.png" alt-text="Значок значка на панели инструментов":::
-   Значок значка на панели инструментов
-:::image-end:::
-
-<!--![Toolbar Badge Icon][ImagePart1Badge1]  -->  
-
-Имя HTML-файла `popup/popup.html` .  При выборе значка расширения открывается `popup/popup.html` модальное диалоговое окно, которое остается на месте, пока не выберете его за пределы диалогового окна.  
-
-Для этого зарегистрируйте файл в качестве всплывающего окна по умолчанию в `manifest.json` разделе в `browser_action` следующем коде.  
-
-```json
-{
-    "name": "NASA Picture of the day viewer",
-    "version": "0.0.0.1",
-    "manifest_version": 2,
-    "description": "A chromium Extension to show the NASA Picture of the Day.",
-    "icons": {
-        "16": "icons/nasapod16x16.png",
-        "32": "icons/nasapod32x32.png",
-        "48": "icons/nasapod48x48.png",
-        "128": "icons/nasapod128x128.png"
-    },
-    "browser_action": {
-        "default_popup": "popup/popup.html"
-    }
-}
-```  
-
-В `popup` каталоге добавьте файл, чтобы `popup.html` он отображался на изображении звезд.  `popup.html`Файл.  
+Добавьте код из следующего фрагмента кода, чтобы `popup.html` отобразить изображение звезды.  
 
 ```html
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <title>NASA Picture of the Day</title>
+        <title>NASA picture of the day</title>
     </head>
     <body>
         <div>
-            <img src="/images/stars.jpeg" alt="stars" />
+            <img src="/images/stars.jpeg" alt="Display the stars image" />
         </div>
     </body>
 </html>
 ```  
 
- Кроме того, добавьте файл изображения `images/stars.jpeg` , на который указывает ссылка в `popup.html` файле.  
-
-Структура каталогов для примера расширения показана на следующей схеме.  
-
-<!--  
-:::image type="complex" source="./media/part1-heirarchy1.png" alt-text="Directory Structure for Extension":::
-   Directory Structure for Extension
-:::image-end:::
--->  
-
-<!--![Directory Structure for Extension][ImagePart1Heirarchy1]  -->  
+Убедитесь, что вы добавите файл изображения `images/stars.jpeg` в папку изображений.  Каталоги проекта должны выглядеть так, как показано в приведенной ниже структуре.   
 
 ```shell
 └── part1
@@ -163,52 +120,29 @@ ms.locfileid: "11015767"
         └── popup.html
 ```  
 
-<!--  
-> [!NOTE]
-> The `images/stars.jpeg` file listed in the previous image is available in the [zip download][ArchiveExtensionGettingStartedPart1].  
--->  
+Наконец, убедитесь, что вы зарегистрировали всплывающее окно в `manifest.json` разделе `browser_action` , как показано в следующем фрагменте кода.  
 
-Это все, что нужно для того, чтобы создать рабочее расширение.  Все, что осталось сделать, — это проверить его.  
+```json
+{
+    "name": "NASA picture of the day viewer",
+    "version": "0.0.0.1",
+    "manifest_version": 2,
+    "description": "A chromium extension to display the NASA picture of the day.",
+    "icons": {
+        "16": "icons/nasapod16x16.png",
+        "32": "icons/nasapod32x32.png",
+        "48": "icons/nasapod48x48.png",
+        "128": "icons/nasapod128x128.png"
+    },
+    "browser_action": {
+        "default_popup": "popup/popup.html"
+    }
+}
+```  
 
-В следующем разделе объясняется, как загрузить расширение \ (иногда называется загрузкой на боковой панели) в браузер Microsoft Edge \ (Chromium \), чтобы протестировать его.  
+## Дальнейшие действия
+Это все, что вам нужно, чтобы разработать рабочее расширение. Теперь продолжайте неопубликованного и проверяйте свое расширение. Дополнительные сведения можно найти в разделе [неопубликованного расширения][TestExtensionSideload].  
 
-## Запуск расширения локально в браузере во время его разработки \ (боковая загрузка)  
-
-Браузер Microsoft Edge \ (Chromium \) обеспечивает безопасный и простой способ для работы с ними, а также для отладки расширений во время разработки.  
-
-Процесс довольно прост.  Сначала нужно выбрать три точки в верхней части окна браузера.  Затем выберите нужное `Extensions` значение из контекстного меню, как показано на рисунке ниже.  
-
-:::image type="complex" source="./media/part1-threedots.png" alt-text="Выбор расширений":::
-   Выбор расширений
-:::image-end:::
-
-<!--![Choose Extensions][ImagePart1Threedots]  -->  
-
-На странице **Extensions** , как показано на приведенном ниже изображении, включите **режим разработчика** , включив переключатель в нижнюю часть страницы, как показано на рисунке ниже.  
-
-:::image type="complex" source="./media/part1-developermode-toggle.png" alt-text="Включение режима разработчика":::
-   Включение режима разработчика
-:::image-end:::
-
-<!--![Enable Developer Mode][ImagePart1DevelopermodeToggle]  -->  
-
-## Установка и обновление расширений, загруженных в сторону  
-
-Когда вы в первый раз хотите установить расширение, вы выбираете параметр, `Load Unpacked` как показано на рисунке ниже.  В этом случае появится запрос на доступ к каталогу, в котором находится файл ресурсов расширения.  Это расширение будет установлено так, как будто вы загрузили его из магазина.  
-
-:::image type="complex" source="./media/part1-installed-extension.png" alt-text="Установленные расширения":::
-   Установленные расширения
-:::image-end:::
-
-<!--![Installed Extensions][ImagePart1InstalledExtension]  -->  
-
-После установки расширения вы можете обновить его, нажав `Reload` кнопку под перечнем расширения.  
-
-Чтобы удалить расширение из браузера, нажмите кнопку `Remove` внизу списка расширений.  
-
-## Отладка расширений  
-
-Отладка расширений осуществляется очень просто и поддерживает все функции в EDGE Chromium DevTools.  Эти сведения не рассматриваются в этом руководстве по началу работы, но очень важны для успешного построения расширений.  
 
 <!-- image links -->  
 
@@ -221,4 +155,6 @@ ms.locfileid: "11015767"
 
 <!-- links -->  
 
-[ArchiveExtensionGettingStartedPart1]: ./extension-source/extension-getting-started-part1.zip "Источник пакета расширения для этой части завершен | Документы Microsoft"  
+[ArchiveExtensionGettingStartedPart1]: https://github.com/MicrosoftEdge/MicrosoftEdge-Extensions-Demos/tree/master/extension-getting-started-part1/part1 "Завершен источник пакета расширения | Документы Microsoft"
+
+[TestExtensionSideload]: ./extension-sideloading.md "Проверка расширения (для неопубликованных приложений) | Документы Microsoft"
