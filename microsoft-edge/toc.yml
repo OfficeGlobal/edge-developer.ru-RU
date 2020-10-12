@@ -144,7 +144,7 @@
           href: devtools-guide-chromium/issues/index.md
         - name: Меню команд
           href: devtools-guide-chromium/command-menu/index.md
-        - name: Имитация мобильных устройств
+        - name: Эмуляция
           items:
             - name: Обзор
               href: devtools-guide-chromium/device-mode/index.md
@@ -236,6 +236,8 @@
               href: devtools-guide-chromium/memory-problems/heap-snapshots.md
             - name: Использование инструментирования выделения на временной шкале
               href: devtools-guide-chromium/memory-problems/allocation-profiler.md
+        - name: Media
+          href: devtools-guide-chromium/media-panel/index.md
         - name: Рабочие пространства
           href: devtools-guide-chromium/workspaces/index.md
         - name: Прогрессивные веб-приложения
