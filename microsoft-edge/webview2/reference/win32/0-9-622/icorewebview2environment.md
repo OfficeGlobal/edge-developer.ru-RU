@@ -8,12 +8,12 @@ ms.topic: reference
 ms.prod: microsoft-edge
 ms.technology: webview
 keywords: IWebView2, IWebView2WebView, webview2, WebView, приложения Win32, Win32, EDGE, ICoreWebView2, ICoreWebView2Controller, управление браузером, EDGE HTML, ICoreWebView2Environment
-ms.openlocfilehash: 3552de59b8b349c62d61ca165141d9adddd2a5a9
-ms.sourcegitcommit: 0faf538d5033508af4320b9b89c4ed99872f0574
+ms.openlocfilehash: edf573bc7c4c83c7882005937db29a068ab7b015
+ms.sourcegitcommit: 2d57b515d6ccbbe24cb3a8c8f44f9c3a26fc17a4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2020
-ms.locfileid: "11012405"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "11115787"
 ---
 # интерфейс ICoreWebView2Environment 
 
@@ -224,7 +224,7 @@ HRESULT AppWindow::OnCreateEnvironmentCompleted(
 ```
  Когда приложение попытается CreateCoreWebView2Controller после сбоя, рекомендуется перезапустить приложение от создания новой среды WebView2. Если происходит обновление EDGE, версия, связанная с WebView2 средой, может быть удалена и привела к тому, что объект перестанет работать. Создание новой среды WebView2 будет работать в том случае, если она использует последнюю версию.
 
-Создание WebView завершится сбоем, если запущенный экземпляр уже используется в той же папке данных пользователя, а объекты среды имеют разные EnvironmentOptions. Например, если уже имеется WebView, созданный на одном языке, попытка создать WebView на другом языке с использованием той же папки данных пользователя завершается сбоем.
+Создание WebView завершится сбоем, если запущенный экземпляр уже используется в той же папке данных пользователя, а у объектов среды другой EnvironmentOptions или HWND parentWindows имеет разные разрешения DPI. Например, если уже имеется WebView, созданный на одном языке, попытка создать WebView на другом языке с использованием той же папки данных пользователя завершается сбоем.
 
 #### CreateWebResourceResponse 
 
