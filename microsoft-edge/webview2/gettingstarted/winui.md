@@ -1,19 +1,19 @@
 ---
-description: Размещение веб-содержимого в приложении WinUI с помощью элемента управления Microsoft Edge WebView 2
-title: Microsoft Edge WebView2 для приложений WinUI
+description: Руководство по началу работы с WebView2 для WinUI приложений
+title: Приступая к работе с WebView2 для WinUI приложений
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 08/17/2020
+ms.date: 10/14/2020
 ms.topic: conceptual
 ms.prod: microsoft-edge
 ms.technology: webview
 keywords: WebView2, WebView2, WebView, WebView, winui, winui, EDGE, CoreWebView2, Browser Control, EDGE HTML, Приступая к работе, Приступая к работе, .NET
-ms.openlocfilehash: 805655fd27c0b654e1ccb41c615aa21797d6ddf7
-ms.sourcegitcommit: ef6d6adae1f4d18a219fa3e17f91b95b40367a40
+ms.openlocfilehash: df6ee7a7391337635a63a961f62317e5b8a67334
+ms.sourcegitcommit: 61cc15d2fc89aee3e09cec48ef1e0e5bbf8d289a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "10934900"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "11119096"
 ---
 # Начало работы с WebView2 в WinUI3 (Предварительная версия)  
 
@@ -47,7 +47,7 @@ ms.locfileid: "10934900"
     *   Целевая версия: **Windows 10, версия 1903 (сборка 18362)** или более поздняя.  
     *   Минимальная версия: **Windows 10, версия 1803 (сборка 17134)**.  
     
-    :::image type="complex" source="./media/winui-gettingstarted-projecttype.png" alt-text="Диалоговое окно создания проекта универсальной платформы Windows с выбранными значениями для целевой версии и минимальной версии." lightbox="./media/winui-gettingstarted-projecttype.png":::
+    :::image type="complex" source="./media/winui-gettingstarted-projecttype.png" alt-text="Диалоговое окно создания проекта Visual Studio для WinUI" lightbox="./media/winui-gettingstarted-projecttype.png":::
        Диалоговое окно создания проекта универсальной платформы Windows с выбранными значениями для целевой версии и минимальной версии.
     :::image-end:::  
     
@@ -117,7 +117,7 @@ ms.locfileid: "10934900"
     
 1.  Выберите `F5` , чтобы выполнить сборку и запустить проект.  Убедитесь, что ваш элемент управления WebView2 отображается [https://www.microsoft.com][|::ref1::|Main] .  
     
-    :::image type="complex" source="./media/winui-gettingstarted-part3.png" alt-text="Элемент управления WebView2, на котором отображается сайт microsoft.com" lightbox="./media/winui-gettingstarted-part3.png":::
+    :::image type="complex" source="./media/winui-gettingstarted-part3.png" alt-text="Диалоговое окно создания проекта Visual Studio для WinUI" lightbox="./media/winui-gettingstarted-part3.png":::
        Элемент управления WebView2, на котором отображается сайт microsoft.com.  
     :::image-end:::  
     
@@ -177,7 +177,7 @@ ms.locfileid: "10934900"
     > [!NOTE]
     > Убедитесь в том, что в адресной строке используются полные URL-адреса. `ArgumentException` Если URL-адрес не начинается с or, возникают `http://` исключения `https://` .  
     
-    :::image type="complex" source="./media/winui-gettingstarted-bing.png" alt-text="Bing.com" lightbox="./media/winui-gettingstarted-bing.png":::
+    :::image type="complex" source="./media/winui-gettingstarted-bing.png" alt-text="Диалоговое окно создания проекта Visual Studio для WinUI" lightbox="./media/winui-gettingstarted-bing.png":::
        Bing.com  
     :::image-end:::  
     
@@ -231,7 +231,7 @@ private void EnsureHttps(WebView2 sender, WebView2NavigationStartingEventArgs ar
 
 Ведущее приложение может внедрять код JavaScript в элементы управления WebView2 во время выполнения.  Вставленный JavaScript применяется ко всем новым документам верхнего уровня и дочерним кадрам до тех пор, пока не будет удален JavaScript.  Вставленный JavaScript запускается после создания глобального объекта, а также перед запуском любого другого сценария, включенного в документ HTML.  
 
-В качестве примера добавьте сценарии, отправляющие предупреждение, когда пользователь переходит на сайты, не поддерживающие HTTPS.  Измените `EnsureHttps` функцию, чтобы внедрить сценарий в веб-содержимое с помощью [ExecuteScriptAsync][Webviews2ReferenceWpf09515MicrosoftWebExecutescriptasync].  
+В качестве примера добавьте сценарии, отправляющие предупреждение, когда пользователь переходит на сайты, не поддерживающие HTTPS.  Измените `EnsureHttps` функцию, чтобы внедрить сценарий в веб-содержимое с помощью [ExecuteScriptAsync][Webviews2ReferenceWpfMicrosoftWebExecutescriptasync].  
 
 ```csharp
 private void EnsureHttps(WebView2 sender, WebView2NavigationStartingEventArgs args)
@@ -251,7 +251,7 @@ private void EnsureHttps(WebView2 sender, WebView2NavigationStartingEventArgs ar
 
 Выберите `F5` , чтобы выполнить сборку и запустить проект.  Убедитесь, что ваше приложение отображает оповещение при переходе на сайт, который не использует HTTPS.  
 
-:::image type="complex" source="./media/winui-gettingstarted-script.png" alt-text="Элемент управления WebView2, в котором отображается диалоговое окно оповещения" lightbox="./media/winui-gettingstarted-script.png":::
+:::image type="complex" source="./media/winui-gettingstarted-script.png" alt-text="Диалоговое окно создания проекта Visual Studio для WinUI" lightbox="./media/winui-gettingstarted-script.png":::
    Элемент управления WebView2, в котором отображается диалоговое окно оповещения
 :::image-end:::  
 
@@ -264,7 +264,7 @@ private void EnsureHttps(WebView2 sender, WebView2NavigationStartingEventArgs ar
 > [!NOTE]
 > Объект CoreWebView2 WinRT может быть недоступен на момент отгрузки API WebView2. Чтобы узнать, какие API доступны для WebView2 элементов управления, ознакомьтесь со списком доступных API-интерфейсов в [WebView2 спецификации][GithubMicrosoftUiXamlSpecsWebview2] . 
 
-Дополнительные сведения о возможностях WebView2 вы можете найти в статьях [концепции и руководства WebView2][Webview2IndexNextSteps], а также в [репозитории примеров использования WebView2][GithubMicrosoftedgeWebview2samplesMain].  
+Дополнительные сведения о возможностях WebView2: [WebView2 концепциям и руководствами по How-Toм][Webview2IndexNextSteps]и [репозиторием примеров использования WebView2][GithubMicrosoftedgeWebview2samplesMain].  
 
 ## Знакомство с командой Microsoft Edge WebView  
 
@@ -275,7 +275,7 @@ private void EnsureHttps(WebView2 sender, WebView2NavigationStartingEventArgs ar
 [Webview2Index]: ../index.md "Введение в Microsoft Edge WebView2 (Предварительная версия) | Документы Microsoft"  
 [Webview2IndexNextSteps]: ../index.md#next-steps "Дальнейшие действия — введение в Microsoft Edge WebView2 (Предварительная версия) | Документы Microsoft"  
 [Webviews2ConceptsNavigationEvents]: ../concepts/navigation-events.md "События навигации | Документы Microsoft"  
-[Webviews2ReferenceWpf09515MicrosoftWebExecutescriptasync]: ../reference/wpf/0-9-515/microsoft-web-webview2-wpf-webview2.md#executescriptasync "Класс ExecuteScriptAsync-Microsoft. Web. WebView2. WPF. WebView2 | Документы Microsoft"  
+[Webviews2ReferenceWpfMicrosoftWebExecutescriptasync]: /dotnet/api/microsoft.web.webview2.wpf.webview2.executescriptasync "WebView2.ExecuteScriptAsync (String) method (Microsoft. Web. WebView2. WPF) | Документы Microsoft"  
 
 [UwpSchemasAppxpackageUapmanifestRoot]: /uwp/schemas/appxpackage/uapmanifestschema/schema-root "Справочник по схеме манифеста пакета для Windows 10 | Документы Microsoft"  
 

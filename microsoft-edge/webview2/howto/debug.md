@@ -3,17 +3,17 @@ description: Сведения об отладке элементов управ�
 title: Приступая к отладке приложений WebView2
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 08/21/2020
+ms.date: 10/14/2020
 ms.topic: how-to
 ms.prod: microsoft-edge
 ms.technology: webview
 keywords: IWebView2, IWebView2WebView, webview2, WebView, приложения Win32, Win32, EDGE, ICoreWebView2, ICoreWebView2Host, элемент управления "веб-браузер", HTML Edge
-ms.openlocfilehash: 78c0fb982de8ccce71a8df2b59447b55f64fdc2f
-ms.sourcegitcommit: 24151cc65bad92d751a8e7a868c102e1121456e3
+ms.openlocfilehash: 25a710796b499a78a43045266058029caa890b78
+ms.sourcegitcommit: 61cc15d2fc89aee3e09cec48ef1e0e5bbf8d289a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "11052160"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "11119110"
 ---
 # Приступая к отладке приложений WebView2  
 
@@ -236,7 +236,7 @@ Visual Studio предоставляет различные инструмент
     При использовании отладчика вы можете столкнуться со следующими сценариями.  
 
     *   Отладчик не остановится на точке останова, и у вас есть отладочный вывод.  Чтобы устранить эту проблему, убедитесь, что файл с точкой останова является тем же файлом, который используется элементом управления WebView2.  Отладчик не выполняет сопоставление исходного пути.  
-    *   Вы не можете присоединиться к выполняющемуся процессу, и вы получаете сообщение об ошибке тайм-аута.  Чтобы устранить эту проблему, убедитесь, что элемент управления WebView2 открыл порт CDP.  Убедитесь  `additionalBrowserArguments`  , что значение в реестре введено правильно, или параметры указаны правильно.  Дополнительные сведения можно найти в разделе [additionalBrowserArguments для DotNet] [Webview2ReferenceDotnet09515MicrosoftWebWebview2CoreCorewebview2environmentoptionsAdditionalbrowserarguments] и [additionalBrowserArguments для Win32] [Webview2ReferenceWin3209538Webview2IdlParameters].  
+    *   Вы не можете присоединиться к выполняющемуся процессу, и вы получаете сообщение об ошибке тайм-аута.  Чтобы устранить эту проблему, убедитесь, что элемент управления WebView2 открыл порт CDP.  Убедитесь  `additionalBrowserArguments`  , что значение в реестре введено правильно, или параметры указаны правильно.  Дополнительные сведения можно найти в разделе [additionalBrowserArguments для DotNet][Webview2ReferenceDotnetMicrosoftWebWebview2CoreCorewebview2environmentoptionsAdditionalbrowserarguments] и [additionalBrowserArguments для Win32][Webview2ReferenceWin32Webview2IdlParameters].  
     
 * * *  
 
@@ -258,8 +258,8 @@ Visual Studio предоставляет различные инструмент
 
 [DevtoolsGuideChromiumMain]: ../../devtools-guide-chromium.md "Инструменты разработчика Microsoft EDGE (Chromium)"  
 
-[Webview2ReferenceDotnet09628MicrosoftWebWebview2CoreCorewebview2environmentoptionsAdditionalbrowserarguments]: ../reference/dotnet/0-9-628/microsoft-web-webview2-core-corewebview2environmentoptions.md#additionalbrowserarguments "Класс AdditionalBrowserArguments-0.9.515-Microsoft. Web. WebView2. Core. CoreWebView2EnvironmentOptions | Документы Microsoft"  
-[Webview2ReferenceWin3209622Webview2IdlParameters]: ../reference/win32/0-9-622/webview2-idl.md#createcorewebview2environment  "CreateCoreWebView2Environment-Globals | Документы Microsoft"  
+[Webview2ReferenceDotnetMicrosoftWebWebview2CoreCorewebview2environmentoptionsAdditionalbrowserarguments]: /dotnet/api/microsoft.web.webview2.core.corewebview2environmentoptions.additionalbrowserarguments "Свойство CoreWebView2EnvironmentOptions. AdditionalBrowserArguments (Microsoft. Web. WebView2. Core) | Документы Microsoft"  
+[Webview2ReferenceWin32Webview2IdlParameters]: /microsoft-edge/webview2/reference/win32/webview2-idl#createcorewebview2environmentwithoptions  "CreateCoreWebView2Environment-Globals | Документы Microsoft"  
 [Webview2ApiReference]: ../webview2-api-reference.md "Справочник по API Microsoft Edge WebView2 | Документы Microsoft"  
 [Webview2MainNextSteps]: ../index.md#next-steps "Дальнейшие действия — введение в Microsoft Edge WebView2 (Предварительная версия) | Документы Microsoft"  
 [Webview2MainGettingStarted]: ../index.md#getting-started "Приступая к работе: знакомство с Microsoft Edge WebView2 (Предварительная версия) | Документы Microsoft"  

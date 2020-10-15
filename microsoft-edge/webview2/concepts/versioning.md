@@ -3,17 +3,17 @@ description: Модели управления версиями, использ�
 title: Управление версиями Microsoft Edge WebView2
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/10/2020
+ms.date: 10/14/2020
 ms.topic: conceptual
 ms.prod: microsoft-edge
 ms.technology: webview
 keywords: IWebView2, IWebView2WebView, webview2, WebView, приложения WPF, WPF, EDGE, ICoreWebView2, ICoreWebView2Host, элемент управления "браузер", HTML Edge
-ms.openlocfilehash: 3ce1f0653a14d92571f1365cbfebc8bb2215ecbe
-ms.sourcegitcommit: 0faf538d5033508af4320b9b89c4ed99872f0574
+ms.openlocfilehash: b673a2b250e46959a2eabaeb88cd8535f9a271e4
+ms.sourcegitcommit: 61cc15d2fc89aee3e09cec48ef1e0e5bbf8d289a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2020
-ms.locfileid: "11010679"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "11118984"
 ---
 # Общие сведения о версиях SDK для WebView2  
 
@@ -28,11 +28,11 @@ WebView2 зависит от Microsoft Edge для функционирован�
 
 В предварительной версии пакет выпусков включает указанные ниже.  
 
-*   [API C/C++ для Win32][ReferenceWin3209622]: API в SDK, которые должны оставаться прежними.  
+*   [API C/C++ для Win32][ReferenceWin32]: API в SDK, которые должны оставаться прежними.  
 
 В предварительной версии пакет предварительного выпуска включает следующие компоненты:  
 
-*   API-интерфейсы .NET: [WPF][ReferenceWpf09515], [WinForms][ReferenceWinforms09515]и [ядро][ReferenceDotnet09628]  
+*   API-интерфейсы .NET: [WPF][DotnetMicrosoftWebWebview2WpfNamespace], [WinForms][DotnetMicrosoftWebWebview2WinformsNamespace]и [ядро][DotnetMicrosoftWebWebview2CoreNamespace]  
 *   Экспериментальные API.  Дополнительные сведения можно найти в разделе [экспериментальные API-интерфейсы](#experimental-apis) .  
 
 ## Экспериментальные API-интерфейсы  
@@ -69,10 +69,10 @@ After you have used a particular version of the SDK to build your app, your app 
 <!--links -->
 
 [DistributionEvergreenMode]: ./distribution.md#evergreen-distribution-mode "Режим распространения Evergreen — распространение приложений с помощью WebView2 | Документы Microsoft"  
-[ReferenceDotnet09628]: ../reference/dotnet/0-9-628-reference-webview2.md "Ссылка (WebView2) | Документы Microsoft"  
-[ReferenceWinforms09515]: ../reference/winforms/0-9-515-reference-webview2.md "Ссылка (WebView2) | Документы Microsoft"  
-[ReferenceWin3209622]: ../reference/win32/0-9-622-reference-webview2.md "Ссылка (WebView2) | Документы Microsoft"  
-[ReferenceWpf09515]: ../reference/wpf/0-9-515-reference-webview2.md "Ссылка (WebView2) | Документы Microsoft"  
+[DotnetMicrosoftWebWebview2CoreNamespace]: /dotnet/api/microsoft.web.webview2.core "Пространство имен Microsoft. Web. WebView2. Core | Документы Microsoft"
+[DotnetMicrosoftWebWebview2WpfNamespace]: /dotnet/api/microsoft.web.webview2.wpf "Пространство имен Microsoft. Web. WebView2. WPF | Документы Microsoft"
+[DotnetMicrosoftWebWebview2WinformsNamespace]: /dotnet/api/microsoft.web.webview2.winforms "Пространство имен Microsoft. Web. WebView2. WinForms | Документы Microsoft"
+[ReferenceWin32]: /microsoft-edge/webview2/reference/win32 "Справочник по WebView2 Win32 C++ | Документы Microsoft"  
 [Releasenotes]: ../releasenotes.md "Заметки о выпуске для WebView2 SDK | Документы Microsoft"  
 
 [DeployedgeChannels]: /deployedge/microsoft-edge-channels "Общие сведения о каналах Microsoft Edge | Документы Microsoft"  

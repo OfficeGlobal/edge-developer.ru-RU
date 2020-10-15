@@ -1,23 +1,23 @@
 ---
-description: Размещение веб-содержимого в приложении WPF с помощью элемента управления Microsoft Edge WebView 2
-title: Microsoft Edge WebView 2 для приложений WPF
+description: Руководство по началу работы с WebView2 для приложений WPF
+title: Начало работы с WebView2 для приложений WPF
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/10/2020
+ms.date: 10/14/2020
 ms.topic: conceptual
 ms.prod: microsoft-edge
 ms.technology: webview
 keywords: WebView2, WebView2, WebView, WebView, приложения WPF, WPF, EDGE, CoreWebView2, управление браузером, пограничный HTML, Приступая к работе, начало работы, .NET
-ms.openlocfilehash: 65cd858cc314060e75113337f0ae6efc59896a43
-ms.sourcegitcommit: 0faf538d5033508af4320b9b89c4ed99872f0574
+ms.openlocfilehash: 8a18d12f30872ce3dd373e40ce8c7a4f0c4edad9
+ms.sourcegitcommit: 61cc15d2fc89aee3e09cec48ef1e0e5bbf8d289a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2020
-ms.locfileid: "11010726"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "11119117"
 ---
 # Начало работы с WebView2 в WPF (Предварительная версия)
 
-В этой статье приступите к созданию первого приложения WebView2 и ознакомьтесь с основными возможностями [WebView2 (Предварительная версия)](../index.md).  Дополнительные сведения об отдельных API можно найти в [справочнике API](../reference/dotnet/0-9-628-reference-webview2.md).  
+В этой статье приступите к созданию первого приложения WebView2 и ознакомьтесь с основными возможностями [WebView2 (Предварительная версия)](../index.md).  Дополнительные сведения об отдельных API можно найти в [справочнике API](/dotnet/api/microsoft.web.webview2.wpf).  
 
 ## Предварительные условия  
 
@@ -39,7 +39,7 @@ ms.locfileid: "11010726"
              Ядро WPF :::image-end:::
        :::column-end:::
        :::column span="1":::
-          :::image type="complex" source="./media/wpf-gettingstarted-wpffw.png" alt-text="Платформа WPF":::
+          :::image type="complex" source="./media/wpf-gettingstarted-wpffw.png" alt-text="Ядро WPF":::
              Платформа WPF :::image-end:::
        :::column-end:::
     :::row-end:::
@@ -48,11 +48,11 @@ ms.locfileid: "11010726"
     
     :::row:::
            :::column span="1":::
-              :::image type="complex" source="./media/wpf-gettingstarted-createcore.png" alt-text="Создание основы":::
+              :::image type="complex" source="./media/wpf-gettingstarted-createcore.png" alt-text="Ядро WPF":::
                  Создание основы :::image-end:::
            :::column-end:::
            :::column span="1":::
-              :::image type="complex" source="./media/wpf-gettingstarted-createfw.png" alt-text="Создание платформы":::
+              :::image type="complex" source="./media/wpf-gettingstarted-createfw.png" alt-text="Ядро WPF":::
                  Создание платформы :::image-end:::
            :::column-end:::
         :::row-end:::
@@ -65,7 +65,7 @@ ms.locfileid: "11010726"
 
 1.  Откройте контекстное меню проекта \ (щелкните правой кнопкой мыши \) и выберите пункт **Управление пакетами NuGet..**..  
     
-    :::image type="complex" source="./media/wpf-gettingstarted-mngnuget.png" alt-text="NuGet":::
+    :::image type="complex" source="./media/wpf-gettingstarted-mngnuget.png" alt-text="Ядро WPF":::
        NuGet
     :::image-end:::
     
@@ -78,7 +78,7 @@ ms.locfileid: "11010726"
     
     Все готово для начала разработки приложений с помощью API WebView2.  Выберите `F5` для сборки и запуска проекта.  Запущенный проект отобразит пустое окно.  
     
-    :::image type="complex" source="./media/wpf-gettingstarted-blank.png" alt-text="Пустое приложение":::
+    :::image type="complex" source="./media/wpf-gettingstarted-blank.png" alt-text="Ядро WPF":::
        Пустое приложение
     :::image-end:::  
     
@@ -125,7 +125,7 @@ ms.locfileid: "11010726"
     
 1.  Нажмите `F5` , чтобы создать и запустить проект.  Убедитесь, что ваш элемент управления WebView2 отображается [https://www.microsoft.com](https://www.microsoft.com) .  
     
-    :::image type="complex" source="./media/wpf-gettingstarted-microsoft.png" alt-text="Microsoft.com":::
+    :::image type="complex" source="./media/wpf-gettingstarted-microsoft.png" alt-text="Ядро WPF":::
        Microsoft.com
     :::image-end:::  
     
@@ -183,7 +183,7 @@ ms.locfileid: "11010726"
     > [!NOTE]
     > Убедитесь в том, что в адресной строке введен полный URL-адрес.  `ArgumentException`Если URL-адрес не начинается с "или", создается исключение "a" `http://` `https://` .  
     
-    :::image type="complex" source="./media/wpf-gettingstarted-bing.png" alt-text="Bing":::
+    :::image type="complex" source="./media/wpf-gettingstarted-bing.png" alt-text="Ядро WPF":::
        Bing
     :::image-end:::
     
@@ -199,7 +199,7 @@ ms.locfileid: "11010726"
 
 Дополнительные сведения можно найти в разделе [события навигации](../concepts/navigation-events.md).  
 
-:::image type="complex" source="../media/navigation-events.png" alt-text="События навигации":::
+:::image type="complex" source="../media/navigation-events.png" alt-text="Ядро WPF":::
    События навигации
 :::image-end:::  
 
@@ -240,7 +240,7 @@ void EnsureHttps(object sender, CoreWebView2NavigationStartingEventArgs args)
 
 Вы можете использовать ведущие приложения для вставки кода JavaScript в элементы управления WebView2 во время выполнения.  Вставленный JavaScript применяется ко всем новым документам верхнего уровня и дочерним кадрам до тех пор, пока не будет удален JavaScript.  Вставленный JavaScript запускается после создания глобального объекта, а также перед запуском любого другого сценария, включенного в документ HTML.  
 
-Вы можете использовать сценарии для оповещения пользователя о переходе на сайт, не поддерживающий HTTPS.  Измените `EnsureHttps` функцию таким образом, чтобы она была вставлена в веб-содержимое в виде сценария с помощью метода [ExecuteScriptAsync](../reference/wpf/0-9-515/microsoft-web-webview2-wpf-webview2.md#executescriptasync) .  
+Вы можете использовать сценарии для оповещения пользователя о переходе на сайт, не поддерживающий HTTPS.  Измените `EnsureHttps` функцию таким образом, чтобы она была вставлена в веб-содержимое в виде сценария с помощью метода [ExecuteScriptAsync](/dotnet/api/microsoft.web.webview2.wpf.webview2.executescriptasync) .  
 
 ```csharp
 void EnsureHttps(object sender, CoreWebView2NavigationStartingEventArgs args)
@@ -256,7 +256,7 @@ void EnsureHttps(object sender, CoreWebView2NavigationStartingEventArgs args)
 
 Нажмите `F5` , чтобы создать и запустить проект.  Убедитесь, что приложение отображает оповещение при переходе на сайт, который не использует HTTPS.  
 
-:::image type="complex" source="./media/wpf-gettingstarted-https.png" alt-text="HTTPS":::
+:::image type="complex" source="./media/wpf-gettingstarted-https.png" alt-text="Ядро WPF":::
    HTTPS
 :::image-end:::  
 
@@ -271,7 +271,7 @@ void EnsureHttps(object sender, CoreWebView2NavigationStartingEventArgs args)
 
 Когда элемент управления WebView2 переходит по URL-адресу, в проекте отображается URL-адрес в адресной строке и оповещает пользователя об URL-адресе, который отображается в элементе управления WebView2.  
 
-1.  В **MainWindow.XAML.CS**обновите конструктор и создайте `InitializeAsync` функцию, как показано в следующем фрагменте кода.  `InitializeAsync`Функция ожидает [EnsureCoreWebView2Async](../reference/wpf/0-9-515/microsoft-web-webview2-wpf-webview2.md#ensurecorewebview2async) , так как инициализация `CoreWebView2` является асинхронной.  
+1.  В **MainWindow.XAML.CS**обновите конструктор и создайте `InitializeAsync` функцию, как показано в следующем фрагменте кода.  `InitializeAsync`Функция ожидает [EnsureCoreWebView2Async](/dotnet/api/microsoft.web.webview2.wpf.webview2.ensurecorewebview2async) , так как инициализация `CoreWebView2` является асинхронной.  
     
     ```csharp
     public MainWindow()
@@ -324,7 +324,7 @@ void EnsureHttps(object sender, CoreWebView2NavigationStartingEventArgs args)
     
     Нажмите `F5` для сборки и запуска приложения.  Теперь в адресной строке отображается URI-адрес в WebView и при успешном переходе на новый URI WebView предупреждает пользователя о URI, показанном в WebView.  
     
-    :::image type="complex" source="./media/wpf-gettingstarted-searchbar.png" alt-text="addressBar":::
+    :::image type="complex" source="./media/wpf-gettingstarted-searchbar.png" alt-text="Ядро WPF":::
        addressBar
     :::image-end:::
 
@@ -333,7 +333,7 @@ void EnsureHttps(object sender, CoreWebView2NavigationStartingEventArgs args)
 ## Дальнейшие действия  
 
 *   Полный пример возможностей WebView2 можно найти в разделе [WebView2Samplesный репозиторий](https://github.com/MicrosoftEdge/WebView2Samples) в GitHub.  
-*   Более подробную информацию об API WebView2 можно найти в [справочнике API](../reference/wpf/0-9-515/microsoft-web-webview2-wpf-webview2.md).  
+*   Более подробную информацию об API WebView2 можно найти в [справочнике API](/dotnet/api/microsoft.web.webview2.wpf.webview2).  
 *   Дополнительные сведения о WebView2ах можно найти в статьях [ресурсы WebView2](../index.md#next-steps).  
 
 ## Знакомство с командой Microsoft Edge WebView  

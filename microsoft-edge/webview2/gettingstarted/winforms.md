@@ -1,23 +1,23 @@
 ---
-description: Размещение веб-содержимого в приложении Windows Forms с помощью элемента управления Microsoft Edge WebView 2
-title: Microsoft Edge WebView 2 для приложений Windows Forms
+description: Руководство по началу работы с WebView2 для приложений для WinForms
+title: Начало работы с WebView2 для приложений WinForms
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/10/2020
+ms.date: 10/14/2020
 ms.topic: conceptual
 ms.prod: microsoft-edge
 ms.technology: webview
 keywords: WebView2, WebView2, WebView, WebView, приложения WinForms, WinForms, EDGE, CoreWebView2, браузер, край HTML, Приступая к работе, Приступая к работе, .NET, Windows Forms
-ms.openlocfilehash: 885524581112a208e1e5134ecd7a6f7446e331ce
-ms.sourcegitcommit: 0faf538d5033508af4320b9b89c4ed99872f0574
+ms.openlocfilehash: e9451d4bfafacf78f723be75379e57400d0ba914
+ms.sourcegitcommit: 61cc15d2fc89aee3e09cec48ef1e0e5bbf8d289a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2020
-ms.locfileid: "11010735"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "11119082"
 ---
-# Начало работы с WebView2 в приложениях для Windows Forms (Предварительная версия)  
+# Начало работы с WebView2 в Windows Forms (Предварительная версия)  
 
-В этой статье приступите к созданию первого приложения WebView2 и ознакомьтесь с основными возможностями [WebView2 (Предварительная версия)](/microsoft-edge/hosting/webview2/index).  Дополнительные сведения об отдельных API можно найти в [справочнике API](../reference/dotnet/0-9-628-reference-webview2.md).  
+В этой статье приступите к созданию первого приложения WebView2 и ознакомьтесь с основными возможностями [WebView2 (Предварительная версия)](/microsoft-edge/webview2/index).  Дополнительные сведения об отдельных API можно найти в [справочнике API](/dotnet/api/microsoft.web.webview2.winforms).  
 
 ## Предварительные условия  
 
@@ -51,8 +51,8 @@ ms.locfileid: "11010735"
 
 1. Откройте контекстное меню проекта \ (щелкните правой кнопкой мыши \) и выберите пункт **Управление пакетами NuGet..**..  
 
-    :::image type="complex" source="./media/wpf-gettingstarted-mngnuget.png" alt-text="NuGet":::
-       NuGet :::image-end:::
+    :::image type="complex" source="./media/wpf-gettingstarted-mngnuget.png" alt-text="Управление пакетами NuGet":::
+       Управление пакетами NuGet :::image-end:::
 
 1. Введите `Microsoft.Web.WebView2` строку поиска.  В результатах поиска выберите **Microsoft. Web. WebView2** .  
 
@@ -70,17 +70,20 @@ ms.locfileid: "11010735"
 Далее добавьте WebView в приложение.  
 
 1. Откройте **конструктор Windows Forms**.  
-1. Найдите **WebView2** на **панели элементов**. Перетаскивание элемента управления **WebView2** в приложение Windows Forms
-
-    ![элементов](./media/winforms-toolbox.png)
+1. Найдите **WebView2** на **панели элементов**. Перетащите элемент управления **WebView2** в приложение Windows Forms.
+    
+    :::image type="complex" source="./media/winforms-toolbox.png" alt-text="Управление пакетами NuGet":::
+       Панель элементов, в которой отображается WebView2 :::image-end:::  
 
 1. Измените `Name` свойство на `webView` .
-
-    ![элементов](./media/winforms-properties.png)
+    
+    :::image type="complex" source="./media/winforms-properties.png" alt-text="Управление пакетами NuGet":::
+       Свойства элемента управления WebView2 :::image-end:::
 
 1. `Source`Свойство задает начальный URI, отображаемый в элементе управления WebView2. Установите для свойства Source значение <https://www.microsoft.com>
-
-    ![элементов](./media/winforms-source.png)
+    
+    :::image type="complex" source="./media/winforms-source.png" alt-text="Управление пакетами NuGet":::
+       Свойство Source элемента управления WebView2 :::image-end:::
 
 Выберите `F5` , чтобы выполнить сборку и запустить проект.  Убедитесь, что ваш элемент управления WebView2 отображается [https://www.microsoft.com](https://www.microsoft.com) .
 
@@ -163,7 +166,7 @@ private void Form_Resize(object sender, EventArgs e)
 
 Дополнительные сведения можно найти в разделе [события навигации](../concepts/navigation-events.md).  
 
-:::image type="complex" source="../media/navigation-events.png" alt-text="События навигации":::
+:::image type="complex" source="../media/navigation-events.png" alt-text="Управление пакетами NuGet":::
    События навигации
 :::image-end:::
 
@@ -296,7 +299,7 @@ async void InitializeAsync()
 ## Дальнейшие действия 
 
 * Провлеките [WebView2Samplesный репозиторий](https://github.com/MicrosoftEdge/WebView2Samples) с подробным примером возможностей WebView2's
-* Дополнительные сведения об интерфейсах API для извлечения [справочных](../reference/winforms/0-9-515/microsoft-web-webview2-winforms-webview2.md) данных
+* Дополнительные сведения об интерфейсах API для извлечения [справочных](/dotnet/api/microsoft.web.webview2.winformswebview2) данных
 * Извлечение списка [ресурсов WebView2](../index.md#next-steps) для получения дополнительных сведений о WebView2
 
 

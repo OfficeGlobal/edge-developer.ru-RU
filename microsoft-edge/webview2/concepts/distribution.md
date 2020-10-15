@@ -3,17 +3,17 @@ description: Варианты распространения при выпуск
 title: Распространение приложений Microsoft Edge WebView2
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/21/2020
+ms.date: 10/14/2020
 ms.topic: conceptual
 ms.prod: microsoft-edge
 ms.technology: webview
 keywords: IWebView2, IWebView2WebView, webview2, WebView, приложения WPF, WPF, EDGE, ICoreWebView2, ICoreWebView2Host, элемент управления "браузер", HTML Edge
-ms.openlocfilehash: 7db610ff1133b1b5b380372422f1f2f10981e583
-ms.sourcegitcommit: 24151cc65bad92d751a8e7a868c102e1121456e3
+ms.openlocfilehash: e96ca2b26feb3883b51ad468db1fabe68ed8ad1f
+ms.sourcegitcommit: 61cc15d2fc89aee3e09cec48ef1e0e5bbf8d289a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "11052188"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "11118999"
 ---
 # Распространение приложений с помощью WebView2  
 
@@ -61,7 +61,7 @@ ms.locfileid: "11052188"
 
 *   В процессе настройки приложения убедитесь, что среда выполнения уже установлена.  
     *   Проверка наличия RegKey `pv (REG_SZ)` в разделе `HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\EdgeUpdate\ClientState\{F3017226-FE2A-4295-8BDF-00C3A9A7E4C5}` или  
-    *   Вызов API WebView2 [GetAvailableCoreWebView2BrowserVersionString](../reference/win32/0-9-622/webview2-idl.md#getavailablecorewebview2browserversionstring) и проверка того, имеет ли versionInfo значение null.  
+    *   Вызов API WebView2 [GetAvailableCoreWebView2BrowserVersionString](/microsoft-edge/webview2/reference/win32/webview2-idl#getavailablecorewebview2browserversionstring) и проверка того, имеет ли versionInfo значение null.  
 *   Если среда выполнения не установлена, воспользуйтесь ссылкой, чтобы программно загрузить загрузчик.  
 *   Вызовите загрузчик из процесса с повышенными привилегиями или командной строки `MicrosoftEdgeWebview2Setup.exe /silent /install` для автоматической установки.  
 
@@ -75,7 +75,7 @@ ms.locfileid: "11052188"
 *   Включите установщик в установщик приложения или в средство обновления.  
 *   В процессе настройки приложения убедитесь, что среда выполнения уже установлена.  
     *   Проверка наличия RegKey `pv (REG_SZ)` в разделе `HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\EdgeUpdate\ClientState\{F3017226-FE2A-4295-8BDF-00C3A9A7E4C5}` или  
-    *   Вызов API WebView2 [GetAvailableCoreWebView2BrowserVersionString](../reference/win32/0-9-622/webview2-idl.md#getavailablecorewebview2browserversionstring) и проверка того, имеет ли versionInfo значение null.  
+    *   Вызов API WebView2 [GetAvailableCoreWebView2BrowserVersionString](/microsoft-edge/webview2/reference/win32/webview2-idl#getavailablecorewebview2browserversionstring) и проверка того, имеет ли versionInfo значение null.  
 *   Если среда выполнения не установлена, вызовите автономный установщик из процесса с повышенными привилегиями или командной строки `MicrosoftEdgeWebView2RuntimeInstaller{X64/X86/ARM64}.exe /silent /install` для автоматической установки.  
 
 ## Режим распространения фиксированной версии  
@@ -89,6 +89,5 @@ ms.locfileid: "11052188"
 <!-- links -->  
 
 [ConceptsVersioning]: ./versioning.md "Общие сведения о версиях браузеров и WebView2 | Документы Microsoft"  
-[ReferenceWin3209622WebviewIdl]: ../reference/win32/0-9-622/webview2-idl.md  "Globals | Документы Microsoft"  
 
 [Webview2Installer]: https://developer.microsoft.com/microsoft-edge/webview2 "Установщик WebView2"  
