@@ -36,6 +36,8 @@
   href: roadmap.md
 - name: Инструкции
   items:
+    - name: Расширенные сценарии JavaScript в WebView2
+      href: howto/js.md
     - name: Статический загрузчик ссылок
       href: howto/static.md
     - name: Отладка WebView2
