@@ -96,10 +96,8 @@
               href: devtools-guide-chromium/coverage/index.md
             - name: Проверка эффектов анимации
               href: devtools-guide-chromium/inspect-styles/animations.md
-            - name: Рекомендации
-              items:
-                - name: Принудительно перевести средства разработчика в режим предварительного просмотра
-                  href: devtools-guide-chromium/css/print-preview.md
+            - name: Принудительный перевод средств разработчика в режим предварительного просмотра
+              href: devtools-guide-chromium/css/print-preview.md
         - name: Консоль
           items:
             - name: Обзор
@@ -168,7 +166,7 @@
               href: devtools-guide-chromium/javascript/index.md
             - name: Приостановка кода с точками останова
               href: devtools-guide-chromium/javascript/breakpoints.md
-            - name: Найти неиспользуемый JavaScript
+            - name: Поиск неиспользуемого JavaScript
               href: devtools-guide-chromium/coverage/index.md
             - name: Сопоставление предварительно обработанного кода с исходным кодом
               href: devtools-guide-chromium/javascript/source-maps.md
@@ -182,7 +180,7 @@
               href: devtools-guide-chromium/javascript/background-services.md
             - name: Рекомендации
               items:
-                - name: Пометка сценария содержимого как кода библиотеки
+                - name: Пометка сценариев содержимого как кода библиотеки
                   href: devtools-guide-chromium/javascript/guides/mark-content-scripts-library-code.md
                 - name: Отключение JavaScript
                   href: devtools-guide-chromium/javascript/disable.md
@@ -208,7 +206,7 @@
               href: devtools-guide-chromium/accessibility/navigation.md
             - name: Рекомендации
               items:
-                - name: 'Отслеживание, какой элемент имеет фокус'
+                - name: Отслеживание элемента с фокусом
                   href: devtools-guide-chromium/accessibility/focus.md
                 - name: Имитация темной и светлой цветовой схемы
                   href: devtools-guide-chromium/accessibility/preferred-color-scheme-simulation.md
@@ -234,7 +232,7 @@
               href: devtools-guide-chromium/memory-problems/memory-101.md
             - name: Запись моментальных снимков кучи
               href: devtools-guide-chromium/memory-problems/heap-snapshots.md
-            - name: Использование инструментирования выделения на временной шкале
+            - name: Использование инструментов выделения на временной шкале
               href: devtools-guide-chromium/memory-problems/allocation-profiler.md
         - name: Media
           href: devtools-guide-chromium/media-panel/index.md
@@ -362,20 +360,22 @@
     - name: Расширения (Chromium)
       href: extensions-chromium/index.md
       items:
-        - name: начало работы
+        - name: Начало работы
           items:
             - name: Архитектура расширения
               href: extensions-chromium/getting-started/index.md
-            - name: 'Учебник по созданию расширения, часть 1'
+            - name: Учебник по созданию расширения (часть 1)
               href: extensions-chromium/getting-started/part1-simple-extension.md
-            - name: 'Учебник по созданию расширения, часть 2'
+            - name: Учебник по созданию расширения (часть 2)
               href: extensions-chromium/getting-started/part2-content-scripts.md
             - name: Загрузка неопубликованного расширения
               href: extensions-chromium/getting-started/extension-sideloading.md
         - name: Руководство разработчика
           items:
-            - name: Расширение порта Chromium до Microsoft Edge
+            - name: Расширения порта Chromium до Microsoft Edge
               href: extensions-chromium/developer-guide/port-chrome-extension.md
+            - name: Перенос расширения из манифеста версии 2 в версию 3
+              href: extensions-chromium/developer-guide/migrate-your-extension-from-manifest-v2-to-v3.md
             - name: Альтернативные методы распространения расширений
               href: extensions-chromium/developer-guide/alternate-distribution-options.md
             - name: Встроенные сообщения
@@ -386,7 +386,7 @@
               href: extensions-chromium/publish/publish-extension.md
             - name: Регистрация разработчика
               href: extensions-chromium/publish/create-dev-account.md
-            - name: Обновление перечня расширений
+            - name: Обновление описания расширения
               href: extensions-chromium/publish/update.md
             - name: Состояния отправки
               href: extensions-chromium/publish/submission-states.md
@@ -394,11 +394,11 @@
               href: extensions-chromium/publish/manage-settings.md
         - name: Политики надстроек Microsoft Edge
           items:
-            - name: Политика в отношении безопасности содержимого
+            - name: Политика безопасности содержимого
               href: extensions-chromium/store-policies/csp.md
-            - name: Специальное дополнение для разработчиков ADA
+            - name: Дополнение ADA для разработчиков Microsoft Edge
               href: extensions-chromium/store-policies/ada-addendum.md
-            - name: Политики в отношении разработчиков каталога надстроек Microsoft Edge
+            - name: Политики разработчиков каталога надстроек Microsoft Edge
               href: extensions-chromium/store-policies/developer-policies.md
         - name: Расширения для предприятий
           items:
