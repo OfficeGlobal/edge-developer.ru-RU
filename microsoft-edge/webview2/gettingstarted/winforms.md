@@ -3,17 +3,17 @@ description: Руководство по началу работы с WebView2 �
 title: Начало работы с WebView2 для приложений WinForms
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 10/14/2020
+ms.date: 10/15/2020
 ms.topic: conceptual
 ms.prod: microsoft-edge
 ms.technology: webview
 keywords: WebView2, WebView2, WebView, WebView, приложения WinForms, WinForms, EDGE, CoreWebView2, браузер, край HTML, Приступая к работе, Приступая к работе, .NET, Windows Forms
-ms.openlocfilehash: e9451d4bfafacf78f723be75379e57400d0ba914
-ms.sourcegitcommit: 61cc15d2fc89aee3e09cec48ef1e0e5bbf8d289a
+ms.openlocfilehash: 90d25816b862d6096856faf439436706c98f7dbe
+ms.sourcegitcommit: 442de63da52d00c6dc27fa08ccdb736534127566
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "11119082"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "11120090"
 ---
 # Начало работы с WebView2 в Windows Forms (Предварительная версия)  
 
@@ -299,7 +299,7 @@ async void InitializeAsync()
 ## Дальнейшие действия 
 
 * Провлеките [WebView2Samplesный репозиторий](https://github.com/MicrosoftEdge/WebView2Samples) с подробным примером возможностей WebView2's
-* Дополнительные сведения об интерфейсах API для извлечения [справочных](/dotnet/api/microsoft.web.webview2.winformswebview2) данных
+* Дополнительные сведения об интерфейсах API для извлечения [справочных](/dotnet/api/microsoft.web.webview2.winforms.webview2) данных
 * Извлечение списка [ресурсов WebView2](../index.md#next-steps) для получения дополнительных сведений о WebView2
 
 

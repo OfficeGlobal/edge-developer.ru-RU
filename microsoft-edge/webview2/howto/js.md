@@ -3,17 +3,17 @@ description: Сведения об использовании JavaScript в сл
 title: Использование JavaScript в приложениях WebView2
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 10/14/2020
+ms.date: 10/15/2020
 ms.topic: how-to
 ms.prod: microsoft-edge
 ms.technology: webview
 keywords: IWebView2, IWebView2WebView, webview2, WebView, приложения Win32, Win32, EDGE, ICoreWebView2, ICoreWebView2Host, элемент управления "веб-браузер", HTML Edge
-ms.openlocfilehash: f6e59acb0c4bf8ad5357aba87e0359d3b103ed63
-ms.sourcegitcommit: 61cc15d2fc89aee3e09cec48ef1e0e5bbf8d289a
+ms.openlocfilehash: 0fd4e33b7cfc16dcd19a850147b6efbca8922a8e
+ms.sourcegitcommit: 442de63da52d00c6dc27fa08ccdb736534127566
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "11119068"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "11120073"
 ---
 # Использование JavaScript в WebView для расширенных сценариев  
 
@@ -29,8 +29,8 @@ ms.locfileid: "11119068"
 
 | API  | Описание  |
 |:--- |:--- |  
-| [ExecuteScriptAsync][Webview2ReferenceWpf09515MicrosoftWebExecutescriptasync] | Запустите JavaScript в элементе управления WebView. Дополнительные сведения можно найти в учебнике Приступая к работе. |
-| [OnDocumentCreatedAsync][Webview2ReferenceWin3209538Icorewebview2Addscripttoexecuteondocumentcreated] | Выполняется, когда создается объектная модель документа \ (DOM \). |
+| [ExecuteScriptAsync][Webview2ReferenceWpfMicrosoftWebExecutescriptasync] | Запустите JavaScript в элементе управления WebView. Дополнительные сведения можно найти в учебнике Приступая к работе. |
+| [OnDocumentCreatedAsync][Webview2ReferenceWin32Icorewebview2Addscripttoexecuteondocumentcreated] | Выполняется, когда создается объектная модель документа \ (DOM \). |
       
 ## Сценарий: Запуск выделенного файла сценария  
 
@@ -130,7 +130,7 @@ ms.locfileid: "11119068"
 [Webview2GettingstartedWpf]: ../gettingstarted/wpf.md "Начало работы с WebView2 в WPF (Предварительная версия) | Документы Microsoft"  
 [Webview2MainGettingStarted]: ../index.md#getting-started "Приступая к работе: знакомство с Microsoft Edge WebView2 (Предварительная версия) | Документы Microsoft"  
 [Webview2MainNextSteps]: ../index.md#next-steps "Дальнейшие действия — введение в Microsoft Edge WebView2 (Предварительная версия) | Документы Microsoft"  
-[Webview2ReferenceWin3209538Icorewebview2Addscripttoexecuteondocumentcreated]: ../reference/win32/0-9-538/icorewebview2.md#addscripttoexecuteondocumentcreated "AddScriptToExecuteOnDocumentCreated-0.9.579-Interface ICoreWebView2 | Документы Microsoft"  
-[Webview2ReferenceWpf09515MicrosoftWebExecutescriptasync]: ../reference/wpf/0-9-515/microsoft-web-webview2-wpf-webview2.md#executescriptasync "Класс ExecuteScriptAsync-Microsoft. Web. WebView2. WPF. WebView2 | Документы Microsoft"  
+[Webview2ReferenceWin32Icorewebview2Addscripttoexecuteondocumentcreated]: /microsoft-edge/webview2/reference/win32/icorewebview2#addscripttoexecuteondocumentcreated "AddScriptToExecuteOnDocumentCreated-0.9.579-Interface ICoreWebView2 | Документы Microsoft"  
+[Webview2ReferenceWpfMicrosoftWebExecutescriptasync]: /dotnet/api/microsoft.web.webview2.wpf.webview2.executescriptasync "WebView2.ExecuteScriptAsync (String) method (Microsoft. Web. WebView2. WPF) | Документы Microsoft"  
 
 [GithubMicrosoftedgeWebview2samples]: https://github.com/MicrosoftEdge/WebView2Samples "WebView2 Samples-MicrosoftEdge/WebView2Samples | GitHub"  
