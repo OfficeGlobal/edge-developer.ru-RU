@@ -22,7 +22,7 @@ ms.locfileid: "11104702"
 
 Расширение структурировано так же, как обычное веб-приложение.  Как минимум, он содержит JSON-файл манифеста приложения, который содержит основные сведения о платформе, файл JavaScript для определения функциональных возможностей, а также HTML и CSS-файл, чтобы определить внешний вид пользовательского интерфейса \ (как требуется).  Для работы непосредственно с веб-браузером, например окном или вкладкой, необходимо отправить запросы API и часто ссылаться на веб-браузер по имени.  
 
-:::image type="complex" source="./media/example-extension-screenshot.png" alt-text="Расширение Microsoft EDGE (Chromium)&quot;:::
+:::image type="complex" source="./media/example-extension-screenshot.png" alt-text="Расширение Microsoft EDGE (Chromium)":::
   Расширение Microsoft Edge \ (Chromium \)  
 :::image-end:::  
 
