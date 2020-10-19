@@ -83,7 +83,7 @@ ms.locfileid: "11015463"
 
 ### Обратная связь по этой подсказке на панели "вопросы"  
 
-:::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Экспериментальная функция" [вопросы][DevtoolsIssues] ".  
+:::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Экспериментальная функция [вопросы][DevtoolsIssues] ".:::
 
 :::image type="complex" source="../../media/2020/06/experiments-webhint.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/experiments-webhint.msft.png":::
    Обратная связь по этой подсказке на панели "вопросы"  
