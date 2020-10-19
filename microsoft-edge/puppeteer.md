@@ -88,7 +88,7 @@ node example.js
 
 `puppeteer-core` запускает Microsoft EDGE, переходит `https://www.microsoftedgeinsider.com` и сохраняет снимок экрана 800px x 600px страницы.  Вы можете настроить размер страницы с помощью [Page. setViewport ()][PuppeteerApipagesetviewport].  
 
-:::image type="complex" source="./media/puppeteer-example.png" alt-text="Файл example.png, созданный example.js&quot;:::
+:::image type="complex" source="./media/puppeteer-example.png" alt-text="Файл example.png, созданный example.js":::
    Рисунок 1: `example.png` файл, созданный с помощью `example.js`  
 :::image-end:::  
 
@@ -105,7 +105,7 @@ node example.js
 Группа разработчиков Microsoft Edge может услышать отзывы об использовании Puppeteer `puppeteer-core` и Microsoft Edge.  С помощью значка &quot; **Отправить отзыв** " в Microsoft Edge DevTools или твит [@EdgeDevTools][TwitterIntentTweetEdgedevtools] , чтобы группа Microsoft Edge знала, что вы думаете.  
 
 
-:::image type="complex" source="./devtools-guide-chromium/media/bing-devtools-send-feedback.msft.png" alt-text="Файл example.png, созданный example.js&quot;:::
+:::image type="complex" source="./devtools-guide-chromium/media/bing-devtools-send-feedback.msft.png" alt-text="Файл example.png, созданный example.js":::
    Рисунок 1: `example.png` файл, созданный с помощью `example.js`  
 :::image-end:::  
 
