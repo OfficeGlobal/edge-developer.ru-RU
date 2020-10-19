@@ -41,7 +41,7 @@ ms.locfileid: "10986215"
     
 1.  Перейдите на страницу [загрузки драйвера Microsoft Edge][MicrosoftDeveloperEdgeToolsWebdriverDownloads] и скачайте драйвер, который соответствует номеру версии Edge.  
     
-    :::image type="complex" source="./media/webdriver-chromium/edge-driver-install.png" alt-text="Номер сборки Microsoft Edge Канарские 14 января 2020 г." на странице [драйвера Microsoft Edge][MicrosoftDeveloperEdgeToolsWebdriver]
+    :::image type="complex" source="./media/webdriver-chromium/edge-driver-install.png" alt-text="Номер сборки Microsoft Edge Канарские 14 января 2020 г. на странице [драйвера Microsoft Edge][MicrosoftDeveloperEdgeToolsWebdriver]":::
     :::image-end:::  
     
     > [!NOTE] 
