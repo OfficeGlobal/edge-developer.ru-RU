@@ -41,7 +41,7 @@ ms.locfileid: "11015463"
 
 ### Изменение и повторное воспроизведение запросов с помощью сетевой консоли  
 
-:::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Экспериментальная функция" на запросах в [сетевом журнале][DevtoolsNetworkIndexLogActivity] с помощью **сетевой консоли**.  
+:::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Экспериментальная функция на запросах в [сетевом журнале][DevtoolsNetworkIndexLogActivity] с помощью **сетевой консоли**." ::: 
 
 :::image type="complex" source="../../media/2020/06/experiments-network-console-edit-and-replay.msft.png" alt-text="Экспериментальная функция" lightbox="../../media/2020/06/experiments-network-console-edit-and-replay.msft.png":::
    Изменение и повторное воспроизведение запроса в [NetworkLog][DevtoolsNetworkIndexLogActivity] с помощью **сетевой консоли**  
