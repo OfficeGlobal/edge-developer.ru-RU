@@ -372,7 +372,9 @@
               href: extensions-chromium/getting-started/extension-sideloading.md
         - name: Руководство разработчика
           items:
-            - name: Расширения порта Chromium до Microsoft Edge
+            - name: Поддержка API
+              href: extensions-chromium/developer-guide/api-support.md
+            - name: Расширение порта Chromium до Microsoft Edge
               href: extensions-chromium/developer-guide/port-chrome-extension.md
             - name: Перенос расширения из манифеста версии 2 в версию 3
               href: extensions-chromium/developer-guide/migrate-your-extension-from-manifest-v2-to-v3.md
@@ -519,7 +521,7 @@
           href: web-platform/tracking-prevention.md
         - name: Строка агента пользователя Microsoft Edge
           href: web-platform/user-agent-string.md
-    - name: WebView2 (Chromium) (ознакомительная версия)
+    - name: WebView2 (Chromium)
       href: webview2/toc.yml
     - name: Руководство разработчика WebVR
       href: /microsoft-edge/webvr/index
