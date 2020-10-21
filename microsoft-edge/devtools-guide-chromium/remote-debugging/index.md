@@ -3,16 +3,16 @@ description: Удаленная отладка динамического сод
 title: Начало работы с удаленными отладкой устройств с Android
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: f1ed7c698f588bb4e438d1b85a0cd0d1aba42647
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: c6bdb48460fb8f6ff26cbb02872e33cb50dd6e12
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993501"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125365"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -44,31 +44,31 @@ ms.locfileid: "10993501"
 
 > [!NOTE]
 > Удаленная отладка приложения Microsoft EDGE на устройствах с iOS в настоящее время не поддерживается.  Следующее руководство специально ориентировано на удаленную отладку Microsoft EDGE на устройствах с Android.
-> Если у вас есть устройство macOS, следуйте инструкциям [по отладке Brightcove][BrightcoveSupportDebuggingMobileDevices] для удаленной отладки Microsoft EDGE на устройстве с iOS с помощью Safari.  Дополнительные сведения о средстве веб-инспектора в Safari можно найти в разделе [средства разработки веб-сайтов Safari][AppleDeveloperSafariTools].  
+> Если у вас есть устройство macOS, следуйте инструкциям [по отладке Brightcove][BrightcoveSupportDebuggingMobileDevices] для удаленной отладки Microsoft EDGE на устройстве с iOS с помощью Safari.  Для получения дополнительных сведений о средстве веб-инспектора в Safari перейдите на [страницу веб-разработки Safari][AppleDeveloperSafariTools].  
 
 ## Шаг 1: обнаружение устройства с Android  
 
 Рабочий процесс, описанный ниже, подходит для большинства пользователей.  Дополнительные сведения можно найти в разделе [Устранение неполадок: DevTools не удается найти раздел устройства Android](#troubleshooting-devtools-is-not-detecting-the-android-device) .  
 
-1.  Откройте экран **Параметры разработчика** на устройстве с Android.  Дополнительные сведения можно найти [в разделе Настройка параметров разработчика на устройстве][AndroidDeveloperStudioDevOptions].  
+1.  Откройте экран **Параметры разработчика** на устройстве с Android.  Дополнительные сведения можно найти в разделе [Настройка параметров разработчика на устройстве][AndroidDeveloperStudioDevOptions].  
 1.  Выберите **включить отладку USB**.  
 1.  На своем компьютере для разработки откройте Microsoft Edge.  
 1.  Перейдите на `edge://inspect` страницу в Microsoft Edge.  
     
-    :::image type="complex" source="../media/remote-debugging-edge-inspect-no-targets.msft.png" alt-text="Страница edge://inspect в Microsoft Edge" lightbox="../media/remote-debugging-edge-inspect-no-targets.msft.png":::
+    :::image type="complex" source="../media/remote-debugging-edge-inspect-no-targets.msft.png" alt-text="Remote Debugging lets you inspect a page running on an Android device from your development machine" lightbox="../media/remote-debugging-edge-inspect-no-targets.msft.png":::
        Рисунок 1.  `edge://inspect`Страница в Microsoft Edge  
     :::image-end:::  
     
-1.  Подключите устройство Android непосредственно к компьютеру разработчика с помощью USB-кабеля.  При первой попытке подключения вы обычно видите сообщение о том, что DevTools обнаруживает неизвестное устройство.  Подтвердите запрос разрешения на **отладку USB** на устройстве с Android.  
+1.  Подключите устройство Android непосредственно к компьютеру разработчика с помощью USB-кабеля.  При первой попытке подключения на экран будет выведено сообщение о том, что DevTools обнаруживает неизвестное устройство.  Подтвердите запрос разрешения на **отладку USB** на устройстве с Android.  
     
-    :::image type="complex" source="../media/remote-debugging-android-permissions-prompt.msft.png" alt-text="Предупреждение о разрешении разрешения на отладку USB на устройстве с Android" lightbox="../media/remote-debugging-android-permissions-prompt.msft.png":::
+    :::image type="complex" source="../media/remote-debugging-android-permissions-prompt.msft.png" alt-text="Remote Debugging lets you inspect a page running on an Android device from your development machine" lightbox="../media/remote-debugging-android-permissions-prompt.msft.png":::
        Рисунок 2.  Предупреждение о разрешении разрешения на **отладку USB** на устройстве с Android  
     :::image-end:::  
     
 1.  Если вы видите название модели устройства с Android, Microsoft Edge успешно установил подключение к устройству.  Перейдите к разделу [этап 2](#step-2-debug-content-on-your-android-device-from-your-development-machine) .  
     
     <!--  
-    :::image type="complex" source="../media/remote-debugging--unknown-device.msft.png" alt-text="The Remote Devices tab has successfully detected an unknown device that is pending authorization" lightbox="../media/remote-debugging--unknown-device.msft.png":::
+    :::image type="complex" source="../media/remote-debugging--unknown-device.msft.png" alt-text="Remote Debugging lets you inspect a page running on an Android device from your development machine" lightbox="../media/remote-debugging--unknown-device.msft.png":::
        old Figure 4.  The **Remote Devices** tab has successfully detected an unknown device that is pending authorization  
     :::image-end:::
     -->  
@@ -83,18 +83,18 @@ ms.locfileid: "10993501"
 
 Чтобы убедиться, что программное обеспечение правильно настроено, воспользуйтесь приведенными ниже советами.  
 
-*   Если на вашем компьютере разработчика установлена операционная система Windows, попробуйте установить драйверы USB для устройства с Android вручную.  Дополнительные сведения можно найти в разделе [Установка драйверов USB для OEM][AndroidDeveloperToolsOemUsb].  
-*   Некоторые комбинации устройств Windows и Android (особенно Samsung) требуют дополнительных настроек.  Дополнительные сведения можно найти в разделе [устройства DevTools не обнаруживают устройства при подключении к сети][Stackoverflow21925992].  
+*   Если на вашем компьютере разработчика установлена операционная система Windows, попробуйте установить драйверы USB для устройства с Android вручную.  Для получения дополнительных сведений перейдите к разделу [Установка драйверов USB для OEM][AndroidDeveloperToolsOemUsb].  
+*   Некоторые комбинации устройств Windows и Android (особенно Samsung) требуют дополнительных настроек.  Дополнительные сведения можно найти в [разделе устройства DevTools, когда устройство подключено к сети][Stackoverflow21925992].  
 
-Приведенные ниже советы помогут вам устранить неполадки с выводом на экран **разрешение на отладку USB** на устройстве с Android.  
+Воспользуйтесь приведенными ниже советами, чтобы устранить проблему с отображением запроса на **отладку USB** на устройстве с Android.  
 
 *   Отключение кабеля USB и повторное подключение к нему, когда DevTools на компьютере разработки и отображается начальный экран на устройстве с Android.  
     
     > [!NOTE]
-    > Если экраны на устройстве Android или разработчика заблокированы, сообщение может не отображаться.  
+    > Это сообщение появляется, если ваши экраны вашего компьютера Android или разработчика заблокированы.  
 
 *   Обновление параметров отображения для устройства Android и компьютера для разработки таким образом, чтобы все они никогда не переходили в спящий режим.  
-*   Установка режима USB для устройства с Android на PTP.  Дополнительные сведения можно найти в разделе [Galaxy S4 не показывает диалоговое окно "авторизация USB"][StackexchangeAndroid101933].  
+*   Установка режима USB для устройства с Android на PTP.  Для получения дополнительных сведений перейдите в [Galaxy S4 не показывает диалоговое окно "авторизация USB"][StackexchangeAndroid101933].  
 *   Выберите **отозвать разрешения на отладку USB** на экране **Параметры разработчика** на устройстве с Android, чтобы сбросить его в новое состояние.  
 
 Если вы нашли решение, которое не было упомянуто на этой странице, или на [DevTools устройствах не обнаружите устройства при подключении][Stackoverflow21925992] к переполнению стека, добавьте свое решение на вопрос о переполнении стека.<!--, or [open an issue in the webfundamentals repository][GitHubWebFundamentalsNewIssue]-->!  
@@ -102,9 +102,9 @@ ms.locfileid: "10993501"
 ## Шаг 2: Отладка содержимого на устройстве с Android с компьютера для разработки  
 
 1.  Откройте Microsoft EDGE на устройстве с Android.  
-1.  На `edge://inspect` странице вы увидите название модели устройства с Android, а затем серийный номер устройства.  Ниже показана версия Microsoft EDGE, установленная на устройстве, с номером версии в круглых скобках.  Каждая открытая вкладка Microsoft Edge получает уникальный раздел.  Вы можете работать с этой вкладкой в разделе.  <!--If there are any apps using WebView, you see a section for each of those apps, too.  --><!--In [**Figure 5**](#figure-5) there are no tabs or WebViews open.  -->  
+1.  Перейдите к нужному `edge://inspect` названию модели устройства с Android, а затем выберите серийный номер устройства.  Ниже показано, как будет отображаться версия Microsoft EDGE, установленная на устройстве, с номером версии в круглых скобках.  Каждая открытая вкладка Microsoft Edge получает уникальный раздел.  Вы можете работать с этой вкладкой в разделе.  <!--If there are any apps using WebView, a section for each of those apps should be displayed, too.  --><!--In [**Figure 5**](#figure-5) there are no tabs or WebViews open.  -->  
     
-    :::image type="complex" source="../media/remote-debugging-edge-inspect-with-targets.msft.png" alt-text="Подключенное удаленное устройство" lightbox="../media/remote-debugging-edge-inspect-with-targets.msft.png":::
+    :::image type="complex" source="../media/remote-debugging-edge-inspect-with-targets.msft.png" alt-text="Remote Debugging lets you inspect a page running on an Android device from your development machine" lightbox="../media/remote-debugging-edge-inspect-with-targets.msft.png":::
        Рисунок 3.  Подключенное удаленное устройство  
     :::image-end:::  
     
@@ -116,9 +116,9 @@ ms.locfileid: "10993501"
 
 ### Дополнительные действия: перемещение фокуса, перезагрузка или закрытие вкладки  
 
-На вкладке **фокус**нажмите кнопку **Перезагрузка**или **Закрыть** рядом с вкладкой, на которую вы хотите установить фокус, перезагрузить или закрыть.  
+Выберите **вкладку фокус**, **Перезагрузка**или **Закрыть** рядом с вкладкой, на которую вы хотите установить фокус, перезагрузить или закрыть.  
 
-:::image type="complex" source="../media/remote-debugging-edge-inspect-with-targets-buttons.msft.png" alt-text="Кнопки для фокусировки, повторной загрузки и закрытия вкладки" lightbox="../media/remote-debugging-edge-inspect-with-targets-buttons.msft.png":::
+:::image type="complex" source="../media/remote-debugging-edge-inspect-with-targets-buttons.msft.png" alt-text="Remote Debugging lets you inspect a page running on an Android device from your development machine" lightbox="../media/remote-debugging-edge-inspect-with-targets-buttons.msft.png":::
    Рисунок 4.  Кнопки для фокусировки, повторной загрузки и закрытия вкладки  
 :::image-end:::  
 
@@ -126,14 +126,14 @@ ms.locfileid: "10993501"
 
 Перейдите на панель **элементы** экземпляра DevTools и наведите указатель мыши на элемент, чтобы выделить его в окне просмотра на устройстве с Android.  
 
-Вы также можете выбрать элемент на экране устройства с Android, чтобы выбрать его на панели " **элементы** ".  Нажмите кнопку выбрать **элемент** ![ щелкните ][ImageSelectElementIcon] значок выбора элемента в экземпляре DevTools, а затем выберите элемент на экране устройства с Android.  
+Вы также можете выбрать элемент на экране устройства с Android, чтобы выбрать его на панели " **элементы** ".  В экземпляре DevTools нажмите кнопку **выбрать элемент** ![ , выберите элемент ][ImageSelectElementIcon] , а затем выберите элемент на экране устройства с Android.  
 
 > [!NOTE]
 > **Элемент "выбрать** " отключается после первого выбора, поэтому для использования этой функции необходимо повторно включить его.  
 
 ### Демонстрация экрана Android на компьютере разработчика  
 
-Нажмите кнопку "переключить **презентацию** ![ ][ImageToggleScreencastIcon] ", чтобы просмотреть содержимое устройства с Android в экземпляре DevTools.  
+Нажмите кнопку **вкл** ![ ][ImageToggleScreencastIcon] ., чтобы просмотреть содержимое устройства с Android в экземпляре DevTools, щелкнув значок Показать презентацию.  
 
 Вы можете взаимодействовать с презентацией следующими способами.  
 
@@ -148,6 +148,10 @@ ms.locfileid: "10993501"
 > *   В ролики отображается только содержимое страницы.  Прозрачные части презентации представляют интерфейсы устройства, такие как адресная строка Microsoft EDGE, строка состояния Android или клавиатура Android.  
 > *   Ролики негативно влияют на частоту кадров.  Отключите экранную анимацию, изменяя прокрутки или анимации, чтобы получить более точную картину производительности страницы.  
 > *   Если экран вашего устройства с Android блокируется, содержимое презентации исчезнет.  Разблокируйте экран устройства с Android для автоматического возобновления ролика.  
+
+## Взаимодействие с командой средств разработчика Microsoft Edge  
+
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- image links -->  
 

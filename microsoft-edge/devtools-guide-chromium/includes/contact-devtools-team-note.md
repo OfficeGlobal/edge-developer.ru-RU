@@ -4,16 +4,16 @@ ms.author: msedgedevrel
 ms.prod: microsoft-edge
 ms.topic: include
 ms.date: 09/01/2020
-ms.openlocfilehash: 52fab56b92ffd19d4db1968e337ab2c5f93f6ae7
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: abd837417098aa6d665bb112f99085ff2473b4ca
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10992708"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11124684"
 ---
 Следующие параметры позволяют обсуждать новые возможности и изменения в записи, а также любые другие связанные с DevTools.  
 
-*   Отправьте отзыв с помощью значка " **Отправить отзыв** " или выберите `Alt` + `Shift` + `I` \ (Windows \) или `Option` + `Shift` + `I` \ (macOS \) в DevTools.  
+*   Отправьте свой отзыв с помощью значка " **Отправить отзыв** " или выберите `Alt` + `Shift` + `I` \ (Windows, Linux \) или `Option` + `Shift` + `I` \ (macOS \) в DevTools.  
 *   Твит на [@EdgeDevTools][PostTweetEdgeDevTools].  
 *   Отправьте предложение в [Интернет][TheWebWeWant].  
 *   В этой статье описаны ошибки в разделе [Отзывы и предложения](#feedback) .  

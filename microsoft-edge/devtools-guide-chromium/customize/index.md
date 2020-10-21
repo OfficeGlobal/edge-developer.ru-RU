@@ -3,16 +3,16 @@ description: Список способов настройки Microsoft Edge Dev
 title: Настройка Microsoft Edge DevTools
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 238ee27a75aa94bf986d41f00a98e5eacc806d7f
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 91f353c6b6c4dea2bc6764a972acf2ad52b1f151
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10992997"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125085"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -28,87 +28,81 @@ ms.locfileid: "10992997"
    See the License for the specific language governing permissions and
    limitations under the License.  -->
 
-
-
-
-
-# Настройка Microsoft Edge DevTools   
+# Настройка Microsoft Edge DevTools  
 
   
 
 На этой странице перечислены способы настройки Microsoft Edge DevTools.  
 
-## Параметры   
+## Параметры  
 
 **Параметры**  >  **Настройки** . доступно множество вариантов настройки DevTools.  
 
 Чтобы открыть параметры, выполните одно из указанных ниже действий.  
 
-*   Нажмите `F1` , чтобы DevTools в фокусе.  
+*   Выберите `F1` , когда DevTools в фокусе.  
 *   Откройте **главное меню** и выберите пункт **Параметры**.  
     
     :::image type="complex" source="../media/customize-settings-preferences.msft.png" alt-text="Параметры" lightbox="../media/customize-settings-preferences.msft.png":::
        **Параметры**  
     :::image-end:::  
     
-## Зазор   
+## Зазор  
 
 Этот **ящик** включает множество скрытых функций.  
 
-Нажмите `Escape` , чтобы открыть или закрыть **денежный ящик**.  
+Щелкните `Escape` , чтобы открыть или закрыть **денежный ящик**.  
 
-:::image type="complex" source="../media/customize-drawer-open.msft.png" alt-text="Ящик" lightbox="../media/customize-drawer-open.msft.png":::
+:::image type="complex" source="../media/customize-drawer-open.msft.png" alt-text="Параметры" lightbox="../media/customize-drawer-open.msft.png":::
    **Ящик**  
 :::image-end:::  
 
-Нажмите кнопку **Дополнительно** ![ ][ImageMoreIcon] , чтобы открыть вкладку другой **ящик** .  
+Нажмите кнопку **Дополнительно** ![ ][ImageMoreIcon] , чтобы открыть другие вкладки **денежных ящиков** .  
 
-:::image type="complex" source="../media/customize-drawer-open-more-tools.msft.png" alt-text="Кнопка для открытия вкладок ящиков" lightbox="../media/customize-drawer-open-more-tools.msft.png":::
+:::image type="complex" source="../media/customize-drawer-open-more-tools.msft.png" alt-text="Параметры" lightbox="../media/customize-drawer-open-more-tools.msft.png":::
    Кнопка для открытия вкладок **ящиков**  
 :::image-end:::  
 
-## Изменение порядка панелей   
+## Изменение порядка панелей  
 
 Щелкните и перетащите вкладку панели, чтобы изменить ее порядок.  Настраиваемый порядок табуляции сохраняется в сеансах DevTools.  
 
 > [!NOTE]
 > По умолчанию вкладка **Сетевая** панель обычно является четвертой слева.  На приведенном ниже рисунке панель **Network (сеть** ) — это первый из левых.  
 
-:::image type="complex" source="../media/customize-network-first-position.msft.png" alt-text="Окно DevTools с настраиваемым заказом вкладки панели" lightbox="../media/customize-network-first-position.msft.png":::
+:::image type="complex" source="../media/customize-network-first-position.msft.png" alt-text="Параметры" lightbox="../media/customize-network-first-position.msft.png":::
    Окно DevTools с настраиваемым заказом вкладки панели  
 :::image-end:::  
 
-## Изменение положения DevTools   
+## Изменение положения DevTools  
 
 Ознакомьтесь с [DevTools размещения Microsoft Edge][DevToolsPlacement].  
 
-:::image type="complex" source="../media/customize-dev-tools-dock-side.msft.png" alt-text="Незакрепленные DevTools" lightbox="../media/customize-dev-tools-dock-side.msft.png":::
+:::image type="complex" source="../media/customize-dev-tools-dock-side.msft.png" alt-text="Параметры" lightbox="../media/customize-dev-tools-dock-side.msft.png":::
    Незакрепленные DevTools  
 :::image-end:::  
 
-## Темная тема   
+## Темная тема  
 
 См. [: включить темную тему][DarkTheme].  
 
-:::image type="complex" source="../media/customize-settings-appearance-theme.msft.png" alt-text="Темная тема" lightbox="../media/customize-settings-appearance-theme.msft.png":::
+:::image type="complex" source="../media/customize-settings-appearance-theme.msft.png" alt-text="Параметры" lightbox="../media/customize-settings-appearance-theme.msft.png":::
    Темная тема  
 :::image-end:::  
 
-## Эксперименты   
+## Эксперименты  
 
 Чтобы включить эксперименты DevTools, выполните указанные ниже действия.  
 
-1.  Перейти к `edge://flags/#enable-devtools-experiments` .  
-1.  Щелкните **Включить**.  
-1.  Нажмите кнопку **Перезапустить сейчас**в нижней части страницы.  
+1.  Перейдите к `edge://flags/#enable-devtools-experiments` .  
+1.  Нажмите кнопку **включить**.  
+1.  В нижней части страницы нажмите кнопку " **Перезапустить сейчас**".  
 
-В следующий раз при открытии DevTools откроется новая страница с именем " **эксперименты** " в разделе " [Параметры](#settings)".  
+В следующий раз, когда вы открываете DevTools, в разделе " [Параметры](#settings)" отображается новая страница " **эксперименты** ".  
 
-<!--  
-   
+## Взаимодействие с командой средств разработчика Microsoft Edge  
 
-  
--->  
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- image links -->  
 

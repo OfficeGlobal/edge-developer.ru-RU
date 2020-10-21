@@ -3,16 +3,16 @@ description: Включите параметр "помечать сценари�
 title: Пометка сценария содержимого как кода библиотеки
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 517e0a4e944f32d41451a0a5d9d7baa91ff97212
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 2a9bca703004b6232bef857d7b9e2f45458db52d
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10992794"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11124700"
 ---
 <!-- Copyright Kayce Basques 
 

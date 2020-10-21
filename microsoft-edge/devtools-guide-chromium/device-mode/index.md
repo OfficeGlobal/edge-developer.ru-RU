@@ -3,16 +3,16 @@ description: Используйте виртуальные устройства 
 title: Эмуляция мобильных устройств в Microsoft Edge DevTools
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/04/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: Microsoft EDGE, веб-разработка, инструменты для F12, Devtools, Эмуляция, устройство, Эмуляция, мобильный
-ms.openlocfilehash: c70b81eabb145461eac7d1b9a8f438d6a18fbc89
-ms.sourcegitcommit: cc96ada9679b23feb841e46f19d8077251c4a4df
+ms.openlocfilehash: 8b636a20fcb1c55630009031ec8bf300624d03d7
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/08/2020
-ms.locfileid: "10997145"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125106"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -234,7 +234,7 @@ ms.locfileid: "10997145"
        Список **регулирования** на панели "сеть"  
     :::image-end:::  
     
-    Или выберите `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \), чтобы открыть **меню команд**, введите `3G` и выберите **включить быстрое регулирование сети 3G** или **включить медленное регулирование сети 3G**.  
+    Или выберите `Control` + `Shift` + `P` \ (Windows, Linux \) или `Command` + `Shift` + `P` \ (macOS \), чтобы открыть **меню команд**, введите `3G` и выберите **включить быстрое регулирование сети 3G** или **включить медленное регулирование сети 3G**.  
     
     :::image type="complex" source="../media/device-mode-command-menu-throttle.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-command-menu-throttle.msft.png":::
        **Меню команд**  
@@ -248,7 +248,7 @@ ms.locfileid: "10997145"
        Настройка регулирования сети с помощью панели " **производительность** "  
     :::image-end:::  
     
-## Переопределение географического положения  
+## Переопределение геолокации  
 
 :::row:::
    :::column span="":::
@@ -262,7 +262,7 @@ ms.locfileid: "10997145"
    :::column-end:::
    :::column span="":::
       1.  Открытие меню команд.  
-          *   Выберите `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \).  
+          *   Выберите `Control` + `Shift` + `P` \ (Windows, Linux \) или `Command` + `Shift` + `P` \ (macOS \).  
       1. Введите текст `Sensors` и выберите пункт **Показать датчики**.  
       
       :::image type="complex" source="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png":::
@@ -291,7 +291,7 @@ ms.locfileid: "10997145"
    :::column-end:::
    :::column span="":::
       1.  Открытие меню команд.  
-          *   Выберите `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \).  
+          *   Выберите `Control` + `Shift` + `P` \ (Windows, Linux \) или `Command` + `Shift` + `P` \ (macOS \).  
       1. Введите текст `Sensors` и выберите пункт **Показать датчики**.  
       
       :::image type="complex" source="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-command-menu-sensors.msft.png":::
@@ -320,7 +320,7 @@ ms.locfileid: "10997145"
    :::column-end:::
    :::column span="":::
       1.  Открытие меню команд.  
-          *   Выберите `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \).  
+          *   Выберите `Control` + `Shift` + `P` \ (Windows, Linux \) или `Command` + `Shift` + `P` \ (macOS \).  
       1. Введите текст `Network conditions` и выберите пункт **Показать условия сети**.  
       
       :::image type="complex" source="../media/device-mode-toggle-device-toolbar-command-menu-network-conditions.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-command-menu-network-conditions.msft.png":::
@@ -329,7 +329,7 @@ ms.locfileid: "10997145"
    :::column-end:::
 :::row-end:::  
 
-Рядом с **агентом пользователя**снимите флажок **выбрать автоматически** .  Затем выберите пункт **Настраиваемая...** , чтобы выбрать из списка предварительно заданных строк агента пользователя.  Чтобы ввести собственную строку агента пользователя, введите ее в поле **введите настраиваемый агент пользователя**.  
+Рядом с **агентом пользователя**снимите флажок **выбрать автоматически** .  Затем выберите **Custom...** , чтобы выбрать из списка предварительно заданных строк агента пользователя.  Чтобы ввести собственную строку агента пользователя, введите ее в поле **введите настраиваемый агент пользователя**.  
 
 :::image type="complex" source="../media/device-mode-toggle-device-toolbar-network-conditions-macos.msft.png" alt-text="Панель инструментов &quot;устройства&quot;" lightbox="../media/device-mode-toggle-device-toolbar-network-conditions-macos.msft.png":::
     Установка строки агента пользователя в Microsoft EDGE на macOS  

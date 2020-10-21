@@ -3,16 +3,16 @@ description: Откройте вкладку условия сети, отклю
 title: Переопределение строки агента пользователя из Microsoft Edge DevTools
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: ecaa1247824e5c3acb07a2c631feab30d25aba8d
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: befbe186a5992c651f877a18f1c3232bf212394a
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10992927"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11124952"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -32,13 +32,13 @@ ms.locfileid: "10992927"
 
 Чтобы переопределить строку [агента пользователя][MDNUserAgent] из Microsoft Edge DevTools, выполните указанные ниже действия.  
 
-1.  `Control` + `Shift` + `P` Чтобы открыть меню команд, нажмите клавиши \ (Windows \) или `Command` + `Shift` + `P` \ ( **Command Menu**macOS \).  
+1.  Выберите `Control` + `Shift` + `P` \ (Windows, Linux \) или `Command` + `Shift` + `P` \ (macOS \), чтобы открыть **меню команд**.  
     
     :::image type="complex" source="../media/device-mode-console-command-menu.msft.png" alt-text="Меню команд" lightbox="../media/device-mode-console-command-menu.msft.png":::
        **Меню команд**  
     :::image-end:::  
     
-1.  Введите и `network conditions` выберите **Показывать условия сети**, а затем `Enter` откройте вкладку **условия сети** .  
+1.  Введите `network conditions` команду **Показать условия сети**и выберите, `Enter` чтобы открыть вкладку **условия сети** .  
 1.  В разделе **Агент пользователя** отключите флажок **выбрать автоматически** .  
     
     :::image type="complex" source="../media/device-mode-console-network-conditions-user-agent-select-automatically-deselected.msft.png" alt-text="Меню команд" lightbox="../media/device-mode-console-network-conditions-user-agent-select-automatically-deselected.msft.png":::
@@ -46,7 +46,7 @@ ms.locfileid: "10992927"
     :::image-end:::  
     
 1.  Выберите строку агента пользователя из списка или введите собственную настраиваемую строку.  
-
+    
 ## Взаимодействие с командой средств разработчика Microsoft Edge  
 
 [!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  

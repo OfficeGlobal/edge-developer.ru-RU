@@ -3,16 +3,16 @@ description: Найдите новые рабочие процессы для п
 title: Справочник по CSS
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: de0fb33e1e080045383f3c0fb50919297cbff5bc
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: a4c8d5ed7f3cf84f20b4b73531f871e17921b186
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993074"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125225"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -48,7 +48,7 @@ ms.locfileid: "10993074"
 Для выбора элемента используйте одно из указанных ниже действий.  
 
 *   В окне просмотра наведите указатель мыши на элемент, откройте контекстное меню (щелкните правой кнопкой мыши \) и выберите команду **проверить**.  
-*   В DevTools выберите **пункт выбрать** элемент \ (Выбери ![ элемент ][ImageSelectAnElementIcon] \) или SELECT `Control` + `Shift` + `C` \ (Windows \) или `Command` + `Shift` + `C` \ (macOS \), а затем выберите элемент в окне просмотра.  
+*   В DevTools выберите **пункт выбрать** элемент \ ( ![ выбрать элемент ][ImageSelectAnElementIcon] \) или SELECT `Control` + `Shift` + `C` \ (Windows, Linux \) или `Command` + `Shift` + `C` \ (macOS \), а затем выберите элемент в окне просмотра.  
 *   В DevTools выберите элемент в **дереве DOM**.  
 *   В DevTools выполните запрос, как `document.querySelector('p')` на **консоли**, наведите на него указатель мыши, откройте контекстное меню, а затем выберите команду **Показать на панели элементы**.  
 
@@ -58,7 +58,7 @@ ms.locfileid: "10993074"
 
 В области **стили** щелкните ссылку рядом с правилом CSS, чтобы открыть внешнюю таблицу стилей, которая определяет правило.  
 
-Если таблица стилей minified, ознакомьтесь с тем, [чтобы сделать файл minified читаемым][DevToolsJavascriptReferenceFormat].  
+Если таблица стилей minified, перейдите в раздел, чтобы [сделать файл minified доступным для чтения][DevToolsJavascriptReferenceFormat].  
 
 > [!NOTE]
 > На приведенном ниже рисунке после выбора `https://docs.microsoft.com/_themes/docs.theme/master/en-us/_themes/styles/b66bc881.site-ltr.css:2` строки 2 `https://docs.microsoft.com/_themes/docs.theme/master/en-us/_themes/styles/b66bc881.site-ltr.css` , где `.content h1:first-of-type` определено правило CSS.  
@@ -145,7 +145,7 @@ ms.locfileid: "10993074"
    Переключение `:hover` псевдо-класса  
 :::image-end:::  
 
-Интерактивные учебники можно найти в разделе [Добавление PseudoState в класс][DevToolsCSSGetStartedAddPseudoState].  
+Для интерактивного учебника перейдите к разделу [Добавление PseudoState в класс][DevToolsCSSGetStartedAddPseudoState].  
 
 ### Просмотр страницы в режиме печати  
 
@@ -153,13 +153,13 @@ ms.locfileid: "10993074"
 
 1.  [Открытие меню команд][DevToolsCommandMenu].  
 1.  Начните вводить текст `Rendering` и выберите его `Show Rendering` .  
-1.  В раскрывающемся списке **Эмуляция мультимедиа в CSS** нажмите кнопку **Печать**.  
+1.  Для **имитации** раскрывающегося списка выбери мультимедиа в CSS нажмите кнопку **Печать**.  
 
 ### Просмотр использованной и неиспользуемой CSS с помощью вкладки "покрытие"  
 
 На вкладке Coverage показано, какая страница CSS используется в действительности.  
 
-1.  Выберите `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \), когда DevTools находится в фокусе, чтобы [Открыть меню команд][DevToolsCommandMenu].  
+1.  Выберите `Control` + `Shift` + `P` \ (Windows, Linux \) или `Command` + `Shift` + `P` \ (macOS \), когда DevTools находится в фокусе, чтобы [Открыть меню команд][DevToolsCommandMenu].  
 1.  Начните вводить текст `coverage` и выберите **Показать покрытие**.  Откроется вкладка покрытие.  
     
     :::row:::
@@ -205,7 +205,7 @@ ms.locfileid: "10993074"
 *   [Добавление встроенного объявления](#add-an-inline-declaration).  Эквивалентно добавлению `style` атрибута в HTML элемента.  
 *   [Добавление объявления в правило стиля](#add-a-declaration-to-a-style-rule).  
 
-**Какой рабочий процесс следует использовать?** В большинстве сценариев вы, возможно, захотите использовать рабочий процесс объявления на встроенных элементах.  Встроенные объявления имеют более высокие особенности, чем внешние, поэтому встроенный рабочий процесс гарантирует, что изменения вступают в силу в ожидаемом элементе.  Дополнительные сведения о конкретных особенностях можно найти в разделе [типы селекторов][MDNSelectorTypes].  
+**Какой рабочий процесс следует использовать?** В большинстве сценариев вы, возможно, захотите использовать рабочий процесс объявления на встроенных элементах.  Встроенные объявления имеют более высокие особенности, чем внешние, поэтому встроенный рабочий процесс гарантирует, что изменения вступают в силу в ожидаемом элементе.  Для получения дополнительных сведений об определенном способе перейдите к разделу [типы Selector][MDNSelectorTypes].  
 
 Если при отладке любого стиля элемента требуется специально проверить, что происходит, если объявление определено в разных местах, используйте другой рабочий процесс.  
 
@@ -250,10 +250,10 @@ ms.locfileid: "10993074"
 
 При редактировании значения объявления вы можете использовать следующие сочетания клавиш, чтобы увеличить значение на определенную величину.  
 
-*   Выберите `Alt` + `Up` \ (Windows \) или `Option` + `Up` \ (macOS \), чтобы увеличить его `0.1` .  
+*   Выберите `Alt` + `Up` \ (Windows, Linux \) или `Option` + `Up` \ (macOS \), чтобы увеличить его `0.1` .  
 *   Выберите `Up` , чтобы изменить значение `1` , или, `0.1` Если текущее значение находится в диапазоне от `-1` и до `1` .  
 *   Выберите, `Shift` + `Up` чтобы увеличить `10` .  
-*   Выберите `Shift` + `Page Up` \ (Windows \) или `Shift` + `Command` + `Up` \ (macOS \), чтобы увеличить значение `100` .  
+*   Выберите `Shift` + `Page Up` \ (Windows, Linux \) или `Shift` + `Command` + `Up` \ (macOS \), чтобы увеличить значение `100` .  
 
 Кроме того, выполняется уменьшение.  Просто замените каждый из `Up` упомянутых выше экземпляров `Down` .  
 
@@ -306,7 +306,7 @@ ms.locfileid: "10993074"
 
 1.  Наведите указатель мыши на правило стиля, которое находится в том месте, куда вы хотите добавить новое правило стиля.  
 1.  [Показать панель инструментов " **другие действия** "](#reveal-the-more-actions-toolbar).  
-1.  Нажмите кнопку **Вставить правило стиля ниже** \ ( ![ Вставить правило стиля ниже ][ImageNewStyleRuleIcon] \).  
+1.  Нажмите кнопку **Вставить правило стиля ниже** \ ( ![ Вставьте правило стиля ниже значка ][ImageNewStyleRuleIcon] \).  
 
 :::image type="complex" source="../media/css-elements-styles-insert-style-rule-below.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-insert-style-rule-below.msft.png":::
    **Вставить правило стиля ниже**  
@@ -360,7 +360,7 @@ ms.locfileid: "10993074"
 
 1.  Наведите указатель мыши на правило стиля, в которое вы хотите добавить `background-color` объявление.  
 1.  [Показать панель инструментов " **другие действия** "](#reveal-the-more-actions-toolbar).  
-1.  Выберите команду **добавить цвет фона** \ ( ![ добавить цвет фона ][ImageAddBackgroundColorIcon] \).  
+1.  Нажмите кнопку **добавить цвет фона** \ ( ![ Добавить значок цвет фона ][ImageAddBackgroundColorIcon] ).  
 
 :::image type="complex" source="../media/css-elements-styles-rule-add-background-color.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-rule-add-background-color.msft.png":::
    **Добавление цвета фона**  
@@ -372,7 +372,7 @@ ms.locfileid: "10993074"
 
 1.  Наведите указатель мыши на правило стиля, в которое вы хотите добавить `color` объявление.  
 1.  [Показать панель инструментов " **другие действия** "](#reveal-the-more-actions-toolbar).  
-1.  Нажмите кнопку **добавить цвет** \ ( ![ добавить цвет ][ImageAddColorIcon] ).  
+1.  Нажмите кнопку **добавить цвет** \ ( ![ добавить цвет значок ][ImageAddColorIcon] ).  
 
 :::image type="complex" source="../media/css-elements-styles-rule-add-color.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-rule-add-color.msft.png":::
    **Добавить цвет**  
@@ -384,7 +384,7 @@ ms.locfileid: "10993074"
 
 1.  Наведите указатель мыши на правило стиля, в которое вы хотите добавить `box-shadow` объявление.  
 1.  [Показать панель инструментов " **другие действия** "](#reveal-the-more-actions-toolbar).  
-1.  Нажмите кнопку **Добавить тень поля** \ ( ![ Добавить тень рамки ][ImageAddBoxShadowIcon] ).  
+1.  Нажмите кнопку **"добавить тень"** , а затем — ![ значок "добавить тень" ][ImageAddBoxShadowIcon] .  
 
 :::image type="complex" source="../media/css-elements-styles-rule-add-box-shadow.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-rule-add-box-shadow.msft.png":::
    **Добавление тени для поля**  
@@ -396,7 +396,7 @@ ms.locfileid: "10993074"
 
 1.  Наведите указатель мыши на правило стиля, в которое вы хотите добавить `text-shadow` объявление.  
 1.  [Показать панель инструментов " **другие действия** "](#reveal-the-more-actions-toolbar).  
-1.  Нажмите кнопку **Добавить тень текста** \ ( ![ Добавить тень текста ][ImageAddTextShadowIcon] \).  
+1.  Нажмите кнопку **Добавить тень текста** \ ( ![ Добавить значок тени текста ][ImageAddTextShadowIcon] ).  
 
 :::image type="complex" source="../media/css-elements-styles-rule-add-text-shadow.msft.png" alt-text="Пример выбранного элемента" lightbox="../media/css-elements-styles-rule-add-text-shadow.msft.png":::
    **Добавление тени текста**  
@@ -449,7 +449,7 @@ ms.locfileid: "10993074"
       **Выбрав**  
    :::column-end:::
    :::column span="2":::
-      Дополнительные сведения можно найти в разделе [Выбор цвета на странице с помощью пипетки](#sample-a-color-off-the-page-with-the-eyedropper).  
+      Дополнительные сведения можно найти с помощью [пипетки, выключив образец цвета на странице](#sample-a-color-off-the-page-with-the-eyedropper).  
    :::column-end:::
 :::row-end:::  
 :::row:::
@@ -544,6 +544,10 @@ ms.locfileid: "10993074"
        Использование пипетки  
     :::image-end:::  
     
+## Взаимодействие с командой средств разработчика Microsoft Edge  
+
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
+
 <!-- image links -->  
 
 [ImageAddBackgroundColorIcon]: ../media/add-background-color-icon.msft.png  

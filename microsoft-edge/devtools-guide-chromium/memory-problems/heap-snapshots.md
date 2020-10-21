@@ -3,16 +3,16 @@ description: Узнайте, как записывать моментальны�
 title: Запись моментальных снимков кучи
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 15692b0258de6db66c0b58a2659348a6e849aaca
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 9762cb1d4932ce1a5d0b1c3944aa0b85d78b1060
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993473"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125463"
 ---
 <!-- Copyright Meggin Kearney 
 
@@ -36,7 +36,7 @@ ms.locfileid: "10993473"
 
 ## Создание снимка  
 
-На панели **память** выберите команду **сделать снимок**, а затем нажмите кнопку **начать**.  Вы также можете нажать клавиши `Ctrl` + `E` \ (Windows \) или `Cmd` + `E` \ (macOS \).  
+На панели **память** выберите команду **сделать снимок**, а затем нажмите кнопку **начать**.  Вы также можете выбрать `Ctrl` + `E` \ (Windows, Linux \) или `Cmd` + `E` \ (macOS \).  
 
 :::image type="complex" source="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots.msft.png" alt-text="Выбор типа профилирования" lightbox="../media/memory-problems-gh-nodejs-benchmarks-run-memory-heap-snapshots.msft.png":::
    Выбор типа профилирования  

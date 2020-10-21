@@ -3,16 +3,16 @@ description: В режиме событий временной шкалы ото
 title: Справочные материалы по событию временной шкалы
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 624035636e2231cf1f3cd1e2ba0fdda7e2e4fa00
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 989d4d84345fedc1c5aef2cb8d893db3c0e1634b
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10992850"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11124903"
 ---
 <!-- Copyright Meggin Kearney and Flavio Copes
 
@@ -28,14 +28,7 @@ ms.locfileid: "10992850"
    See the License for the specific language governing permissions and
    limitations under the License.  -->
 
-
-
-
-
-# Справочные материалы по событию временной шкалы   
-
-
-
+# Справочные материалы по событию временной шкалы  
 
 В режиме событий временной шкалы отображаются все события, инициированные во время создания записи.  Чтобы узнать больше о каждом типе событий временной шкалы, воспользуйтесь ссылкой на событие временной шкалы.  
 
@@ -149,11 +142,9 @@ ms.locfileid: "10992850"
 | Location | Для событий Paint координаты x и y прямоугольника рисования. |  
 | Кодов | Для событий рисования — высота и Ширина закрашиваемой области. |  
 
- 
+## Взаимодействие с командой средств разработчика Microsoft Edge  
 
-
-
-<!-- image links -->  
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- links -->
 

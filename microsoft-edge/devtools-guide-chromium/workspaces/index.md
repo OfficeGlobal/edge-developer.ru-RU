@@ -3,16 +3,16 @@ description: Сведения о том, как сохранять измене�
 title: Редактирование файлов с помощью рабочих областей
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: fd72021e75c536fa38c27ae17e4b1678eb4ca85f
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 496bbbb34cdf900d36aa7ebfbf79ad63cdf3e6e7
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10992724"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125351"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -81,7 +81,7 @@ ms.locfileid: "10992724"
     :::image-end:::  
     
     <!--1.  Choose the project name.  -->  
-    <!--1.  Select **Advanced Options** > **Download Project**.  
+    <!--1.  Choose **Advanced Options** > **Download Project**.  
     
     :::image type="complex" source="../media/workspaces-glitch-advanced-options-download-project.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-glitch-advanced-options-download-project.msft.png":::
        The Download Project button  
@@ -117,7 +117,7 @@ ms.locfileid: "10992724"
     
 ### Настройка DevTools  
 
-1.  Выберите `Control` + `Shift` + `J` \ (Windows \) или `Command` + `Option` + `J` \ (macOS \), чтобы открыть панель **консоли** DevTools.  
+1.  Выберите `Control` + `Shift` + `J` \ (Windows, Linux \) или `Command` + `Option` + `J` \ (macOS \), чтобы открыть панель **консоли** DevTools.  
     
     :::image type="complex" source="../media/workspaces-workspaces-demo-console.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-console.msft.png":::
        Панель **консоли**  
@@ -207,7 +207,7 @@ In short, the **DOM Tree** `!==` HTML.
 1.  Перейдите на вкладку **страница** .  
 1.  Выберите **(предметный указатель)**.  Откроется HTML-код для страницы.  
 1.  Заменить `<h1>Workspaces Demo</h1>` на `<h1>I ❤️  Cake</h1>` .  Смотрите на рисунке ниже.  
-1.  Выберите `Control` + `S` \ (Windows \) или `Command` + `S` \ (macOS \), чтобы сохранить изменения.  
+1.  Выберите `Control` + `S` \ (Windows, Linux \) или `Command` + `S` \ (macOS \), чтобы сохранить изменения.  
 1.  Обновите страницу.  `<h1>`Элемент по-прежнему отображается в новом тексте.  
     
     :::image type="complex" source="../media/workspaces-workspaces-demo-sources-page-h1.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-sources-page-h1.msft.png":::
@@ -221,14 +221,14 @@ In short, the **DOM Tree** `!==` HTML.
 Панель « **источники** » — это также место, где можно вносить изменения в JavaScript.  Но иногда вам нужно получить доступ к другим панелям, таким как панель **элементов** или панель **консоли** , при внесении изменений на сайт.  На панели « **источники** » есть способ открытия рядом с другими панелями.  
 
 1.  Перейдите на вкладку **элементы** .  
-1.  Выберите `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \).  Откроется **меню команд** .  
-1.  Введите текст `QS` и выберите параметр **Показать быстрый источник**.  В нижней части окна DevTools теперь есть вкладка **быстрый источник** .  На вкладке отображается содержимое `index.html` , которое является последним файлом, измененным на панели « **источники** ».  На вкладке **быстрый источник** вы можете открыть редактор из панели **источники** , чтобы можно было редактировать файлы, не открывая другие панели.  
+1.  Выберите `Control` + `Shift` + `P` \ (Windows, Linux \) или `Command` + `Shift` + `P` \ (macOS \).  Откроется **меню команд** .  
+1.  Введите текст `QS` и выберите команду **Показать быстрый источник**.  В нижней части окна DevTools теперь есть вкладка **быстрый источник** .  На вкладке отображается содержимое `index.html` , которое является последним файлом, измененным на панели « **источники** ».  На вкладке **быстрый источник** вы можете открыть редактор из панели **источники** , чтобы можно было редактировать файлы, не открывая другие панели.  
     
     :::image type="complex" source="../media/workspaces-workspaces-demo-search-show-quick-source.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-search-show-quick-source.msft.png":::
        Открытие вкладки " **быстрый источник** " с помощью **командного меню**  
     :::image-end:::  
     
-1.  `Control` + `P` `Command` + `P` Чтобы открыть диалоговое окно " **Открытие файла** ", выберите \ (Windows \) или \ (macOS \).  Смотрите на рисунке ниже.  
+1.  `Control` + `P` `Command` + `P` Чтобы открыть диалоговое окно " **Открытие файла** ", выберите \ (Windows, Linux \) или \ (macOS \).  Смотрите на рисунке ниже.  
 1.  Введите текст и `script` выберите **приложение/script.js**.  
     
     :::image type="complex" source="../media/workspaces-workspaces-demo-search-script.msft.png" alt-text="Несбойный проект" lightbox="../media/workspaces-workspaces-demo-search-script.msft.png":::
@@ -245,7 +245,7 @@ In short, the **DOM Tree** `!==` HTML.
     document.querySelector('a').style = 'font-style:italic';
     ```  
     
-1.  Выберите `Control` + `S` \ (Windows \) или `Command` + `S` \ (macOS \), чтобы сохранить изменения.  
+1.  Выберите `Control` + `S` \ (Windows, Linux \) или `Command` + `S` \ (macOS \), чтобы сохранить изменения.  
 1.  Обновите страницу.  
     
     > [!NOTE]
@@ -263,8 +263,11 @@ In short, the **DOM Tree** `!==` HTML.
 If you have more feedback on the topics or anything else, please use any of the channels below:  
 
 *   [Mailing List][AlphabetGroupsAlphabetBrowserDevTools]  
-*   [Twitter][TwitterAlphabetBrowserDevTools]  
-    -->  
+*   [Twitter][TwitterAlphabetBrowserDevTools]  -->  
+
+## Взаимодействие с командой средств разработчика Microsoft Edge  
+
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- links -->  
 

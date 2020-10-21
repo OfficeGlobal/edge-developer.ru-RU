@@ -3,16 +3,16 @@ description: Ссылка на удобные команды, доступные
 title: Справочник по API для консольных программ
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 2882d980e6da45072cab4b028ceb1838a9078064
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: f224bb8235437e971ff0e59c20d69e589ce520fb
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993109"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125253"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -123,7 +123,7 @@ $(selector, [startNode])
    На рисунке 5: `$('img')`  
 :::image-end:::  
 
-Наведите указатель мыши на полученный результат, откройте контекстное меню, а затем выберите пункт **Показать на панели элементов** , чтобы найти его в модели DOM, или **прокрутите** страницу, чтобы отобразить ее на странице.  
+Наведите указатель мыши на полученный результат, откройте контекстное меню (щелкните правой кнопкой мыши \) и выберите пункт **Показать на панели элементов** , чтобы найти его в модели DOM или **прокрутить список** , чтобы отобразить его на странице.  
 
 На приведенном ниже рисунке возвращается ссылка на элемент, выбранный в данный момент, и отображается свойство src.  
 
@@ -179,7 +179,7 @@ for (each in images) {
 :::image-end:::  
 
 > [!NOTE]
-> Нажмите клавишу `Shift` + `Enter` консоль, чтобы начать новую строку, не выполняя сценарий.  
+> Выберите `Shift` + `Enter` консоль, чтобы начать новую строку без запуска сценария.  
 
 ## Выражения  
 
@@ -260,7 +260,7 @@ debug("debug");
 
 Используйте `undebug(method)` для прекращения прерывания на методе или с помощью пользовательского интерфейса, чтобы отключить все точки останова.  
 
-Дополнительные сведения о точках останова можно найти в разделе [приостановка кода с точки останова][DevToolsJavascriptBreakpoints].  
+Чтобы получить дополнительные сведения о точках останова, перейдите к разделу [приостановка кода с точки останова][DevToolsJavascriptBreakpoints].  
 
 ## dir  
 
@@ -281,7 +281,7 @@ dir(document.head);
    Рисунок 14: ведение журнала `document.head` с помощью `dir()` метода  
 :::image-end:::  
 
-Дополнительные сведения можно найти в описании [`console.dir()`][DevToolsConsoleApiConsoleDirObject] записи в API-интерфейсе консоли.  
+Дополнительные сведения можно найти в [`console.dir()`][DevToolsConsoleApiConsoleDirObject] разделе "запись" в API консоли.  
 
 ## dirxml  
 
@@ -350,7 +350,7 @@ keys(object)
 Например, предположим, что приложение определило следующий объект.  
 
 ```console
-var player1 = { "name":  "Ted", "level": 42 }
+var player1 =   
 ```  
 
 В приведенных ниже примерах кода предполагается, что результат `player1` определен в глобальном пространстве имен \ (для простоты) перед вводом `keys(player1)` и `values(player1)` на консоли.  
@@ -606,6 +606,10 @@ values(object)
 ```console
 values(object);
 ```  
+
+## Взаимодействие с командой средств разработчика Microsoft Edge  
+
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- links -->  
 

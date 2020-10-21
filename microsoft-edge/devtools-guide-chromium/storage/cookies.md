@@ -3,16 +3,16 @@ description: Сведения о том, как просматривать, из
 title: Просмотр, изменение и удаление cookie-файлов в Microsoft Edge DevTools
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: eaaf4663504fc674fd70dc1ca9e0357febb529e0
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 328771aa254dac1f851535a44126ea220dc95a9c
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993242"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125484"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -43,7 +43,7 @@ ms.locfileid: "10993242"
 
 1.  В разделе **хранилище** разверните **cookie-файлы**, а затем выберите источник.  
     
-    :::image type="complex" source="../media/storage-application-storage-cookies-selected.msft.png" alt-text="Область «cookies»" lightbox="../media/storage-application-storage-cookies-selected.msft.png":::
+    :::image type="complex" source="../media/storage-application-storage-cookies-selected.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-cookies-selected.msft.png":::
        Рисунок 2: область "cookie"  
     :::image-end:::  
 
@@ -66,7 +66,7 @@ ms.locfileid: "10993242"
 
 Используйте текстовое поле " **Фильтр** " для фильтрации файлов cookie по **имени** или **значению**.  Фильтрация по другим полям не поддерживается.  
 
-:::image type="complex" source="../media/storage-application-storage-cookies-filter-id.msft.png" alt-text="Фильтрация файлов cookie, которые не содержат идентификатор текста" lightbox="../media/storage-application-storage-cookies-filter-id.msft.png":::
+:::image type="complex" source="../media/storage-application-storage-cookies-filter-id.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-cookies-filter-id.msft.png":::
    Рис. 3: Фильтрация файлов cookie, которые не содержат текст `ID`  
 :::image-end:::  
 
@@ -75,7 +75,7 @@ ms.locfileid: "10993242"
 Поля « **имя**», « **значение**», « **домен**», « **путь**» и « **срок действия/максимум»** можно редактировать.  
 Дважды щелкните поле, чтобы изменить его.  
 
-:::image type="complex" source="../media/storage-application-storage-cookies-rename.msft.png" alt-text="Присвоение имени файла cookie DEVTOOLS!" lightbox="../media/storage-application-storage-cookies-rename.msft.png":::
+:::image type="complex" source="../media/storage-application-storage-cookies-rename.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-cookies-rename.msft.png":::
    Рисунок 4: Задание имени файла cookie `DEVTOOLS!`  
 :::image-end:::  
 
@@ -83,15 +83,19 @@ ms.locfileid: "10993242"
 
 Выберите файл cookie и выберите пункт **Удалить выбранное** ![ удаление, ][ImageDeleteIcon]  чтобы удалить определенный файл cookie.  
 
-:::image type="complex" source="../media/storage-application-storage-cookies-delete-selected.msft.png" alt-text="Удаление определенного файла cookie" lightbox="../media/storage-application-storage-cookies-delete-selected.msft.png":::
+:::image type="complex" source="../media/storage-application-storage-cookies-delete-selected.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-cookies-delete-selected.msft.png":::
    Рисунок 5: удаление определенного файла cookie  
 :::image-end:::  
 
-**Clear All** ![ ][ImageClearIcon] Чтобы удалить все файлы cookie, выберите Очистить все очистить все.  
+Выберите **Очистить все** ![ Очистить все ][ImageClearIcon]  , чтобы удалить все файлы cookie.  
 
-:::image type="complex" source="../media/storage-application-storage-cookies-clear-all.msft.png" alt-text="Удаление всех файлов cookie" lightbox="../media/storage-application-storage-cookies-clear-all.msft.png":::
+:::image type="complex" source="../media/storage-application-storage-cookies-clear-all.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-cookies-clear-all.msft.png":::
    Рисунок 6: Очистка всех cookie-файлов  
 :::image-end:::  
+
+## Взаимодействие с командой средств разработчика Microsoft Edge  
+
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- image links -->  
 

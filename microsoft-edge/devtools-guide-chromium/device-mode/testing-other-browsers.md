@@ -3,16 +3,16 @@ description: Ваше задание не заканчивается, и вы н
 title: Эмуляция и тестирование других браузеров
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 1b76447aa86837abac88bc4727eb7f4ee082342a
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 1a7cc1c7e0a49760f30afdc16921824372b3a1aa
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10992913"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11124945"
 ---
 <!-- Copyright Meggin Kearney and Paul Bakaus
 
@@ -28,14 +28,7 @@ ms.locfileid: "10992913"
    See the License for the specific language governing permissions and
    limitations under the License.  -->
 
-
-
-
-
-# Эмуляция и тестирование других браузеров   
-
-
-
+# Эмуляция и тестирование других браузеров  
 
 Ваше задание не заканчивается, и вы не гарантируете, что ваш сайт будет работать в Microsoft EDGE и Android.  Несмотря на то, что режим устройства может имитировать ряд других устройств, таких как iPhone, мы рекомендуем вам извлечь решения для эмуляции, предоставляемой другими браузерами.  
 
@@ -79,7 +72,7 @@ ms.locfileid: "10992913"
 #### Оболочка содержимого Chromium на Android  
 
 <!--  
-:::image type="complex" source="../media/device-mode-android-avd-contentshell.msft.png" alt-text="Android Emulator Content Shell" lightbox="../media/device-mode-android-avd-contentshell.msft.png":::
+:::image type="complex" source="../media/device-mode-android-avd-contentshell.msft.png" alt-text="Stock Browser in Android Emulator" lightbox="../media/device-mode-android-avd-contentshell.msft.png":::
    Android Emulator Content Shell  
 :::image-end:::  
 -->  
@@ -97,7 +90,7 @@ chmod u+x ./chromium-android-installer/*.sh
 #### Firefox для Android  
 
 <!--  
-:::image type="complex" source="../media/device-mode-ff-on-android-emulator.msft.png" alt-text="Firefox Icon on Android Emulator" lightbox="../media/device-mode-ff-on-android-emulator.msft.png":::
+:::image type="complex" source="../media/device-mode-ff-on-android-emulator.msft.png" alt-text="Stock Browser in Android Emulator" lightbox="../media/device-mode-ff-on-android-emulator.msft.png":::
    Firefox Icon on Android Emulator  
 :::image-end:::  
 -->  
@@ -123,7 +116,7 @@ adb install <path_to_APK>/fennec-XX.X.XX.android-arm.apk
 
 ###  Microsoft EDGE (EdgeHTML)  
 
-:::image type="complex" source="../media/device-mode-modern-ie-vm.msft.png" alt-text="Современная виртуальная машина IE" lightbox="../media/device-mode-modern-ie-vm.msft.png":::
+:::image type="complex" source="../media/device-mode-modern-ie-vm.msft.png" alt-text="Stock Browser in Android Emulator" lightbox="../media/device-mode-modern-ie-vm.msft.png":::
    Современная виртуальная машина IE  
 :::image-end:::  
 
@@ -137,11 +130,9 @@ Microsoft Edge \ (EdgeHTML \) виртуальные машины \ (VMS \) пр
 *   [SauceLabs (коммерческая версия)][SauceLabs] позволяет выполнять модульные тесты внутри эмулятора, который может быть весьма полезен для создания сценариев на сайте и просмотра видеозаписи после этого на различных устройствах.  Вы также можете выполнять тестирование на сайте вручную.  
 *   [Устройства в любом месте (в коммерческой версии)][AppExperience] не используют Эмуляторы, но реальные устройства, которыми вы можете управлять удаленно.  Это очень полезно в том случае, если вам нужно воспроизвести проблему на конкретном устройстве и не удается просмотреть ошибку с помощью любого из параметров предыдущих руководств.  
 
-<!--  
- 
+## Взаимодействие с командой средств разработчика Microsoft Edge  
 
-
--->  
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- links -->  
 

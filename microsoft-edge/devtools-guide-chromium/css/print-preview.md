@@ -3,16 +3,16 @@ description: Откройте вкладку "рендеринг" и выбер�
 title: Принудительная установка Microsoft Edge DevTools в режиме предварительного просмотра (тип носителя для печати CSS)
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 1b71135c5ed2d86903b76e659434ee2125985a24
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: d4e8e06d60461ac4cdcab8686a18a0698d52f6e3
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993053"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125120"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -28,36 +28,28 @@ ms.locfileid: "10993053"
    See the License for the specific language governing permissions and
    limitations under the License.  -->
 
-
-
-
-
-# Принудительная установка Microsoft Edge DevTools в режиме предварительного просмотра (тип носителя для печати CSS)   
-
-
+# Принудительная установка Microsoft Edge DevTools в режиме предварительного просмотра (тип носителя для печати CSS)  
 
 [Запрос на печать][MDNUsingMediaQueries] позволяет управлять тем, как выглядит страница после печати.  Чтобы перевести страницу в режим предварительного просмотра, выполните указанные ниже действия.  
 
-1.  `Control` + `Shift` + `P` Чтобы открыть меню команд, нажмите клавиши \ (Windows \) или `Command` + `Shift` + `P` \ ( **Command Menu**macOS \).  
+1.  Выберите `Control` + `Shift` + `P` \ (Windows, Linux \) или `Command` + `Shift` + `P` \ (macOS \), чтобы открыть **меню команд**.  
     
     :::image type="complex" source="../media/css-console-command-menu-rendering.msft.png" alt-text="Меню команд" lightbox="../media/css-console-command-menu-rendering.msft.png":::
        **Меню команд**  
     :::image-end:::  
     
-1.  Введите `rendering` команду **Показать рендеринг**и нажмите клавишу `Enter` .  
-1.  В разделе **Эмуляция мультимедиа в CSS** выберите **Печать**.  
+1.  Введите `rendering` команду **Показать рендеринг**и нажмите кнопку `Enter` .  
+1.  В разделе **Эмуляция мультимедиа в CSS** нажмите кнопку **Печать**.  
     
-    :::image type="complex" source="../media/css-elements-styles-qs-rendering-emulate-css-media-print.msft.png" alt-text="Режим предварительного просмотра" lightbox="../media/css-elements-styles-qs-rendering-emulate-css-media-print.msft.png":::
+    :::image type="complex" source="../media/css-elements-styles-qs-rendering-emulate-css-media-print.msft.png" alt-text="Меню команд" lightbox="../media/css-elements-styles-qs-rendering-emulate-css-media-print.msft.png":::
        Режим предварительного просмотра  
     :::image-end:::  
     
 Отсюда вы можете просматривать и изменять CSS, как и любую другую веб-страницу.  Ознакомьтесь [со статьей начало работы с помощью просмотра и изменения CSS][DevToolsCSSGetStarted].  
 
-<!--  
- 
+## Взаимодействие с командой средств разработчика Microsoft Edge  
 
-
--->  
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- links -->  
 

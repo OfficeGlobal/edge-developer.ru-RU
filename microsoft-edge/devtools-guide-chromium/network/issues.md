@@ -3,16 +3,16 @@ description: Сведения о том, как найти сетевые про
 title: Справочные материалы по неполадкам в сети
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: ccd78c34a50bf235416df58aad28df9253b1b24e
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 4713dc252d428abbf5b60ee5f74a7316a102dab6
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993375"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125379"
 ---
 <!-- Copyright Kayce Basques and Jonathan Garbee
 
@@ -28,20 +28,13 @@ ms.locfileid: "10993375"
    See the License for the specific language governing permissions and
    limitations under the License.  -->
 
-
-
-
-
-# Руководство по сетевым проблемам   
-
-
-
+# Справочные материалы по неполадкам в сети  
 
 В этом руководстве показано, как определить сетевые проблемы или возможности оптимизации на панели "сеть" Microsoft Edge DevTools.  
 
 Ознакомьтесь со [статьей][NetworkPerformance] "Начало работы", чтобы ознакомиться с основными понятиями панели " **сеть** ".  
 
-## Запросы, поставленные в очередь или остановленные   
+## Запросы, поставленные в очередь или остановленные  
 
 **Симптомы**  
 
@@ -63,7 +56,7 @@ ms.locfileid: "10993375"
 *   Используйте HTTP/2.  Не используйте сегментирование доменов с протоколом HTTP/2.  
 *   Удалите или отложите ненужные запросы, чтобы загрузить критические запросы.  
     
-## Медленное время до первого байта (TTFB)   
+## Медленное время до первого байта (TTFB)  
 
 **Симптомы**  
 
@@ -85,7 +78,7 @@ ms.locfileid: "10993375"
 *   Если соединение медленное, разрешите размещение содержимого в сети CDN или изменение поставщиков услуг размещения.  
 *   Если сервер работает медленно, рассматривайте запросы к базе данных, реализуйте кэш или изменяйте конфигурацию сервера.  
     
-## Медленная загрузка содержимого   
+## Медленная загрузка содержимого  
 
 **Симптомы**  
 
@@ -107,19 +100,17 @@ ms.locfileid: "10993375"
 *   Возможно, вы размещаете содержимое в сети CDN или меняете поставщиков услуг размещения.  
 *   Уменьшите количество байтов, оптимизируя запросы.  
     
-## Сведения о Contribute  
+<!--   ## Contribute knowledge  
 
-Есть ли у вас сетевая проблема, которая должна быть добавлена в это руководство?  
+Do you have a network issue that should be added to this guide?  
 
-*   Отправить твит на [@EdgeDevTools][MicrosoftEdgeTweet].  
-*   Выберите **Отправить отзыв** \ ( ![ Отправить отзыв ][ImageSendFeedbackIcon] \) в DevTools или нажмите клавиши `Alt` + `Shift` + `I` \ (Windows \) или `Option` + `Shift` + `I` \ (macOS \), чтобы предоставить отзыв или запрос функций.  
-*   [Открыть вопрос][WebFundamentalsIssue] в репозитории документов.  
+*   Send a tweet to [@EdgeDevTools][MicrosoftEdgeTweet].  
+*   Choose **Send Feedback** \(![Send Feedback][ImageSendFeedbackIcon]\) in the DevTools or select `Alt`+`Shift`+`I` \(Windows, Linux\) or `Option`+`Shift`+`I` \(macOS\) to provide feedback or feature requests.  
+*   [Open an issue][WebFundamentalsIssue] on the docs repo.  -->  
     
-<!--  
-  
+## Взаимодействие с командой средств разработчика Microsoft Edge  
 
-
--->  
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- image links -->  
 

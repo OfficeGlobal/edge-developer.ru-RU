@@ -3,16 +3,16 @@ description: Узнайте, как использовать Microsoft EDGE и D
 title: Устранение проблем с памятью
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: ef820353f81eb3fd791433e9c53434dff3b10a60
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 1d8a24fc360dc307471be33544c9c707736be06d
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10992780"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125456"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -63,7 +63,7 @@ ms.locfileid: "10992780"
 
 Используйте диспетчер задач браузера Microsoft EDGE в качестве отправной точки для исследования проблем с памятью.  Диспетчер задач браузера Microsoft Edge — это монитор реального времени, в котором сообщается, сколько памяти использует страница в данный момент.  
 
-1.  Нажмите `Shift` + `Esc` или перейдите в главное меню Microsoft EDGE и выберите пункт **другие инструменты**  >  **Диспетчер задач браузера** , чтобы открыть диспетчер задач браузера Microsoft Edge.  
+1.  Выберите `Shift` + `Esc` или перейдите в главное меню Microsoft EDGE и выберите пункт **другие инструменты**  >  **Диспетчер задач браузера** , чтобы открыть диспетчер задач браузера Microsoft Edge.  
     
     :::image type="complex" source="../media/memory-problems-bing-settings-more-tools-browser-task-manager.msft.png" alt-text="Открытие диспетчера задач браузера Microsoft Edge" lightbox="../media/memory-problems-bing-settings-more-tools-browser-task-manager.msft.png":::
        Рисунок 1: Открытие диспетчера задач браузера Microsoft Edge  
@@ -71,7 +71,7 @@ ms.locfileid: "10992780"
     
 1.  Наведите указатель мыши на заголовок таблицы в диспетчере задач браузера Microsoft EDGE, откройте контекстное меню \ (щелкните правой кнопкой мыши \) и включите **память JavaScript**.  
     
-    :::image type="complex" source="../media/memory-problems-bing-browser-task-manager-javascript-memory.msft.png" alt-text="Включите память JavaScript" lightbox="../media/memory-problems-bing-browser-task-manager-javascript-memory.msft.png":::
+    :::image type="complex" source="../media/memory-problems-bing-browser-task-manager-javascript-memory.msft.png" alt-text="Открытие диспетчера задач браузера Microsoft Edge" lightbox="../media/memory-problems-bing-browser-task-manager-javascript-memory.msft.png":::
        Рисунок 2: включение памяти JavaScript  
     :::image-end:::  
     
@@ -108,7 +108,7 @@ document.getElementById('grow').addEventListener('click', grow);
 
 Каждый раз, когда была нажата кнопка, на которую ссылается код, 10000 `div` узлы добавляются в тело документа, а в `x` массив помещается строка из 1 000 000 символов `x` .  Выполнение предыдущего примера кода приводит к записи на панели **производительности** , как показано на рисунке ниже.  
 
-:::image type="complex" source="../media/memory-problems-glitch-example-1-performance-memory.msft.png" alt-text="Простой рост" lightbox="../media/memory-problems-glitch-example-1-performance-memory.msft.png":::
+:::image type="complex" source="../media/memory-problems-glitch-example-1-performance-memory.msft.png" alt-text="Открытие диспетчера задач браузера Microsoft Edge" lightbox="../media/memory-problems-glitch-example-1-performance-memory.msft.png":::
    Рисунок 3: простое расширение  
 :::image-end:::  
 
@@ -144,7 +144,7 @@ document.getElementById('create').addEventListener('click', create);
 
 Чтобы создать снимок, откройте DevTools и перейдите на панель **память** , установите переключатель в положение " **снимок кучи** ", а затем нажмите кнопку " **сделать снимок** ".  
 
-:::image type="complex" source="../media/memory-problems-glitch-example-12-memory-heap-snapshot.msft.png" alt-text="Создание снимка кучи" lightbox="../media/memory-problems-glitch-example-12-memory-heap-snapshot.msft.png":::
+:::image type="complex" source="../media/memory-problems-glitch-example-12-memory-heap-snapshot.msft.png" alt-text="Открытие диспетчера задач браузера Microsoft Edge" lightbox="../media/memory-problems-glitch-example-12-memory-heap-snapshot.msft.png":::
    Рисунок 4: создание снимка кучи  
 :::image-end:::  
 
@@ -152,13 +152,13 @@ document.getElementById('create').addEventListener('click', create);
 
 Введите текст `Detached` в поле " **Фильтр класса** " для поиска отсоединенных деревьев DOM.  
 
-:::image type="complex" source="../media/memory-problems-glitch-example-12-memory-heap-snapshot-filter-detached.msft.png" alt-text="Фильтрация для отсоединенных узлов" lightbox="../media/memory-problems-glitch-example-12-memory-heap-snapshot-filter-detached.msft.png":::
+:::image type="complex" source="../media/memory-problems-glitch-example-12-memory-heap-snapshot-filter-detached.msft.png" alt-text="Открытие диспетчера задач браузера Microsoft Edge" lightbox="../media/memory-problems-glitch-example-12-memory-heap-snapshot-filter-detached.msft.png":::
    Рисунок 5: Фильтрация отсоединенных узлов  
 :::image-end:::  
 
 Разверните CARATS, чтобы разобраться в отсоединенном дереве.  
 
-:::image type="complex" source="../media/memory-problems-glitch-example-12-memory-heap-snapshot-filter-detached-expanded.msft.png" alt-text="Исследование отключенного дерева" lightbox="../media/memory-problems-glitch-example-12-memory-heap-snapshot-filter-detached-expanded.msft.png":::
+:::image type="complex" source="../media/memory-problems-glitch-example-12-memory-heap-snapshot-filter-detached-expanded.msft.png" alt-text="Открытие диспетчера задач браузера Microsoft Edge" lightbox="../media/memory-problems-glitch-example-12-memory-heap-snapshot-filter-detached-expanded.msft.png":::
    Рисунок 6: исследование отсоединенных деревьев  
 :::image-end:::  
 
@@ -166,7 +166,7 @@ document.getElementById('create').addEventListener('click', create);
 
 Выберите узел, чтобы проанализировать его дальше.  В области **объектов** вы можете просмотреть дополнительные сведения о коде, который ссылается на него.  Например, на следующем рисунке показано, что `detachedNodes` переменная ссылается на узел.  Чтобы устранить эту проблему, необходимо изучить код, использующий `detachedUNode` переменную, и убедиться, что ссылка на узел удаляется, когда он больше не нужен.  
 
-:::image type="complex" source="../media/memory-problems-glitch-example-12-memory-heap-snapshot-filter-detached-expanded-selected.msft.png" alt-text="Исследование узла" lightbox="../media/memory-problems-glitch-example-12-memory-heap-snapshot-filter-detached-expanded-selected.msft.png":::
+:::image type="complex" source="../media/memory-problems-glitch-example-12-memory-heap-snapshot-filter-detached-expanded-selected.msft.png" alt-text="Открытие диспетчера задач браузера Microsoft Edge" lightbox="../media/memory-problems-glitch-example-12-memory-heap-snapshot-filter-detached-expanded-selected.msft.png":::
    Рисунок 7: исследование узла  
 :::image-end:::  
 
@@ -192,19 +192,19 @@ document.getElementById('grow').addEventListener('click', grow);
 
 Когда вы записываете элементы, обратите внимание на то, что синие полосы отображаются на инструментировании выделения на временной шкале, как показано на рисунке ниже.  
 
-:::image type="complex" source="../media/memory-problems-glitch-example-13-allocation-timeline-snapshot-all.msft.png" alt-text="Новые распределения" lightbox="../media/memory-problems-glitch-example-13-allocation-timeline-snapshot-all.msft.png":::
+:::image type="complex" source="../media/memory-problems-glitch-example-13-allocation-timeline-snapshot-all.msft.png" alt-text="Открытие диспетчера задач браузера Microsoft Edge" lightbox="../media/memory-problems-glitch-example-13-allocation-timeline-snapshot-all.msft.png":::
    Рисунок 8: новые выделения  
 :::image-end:::  
 
 Эти синие отрезки представляют новые выделения памяти.  Новые выделения памяти являются кандидатами на утечку памяти.  Вы можете изменить масштаб на панели, чтобы отфильтровать область **конструктора** , чтобы отображались только те объекты, которые были выделены в течение указанного периода времени.  
 
-:::image type="complex" source="../media/memory-problems-glitch-example-13-allocation-timeline-snapshot-focused.msft.png" alt-text="Уменьшенная временная шкала выделения" lightbox="../media/memory-problems-glitch-example-13-allocation-timeline-snapshot-focused.msft.png":::
+:::image type="complex" source="../media/memory-problems-glitch-example-13-allocation-timeline-snapshot-focused.msft.png" alt-text="Открытие диспетчера задач браузера Microsoft Edge" lightbox="../media/memory-problems-glitch-example-13-allocation-timeline-snapshot-focused.msft.png":::
    Рисунок 9: уменьшенная временная шкала выделения  
 :::image-end:::  
 
 Разверните объект и выберите значение, чтобы просмотреть дополнительные сведения в области **объектов** .  Например, на приведенном ниже рисунке показано, как просмотреть сведения о новом выделенном объекте, и вы сможете увидеть, что он был выделен для `x` переменной в `Window` области.  
 
-:::image type="complex" source="../media/memory-problems-glitch-example-13-allocation-timeline-snapshot-focused-constructor-expanded.msft.png" alt-text="Сведения об объекте" lightbox="../media/memory-problems-glitch-example-13-allocation-timeline-snapshot-focused-constructor-expanded.msft.png":::
+:::image type="complex" source="../media/memory-problems-glitch-example-13-allocation-timeline-snapshot-focused-constructor-expanded.msft.png" alt-text="Открытие диспетчера задач браузера Microsoft Edge" lightbox="../media/memory-problems-glitch-example-13-allocation-timeline-snapshot-focused-constructor-expanded.msft.png":::
    Рисунок 10: сведения об объекте  
 :::image-end:::  
 
@@ -212,7 +212,7 @@ document.getElementById('grow').addEventListener('click', grow);
 
 Используйте тип профилирования **выборки выделения** для просмотра выделения памяти функцией JavaScript.  
 
-:::image type="complex" source="../media/memory-problems-glitch-example-05-memory-allocation-sampling.msft.png" alt-text="Выборка распределения записей" lightbox="../media/memory-problems-glitch-example-05-memory-allocation-sampling.msft.png":::
+:::image type="complex" source="../media/memory-problems-glitch-example-05-memory-allocation-sampling.msft.png" alt-text="Открытие диспетчера задач браузера Microsoft Edge" lightbox="../media/memory-problems-glitch-example-05-memory-allocation-sampling.msft.png":::
    Рисунок 11: выборка для выделения записей  
 :::image-end:::  
 
@@ -223,7 +223,7 @@ document.getElementById('grow').addEventListener('click', grow);
 
 DevTools показывает разделение выделения памяти по функциям.  Представление по умолчанию является **большим (снизу вверх)**, в котором отображаются функции, которые выделили наибольшую область памяти сверху.  
 
-:::image type="complex" source="../media/memory-problems-glitch-example-05-memory-allocation-sampling-heavy-bottom-up.msft.png" alt-text="Выборка распределения" lightbox="../media/memory-problems-glitch-example-05-memory-allocation-sampling-heavy-bottom-up.msft.png":::
+:::image type="complex" source="../media/memory-problems-glitch-example-05-memory-allocation-sampling-heavy-bottom-up.msft.png" alt-text="Открытие диспетчера задач браузера Microsoft Edge" lightbox="../media/memory-problems-glitch-example-05-memory-allocation-sampling-heavy-bottom-up.msft.png":::
    Рисунок 12: Выбор распределения  
 :::image-end:::  
 
@@ -234,6 +234,10 @@ DevTools показывает разделение выделения памят
 Вы можете использовать либо Диспетчер задач браузера Microsoft EDGE, либо записи памяти для выявления частых сборок мусора.  В диспетчере задач браузера Microsoft Edge часто растет и падает **память** , а также значения **памяти JavaScript** , которые представляют собой частый процесс сборки мусора.  В записях производительности частые изменения \ (повышение и снижения) на кучу JS или счетчики узлов указывают на частную сборку мусора.  
 
 После того как вы обнаружите проблему, вы можете использовать **инструментарий выделения для записи временной шкалы** , чтобы узнать, где выделяется память, и какая функция вызывает распределение.  
+
+## Взаимодействие с командой средств разработчика Microsoft Edge  
+
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- image links -->  
 

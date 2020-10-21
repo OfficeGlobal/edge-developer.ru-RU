@@ -3,16 +3,16 @@ description: Последние экспериментальные функци�
 title: Экспериментальные функции
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 10/05/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: Microsoft EDGE, веб-разработка, инструменты для F12, Devtools, эксперименты
-ms.openlocfilehash: f885201ddfb7553a2b9c58a07dd52b7a77c4137a
-ms.sourcegitcommit: 0326a4082064e9cdfa602736f3f9ce7d8d294604
+ms.openlocfilehash: 65cf178596abfbaaac0e80bf205035838967cf59
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2020
-ms.locfileid: "11094935"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11124896"
 ---
 # Экспериментальные функции  
 
@@ -25,7 +25,7 @@ Microsoft Edge DevTools предоставляет доступ к экспер�
 Чтобы включить экспериментальные функции в Microsoft EDGE, выполните указанные ниже действия.  
 
 1.  [Откройте DevTools][DevtoolsOpen].  
-     *   Выберите `Control` + `Shift` + `I` \ (Windows \) или `Command` + `Option` + `I` \ (macOS \).  Дополнительные сведения можно найти в разделе [сочетания клавиш Microsoft Edge DevTools][DevToolsShortcuts].  
+     *   Выберите `Control` + `Shift` + `I` \ (Windows, Linux \) или `Command` + `Option` + `I` \ (macOS \).  Дополнительные сведения можно найти в разделе [сочетания клавиш Microsoft Edge DevTools][DevToolsShortcuts].  
 1.  Открытие области [параметров][DevToolsCustomizeSettings] .  
     *   Выберите `Shift` + `?` .  Дополнительные сведения можно найти в разделе [сочетания клавиш Microsoft Edge DevTools][DevToolsShortcuts].  
 1.  В левой части области **параметров** выберите раздел **эксперименты** .  

@@ -3,16 +3,16 @@ description: Код на стороне клиента будет читаемы
 title: Сопоставление предварительно обработанного кода с исходным кодом
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: bd04c7bae6f57d4fe3f9b293d70775aa99db3dd1
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: c16f59658217ab9dfb905bd814f96af21f95130d
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993235"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11124685"
 ---
 <!-- Copyright Meggin Kearney and Paul Bakaus
 
@@ -50,7 +50,7 @@ ms.locfileid: "10993235"
 
 ## Использование поддерживаемой предварительной обработки  
 
-Вам необходимо использовать Minifier, который способен создавать карты исходного кода.  <!--For the most popular options, see the preprocessor support section.  -->  Для расширенного представления просмотрите [исходные карты: языки, инструменты и другие информационные][GitHubWikiSourceMapsLanguagesTools] вики-страницы.  
+Вам необходимо использовать Minifier, который способен создавать карты исходного кода.  <!--For the most popular options, navigate to preprocessor support section.  -->  Для расширенного представления перейдите к [исходным картам: языки, инструменты и другие информационные][GitHubWikiSourceMapsLanguagesTools] вики-страницы.  
 
 <!--todo: add link to see the preprocessor support section when section is available -->  
 <!--[]: /web/tools/setup/setup-preprocessors?#supported_preprocessors ""  -->  
@@ -69,7 +69,7 @@ ms.locfileid: "10993235"
 
 ### Включение карт исходного кода в параметрах  
 
-Исходные карты включены по умолчанию. <!--\(as of Microsoft Edge 39\)-->, но если вы хотите дважды проверить или включить их; Сначала откройте DevTools, нажмите кнопку **Настройка и управление DevTools** \ ( `...` \) и выберите **Параметры**.  В области **Параметры** в разделе **источники**установите флажок **включить сопоставления источников JavaScript**.  Вы также можете установить флажок **включить сопоставления источников CSS**.  
+Исходные карты включены по умолчанию. <!--\(as of Microsoft Edge 39\)-->, но если вы хотите дважды проверить или включить их; Сначала откройте DevTools, нажмите кнопку **Настройка и управление DevTools** \ ( `...` \) и выберите пункт **Параметры**.  В области **Параметры** в разделе **источники**установите флажок **включить сопоставления источников JavaScript**.  Вы также можете установить флажок **включить сопоставления источников CSS**.  
 
 :::image type="complex" source="../media/javascript-settings-preferences-sources-enable-javascript-source-maps.msft.png" alt-text="Включение карт исходного кода" lightbox="../media/javascript-settings-preferences-sources-enable-javascript-source-maps.msft.png":::
    **Включение карт исходного кода JavaScript**  

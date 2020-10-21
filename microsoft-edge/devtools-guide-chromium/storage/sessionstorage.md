@@ -3,16 +3,16 @@ description: Просмотр и редактирование sessionStorage с 
 title: Просмотр и изменение хранилища сеанса с помощью Microsoft Edge DevTools
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 24fca3fd3a068f3b2ffbe4ec1c23e6b80b968953
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 6543c03f04ff80b1bba1d244598a901d066db13a
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993550"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125477"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -28,17 +28,11 @@ ms.locfileid: "10993550"
    See the License for the specific language governing permissions and
    limitations under the License.  -->
 
-
-
-
-
-# Просмотр и изменение хранилища сеанса с помощью Microsoft Edge DevTools   
-
-  
+# Просмотр и изменение хранилища сеанса с помощью Microsoft Edge DevTools  
 
 В этом руководстве описано, как использовать [Microsoft Edge DevTools][MicrosoftEdgeDevTools] для просмотра, изменения и удаления [`sessionStorage`][MDNSessionStorage] пар "ключ-значение".  
 
-## Просмотр ключей и значений sessionStorage   
+## Просмотр ключей и значений sessionStorage  
 
 1.  Перейдите на вкладку **приложение** , чтобы открыть панель **приложения** .  Область **манифеста** отображается по умолчанию.  
     
@@ -64,7 +58,7 @@ ms.locfileid: "10993550"
        Просмотр значения `x-sid` ключа  
     :::image-end:::  
     
-## Создание новой пары "ключ-значение" для sessionStorage   
+## Создание новой пары "ключ-значение" для sessionStorage  
 
 1.  [Просмотр `sessionStorage` пар "ключ-значение" домена](#view-sessionstorage-keys-and-values).  
 1.  Дважды щелкните пустую часть таблицы.  DevTools создает новую строку и нафокусирует указатель мыши на **ключевом** столбце.  
@@ -73,7 +67,7 @@ ms.locfileid: "10993550"
        Пустая часть таблицы для двойного щелчка, чтобы создать новую пару ключ-значение.  
     :::image-end:::  
     
-## Изменение ключей и значений sessionStorage   
+## Изменение ключей и значений sessionStorage  
 
 1.  [Просмотр `sessionStorage` пар "ключ-значение" домена](#view-sessionstorage-keys-and-values).  
 1.  Дважды щелкните ячейку в столбце " **раздел** " или " **значение** ", чтобы изменить этот раздел или значение.  
@@ -82,18 +76,18 @@ ms.locfileid: "10993550"
        Изменение `sessionStorage` ключа  
     :::image-end:::  
     
-## Удаление пар ключ-значение sessionStorage   
+## Удаление пар ключ-значение sessionStorage  
 
 1.  [Просмотр `sessionStorage` пар "ключ-значение" домена](#view-sessionstorage-keys-and-values).  
 1.  Выберите пару "ключ-значение", которую вы хотите удалить.  DevTools выделит ее синей, чтобы показать, что она выбрана.  
-1.  Нажмите клавишу `Delete` или нажмите кнопку **Удалить выделенные** \ ( ![ Удалить выбранные \ ][ImageDeleteIcon] ).  
+1.  Нажмите клавишу `Delete` или выберите команду **Удалить выделенные** \ ( ![ Удалить выбранные ][ImageDeleteIcon] \).  
     
-## Удаление всех пар ключ-значение sessionStorage для домена   
+## Удаление всех пар ключ-значение sessionStorage для домена  
 
 1.  [Просмотр `sessionStorage` пар "ключ-значение" домена](#view-sessionstorage-keys-and-values).  
-1.  Нажмите **Очистить все** \ ( ![ Очистить все ][ImageClearIcon] \).  
+1.  Выберите **Очистить все** \ ( ![ Очистить все ][ImageClearIcon] \).  
     
-## Взаимодействие с sessionStorage с помощью консоли   
+## Взаимодействие с sessionStorage с помощью консоли  
 
 Так как вы можете запустить JavaScript на **консоли**, и так как **консоль** имеет доступ к контекстам JavaScript на странице, можно взаимодействовать с `sessionStorage` ней из **консоли**.  
 
@@ -109,11 +103,9 @@ ms.locfileid: "10993550"
        Взаимодействие с `sessionStorage` **консолью**  
     :::image-end:::  
     
-<!--  
-   
+## Взаимодействие с командой средств разработчика Microsoft Edge  
 
-  
--->  
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- image links -->  
 

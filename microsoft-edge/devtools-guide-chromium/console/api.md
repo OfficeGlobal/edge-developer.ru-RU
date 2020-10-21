@@ -3,16 +3,16 @@ description: Используйте API консоли для записи со�
 title: Справочник по API консоли
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 684c0a1e42357ceca0a0295859e64447251f191a
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 38fb3ee2345530775423ac3ec8e53e0d8de76eaf
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993256"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125288"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -30,7 +30,7 @@ ms.locfileid: "10993256"
 
 # Справочник по API консоли  
 
-Используйте методы API консоли для записи сообщений на консоль из JavaScript.  Чтобы ознакомиться с интерактивным введением в раздел, ознакомьтесь с разделом начало [работы с сообщениями журнала на консоли][DevtoolsConsoleLog].  Удобные методы, такие как `debug()` или `monitorEvents()` доступные только в области **консоли** , приведены в [справочнике API для консольных утилит][DevtoolConsoleUtilities].  
+Используйте методы API консоли для записи сообщений на консоль из JavaScript.  Для интерактивного знакомства со статьей перейдите в раздел Начало [работы с сообщениями журнала на консоли][DevtoolsConsoleLog].  Для удобства работы с удобными методами, такими как `debug()` или `monitorEvents()` доступные только в области **консоли** , перейдите по [ссылке API для консольных программ][DevtoolConsoleUtilities].  
 
 ---  
 
@@ -96,7 +96,7 @@ console.count();
 console.count();
 ```  
 
-:::image type="complex" source="../media/console-demo-count-button.msft.png" alt-text="Результат примера Console. Count ()" lightbox="../media/console-demo-count-button.msft.png":::
+:::image type="complex" source="../media/console-demo-count-button.msft.png" alt-text="Результат примера Console. Assert ()" lightbox="../media/console-demo-count-button.msft.png":::
    Рисунок 2: результат `console.count()` примера  
 :::image-end:::  
 
@@ -131,7 +131,7 @@ console.debug(object [, object, ...])
 console.debug('debug');  
 ```  
 
-:::image type="complex" source="../media/console-demo-debug-button.msft.png" alt-text="Результат примера Console. Debug ()" lightbox="../media/console-demo-debug-button.msft.png":::
+:::image type="complex" source="../media/console-demo-debug-button.msft.png" alt-text="Результат примера Console. Assert ()" lightbox="../media/console-demo-debug-button.msft.png":::
    Рисунок 3: результат `console.debug()` примера  
 :::image-end:::  
 
@@ -151,7 +151,7 @@ console.dir(object)
 console.dir(document.head);
 ```  
 
-:::image type="complex" source="../media/console-demo-dir-button.msft.png" alt-text="Результат примера Console. dir ()" lightbox="../media/console-demo-dir-button.msft.png":::
+:::image type="complex" source="../media/console-demo-dir-button.msft.png" alt-text="Результат примера Console. Assert ()" lightbox="../media/console-demo-dir-button.msft.png":::
    Рисунок 4: результат `console.dir()` примера  
 :::image-end:::  
 
@@ -171,7 +171,7 @@ console.dirxml(node)
 console.dirxml(document);
 ```  
 
-:::image type="complex" source="../media/console-demo-dirxml-button.msft.png" alt-text="Результат примера Console. DirXML ()" lightbox="../media/console-demo-dirxml-button.msft.png":::
+:::image type="complex" source="../media/console-demo-dirxml-button.msft.png" alt-text="Результат примера Console. Assert ()" lightbox="../media/console-demo-dirxml-button.msft.png":::
    На рисунке 5 показан результат примера. `console.dirxml()`  
 :::image-end:::  
 
@@ -191,7 +191,7 @@ console.error(object [, object, ...])
 console.error("I'm sorry, Dave.  I'm afraid I can't do that.");
 ```  
 
-:::image type="complex" source="../media/console-demo-error-button.msft.png" alt-text="Результат примера Console. Error ()" lightbox="../media/console-demo-error-button.msft.png":::
+:::image type="complex" source="../media/console-demo-error-button.msft.png" alt-text="Результат примера Console. Assert ()" lightbox="../media/console-demo-error-button.msft.png":::
    Рисунок 6: результат `console.error()` примера  
 :::image-end:::  
 
@@ -215,7 +215,7 @@ console.info('Raph');
 console.groupEnd(label);
 ```  
 
-:::image type="complex" source="../media/console-demo-group-button.msft.png" alt-text="Результат примера Console. Group ()" lightbox="../media/console-demo-group-button.msft.png":::
+:::image type="complex" source="../media/console-demo-group-button.msft.png" alt-text="Результат примера Console. Assert ()" lightbox="../media/console-demo-group-button.msft.png":::
    На рисунке 7 показан результат примера. `console.group()`  
 :::image-end:::  
 
@@ -255,7 +255,7 @@ console.info(object [, object, ...])
 console.info('info');
 ```  
 
-:::image type="complex" source="../media/console-demo-info-button.msft.png" alt-text="Результат примера console.info ()" lightbox="../media/console-demo-info-button.msft.png":::
+:::image type="complex" source="../media/console-demo-info-button.msft.png" alt-text="Результат примера Console. Assert ()" lightbox="../media/console-demo-info-button.msft.png":::
    Рисунок 8: результат `console.info()` примера  
 :::image-end:::  
 
@@ -275,7 +275,7 @@ console.log(object [, object, ...])
 console.log('log');
 ```  
 
-:::image type="complex" source="../media/console-demo-log-button.msft.png" alt-text="Результат примера Console. log ()" lightbox="../media/console-demo-log-button.msft.png":::
+:::image type="complex" source="../media/console-demo-log-button.msft.png" alt-text="Результат примера Console. Assert ()" lightbox="../media/console-demo-log-button.msft.png":::
    На рисунке 9 показан результат примера. `console.log()`  
 :::image-end:::  
 
@@ -309,7 +309,7 @@ console.table([
 ]);
 ```  
 
-:::image type="complex" source="../media/console-demo-table-button.msft.png" alt-text="Пример использования Console. Table ()" lightbox="../media/console-demo-table-button.msft.png":::
+:::image type="complex" source="../media/console-demo-table-button.msft.png" alt-text="Результат примера Console. Assert ()" lightbox="../media/console-demo-table-button.msft.png":::
    Рисунок 10: результат `console.table()` примера  
 :::image-end:::  
 
@@ -331,7 +331,7 @@ for (var i = 0; i < 100000; i++) {
 console.timeEnd();
 ```  
 
-:::image type="complex" source="../media/console-demo-time-button.msft.png" alt-text="Результат примера Console. Time ()" lightbox="../media/console-demo-time-button.msft.png":::
+:::image type="complex" source="../media/console-demo-time-button.msft.png" alt-text="Результат примера Console. Assert ()" lightbox="../media/console-demo-time-button.msft.png":::
    На рисунке 11 показан результат примера. `console.time()`  
 :::image-end:::  
 
@@ -367,7 +367,7 @@ const fourth = () => { console.trace(); };
 first();
 ```  
 
-:::image type="complex" source="../media/console-demo-trace-button.msft.png" alt-text="Результат примера Console. Trace ()" lightbox="../media/console-demo-trace-button.msft.png":::
+:::image type="complex" source="../media/console-demo-trace-button.msft.png" alt-text="Результат примера Console. Assert ()" lightbox="../media/console-demo-trace-button.msft.png":::
    Рис. 12: результат `console.trace()` примера  
 :::image-end:::  
 
@@ -387,9 +387,13 @@ console.warn(object [, object, ...])
 console.warn('warn');
 ```  
 
-:::image type="complex" source="../media/console-demo-warn-button.msft.png" alt-text="Результат примера Console. warn ()" lightbox="../media/console-demo-warn-button.msft.png":::
+:::image type="complex" source="../media/console-demo-warn-button.msft.png" alt-text="Результат примера Console. Assert ()" lightbox="../media/console-demo-warn-button.msft.png":::
    Рисунок 13: результат `console.warn()` примера  
 :::image-end:::  
+
+## Взаимодействие с командой средств разработчика Microsoft Edge  
+
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- links -->  
 

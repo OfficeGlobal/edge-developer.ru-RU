@@ -3,16 +3,16 @@ description: Открыть консоль, создать выражение в
 title: Отслеживание, какой элемент имеет фокус
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 9000b8ca1fa52daf5257f201c65dcabd78298ec7
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: a0d0861494db87e546443c0f3a1d4f531412300c
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993207"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125309"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -35,7 +35,7 @@ ms.locfileid: "10993207"
 Чтобы отследить фокусируемый элемент в DevTools, выполните указанные ниже действия.  
 
 1.  Открытие **консоли**.  
-1.  Щелкните **создать выражение в реальном времени** \ ( ![ создать выражение в реальном времени ][ImageCreateIcon] ).  
+1.  Выберите **создать выражение в реальном времени** \ ( ![ создать выражение в реальном времени ][ImageCreateIcon] ).  
     
     :::image type="complex" source="../media/accessibility-console-create-live-expression-empty.msft.png" alt-text="Создание выражения в реальном времени" lightbox="../media/accessibility-console-create-live-expression-empty.msft.png":::
        Создание выражения в реальном времени  

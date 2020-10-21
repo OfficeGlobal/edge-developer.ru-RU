@@ -3,16 +3,16 @@ description: Откройте вкладку датчики и выберите 
 title: Переопределение географического положения с помощью Microsoft Edge DevTools
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 269e7ca4bf259aa168c06ac0fd915604731463c4
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: f2bc395993ff59d88360a363b2c4bc12b570f1ab
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10992990"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125015"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -36,14 +36,14 @@ ms.locfileid: "10992990"
 
 Если вы создаете пользовательский интерфейс, который изменяется в зависимости от того, где находится пользователь, возможно, вы захотите убедиться в том, что сайт правильно работает в разных местах по всему миру.  Чтобы переопределить географическое положение в Microsoft Edge DevTools, выполните указанные ниже действия.  
 
-1.  `Control` + `Shift` + `P` Чтобы открыть меню команд, нажмите клавиши \ (Windows \) или `Command` + `Shift` + `P` \ ( **Command Menu**macOS \).  
+1.  Выберите `Control` + `Shift` + `P` \ (Windows, Linux \) или `Command` + `Shift` + `P` \ (macOS \), чтобы открыть **меню команд**.  
     
     :::image type="complex" source="../media/device-mode-console-command-menu.msft.png" alt-text="Меню команд" lightbox="../media/device-mode-console-command-menu.msft.png":::
        **Меню команд**  
     :::image-end:::  
     
-1.  Введите текст `sensors` , установите флажок **Показать датчики**и нажмите клавишу `Enter` .  Вкладка **датчики** откроется в нижней части окна DevTools.  
-1.  В списке **географическое положение** выберите один из готовых городов `Tokyo` или выберите **другое расположение** , чтобы указать пользовательские координаты долготы и широты, или выберите пункт **расположение недоступно** , чтобы увидеть, как работает сайт, когда его расположение недоступно.  
+1.  Введите текст `sensors` , нажмите кнопку **Показать датчики**и выберите `Enter` .  Вкладка **датчики** откроется в нижней части окна DevTools.  
+1.  В списке **географическое положение** выберите один из готовых городов `Tokyo` или выберите **другое расположение** , чтобы указать пользовательские координаты долготы и широты, или выберите **расположение недоступно** , чтобы увидеть, как работает сайт, когда его расположение недоступно.  
     
     :::image type="complex" source="../media/device-mode-console-sensors-geolocation-tokyo.msft.png" alt-text="Меню команд" lightbox="../media/device-mode-console-sensors-geolocation-tokyo.msft.png":::
        Выберите в `Tokyo` списке " **географическое положение** "  

@@ -3,16 +3,16 @@ description: В основном используются консоль Microso
 title: Обзор консоли
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 0cdce953b22d22f9a2bf8048a6eff89388aa6e2e
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 32272c3f76f715566ced66d11346985dc95dd290
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993158"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125267"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -28,17 +28,13 @@ ms.locfileid: "10993158"
    See the License for the specific language governing permissions and
    limitations under the License.  -->
 
-
-
-
-
-# Обзор консоли   
+# Обзор консоли  
 
   
 
 На этой странице объясняется, как консоль Microsoft Edge DevTools упрощает разработку веб-страниц.  У консоли есть 2 основного использования: [Просмотр сообщений, записанных в журнал](#viewing-logged-messages) , и [запуск JavaScript](#running-javascript).  
 
-## Просмотр записанных сообщений   
+## Просмотр записанных сообщений  
 
 Веб-разработчики часто записывает сообщения на консоль, чтобы убедиться в том, что их JavaScript работает должным образом.  Чтобы записать сообщение в журнал, вставьте выражение, например, `console.log('Hello, Console!')` в сценарий JavaScript.  Когда браузер запускает JavaScript и видит такое выражение, оно заносит сообщение в консоль.  
 
@@ -62,7 +58,7 @@ ms.locfileid: "10993158"
                   const artists = [
                       { first: 'René', last: 'Magritte' },
                       { first: 'Chaim', last: 'Soutine' },
-                      { first: 'Henri', last: 'Matisse' }
+                        
                   ];
                   console.table(artists);
                   setTimeout(() => {
@@ -92,7 +88,7 @@ ms.locfileid: "10993158"
 
 В разделе Начало работы [с сообщениями для ведения журнала][DevtoolsConsoleLoggingMessages] вы можете получить практический опыт по ведению журнала.  Полный список методов можно найти в [справочнике по API консоли][DevToolsConsoleAPI] `console` .  Основным различием между методами является способ отображения данных в журнале.  
 
-## Выполнение JavaScript   
+## Выполнение JavaScript  
 
 **Консоль** также является [REPL][WikiREPLoop].  Вы можете запустить JavaScript на **консоли** для взаимодействия с проверяемой страницей.   
 
@@ -100,29 +96,29 @@ ms.locfileid: "10993158"
    :::column span="":::
       На приведенном ниже рисунке **консоль** показана рядом с домашней страницей DevTools.  
       
-      :::image type="complex" source="../media/devtools-console-empty.msft.png" alt-text="Панель консоли рядом с домашней страницей DevTools" lightbox="../media/devtools-console-empty.msft.png":::
+      :::image type="complex" source="../media/devtools-console-empty.msft.png" alt-text="Панель консоли" lightbox="../media/devtools-console-empty.msft.png":::
          Панель **консоли** рядом с домашней страницей DevTools  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
       На приведенном ниже рисунке эта же страница отображается после использования **консоли** для изменения верхнего заголовка страницы.
       
-      :::image type="complex" source="../media/devtools-console-h1-changed.msft.png" alt-text="Использование консоли для изменения верхнего заголовка страницы" lightbox="../media/devtools-console-h1-changed.msft.png":::
+      :::image type="complex" source="../media/devtools-console-h1-changed.msft.png" alt-text="Панель консоли" lightbox="../media/devtools-console-h1-changed.msft.png":::
          Использование **консоли** для изменения верхнего заголовка страницы  
       :::image-end:::  
    :::column-end:::
 :::row-end:::
 
-Изменение страницы на **консоли** возможно из-за того, что **консоль** имеет полный доступ к [окну][MDNWindow] страницы.  В DevTools есть несколько удобных функций, которые облегчают изучение страницы.  Например, предположим, что ваш сценарий JavaScript содержит функцию с именем `hideModal` .  Выполнение `debug(hideModal)` программы приостанавливает код на первой строке при `hideModal` следующем запуске.  Дополнительные сведения о полном списке служебных функций можно найти в [справочнике API для консольных утилит][DevtoolsConsoleUtilitiesDebug].  
+Изменение страницы на **консоли** возможно из-за того, что **консоль** имеет полный доступ к [окну][MDNWindow] страницы.  В DevTools есть несколько удобных функций, которые облегчают изучение страницы.  Например, предположим, что ваш сценарий JavaScript содержит функцию с именем `hideModal` .  Выполнение `debug(hideModal)` программы приостанавливает код на первой строке при `hideModal` следующем запуске.  Дополнительные сведения о всех служебных функциях можно найти в [справочнике по API служебных программ для консоли][DevtoolsConsoleUtilitiesDebug].  
 
 При запуске JavaScript вам не нужно взаимодействовать со страницей.  Вы можете использовать **консоль** , чтобы попробовать новый код, не связанный со страницей.  Например, предположим, что вы только что узнали о встроенном методе [Map ()][MDNMap] для массивов JavaScript () и хотите поэкспериментировать с ним.  
 **Консоль** — это хорошее место для повторения функции.  
 
-Дополнительные сведения о том, как запустить JavaScript на **консоли**, можно найти в разделе [Начало работы с JavaScript][DevtoolsConsoleRunningJavascript].  
+Чтобы узнать больше о том, как запускать JavaScript на **консоли**, перейдите в раздел Начало работы [с JavaScript][DevtoolsConsoleRunningJavascript].  
 
-   
+## Взаимодействие с командой средств разработчика Microsoft Edge  
 
-  
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- links -->  
 

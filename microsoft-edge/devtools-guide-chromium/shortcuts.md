@@ -3,16 +3,16 @@ description: В каноническом руководстве по Microsoft E
 title: Сочетания клавиш в Microsoft Edge DevTools
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/08/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: ab2e162af9b59e2ed92abc0cebf8e9fa2ac3a3d2
-ms.sourcegitcommit: 6b577cb118f34f3ff2c65eab2908b65f155dc151
+ms.openlocfilehash: 78e96fa3ae927a8aee24dfc18d4fa6ee515556a8
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "11003952"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125344"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -38,7 +38,7 @@ ms.locfileid: "11003952"
 
 Чтобы открыть DevTools, выберите указанные ниже сочетания клавиш, пока курсор не находится в окне просмотра браузера.
 
-| Действие | Windows | macOS |  
+| Действие | Windows \/Linux | macOS |  
 |:--- |:--- |:--- |  
 | Открытие панели, которая использовалась в прошлый раз | `F12` / `Control`+`Shift`+`I` | `Command`+`Option`+`I` |  
 | Открытие панели **консоли** | `Control`+`Shift`+`J` | `Command`+`Option`+`J` |  
@@ -48,7 +48,7 @@ ms.locfileid: "11003952"
 
 Ниже перечислены сочетания клавиш, доступные в большинстве случаев, если не все, DevTools панели.
 
-| Действие | Windows | macOS |  
+| Действие | Windows \/Linux | macOS |  
 |:--- |:--- |:--- |  
 | Показать **Параметры** | `?` или `F1` | `?` / `Function`+`F1` |  
 | Перемещение фокуса на следующую панель | `Control`+`]` | `Command`+`]` |  
@@ -73,7 +73,7 @@ ms.locfileid: "11003952"
 
 ## Сочетания клавиш для панели элементов  
 
-| Действие | Windows | macOS |  
+| Действие | Windows \/Linux | macOS |  
 |:--- |:--- |:--- |  
 | Отменить изменение | `Control`+`Z` | `Command`+`Z` |  
 | Вернуть изменение | `Control`+`Y` | `Command`+`Shift`+`Z` |  
@@ -88,7 +88,7 @@ ms.locfileid: "11003952"
 
 ### Сочетания клавиш в области стилей  
 
-| Действие | Windows | macOS |  
+| Действие | Windows \/Linux | macOS |  
 |:--- |:--- |:--- |  
 | Перейдите к строке, в которой объявлено значение свойства. | Удержание `Control` и выберите значение свойства | Удержание `Command` и выберите значение свойства |  
 | Переключение между RBGA, HSLA и шестнадцатеричным представлением значения цвета | `Shift`, А затем щелкните поле " **Предварительный просмотр цвета** " рядом со значением | `Shift`, А затем щелкните поле " **Предварительный просмотр цвета** " рядом со значением |  
@@ -100,7 +100,7 @@ ms.locfileid: "11003952"
 
 ## Сочетания клавиш для панели «источники»  
 
-| Действие | Windows | macOS |  
+| Действие | Windows \/Linux | macOS |  
 |:--- |:--- |:--- |  
 | Приостановить выполнение сценария \ (если она выполняется) или возобновить \ (если в настоящее время приостановлено) | `F8` / `Control`+`\` | `F8` / `Command`+`\` |  
 | Вызов функции перехода к следующему | `F10` / `Control`+`'` | `F10` / `Command`+`'` |  
@@ -118,7 +118,7 @@ ms.locfileid: "11003952"
 
 ### Сочетания клавиш в редакторе кода  
 
-| Действие | Windows | macOS |  
+| Действие | Windows \/Linux | macOS |  
 |:--- |:--- |:--- |  
 | Удаление всех знаков в последнем слове до курсора | `Control`+`Delete` | `Option`+`Delete` |  
 | Добавление или удаление [точки останова в коде строки][DevtoolsJavascriptBreakpointsLOC] | Установите курсор на строке, а затем выберите `Control`+`B` | Установите курсор на строке, а затем выберите `Command`+`B` |  
@@ -128,7 +128,7 @@ ms.locfileid: "11003952"
 
 ## Сочетания клавиш на панели «производительность»  
 
-| Действие | Windows | macOS |  
+| Действие | Windows \/Linux | macOS |  
 |:--- |:--- |:--- |  
 | Запуск и остановка записи | `Control`+`E` | `Command`+`E` |  
 | Сохранение записи | `Control`+`S` | `Command`+`S` |  
@@ -136,13 +136,13 @@ ms.locfileid: "11003952"
 
 ## Сочетания клавиш на панели памяти  
 
-| Действие | Windows | macOS |  
+| Действие | Windows \/Linux | macOS |  
 |:--- |:--- |:--- |  
 | Запуск и остановка записи | `Control`+`E` | `Command`+`E` |  
 
 ## Сочетания клавиш для панели консоли  
 
-| Действие | Windows | macOS |  
+| Действие | Windows \/Linux | macOS |  
 |:--- |:--- |:--- |  
 | Предложение "разрешить автозаполнение" | `Right Arrow` или `Tab` | `Right Arrow` или `Tab` |  
 | Отмена предложения автозавершения | `Escape` | `Escape` |  

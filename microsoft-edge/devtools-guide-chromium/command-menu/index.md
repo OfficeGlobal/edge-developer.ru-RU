@@ -1,18 +1,18 @@
 ---
-description: Руководство по открытию меню команд, выполнению команд, просмотрев другие действия и многое другое.
+description: Руководство по открытию меню команд, выполнению команд, просмотру других действий и т. д.
 title: Выполнение команд с помощью командного меню Microsoft Edge DevTools
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 54dead492e7d58053efab77c82a10e7e3c912460
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 2f13461fdf04e034b324db63c6ec6d9090f80f50
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993200"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125281"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -28,11 +28,7 @@ ms.locfileid: "10993200"
    See the License for the specific language governing permissions and
    limitations under the License.  -->  
 
-
-
-
-
-# Выполнение команд с помощью командного меню Microsoft Edge DevTools   
+# Выполнение команд с помощью командного меню Microsoft Edge DevTools  
 
   
 
@@ -42,15 +38,15 @@ ms.locfileid: "10993200"
    Отключение JavaScript с помощью меню команд  
 :::image-end:::  
 
-## Открытие меню команд   
+## Открытие меню команд  
 
-Нажмите клавиши `Control` + `Shift` + `P` \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \). Или нажмите кнопку **Настройка DevTools** `...` и выберите **команду выполнить**.  
+Выберите `Control` + `Shift` + `P` \ (Windows, Linux \) или `Command` + `Shift` + `P` \ (macOS \). Или нажмите кнопку **Настройка DevTools** `...` и выберите **команду выполнить**.  
 
 :::image type="complex" source="../media/command-menu-options-run-command.msft.png" alt-text="Отключение JavaScript с помощью меню команд" lightbox="../media/command-menu-options-run-command.msft.png":::
    Команда "выполнить"  
 :::image-end:::  
 
-## Просмотр других доступных действий   
+## Просмотр других доступных действий  
 
 Если вы используете рабочий процесс, описанный в разделе [Открыть меню команд](#open-the-command-menu), откроется меню команд с `>` символом, предварительно заданным в текстовом поле меню команды.  
 
@@ -64,9 +60,9 @@ ms.locfileid: "10993200"
    Другие доступные действия  
 :::image-end:::  
 
- 
+## Взаимодействие с командой средств разработчика Microsoft Edge  
 
-
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- links -->  
 

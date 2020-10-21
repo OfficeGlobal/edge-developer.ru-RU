@@ -3,16 +3,16 @@ description: Используйте инструментирование выд�
 title: Использование инструментирования выделения на временной шкале
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 58a951c4241ae0fe7dce70f523a701694b8254f9
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 1e76e3459128be5b659d790163ef62447dd97ae4
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993508"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125449"
 ---
 <!-- Copyright Meggin Kearney 
 
@@ -83,7 +83,7 @@ ms.locfileid: "10993508"
 
 ## Просмотр выделения памяти по функциям  
 
-Вы можете просматривать выделение памяти функцией JavaScript.  Дополнительные сведения можно найти [в разделе изучение выделения памяти по функциям][DevtoolsMemoryProblemsIndexInvestigateMemoryAllocationFunction].  
+Вы можете просматривать выделение памяти функцией JavaScript.  Для получения дополнительных сведений перейдите к [разделу изучение выделения памяти по функциям][DevtoolsMemoryProblemsIndexInvestigateMemoryAllocationFunction].  
 
 ## Взаимодействие с командой средств разработчика Microsoft Edge  
 

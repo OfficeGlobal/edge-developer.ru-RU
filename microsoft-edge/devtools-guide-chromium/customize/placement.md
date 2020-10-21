@@ -3,16 +3,16 @@ description: Перемещение Microsoft Edge DevTools в нижней ил
 title: Изменение положения DevTools Microsoft EDGE (Отстыковка, закрепить в нижней части, закрепить слева)
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: da7bd4ed23c54faac6d9fef9afbc78128f8cfd3c
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 65c0849af5da671bb0d76397d6d9395bc249eaac
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993011"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125050"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -28,13 +28,7 @@ ms.locfileid: "10993011"
    See the License for the specific language governing permissions and
    limitations under the License.  -->
 
-
-
-
-
-# Изменение положения DevTools Microsoft EDGE (Отстыковка, закрепить в нижней части, закрепить слева)   
-
-
+# Изменение положения DevTools Microsoft EDGE (Отстыковка, закрепить в нижней части, закрепить слева)  
 
 По умолчанию DevTools закрепляется справа от окна просмотра.  Вы также можете закрепить нижнюю границу, закрепить слева или отстыковать DevTools в отдельном окне.  
 
@@ -63,15 +57,15 @@ ms.locfileid: "10993011"
    :::column-end:::
 :::row-end:::  
 
-## Изменение положения в главном меню   
+## Изменение положения в главном меню  
 
-1.  Нажмите кнопку **настроить DevTools** \ ( `...` \) и выберите пункт **открепить в отдельном окне** \ (открепить к концу ![ ][ImageUndockIcon] ), **прикрепить к концу** \ ( ![ закрепить к низу) ][ImageBottomIcon] или **Закрепить слева** ( ![ ][ImageLeftIcon] Закрепить слева направо).  
+1.  Нажмите кнопку **Настройка DevTools и** `...` выберите команду **открепить в отдельном окне** \ (открепить к концу ![ ][ImageUndockIcon] ), **закрепите ее снизу вверх** ( ![ с закреплением вниз) ][ImageBottomIcon] или **закрепите слева** ( ![ ][ImageLeftIcon] закрепите слева направо).  
     
     :::image type="complex" source="../media/customize-elements-styles-options-dock-side-highlight.msft.png" alt-text="Нажмите кнопку &quot;закрепить на левой панели&quot;" lightbox="../media/customize-elements-styles-options-dock-side-highlight.msft.png":::
-       Выберите пункт **открепить в отдельном окне**  
+       Выберите команду **открепить в отдельном окне**  
     :::image-end:::  
     
-## Изменение положения в меню команд   
+## Изменение положения в меню команд  
 
 1.  [Открытие меню команд][DevtoolsCommandMenu].  
 1.  Выполните одну из указанных ниже `Dock To Bottom` команд. `Undock Into Separate Window`  В настоящее время нет команды для закрепления слева, но вы можете получить доступ к ней из [главного меню](#change-placement-from-the-main-menu).  
@@ -80,11 +74,9 @@ ms.locfileid: "10993011"
        Команда "отменить закрепление"  
     :::image-end:::  
     
-<!--  
- 
+## Взаимодействие с командой средств разработчика Microsoft Edge  
 
-
--->  
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- image links -->  
 

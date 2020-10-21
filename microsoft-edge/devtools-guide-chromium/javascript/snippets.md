@@ -3,16 +3,16 @@ description: Фрагменты — это небольшие сценарии, 
 title: Выполнение фрагментов кода JavaScript на любой странице с Microsoft Edge DevTools
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 5f6284179aacb471116a2d732507b010c37ef235
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: e353da76a5c354d834b69708c8a8c9e8dbdf9934
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993389"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11124742"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -28,13 +28,7 @@ ms.locfileid: "10993389"
    See the License for the specific language governing permissions and
    limitations under the License.  -->  
 
-
-
-
-
-# Выполнение фрагментов кода JavaScript на любой странице с Microsoft Edge DevTools   
-
-
+# Выполнение фрагментов кода JavaScript на любой странице с Microsoft Edge DevTools  
 
 Если вы обнаружите, что один и тот же код запускается повторно на [консоли][DevtoolsConsoleIndex] , попробуйте сохранить его как фрагмент кода.  Фрагменты — это сценарии, созданные вами на панели « [источники][DevToolsSourcesPanel] ».  У них есть доступ к контексту JavaScript на странице, и вы можете запускать их на любой странице.  Фрагменты — это альтернатива для [Закладка][WikiBookmarklet].  
 В Firefox DevTools есть функция, похожая на фрагменты, которые называются [блокнотом][MDNScratchpad].  
@@ -57,113 +51,111 @@ document.body.appendChild(p);
 
 На рисунке ниже показана страница после выполнения фрагмента.  Во всплывающем **ящике консоли** выводится `Hello, Snippets!` сообщение о том, что журналы фрагментов, и содержимое страницы полностью меняются.  
 
-:::image type="complex" source="../media/javascript-sources-snippets-split-screen-after.msft.png" alt-text="Вид страницы после выполнения фрагмента" lightbox="../media/javascript-sources-snippets-split-screen-after.msft.png":::
+:::image type="complex" source="../media/javascript-sources-snippets-split-screen-after.msft.png" alt-text="Вид страницы перед выполнением фрагмента" lightbox="../media/javascript-sources-snippets-split-screen-after.msft.png":::
    Вид страницы после выполнения фрагмента  
 :::image-end:::  
 
-## Открытие области "фрагменты кода"   
+## Открытие области "фрагменты кода"  
 
 На панели **фрагментов** перечислены ваши фрагменты.  Если вы хотите изменить фрагмент, необходимо открыть его из области **фрагментов** .  
 
-:::image type="complex" source="../media/javascript-sources-snippets-pane.msft.png" alt-text="Область фрагментов" lightbox="../media/javascript-sources-snippets-pane.msft.png":::
+:::image type="complex" source="../media/javascript-sources-snippets-pane.msft.png" alt-text="Вид страницы перед выполнением фрагмента" lightbox="../media/javascript-sources-snippets-pane.msft.png":::
    Область **фрагментов**  
 :::image-end:::  
 
-### Открытие области фрагментов с помощью мыши   
+### Открытие области фрагментов с помощью мыши  
 
 1.  Перейдите на вкладку **источники** , чтобы открыть панель " **источники** ".  Обычно область **страницы** открывается по умолчанию.  
     
-    :::image type="complex" source="../media/javascript-sources-page-pane.msft.png" alt-text="Панель «источники» с открытой областью страницы в левой части экрана" lightbox="../media/javascript-sources-page-pane.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-page-pane.msft.png" alt-text="Вид страницы перед выполнением фрагмента" lightbox="../media/javascript-sources-page-pane.msft.png":::
        Панель « **источники** » с открытой областью **страницы** в левой части экрана  
     :::image-end:::  
     
-1.  Перейдите на вкладку **фрагменты кода** , чтобы открыть область **фрагменты** .  **More Tabs** ![ ][ImageMoreTabsIcon] Для доступа к параметру **фрагментов** может потребоваться нажать кнопку Другие вкладки \ (другие вкладки \).  
+1.  Перейдите на вкладку **фрагменты кода** , чтобы открыть область **фрагменты** .  **More Tabs** ![ ][ImageMoreTabsIcon] Для доступа к параметру **фрагментов** может потребоваться выбрать дополнительные вкладки \ (дополнительные вкладки \).  
     
-### Открытие области фрагментов с помощью меню команд   
+### Открытие области фрагментов с помощью меню команд  
 
 1.  Сфокусировать указатель мыши в DevTools.  
-1.  `Control` + `Shift` + `P` Чтобы открыть меню команд, нажмите клавиши \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \).  
-1.  Начните вводить текст `Snippets` , нажмите кнопку **Показать фрагменты**и нажмите клавишу `Enter` для запуска команды.  
+1.  Выберите `Control` + `Shift` + `P` \ (Windows, Linux \) или `Command` + `Shift` + `P` \ (macOS \), чтобы открыть меню команд.  
+1.  Начните вводить текст `Snippets` , нажмите кнопку **Показать фрагменты**, а затем выберите `Enter` для запуска команды.  
     
-    :::image type="complex" source="../media/javascript-search-show-snippets.msft.png" alt-text="Команда «Показать фрагменты»" lightbox="../media/javascript-search-show-snippets.msft.png":::
+    :::image type="complex" source="../media/javascript-search-show-snippets.msft.png" alt-text="Вид страницы перед выполнением фрагмента" lightbox="../media/javascript-search-show-snippets.msft.png":::
        Команда « **Показать фрагменты** »  
     :::image-end:::  
     
-## Создание фрагментов кода   
+## Создание фрагментов кода  
 
-### Создание фрагмента с помощью панели «источники»   
+### Создание фрагмента с помощью панели «источники»  
 
 1.  [Открытие области **фрагментов** ](#open-the-snippets-pane).  
-1.  Нажмите кнопку **создать фрагмент**.  
-1.  Введите имя для фрагмента, а затем нажмите `Enter` для сохранения.  
+1.  Выберите команду **создать фрагмент**.  
+1.  Введите имя для фрагмента, а затем выберите `Enter` для сохранения.  
     
-    :::image type="complex" source="../media/javascript-sources-snippets-naming.msft.png" alt-text="Присвоение имени фрагменту" lightbox="../media/javascript-sources-snippets-naming.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-snippets-naming.msft.png" alt-text="Вид страницы перед выполнением фрагмента" lightbox="../media/javascript-sources-snippets-naming.msft.png":::
        Присвоение имени фрагменту  
     :::image-end:::  
     
-### Создание фрагмента с помощью меню команд   
+### Создание фрагмента с помощью меню команд  
 
 1.  Сфокусировать указатель мыши в DevTools.  
-1.  `Control` + `Shift` + `P` Чтобы открыть меню команд, нажмите клавиши \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \).  
-1.  Начните вводить текст `Snippet` , выберите **создать новый фрагмент**, а затем нажмите, `Enter` чтобы выполнить команду.  
+1.  Выберите `Control` + `Shift` + `P` \ (Windows, Linux \) или `Command` + `Shift` + `P` \ (macOS \), чтобы открыть меню команд.  
+1.  Начните вводить текст `Snippet` , выберите команду **создать фрагмент**, а затем нажмите кнопку, `Enter` чтобы выполнить команду.  
     
-    :::image type="complex" source="../media/javascript-search-create-new-snippet.msft.png" alt-text="Команда для создания нового фрагмента." lightbox="../media/javascript-search-create-new-snippet.msft.png":::
+    :::image type="complex" source="../media/javascript-search-create-new-snippet.msft.png" alt-text="Вид страницы перед выполнением фрагмента" lightbox="../media/javascript-search-create-new-snippet.msft.png":::
        Команда для создания нового фрагмента.  
     :::image-end:::  
     
 Если вы хотите присвоить новому фрагменту настраиваемое имя, просмотрите [фрагменты Rename](#rename-snippets) .  
 
-## Редактирование фрагментов   
+## Редактирование фрагментов  
 
 1.  [Открытие области **фрагментов** ](#open-the-snippets-pane).  
 1.  В области **фрагменты** щелкните имя фрагмента, который вы хотите изменить, чтобы открыть его в **редакторе кода**.  
     
-    :::image type="complex" source="../media/javascript-sources-snippets-editor-saved.msft.png" alt-text="Редактор кода" lightbox="../media/javascript-sources-snippets-editor-saved.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-snippets-editor-saved.msft.png" alt-text="Вид страницы перед выполнением фрагмента" lightbox="../media/javascript-sources-snippets-editor-saved.msft.png":::
        **Редактор кода**  
     :::image-end:::  
     
 1.  С помощью **редактора кода** добавьте JavaScript в сниппет.  
-1.  Если рядом с именем фрагмента появится звездочка, это означает, что у вас есть несохраненный код. Чтобы сохранить, нажмите клавиши `Control` + `S` \ (Windows \) или `Command` + `S` \ (macOS \).  
+1.  Если рядом с именем фрагмента появится звездочка, это означает, что у вас есть несохраненный код. Выберите `Control` + `S` \ (Windows, Linux \) или `Command` + `S` \ (macOS \), чтобы сохранить его.  
     
-    :::image type="complex" source="../media/javascript-sources-snippets-editor-unsaved.msft.png" alt-text="Звездочка рядом с именем фрагмента, обозначающее несохраненный код." lightbox="../media/javascript-sources-snippets-editor-unsaved.msft.png":::
+    :::image type="complex" source="../media/javascript-sources-snippets-editor-unsaved.msft.png" alt-text="Вид страницы перед выполнением фрагмента" lightbox="../media/javascript-sources-snippets-editor-unsaved.msft.png":::
        Звездочка рядом с именем фрагмента, обозначающее несохраненный код.  
     :::image-end:::  
     
-## Выполнение фрагментов кода   
+## Выполнение фрагментов кода  
 
-### Выполнение фрагмента на панели «источники»   
+### Выполнение фрагмента на панели «источники»  
 
 1.  [Открытие области **фрагментов** ](#open-the-snippets-pane).  
 1.  Щелкните имя фрагмента, который вы хотите выполнить.  Фрагмент откроется в **редакторе кода**.  
-1.  Выберите команду **выполнить фрагмент** \ ( ![ выполнить фрагмент \ ][ImageRunSnippetIcon] ) или нажмите клавиши `Control` + `Enter` \ (Windows \) или `Command` + `Enter` \ (macOS \).  
+1.  Выберите команду **выполнить фрагмент** \ ( ![ выполнить фрагмент ][ImageRunSnippetIcon] \) или выберите `Control` + `Enter` \ (Windows, Linux \) или `Command` + `Enter` \ (macOS \).  
     
-### Выполнение фрагмента с помощью меню команд   
+### Выполнение фрагмента с помощью меню команд  
 
 1.  Сфокусировать указатель мыши в DevTools.  
-1.  `Control` + `Shift` + `P` Чтобы открыть меню команд, нажмите клавиши \ (Windows \) или `Command` + `Shift` + `P` \ (macOS \).  
+1.  Выберите `Control` + `Shift` + `P` \ (Windows, Linux \) или `Command` + `Shift` + `P` \ (macOS \), чтобы открыть меню команд.  
 1.  Удалите `>` символ и введите символ, а `!` затем имя фрагмента, который вы хотите выполнить.  
     
-    :::image type="complex" source="../media/javascript-search-run-command.msft.png" alt-text="Выполнение фрагмента из меню команд" lightbox="../media/javascript-search-run-command.msft.png":::
+    :::image type="complex" source="../media/javascript-search-run-command.msft.png" alt-text="Вид страницы перед выполнением фрагмента" lightbox="../media/javascript-search-run-command.msft.png":::
        Выполнение фрагмента из **меню команд**  
     :::image-end:::  
     
-1.  Нажмите, `Enter` чтобы запустить фрагмент.  
+1.  Выберите `Enter` , чтобы запустить фрагмент.  
 
-## Переименование фрагментов   
+## Переименование фрагментов  
 
 1.  [Открытие области **фрагментов** ](#open-the-snippets-pane).  
 1.  Щелкните имя фрагмента правой кнопкой мыши и выберите команду **Переименовать**.  
     
-## Удаление фрагментов   
+## Удаление фрагментов  
 
 1.  [Открытие области **фрагментов** ](#open-the-snippets-pane).  
 1.  Щелкните имя фрагмента правой кнопкой мыши и выберите команду **Удалить**.  
     
-<!--  
- 
+## Взаимодействие с командой средств разработчика Microsoft Edge  
 
-
--->  
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- image links -->  
 

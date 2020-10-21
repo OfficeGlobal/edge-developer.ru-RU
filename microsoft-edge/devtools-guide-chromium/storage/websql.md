@@ -3,16 +3,16 @@ description: Инструкции по просмотру данных из ве
 title: Просмотр данных из веб-SQL с помощью Microsoft Edge DevTools
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: cc2f726c80fbf0c943b43ff6c131e9479db75b78
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 0396a00ec354fdd707bc4d484242d4cf844db5f9
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993536"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125470"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -28,20 +28,14 @@ ms.locfileid: "10993536"
    See the License for the specific language governing permissions and
    limitations under the License.  -->
 
-
-
-
-
-# Просмотр данных из веб-SQL с помощью Microsoft Edge DevTools   
-
-
+# Просмотр данных из веб-SQL с помощью Microsoft Edge DevTools  
 
 > [!WARNING]
 > Спецификация веб-SQL [не поддерживается][W3CWebSQLStatus].  
 
 В этом руководстве описано, как использовать [Microsoft Edge DevTools][MicrosoftEdgeDevTools] для проверки данных в веб-приложении SQL.  
 
-## Просмотр данных в веб-SQL   
+## Просмотр данных в веб-SQL  
 
 1.  Перейдите на вкладку **источники** , чтобы открыть панель " **источники** ".  Обычно область **манифеста** открывается по умолчанию.  
     
@@ -61,27 +55,27 @@ ms.locfileid: "10993536"
        Просмотр данных таблицы веб-SQL  
     :::image-end:::  
     
-## Изменение данных в веб-SQL   
+## Изменение данных в веб-SQL  
 
 Вы не можете редактировать данные веб-SQL при просмотре таблицы веб-SQL (например, на **рис. 3** выше).  Но вы можете запускать на веб-сайте SQL инструкции для редактирования и удаления таблиц.  Дополнительные сведения: [запуск запросов Web SQL](#run-web-sql-queries).  
 
-## Выполнение запросов на веб-SQL   
+## Выполнение запросов на веб-SQL  
 
 1.  Выберите базу данных, чтобы открыть для нее консоль.  
-1.  Введите инструкцию веб-SQL и нажмите `Enter` для ее запуска.  
+1.  Введите инструкцию веб-SQL и выберите `Enter` для ее запуска.  
     
     :::image type="complex" source="../media/storage-application-storage-web-sql-html5meetup-commands.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-storage-web-sql-html5meetup-commands.msft.png":::
        Удаление строки из таблицы с помощью веб-консоли SQL  
     :::image-end:::  
     
-## Обновление таблицы веб-SQL   
+## Обновление таблицы веб-SQL  
 
 DevTools не обновляет таблицы в режиме реального времени.  Чтобы обновить данные в таблице, выполните указанные ниже действия.  
 
 1.  [Просмотр данных в таблице веб-SQL](#view-web-sql-data).  
 1.  Нажмите кнопку **Обновить** \ ( ![ обновить ][ImageRefreshIcon] \).  
     
-## Фильтрация столбцов в таблице веб-SQL   
+## Фильтрация столбцов в таблице веб-SQL  
 
 1.  [Просмотр данных в таблице веб-SQL](#view-web-sql-data).  
 1.  С помощью текстового поля **видимые столбцы** можно указать, какие столбцы вы хотите отобразить.  Укажите имена столбцов в виде CSV-списка.  
@@ -90,7 +84,7 @@ DevTools не обновляет таблицы в режиме реальног
        Использование текстового поля " **видимые столбцы** " для уменьшения количества отображаемых столбцов  
     :::image-end:::  
     
-## Удаление всех данных из веб-SQL   
+## Удаление всех данных из веб-SQL  
 
 1.  Открытие области **очистки хранилища** .  
 1.  Убедитесь, что установлен флажок **веб-SQL** .  
@@ -99,17 +93,15 @@ DevTools не обновляет таблицы в режиме реальног
        Флажок " **веб-SQL** "  
     :::image-end:::  
     
-1.  Нажмите кнопку **Очистить данные сайта**.  
+1.  Выберите команду **Очистить данные сайта**.  
     
     :::image type="complex" source="../media/storage-application-clear-storage-clear-site-data-button.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-clear-storage-clear-site-data-button.msft.png":::
        Кнопка " **Очистить данные сайта** "  
     :::image-end:::  
     
-<!--  
- 
+## Взаимодействие с командой средств разработчика Microsoft Edge  
 
-
--->  
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- image links -->  
 

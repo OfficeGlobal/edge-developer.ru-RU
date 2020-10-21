@@ -3,16 +3,16 @@ description: Просмотр и редактирование localStorage с п
 title: Просмотр и изменение локального хранилища с помощью Microsoft Edge DevTools
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: aa5365d1764ea0db537ea24464f9c76441f05322
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 25404e454187db941dc12d356dfe5ae7437d833b
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993557"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125421"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -28,17 +28,11 @@ ms.locfileid: "10993557"
    See the License for the specific language governing permissions and
    limitations under the License.  -->  
 
-
-
-
-
-# Просмотр и изменение локального хранилища с помощью Microsoft Edge DevTools   
-
-
+# Просмотр и изменение локального хранилища с помощью Microsoft Edge DevTools  
 
 В этом руководстве описано, как использовать [Microsoft Edge DevTools][MicrosoftEdgeDevTools] для просмотра, изменения и удаления пар ключ-значение [localStorage][MDNWindowsLocalStorage] .  
 
-## Просмотр ключей и значений localStorage   
+## Просмотр ключей и значений localStorage  
 
 1.  Перейдите на вкладку **приложение** , чтобы открыть панель **приложения** .  Область **манифеста** отображается по умолчанию.  
     
@@ -64,7 +58,7 @@ ms.locfileid: "10993557"
        Просмотр значения `eventLogQueue_Online` ключа  
     :::image-end:::  
     
-## Создание новой пары "ключ-значение" для localStorage   
+## Создание новой пары "ключ-значение" для localStorage  
 
 1.  [Просмотр `localStorage` пар "ключ-значение" домена](#view-localstorage-keys-and-values).  
 1.  Дважды щелкните пустую часть таблицы.  DevTools создает новую строку и нафокусирует указатель мыши на **ключевом** столбце.  
@@ -73,7 +67,7 @@ ms.locfileid: "10993557"
        Пустая часть таблицы для двойного щелчка, чтобы создать новую пару ключ-значение.  
     :::image-end:::  
     
-## Изменение ключей и значений localStorage   
+## Изменение ключей и значений localStorage  
 
 1.  [Просмотр `localStorage` пар "ключ-значение" домена](#view-localstorage-keys-and-values).  
 1.  Дважды щелкните ячейку в столбце " **раздел** " или " **значение** ", чтобы изменить этот раздел или значение.  
@@ -82,18 +76,18 @@ ms.locfileid: "10993557"
        Изменение `localStorage` ключа  
     :::image-end:::  
     
-## Удаление пар ключ-значение localStorage   
+## Удаление пар ключ-значение localStorage  
 
 1.  [Просмотр `localStorage` пар "ключ-значение" домена](#view-localstorage-keys-and-values).  
 1.  Выберите пару "ключ-значение", которую вы хотите удалить.  DevTools выделит ее синей, чтобы показать, что она выбрана.  
-1.  Нажмите клавишу `Delete` или нажмите кнопку **Удалить выделенные** \ ( ![ Удалить выбранные \ ][ImageDeleteIcon] ).  
+1.  Нажмите клавишу `Delete` или выберите команду **Удалить выделенные** \ ( ![ Удалить выбранные ][ImageDeleteIcon] \).  
     
-## Удаление всех `localStorage` пар "ключ-значение" для домена   
+## Удаление всех `localStorage` пар "ключ-значение" для домена  
 
 1.  [Просмотр `localStorage` пар "ключ-значение" домена](#view-localstorage-keys-and-values).  
-1.  Нажмите **Очистить все** \ ( ![ Очистить все ][ImageClearIcon] \).  
+1.  Выберите **Очистить все** \ ( ![ Очистить все ][ImageClearIcon] \).  
     
-## Взаимодействие с localStorage с помощью консоли   
+## Взаимодействие с localStorage с помощью консоли  
 
 Так как вы можете запускать JavaScript на **консоли**, а так как у **консоли** есть доступ к контекстам JavaScript страницы, взаимодействие с `localStorage` **консолью**возможно.  
 
@@ -109,11 +103,9 @@ ms.locfileid: "10993557"
        Взаимодействие с `localStorage` **консолью**  
     :::image-end:::  
     
-<!--  
- 
+## Взаимодействие с командой средств разработчика Microsoft Edge  
 
-
--->  
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- image links -->  
 

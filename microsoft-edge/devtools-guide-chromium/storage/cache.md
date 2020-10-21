@@ -3,16 +3,16 @@ description: Инструкции по просмотру данных из кэ
 title: Просмотр данных кэша с помощью Microsoft Edge DevTools
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: c920a171ec89925cc79ab741eed01e11d749bf1b
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 5ab5fd0b3b504443e495f1d5108907a4551e6ac6
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993298"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125442"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -28,19 +28,13 @@ ms.locfileid: "10993298"
    See the License for the specific language governing permissions and
    limitations under the License.  -->
 
-
-
-
-
-# Просмотр данных кэша с помощью Microsoft Edge DevTools   
-
-
+# Просмотр данных кэша с помощью Microsoft Edge DevTools  
 
 В этом руководстве описано, как использовать [Microsoft Edge DevTools][MicrosoftEdgeDevTools] для проверки данных [кэша][MDNCache] .  
 
 Если вы пытаетесь проверить данные [кэша HTTP][MDNHTTPCaching] , это не значит, что вам нужно.  Найдите данные в столбце " **Размер** " в **сетевом журнале**.  Просмотр [журнала активности сети][DevtoolsNetworkLogActivity].  
 
-## Просмотр данных кэша   
+## Просмотр данных кэша  
 
 1.  Перейдите на вкладку **приложение** , чтобы открыть панель **приложения** .  Обычно область **манифеста** открывается по умолчанию.  
     
@@ -72,18 +66,18 @@ ms.locfileid: "10993298"
        Просмотр содержимого ресурса  
     :::image-end:::  
     
-## Обновление ресурса   
+## Обновление ресурса  
 
 1.  [Просмотр данных для кэша](#view-cache-data).  
 1.  Выберите ресурс, который вы хотите обновить.  DevTools выделит ее, чтобы показать, что она выбрана.  
     
     :::image type="complex" source="../media/storage-application-cache-storage-domain-refresh.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-cache-storage-domain-refresh.msft.png":::
-       Выберите ресурс  
+       Выберите ресурс, который нужно обновить.  
     :::image-end:::  
     
 1.  Нажмите кнопку **Обновить** \ ( ![ обновить ][ImageRefreshIcon] \).  
     
-## Фильтрация ресурсов   
+## Фильтрация ресурсов  
 
 1.  [Просмотр данных для кэша](#view-cache-data).  
 1.  С помощью текстового поля **Фильтр по пути** можно отфильтровать ресурсы, которые не соответствуют указанному вами пути.  
@@ -92,18 +86,18 @@ ms.locfileid: "10993298"
        Фильтрация ресурсов, не соответствующих указанному пути  
     :::image-end:::  
     
-## Удаление ресурса   
+## Удаление ресурса  
 
 1.  [Просмотр данных для кэша](#view-cache-data).  
 1.  Выберите ресурс, который вы хотите удалить.  DevTools выделит ее, чтобы показать, что она выбрана.  
     
     :::image type="complex" source="../media/storage-application-cache-storage-delete-selected.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-cache-storage-delete-selected.msft.png":::
-       Выберите ресурс  
+       Выберите ресурс для удаления  
     :::image-end:::  
     
-1.  Нажмите кнопку " **Удалить** " ![ , а затем "удалить выбрано ][ImageDeleteIcon] ".  
+1.  Нажмите кнопку " **Удалить** ![ ", а затем "удалить выбрано ][ImageDeleteIcon] ".  
     
-## Удаление всех данных из кэша   
+## Удаление всех данных из кэша  
 
 1.  Откройте **приложение**  >  , чтобы**Очистить хранилище**.  
 1.  Убедитесь, что флажок **хранилище кэша** включен.  
@@ -112,17 +106,15 @@ ms.locfileid: "10993298"
        Флажок " **хранилище кэша** "  
     :::image-end:::  
     
-1.  Нажмите кнопку **Очистить данные сайта**.  
+1.  Выберите команду **Очистить данные сайта**.  
     
     :::image type="complex" source="../media/storage-application-clear-storage-cache-storage-checkbox-clear-site-data-button.msft.png" alt-text="Область «манифест»" lightbox="../media/storage-application-clear-storage-cache-storage-checkbox-clear-site-data-button.msft.png":::
        Кнопка " **Очистить данные сайта** "  
     :::image-end:::  
     
-<!--  
-  
+## Взаимодействие с командой средств разработчика Microsoft Edge  
 
-
--->  
+[!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
 <!-- image links -->  
 

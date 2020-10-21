@@ -3,16 +3,16 @@ description: Открыть меню команд и выполнить кома
 title: Отключение JavaScript с помощью Microsoft Edge DevTools
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: de756e04c91768c49eed50debce97ae91fdaa3bd
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 4a200e2faa303a12d46fe2daf7ba89226a985b1f
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10992801"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11124721"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -33,13 +33,13 @@ ms.locfileid: "10992801"
 Выполните описанные ниже действия, чтобы увидеть, как выглядит веб-страница и использует ее при отключении JavaScript.  
 
 1.  [Откройте Microsoft Edge DevTools][DevToolsOpen].  
-1.  `Control` + `Shift` + `P` Чтобы открыть меню команд, нажмите клавиши \ (Windows \) или `Command` + `Shift` + `P` \ ( **Command Menu**macOS \).  
+1.  Выберите `Control` + `Shift` + `P` \ (Windows, Linux \) или `Command` + `Shift` + `P` \ (macOS \), чтобы открыть **меню команд**.  
     
     :::image type="complex" source="../media/javascript-console-command.msft.png" alt-text="Меню команд" lightbox="../media/javascript-console-command.msft.png":::
        **Меню команд**  
     :::image-end:::  
     
-1.  Начните вводить текст, нажмите кнопку `javascript` **отключить JavaScript**, а затем нажмите `Enter` , чтобы выполнить команду.  JavaScript теперь отключен.  
+1.  Начните вводить текст `javascript` , нажмите кнопку **отключить JavaScript**, а затем выберите `Enter` для запуска команды.  JavaScript теперь отключен.  
     
     :::image type="complex" source="../media/javascript-console-command-javascript.msft.png" alt-text="Меню команд" lightbox="../media/javascript-console-command-javascript.msft.png":::
        Выбор пункта " **отключить JavaScript** " в **меню команд**  

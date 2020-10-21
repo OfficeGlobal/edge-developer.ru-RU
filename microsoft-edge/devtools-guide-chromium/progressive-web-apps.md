@@ -7,12 +7,12 @@ ms.date: 09/01/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 7eb71d0d57d8a9227a54b921f15dfe434ad6e65b
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: 80475ebcbbdd3fb04fd0196e993c933e0bdcf090
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10993606"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11125393"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -28,13 +28,7 @@ ms.locfileid: "10993606"
    See the License for the specific language governing permissions and
    limitations under the License.  -->  
 
-
-
-
-
-# Отладка последовательного веб-приложения   
-
-
+# Отладка последовательного веб-приложения  
 
 С помощью панели **приложения** можно просматривать, изменять и отлаживать манифесты веб-приложения, рабочие процессы служб и служебные кэши служб.  
 
@@ -55,7 +49,7 @@ ms.locfileid: "10993606"
 *   Просмотр кэша рабочих процессов службы из области **хранилища кэша** .  
 *   Отмена регистрации сотрудника службы и удаление всех хранилищ и кэшей с одним нажатием кнопки из области **очистки хранилища** .  
     
-## Манифест веб-приложения   
+## Манифест веб-приложения  
 
 Если вы хотите, чтобы пользователи смогли добавить ваше приложение на свой мобильный homescreens, вам понадобится манифест веб-приложения.  Манифест определяет, как приложение появляется на начальный экран, где можно направить пользователя при запуске из начальный экран и что приложение будет выглядеть при запуске.  
 
@@ -77,7 +71,7 @@ ms.locfileid: "10993606"
 *   В разделах " **удостоверение** " и " **Презентация** " отображаются только поля из источника манифеста в более удобном для пользователя дисплее.  
 *   В разделе **значков** появится каждый заданный вами значок.  
     
-<!--### Simulate Add to Homescreen events   -->
+<!--### Simulate Add to Homescreen events  -->
 
 <!--A web app can only be added to a homescreen when the site is visited at least twice, with at least five minutes between visits.  While developing or debugging your Add to Homescreen workflow, this criteria can be inconvenient.  
 The **Add to homescreen** button on the **App Manifest** pane lets you simulate Add to Homescreen events whenever you want.  -->
@@ -102,7 +96,7 @@ The **Add to homescreen** button on the **App Manifest** pane lets you simulate 
 
 <!--TODO:  Link Debug "remote debugging" sections when available. -->
 
-## Обслуживание сотрудников   
+## Служебные сценарии  
 
 ИТ-специалисты — это фундаментальная технология в будущем.  Они представляют собой сценарии, которые браузер работает в фоновом режиме, отделенные от веб-страницы.  Эти сценарии позволяют получить доступ к функциям, для которых не требуется взаимодействие с веб-страницей или пользователем, например извещающих уведомлений, фоновой синхронизации и автономным режимом работы.  
 
@@ -142,7 +136,7 @@ The **Add to homescreen** button on the **App Manifest** pane lets you simulate 
 <!--TODO:  Capture Service Worker Errors sample when available. -->
 <!--TODO:  Link Web "How tickle works" sections when available. -->
 
-## Кэши рабочих процессов служб 
+## Кэши рабочих процессов служб  
 
 Область **кэширования кэша** предоставляет доступный только для чтения список ресурсов, которые были кэшированы с помощью [API кэша][MDNWebCacheAPI]\ (рабочий процесс-служба).  
 
@@ -159,7 +153,7 @@ The **Add to homescreen** button on the **App Manifest** pane lets you simulate 
    Раскрывающийся список **хранилища кэша**  
 :::image-end:::  
 
-## Использование квоты 
+## Использование квоты  
 
 Некоторые ответы в области **хранилища кэша** можно пометить как "непрозрачный".  Это относится к ответу, извлекаемому из другого источника, например из сети **CDN** или удаленного API, когда функция [CORS][FetchHttpCorsProtocol] не включена.  
 
@@ -179,7 +173,7 @@ The **Add to homescreen** button on the **App Manifest** pane lets you simulate 
     
 <!--TODO:  Link Work container storage quota for opaque responses section when available. -->
 
-## Очистка хранилища 
+## Очистка хранилища  
 
 При разработке последовательного веб-приложения удобнее использовать область **очистки хранилища** .  В этой области можно отменить регистрацию сотрудников службы и очистить все кэши и хранилище с помощью одного нажатия кнопки.  <!--Check out the section below to learn more.  -->
 
@@ -189,7 +183,7 @@ The **Add to homescreen** button on the **App Manifest** pane lets you simulate 
     
 <!--TODO:  Link to sections when available. -->
 
-<!--## Other Application panel guides 
+<!--## Other Application panel guides   
 
 Check out the guides below for more help on the other panes of the **Application** panel.  
 
@@ -198,13 +192,9 @@ Related Guides:
 *   [Inspect page resources](/iterate/manage-data/page-resources)  
 *   [Inspect and manage local storage and caches](/iterate/manage-data/local-storage)  -->
     
-<!--TODO  -->
+## Взаимодействие с командой средств разработчика Microsoft Edge  
 
-<!--  
- 
-
-
--->  
+[!INCLUDE [contact DevTools team note](./includes/contact-devtools-team-note.md)]  
 
 <!-- links -->  
 
