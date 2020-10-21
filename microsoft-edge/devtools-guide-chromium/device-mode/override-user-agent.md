@@ -3,16 +3,16 @@ description: Откройте вкладку условия сети, отклю
 title: Переопределение строки агента пользователя из Microsoft Edge DevTools
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 09/01/2020
+ms.date: 10/19/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: ecaa1247824e5c3acb07a2c631feab30d25aba8d
-ms.sourcegitcommit: 63e6d34ff483f3b419a0e271a3513874e6ce6c79
+ms.openlocfilehash: befbe186a5992c651f877a18f1c3232bf212394a
+ms.sourcegitcommit: 99eee78698dc95b2a3fa638a5b063ef449899cda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "10992927"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "11124952"
 ---
 <!-- Copyright Kayce Basques 
 
@@ -28,26 +28,26 @@ ms.locfileid: "10992927"
    See the License for the specific language governing permissions and
    limitations under the License.  -->
 
-# <span data-ttu-id="d680e-104">Переопределение строки агента пользователя из Microsoft Edge DevTools</span><span class="sxs-lookup"><span data-stu-id="d680e-104">Override the user agent string from Microsoft Edge DevTools</span></span>  
+# <span data-ttu-id="f641c-104">Переопределение строки агента пользователя из Microsoft Edge DevTools</span><span class="sxs-lookup"><span data-stu-id="f641c-104">Override the user agent string from Microsoft Edge DevTools</span></span>  
 
-<span data-ttu-id="d680e-105">Чтобы переопределить строку [агента пользователя][MDNUserAgent] из Microsoft Edge DevTools, выполните указанные ниже действия.</span><span class="sxs-lookup"><span data-stu-id="d680e-105">To override the [user agent][MDNUserAgent] string from Microsoft Edge DevTools:</span></span>  
+<span data-ttu-id="f641c-105">Чтобы переопределить строку [агента пользователя][MDNUserAgent] из Microsoft Edge DevTools, выполните указанные ниже действия.</span><span class="sxs-lookup"><span data-stu-id="f641c-105">To override the [user agent][MDNUserAgent] string from Microsoft Edge DevTools:</span></span>  
 
-1.  <span data-ttu-id="d680e-106">`Control` + `Shift` + `P` Чтобы открыть меню команд, нажмите клавиши \ (Windows \) или `Command` + `Shift` + `P` \ ( **Command Menu**macOS \).</span><span class="sxs-lookup"><span data-stu-id="d680e-106">Press `Control`+`Shift`+`P` \(Windows\) or `Command`+`Shift`+`P` \(macOS\) to open the **Command Menu**.</span></span>  
+1.  <span data-ttu-id="f641c-106">Выберите `Control` + `Shift` + `P` \ (Windows, Linux \) или `Command` + `Shift` + `P` \ (macOS \), чтобы открыть **меню команд**.</span><span class="sxs-lookup"><span data-stu-id="f641c-106">Select `Control`+`Shift`+`P` \(Windows, Linux\) or `Command`+`Shift`+`P` \(macOS\) to open the **Command Menu**.</span></span>  
     
     :::image type="complex" source="../media/device-mode-console-command-menu.msft.png" alt-text="Меню команд" lightbox="../media/device-mode-console-command-menu.msft.png":::
-       <span data-ttu-id="d680e-108">**Меню команд**</span><span class="sxs-lookup"><span data-stu-id="d680e-108">The **Command Menu**</span></span>  
+       <span data-ttu-id="f641c-108">**Меню команд**</span><span class="sxs-lookup"><span data-stu-id="f641c-108">The **Command Menu**</span></span>  
     :::image-end:::  
     
-1.  <span data-ttu-id="d680e-109">Введите и `network conditions` выберите **Показывать условия сети**, а затем `Enter` откройте вкладку **условия сети** .</span><span class="sxs-lookup"><span data-stu-id="d680e-109">Type `network conditions`, select **Show Network conditions**, and press `Enter` to open the **Network conditions** tab.</span></span>  
-1.  <span data-ttu-id="d680e-110">В разделе **Агент пользователя** отключите флажок **выбрать автоматически** .</span><span class="sxs-lookup"><span data-stu-id="d680e-110">In the **User agent** section, disable the **Select automatically** checkbox.</span></span>  
+1.  <span data-ttu-id="f641c-109">Введите `network conditions` команду **Показать условия сети**и выберите, `Enter` чтобы открыть вкладку **условия сети** .</span><span class="sxs-lookup"><span data-stu-id="f641c-109">Type `network conditions`, choose **Show Network conditions**, and select `Enter` to open the **Network conditions** tab.</span></span>  
+1.  <span data-ttu-id="f641c-110">В разделе **Агент пользователя** отключите флажок **выбрать автоматически** .</span><span class="sxs-lookup"><span data-stu-id="f641c-110">In the **User agent** section, disable the **Select automatically** checkbox.</span></span>  
     
     :::image type="complex" source="../media/device-mode-console-network-conditions-user-agent-select-automatically-deselected.msft.png" alt-text="Меню команд" lightbox="../media/device-mode-console-network-conditions-user-agent-select-automatically-deselected.msft.png":::
-       <span data-ttu-id="d680e-112">Отключить функцию " **выбрать автоматически** "</span><span class="sxs-lookup"><span data-stu-id="d680e-112">Disable **Select automatically**</span></span>  
+       <span data-ttu-id="f641c-112">Отключить функцию " **выбрать автоматически** "</span><span class="sxs-lookup"><span data-stu-id="f641c-112">Disable **Select automatically**</span></span>  
     :::image-end:::  
     
-1.  <span data-ttu-id="d680e-113">Выберите строку агента пользователя из списка или введите собственную настраиваемую строку.</span><span class="sxs-lookup"><span data-stu-id="d680e-113">Select a user agent string from the list, or enter your own custom string.</span></span>  
-
-## <span data-ttu-id="d680e-114">Взаимодействие с командой средств разработчика Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="d680e-114">Getting in touch with the Microsoft Edge DevTools team</span></span>  
+1.  <span data-ttu-id="f641c-113">Выберите строку агента пользователя из списка или введите собственную настраиваемую строку.</span><span class="sxs-lookup"><span data-stu-id="f641c-113">Select a user agent string from the list, or enter your own custom string.</span></span>  
+    
+## <span data-ttu-id="f641c-114">Взаимодействие с командой средств разработчика Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="f641c-114">Getting in touch with the Microsoft Edge DevTools team</span></span>  
 
 [!INCLUDE [contact DevTools team note](../includes/contact-devtools-team-note.md)]  
 
@@ -56,11 +56,11 @@ ms.locfileid: "10992927"
 [MDNUserAgent]: https://developer.mozilla.org/docs/Glossary/User_agent "Агент пользователя | MDN"  
 
 > [!NOTE]
-> <span data-ttu-id="d680e-116">Части этой страницы представляют собой изменения, основанные на работе, созданной и [предоставленной компанией Google][GoogleSitePolicies] и использованными в соответствии с условиями, описанными в [лицензии Creative Commons 4,0 международная лицензия][CCA4IL].</span><span class="sxs-lookup"><span data-stu-id="d680e-116">Portions of this page are modifications based on work created and [shared by Google][GoogleSitePolicies] and used according to terms described in the [Creative Commons Attribution 4.0 International License][CCA4IL].</span></span>  
-> <span data-ttu-id="d680e-117">Исходная страница будет найдена [здесь](https://developers.google.com/web/tools/chrome-devtools/device-mode/override-user-agent) и была написана с помощью [Kayce Basques][KayceBasques] \ (технический писатель, Chrome DevTools \ & Lighthouse \).</span><span class="sxs-lookup"><span data-stu-id="d680e-117">The original page is found [here](https://developers.google.com/web/tools/chrome-devtools/device-mode/override-user-agent) and is authored by [Kayce Basques][KayceBasques] \(Technical Writer, Chrome DevTools \& Lighthouse\).</span></span>  
+> <span data-ttu-id="f641c-116">Части этой страницы представляют собой изменения, основанные на работе, созданной и [предоставленной компанией Google][GoogleSitePolicies] и использованными в соответствии с условиями, описанными в [лицензии Creative Commons 4,0 международная лицензия][CCA4IL].</span><span class="sxs-lookup"><span data-stu-id="f641c-116">Portions of this page are modifications based on work created and [shared by Google][GoogleSitePolicies] and used according to terms described in the [Creative Commons Attribution 4.0 International License][CCA4IL].</span></span>  
+> <span data-ttu-id="f641c-117">Исходная страница будет найдена [здесь](https://developers.google.com/web/tools/chrome-devtools/device-mode/override-user-agent) и была написана с помощью [Kayce Basques][KayceBasques] \ (технический писатель, Chrome DevTools \ & Lighthouse \).</span><span class="sxs-lookup"><span data-stu-id="f641c-117">The original page is found [here](https://developers.google.com/web/tools/chrome-devtools/device-mode/override-user-agent) and is authored by [Kayce Basques][KayceBasques] \(Technical Writer, Chrome DevTools \& Lighthouse\).</span></span>  
 
 [![Лицензия Creative Commons][CCby4Image]][CCA4IL]  
-<span data-ttu-id="d680e-119">Эта работа предоставляется в рамках международной лицензии [Creative Commons Attribution 4.0 International License][CCA4IL].</span><span class="sxs-lookup"><span data-stu-id="d680e-119">This work is licensed under a [Creative Commons Attribution 4.0 International License][CCA4IL].</span></span>  
+<span data-ttu-id="f641c-119">Эта работа предоставляется в рамках международной лицензии [Creative Commons Attribution 4.0 International License][CCA4IL].</span><span class="sxs-lookup"><span data-stu-id="f641c-119">This work is licensed under a [Creative Commons Attribution 4.0 International License][CCA4IL].</span></span>  
 
 [CCA4IL]: https://creativecommons.org/licenses/by/4.0  
 [CCby4Image]: https://i.creativecommons.org/l/by/4.0/88x31.png  
