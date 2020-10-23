@@ -7,129 +7,129 @@ ms.date: 10/08/2020
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: microsoft edge, веб-разработка, инструменты f12, средства разработчика
-ms.openlocfilehash: 74fb4e276547d9f653a5bcbdcab9c4406d09a81a
-ms.sourcegitcommit: 912609aa49864e3363aaa3b245ff2aa4bec3fc3e
+ms.openlocfilehash: 0e759c18b5ef547bfd490f4d525930f92809a6a1
+ms.sourcegitcommit: 6e2b26d41a0aa56ac34e6edc7dddd852ddb415b1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "11104863"
+ms.lasthandoff: 10/23/2020
+ms.locfileid: "11133913"
 ---
-# <span data-ttu-id="60680-104">Новые возможности DevTools (Microsoft Edge 86)</span><span class="sxs-lookup"><span data-stu-id="60680-104">What's New In DevTools (Microsoft Edge 86)</span></span>  
+# <span data-ttu-id="d0eb6-104">Новые возможности DevTools (Microsoft Edge 86)</span><span class="sxs-lookup"><span data-stu-id="d0eb6-104">What's New In DevTools (Microsoft Edge 86)</span></span>  
 
-## <span data-ttu-id="60680-105">Объявления из группы Microsoft Edge DevTools</span><span class="sxs-lookup"><span data-stu-id="60680-105">Announcements from the Microsoft Edge DevTools team</span></span>  
+## <span data-ttu-id="d0eb6-105">Объявления из группы Microsoft Edge DevTools</span><span class="sxs-lookup"><span data-stu-id="d0eb6-105">Announcements from the Microsoft Edge DevTools team</span></span>  
 
 [!INCLUDE [contact DevTools team note](../../includes/edge-whats-new-note.md)]  
 
-### <span data-ttu-id="60680-106">Соответствие сочетаний клавиш в DevTools с кодом Visual Studio</span><span class="sxs-lookup"><span data-stu-id="60680-106">Match keyboard shortcuts in DevTools to Visual Studio Code</span></span>  
+### <span data-ttu-id="d0eb6-106">Соответствие сочетаний клавиш в DevTools с кодом Visual Studio</span><span class="sxs-lookup"><span data-stu-id="d0eb6-106">Match keyboard shortcuts in DevTools to Visual Studio Code</span></span>  
 
-<span data-ttu-id="60680-107">В Microsoft Edge 86 вы можете использовать сочетания клавиш в DevTools для сочетаний клавиш в [коде Visual Studio][VisualStudioCode].</span><span class="sxs-lookup"><span data-stu-id="60680-107">In Microsoft Edge 86, you may match keyboard shortcuts in the DevTools to your shortcuts in [Visual Studio Code][VisualStudioCode].</span></span> 
+<span data-ttu-id="d0eb6-107">В Microsoft Edge 86 вы можете использовать сочетания клавиш в DevTools для сочетаний клавиш в [коде Visual Studio][VisualStudioCode].</span><span class="sxs-lookup"><span data-stu-id="d0eb6-107">In Microsoft Edge 86, you may match keyboard shortcuts in the DevTools to your shortcuts in [Visual Studio Code][VisualStudioCode].</span></span> 
 
 :::image type="complex" source="../../media/2020/08/keyboard-shortcut.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/keyboard-shortcut.msft.png":::
-   <span data-ttu-id="60680-109">Соответствие сочетаний клавиш в DevTools с кодом Visual Studio</span><span class="sxs-lookup"><span data-stu-id="60680-109">Match keyboard shortcuts in the DevTools to Visual Studio Code</span></span>  
+   <span data-ttu-id="d0eb6-109">Соответствие сочетаний клавиш в DevTools с кодом Visual Studio</span><span class="sxs-lookup"><span data-stu-id="d0eb6-109">Match keyboard shortcuts in the DevTools to Visual Studio Code</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-110">Для активации этой функции перейдите в [раздел Настройка сочетаний клавиш в Microsoft Edge DevTools][DevtoolsCustomizeShortcuts].</span><span class="sxs-lookup"><span data-stu-id="60680-110">To activate this feature, navigate to [Customize keyboard shortcuts in the Microsoft Edge DevTools][DevtoolsCustomizeShortcuts].</span></span>  
+<span data-ttu-id="d0eb6-110">Для активации этой функции перейдите в [раздел Настройка сочетаний клавиш в Microsoft Edge DevTools][DevtoolsCustomizeShortcuts].</span><span class="sxs-lookup"><span data-stu-id="d0eb6-110">To activate this feature, navigate to [Customize keyboard shortcuts in the Microsoft Edge DevTools][DevtoolsCustomizeShortcuts].</span></span>  
 
-<span data-ttu-id="60680-111">Например, с помощью сочетания клавиш можно приостановить или продолжить выполнение сценария в [Visual Studio][VisualStudioCodeShortcutsKeyboardWindows] `F5` .</span><span class="sxs-lookup"><span data-stu-id="60680-111">For example, the keyboard shortcut for pausing or continuing running a script in [Visual Studio Code][VisualStudioCodeShortcutsKeyboardWindows] is `F5`.</span></span>  <span data-ttu-id="60680-112">В стиле **DevTools (по умолчанию)** это тот же ярлык в DevTools `F8` , но если вы выбрали стиль **кода Visual Studio** , это сочетание клавиш также будет использоваться `F5` .</span><span class="sxs-lookup"><span data-stu-id="60680-112">With the **DevTools (Default)** preset, that same shortcut in the DevTools is `F8`, but when you choose the **Visual Studio Code** preset, that shortcut is now also `F5`.</span></span>  
+<span data-ttu-id="d0eb6-111">Например, с помощью сочетания клавиш можно приостановить или продолжить выполнение сценария в [Visual Studio][VisualStudioCodeShortcutsKeyboardWindows] `F5` .</span><span class="sxs-lookup"><span data-stu-id="d0eb6-111">For example, the keyboard shortcut for pausing or continuing running a script in [Visual Studio Code][VisualStudioCodeShortcutsKeyboardWindows] is `F5`.</span></span>  <span data-ttu-id="d0eb6-112">В стиле **DevTools (по умолчанию)** это тот же ярлык в DevTools `F8` , но если вы выбрали стиль **кода Visual Studio** , это сочетание клавиш также будет использоваться `F5` .</span><span class="sxs-lookup"><span data-stu-id="d0eb6-112">With the **DevTools (Default)** preset, that same shortcut in the DevTools is `F8`, but when you choose the **Visual Studio Code** preset, that shortcut is now also `F5`.</span></span>  
 
-<span data-ttu-id="60680-113">[#174309][CR174309] проблем с Chromium</span><span class="sxs-lookup"><span data-stu-id="60680-113">Chromium issue [#174309][CR174309]</span></span>  
+<span data-ttu-id="d0eb6-113">[#174309][CR174309] проблем с Chromium</span><span class="sxs-lookup"><span data-stu-id="d0eb6-113">Chromium issue [#174309][CR174309]</span></span>  
 
-### <span data-ttu-id="60680-114">Эмуляция Surface Duo и Samsung Galaxy сгиб</span><span class="sxs-lookup"><span data-stu-id="60680-114">Emulate Surface Duo and Samsung Galaxy Fold</span></span>  
+### <span data-ttu-id="d0eb6-114">Эмуляция Surface Duo и Samsung Galaxy сгиб</span><span class="sxs-lookup"><span data-stu-id="d0eb6-114">Emulate Surface Duo and Samsung Galaxy Fold</span></span>  
 
 :::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio":::
-   <span data-ttu-id="60680-116">Экспериментальная функция</span><span class="sxs-lookup"><span data-stu-id="60680-116">Experimental feature</span></span>  
+   <span data-ttu-id="d0eb6-116">Экспериментальная функция</span><span class="sxs-lookup"><span data-stu-id="d0eb6-116">Experimental feature</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-117">Теперь вы можете проверить внешний вид и функции вашего веб-сайта или приложения на двух новых устройствах:  [Surface Duo][MicrosoftSurfaceDevicesDuo] и [Samsung Galaxy сгиб][SamsungMobileGalaxyFold] в Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="60680-117">You are now able to test the look and feel of your website or app on two new devices:  [Surface Duo][MicrosoftSurfaceDevicesDuo] and [Samsung Galaxy Fold][SamsungMobileGalaxyFold] in Microsoft Edge.</span></span>  
+<span data-ttu-id="d0eb6-117">Теперь вы можете проверить внешний вид и функции вашего веб-сайта или приложения на двух новых устройствах:  [Surface Duo][MicrosoftSurfaceDevicesDuo] и [Samsung Galaxy сгиб][SamsungMobileGalaxyFold] в Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-117">You are now able to test the look and feel of your website or app on two new devices:  [Surface Duo][MicrosoftSurfaceDevicesDuo] and [Samsung Galaxy Fold][SamsungMobileGalaxyFold] in Microsoft Edge.</span></span>  
 
-<span data-ttu-id="60680-118">Чтобы повысить качество веб-сайта или приложения для двойного экрана и складная устройств, используйте следующие возможности при [эмуляции устройства][DevtoolsDeviceModeIndex].</span><span class="sxs-lookup"><span data-stu-id="60680-118">To help enhance your website or app for the dual-screen and foldable devices, use the following features when [emulating the device][DevtoolsDeviceModeIndex].</span></span>  
+<span data-ttu-id="d0eb6-118">Чтобы повысить качество веб-сайта или приложения для двойного экрана и складная устройств, используйте следующие возможности при [эмуляции устройства][DevtoolsDeviceModeIndex].</span><span class="sxs-lookup"><span data-stu-id="d0eb6-118">To help enhance your website or app for the dual-screen and foldable devices, use the following features when [emulating the device][DevtoolsDeviceModeIndex].</span></span>  
 
-*   <span data-ttu-id="60680-119">[Объединение][DevtoolsExperimentalFeaturesTestingOnFoldableDualScreenDevices], которое появляется, когда ваш веб-сайт (или приложение \) отображается на обоих экранах.</span><span class="sxs-lookup"><span data-stu-id="60680-119">[Spanning][DevtoolsExperimentalFeaturesTestingOnFoldableDualScreenDevices], which is when your website \(or app\) appears across both screens.</span></span>
-*   <span data-ttu-id="60680-120">[Отрисовка стыка][DualScreenIntroductionHowWorkSeam], то есть расстояния между двумя экранами.</span><span class="sxs-lookup"><span data-stu-id="60680-120">[Rendering the seam][DualScreenIntroductionHowWorkSeam], which is the space between the two screens.</span></span>
-*   <span data-ttu-id="60680-121">[Включение API экспериментальной веб-платформы][DevtoolsExperimentalFeaturesEnableExperimentalApis] для доступа к новой [функции многофункционального экрана CSS][DualScreenWebCssMediaSpanning] и [API JavaScript getWindowSegments][DualScreenWebJavascriptGetwindowsegments].</span><span class="sxs-lookup"><span data-stu-id="60680-121">[Enabling experimental Web Platform APIs][DevtoolsExperimentalFeaturesEnableExperimentalApis] to access the new [CSS media screen-spanning feature][DualScreenWebCssMediaSpanning] and [JavaScript getWindowSegments API][DualScreenWebJavascriptGetwindowsegments].</span></span>  
+*   <span data-ttu-id="d0eb6-119">[Объединение][DevtoolsExperimentalFeaturesTestingOnFoldableDualScreenDevices], которое появляется, когда ваш веб-сайт (или приложение \) отображается на обоих экранах.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-119">[Spanning][DevtoolsExperimentalFeaturesTestingOnFoldableDualScreenDevices], which is when your website \(or app\) appears across both screens.</span></span>
+*   <span data-ttu-id="d0eb6-120">[Отрисовка стыка][DualScreenIntroductionHowWorkSeam], то есть расстояния между двумя экранами.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-120">[Rendering the seam][DualScreenIntroductionHowWorkSeam], which is the space between the two screens.</span></span>
+*   <span data-ttu-id="d0eb6-121">[Включение API экспериментальной веб-платформы][DevtoolsExperimentalFeaturesEnableExperimentalApis] для доступа к новой [функции многофункционального экрана CSS][DualScreenWebCssMediaSpanning] и [API JavaScript getWindowSegments][DualScreenWebJavascriptGetwindowsegments].</span><span class="sxs-lookup"><span data-stu-id="d0eb6-121">[Enabling experimental Web Platform APIs][DevtoolsExperimentalFeaturesEnableExperimentalApis] to access the new [CSS media screen-spanning feature][DualScreenWebCssMediaSpanning] and [JavaScript getWindowSegments API][DualScreenWebJavascriptGetwindowsegments].</span></span>  
 
 :::image type="complex" source="../../media/2020/08/surface-duo-device-emulation.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/surface-duo-device-emulation.msft.png":::
-   <span data-ttu-id="60680-123">Эмуляция устройства для ИБП Surface Duo</span><span class="sxs-lookup"><span data-stu-id="60680-123">Device emulation for Surface Duo</span></span>  
+   <span data-ttu-id="d0eb6-123">Эмуляция устройства для ИБП Surface Duo</span><span class="sxs-lookup"><span data-stu-id="d0eb6-123">Device emulation for Surface Duo</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-124">Чтобы включить эту функцию, перейдите к разделу [Включение экспериментальных функций][DevtoolsExperimentalFeaturesTurnOnExperimentalFeatures] и установите флажок рядом с параметром **Эмуляция: поддержка двух режимов экрана**.</span><span class="sxs-lookup"><span data-stu-id="60680-124">To turn on this experimental feature, navigate to [Turn on experimental features][DevtoolsExperimentalFeaturesTurnOnExperimentalFeatures] and choose the checkbox next to **Emulation: Support dual screen mode**.</span></span>  
+<span data-ttu-id="d0eb6-124">Чтобы включить эту функцию, перейдите к разделу [Включение экспериментальных функций][DevtoolsExperimentalFeaturesTurnOnExperimentalFeatures] и установите флажок рядом с параметром **Эмуляция: поддержка двух режимов экрана**.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-124">To turn on this experimental feature, navigate to [Turn on experimental features][DevtoolsExperimentalFeaturesTurnOnExperimentalFeatures] and choose the checkbox next to **Emulation: Support dual screen mode**.</span></span>  
 
-<span data-ttu-id="60680-125">Дополнительные сведения об этом эксперименте можно найти в разделе [Эмуляция: поддержка двух режимов экрана][DevtoolsExperimentalFeaturesEmulationSupportDualScreenMode].</span><span class="sxs-lookup"><span data-stu-id="60680-125">For more information about this experiment, navigate to [Emulation: Support dual screen mode][DevtoolsExperimentalFeaturesEmulationSupportDualScreenMode].</span></span>  
+<span data-ttu-id="d0eb6-125">Дополнительные сведения об этом эксперименте можно найти в разделе [Эмуляция: поддержка двух режимов экрана][DevtoolsExperimentalFeaturesEmulationSupportDualScreenMode].</span><span class="sxs-lookup"><span data-stu-id="d0eb6-125">For more information about this experiment, navigate to [Emulation: Support dual screen mode][DevtoolsExperimentalFeaturesEmulationSupportDualScreenMode].</span></span>  
 
-<span data-ttu-id="60680-126">Ошибка Chromium: [#1054281][CR1054281]</span><span class="sxs-lookup"><span data-stu-id="60680-126">Chromium issue: [#1054281][CR1054281]</span></span>  
+<span data-ttu-id="d0eb6-126">Ошибка Chromium: [#1054281][CR1054281]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-126">Chromium issue: [#1054281][CR1054281]</span></span>  
 
-### <span data-ttu-id="60680-127">Усовершенствования каскадных наложений сетки CSS и новые возможности экспериментальной сетки</span><span class="sxs-lookup"><span data-stu-id="60680-127">CSS grid overlay improvements and new experimental grid features</span></span>  
+### <span data-ttu-id="d0eb6-127">Усовершенствования каскадных наложений сетки CSS и новые возможности экспериментальной сетки</span><span class="sxs-lookup"><span data-stu-id="d0eb6-127">CSS grid overlay improvements and new experimental grid features</span></span>  
 
-<span data-ttu-id="60680-128">Благодарим вас за позитивную обратную связь об улучшенных наложения сетки CSS.</span><span class="sxs-lookup"><span data-stu-id="60680-128">Thank you for the positive feedback about the improved CSS grid overlays.</span></span>  <span data-ttu-id="60680-129">Наложения сетки CSS теперь включены по умолчанию и не требуют включения эксперимента.</span><span class="sxs-lookup"><span data-stu-id="60680-129">The CSS grid overlays are now enabled by default and do not require you to turn on an experiment.</span></span>  
+<span data-ttu-id="d0eb6-128">Благодарим вас за позитивную обратную связь об улучшенных наложения сетки CSS.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-128">Thank you for the positive feedback about the improved CSS grid overlays.</span></span>  <span data-ttu-id="d0eb6-129">Наложения сетки CSS теперь включены по умолчанию и не требуют включения эксперимента.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-129">The CSS grid overlays are now enabled by default and do not require you to turn on an experiment.</span></span>  
 
 :::image type="complex" source="../../media/2020/08/css-grid-overlay-article.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/css-grid-overlay-article.msft.png":::
-   <span data-ttu-id="60680-131">Наложение сетки CSS для `article` элемента</span><span class="sxs-lookup"><span data-stu-id="60680-131">CSS grid overlay for `article` element</span></span>  
+   <span data-ttu-id="d0eb6-131">Наложение сетки CSS для `article` элемента</span><span class="sxs-lookup"><span data-stu-id="d0eb6-131">CSS grid overlay for `article` element</span></span>  
 :::image-end:::  
 
 > [!NOTE]
-> <span data-ttu-id="60680-132">Дополнительные сведения о наложении сетки можно найти в статьях [функции отладки сетки каскадных стилей][DevtoolsWhatsnew200206DevtoolsCssGridDebuggingFeatures].</span><span class="sxs-lookup"><span data-stu-id="60680-132">For more information about grid overlays, go to [CSS grid debugging features][DevtoolsWhatsnew200206DevtoolsCssGridDebuggingFeatures].</span></span>  
+> <span data-ttu-id="d0eb6-132">Дополнительные сведения о наложении сетки можно найти в статьях [функции отладки сетки каскадных стилей][DevtoolsWhatsnew200206DevtoolsCssGridDebuggingFeatures].</span><span class="sxs-lookup"><span data-stu-id="d0eb6-132">For more information about grid overlays, go to [CSS grid debugging features][DevtoolsWhatsnew200206DevtoolsCssGridDebuggingFeatures].</span></span>  
 
-<span data-ttu-id="60680-133">Группа Microsoft Edge DevTools и группа "Chrome DevTools" совместно работают с дополнительными функциями.</span><span class="sxs-lookup"><span data-stu-id="60680-133">The Microsoft Edge DevTools team and the Chrome DevTools team collaborate on additional features.</span></span>  <span data-ttu-id="60680-134">Новые возможности включают в себя несколько наложений, которые сохраняются и настраиваются в новой области **макета** на панели " **элементы** ".</span><span class="sxs-lookup"><span data-stu-id="60680-134">The new features include multiple overlays that are persistent and configurable from a new **Layout** pane on the **Elements** panel.</span></span>  
+<span data-ttu-id="d0eb6-133">Группа Microsoft Edge DevTools и группа "Chrome DevTools" совместно работают с дополнительными функциями.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-133">The Microsoft Edge DevTools team and the Chrome DevTools team collaborate on additional features.</span></span>  <span data-ttu-id="d0eb6-134">Новые возможности включают в себя несколько наложений, которые сохраняются и настраиваются в новой области **макета** на панели " **элементы** ".</span><span class="sxs-lookup"><span data-stu-id="d0eb6-134">The new features include multiple overlays that are persistent and configurable from a new **Layout** pane on the **Elements** panel.</span></span>  
 
-<span data-ttu-id="60680-135">Чтобы включить эту функцию, перейдите к разделу [Включение экспериментальных функций][DevtoolsExperimentalFeaturesTurnOnExperimentalFeatures] и установите флажок **включить новые функции отладки сетки CSS (параметры конфигурации, доступные в области Макет в элементах после перезапуска)**.</span><span class="sxs-lookup"><span data-stu-id="60680-135">To turn on this experimental feature, navigate to [Turn on experimental features][DevtoolsExperimentalFeaturesTurnOnExperimentalFeatures] and choose the checkbox next to **Enable new CSS Grid debugging features (configuration options available in Layout sidebar pane in Elements after restart)**.</span></span>  
+<span data-ttu-id="d0eb6-135">Чтобы включить эту функцию, перейдите к разделу [Включение экспериментальных функций][DevtoolsExperimentalFeaturesTurnOnExperimentalFeatures] и установите флажок **включить новые функции отладки сетки CSS (параметры конфигурации, доступные в области Макет в элементах после перезапуска)**.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-135">To turn on this experimental feature, navigate to [Turn on experimental features][DevtoolsExperimentalFeaturesTurnOnExperimentalFeatures] and choose the checkbox next to **Enable new CSS Grid debugging features (configuration options available in Layout sidebar pane in Elements after restart)**.</span></span>  
 
-<span data-ttu-id="60680-136">Чтобы получить дополнительные сведения об этом эксперименте, перейдите к разделу [Включение новых функций отладки сетки каскадных стилей][DevtoolsExperimentalFeaturesEnableNewCssGridDebuggingFeatures].</span><span class="sxs-lookup"><span data-stu-id="60680-136">For more information about this experiment, navigate to [Enable new CSS grid debugging features][DevtoolsExperimentalFeaturesEnableNewCssGridDebuggingFeatures].</span></span>  
+<span data-ttu-id="d0eb6-136">Чтобы получить дополнительные сведения об этом эксперименте, перейдите к разделу [Включение новых функций отладки сетки каскадных стилей][DevtoolsExperimentalFeaturesEnableNewCssGridDebuggingFeatures].</span><span class="sxs-lookup"><span data-stu-id="d0eb6-136">For more information about this experiment, navigate to [Enable new CSS grid debugging features][DevtoolsExperimentalFeaturesEnableNewCssGridDebuggingFeatures].</span></span>  
 
-<span data-ttu-id="60680-137">Ошибка Chromium: [#1047356][CR1047356]</span><span class="sxs-lookup"><span data-stu-id="60680-137">Chromium issue: [#1047356][CR1047356]</span></span>  
+<span data-ttu-id="d0eb6-137">Ошибка Chromium: [#1047356][CR1047356]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-137">Chromium issue: [#1047356][CR1047356]</span></span>  
 
-### <span data-ttu-id="60680-138">Таблица, скопированная из консоли сохраняет форматирование</span><span class="sxs-lookup"><span data-stu-id="60680-138">Table copied from the Console preserves formatting</span></span>  
+### <span data-ttu-id="d0eb6-138">Таблица, скопированная из консоли сохраняет форматирование</span><span class="sxs-lookup"><span data-stu-id="d0eb6-138">Table copied from the Console preserves formatting</span></span>  
 
-<span data-ttu-id="60680-139">В Microsoft Edge 85 или более ранней версии форматирование скопированных данных `console.table` было разорвано.</span><span class="sxs-lookup"><span data-stu-id="60680-139">In Microsoft Edge 85 or earlier, the formatting of a copied `console.table` was lost.</span></span>  <span data-ttu-id="60680-140">При копировании результатов из API консоли [таблицы][DevtoolsConsoleApiTable] и вставке в нее сохраняется только текст таблицы.</span><span class="sxs-lookup"><span data-stu-id="60680-140">If you copied the output from the [table][DevtoolsConsoleApiTable] Console API, and pasted it, only the text of the table was kept.</span></span>  
+<span data-ttu-id="d0eb6-139">В Microsoft Edge 85 или более ранней версии форматирование скопированных данных `console.table` было разорвано.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-139">In Microsoft Edge 85 or earlier, the formatting of a copied `console.table` was lost.</span></span>  <span data-ttu-id="d0eb6-140">При копировании результатов из API консоли [таблицы][DevtoolsConsoleApiTable] и вставке в нее сохраняется только текст таблицы.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-140">If you copied the output from the [table][DevtoolsConsoleApiTable] Console API, and pasted it, only the text of the table was kept.</span></span>  
 
 :::row:::
    :::column span="":::
       :::image type="complex" source="../../media/2020/08/console-table-beta.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/console-table-beta.msft.png":::
-         `table` <span data-ttu-id="60680-142">Выходные данные API консоли в Microsoft Edge 85 или более ранней версии</span><span class="sxs-lookup"><span data-stu-id="60680-142">Console API output in Microsoft Edge 85 or earlier</span></span>  
+         `table` <span data-ttu-id="d0eb6-142">Выходные данные API консоли в Microsoft Edge 85 или более ранней версии</span><span class="sxs-lookup"><span data-stu-id="d0eb6-142">Console API output in Microsoft Edge 85 or earlier</span></span>  
       :::image-end:::  
    :::column-end:::  
    :::column span="":::
       :::image type="complex" source="../../media/2020/08/console-table-beta-paste-visual-studio-code.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/console-table-beta-paste-visual-studio-code.msft.png":::
-         `table` <span data-ttu-id="60680-144">Выходные данные API консоли из Microsoft Edge 85 или более ранней версии, вставленные в код Visual Studio</span><span class="sxs-lookup"><span data-stu-id="60680-144">Console API output from Microsoft Edge 85 or earlier pasted into Visual Studio Code</span></span>  
+         `table` <span data-ttu-id="d0eb6-144">Выходные данные API консоли из Microsoft Edge 85 или более ранней версии, вставленные в код Visual Studio</span><span class="sxs-lookup"><span data-stu-id="d0eb6-144">Console API output from Microsoft Edge 85 or earlier pasted into Visual Studio Code</span></span>  
       :::image-end:::  
    :::column-end:::
 :::row-end:::  
 
-<span data-ttu-id="60680-145">В Microsoft Edge 86 или более поздней версии при копировании таблицы с **консоли**форматирование будет сохранено.</span><span class="sxs-lookup"><span data-stu-id="60680-145">In Microsoft Edge 86 or later, when you copy a table from the **Console**, the formatting is now preserved.</span></span>  
+<span data-ttu-id="d0eb6-145">В Microsoft Edge 86 или более поздней версии при копировании таблицы с **консоли**форматирование будет сохранено.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-145">In Microsoft Edge 86 or later, when you copy a table from the **Console**, the formatting is now preserved.</span></span>  
 
 :::row:::
    :::column span="":::
       :::image type="complex" source="../../media/2020/08/console-table-canary.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/console-table-canary.msft.png":::
-         `table` <span data-ttu-id="60680-147">Выходные данные API консоли в Microsoft Edge 86 или более поздней версии</span><span class="sxs-lookup"><span data-stu-id="60680-147">Console API output in Microsoft Edge 86 or later</span></span>  
+         `table` <span data-ttu-id="d0eb6-147">Выходные данные API консоли в Microsoft Edge 86 или более поздней версии</span><span class="sxs-lookup"><span data-stu-id="d0eb6-147">Console API output in Microsoft Edge 86 or later</span></span>  
       :::image-end:::  
    :::column-end:::  
    :::column span="":::
       :::image type="complex" source="../../media/2020/08/console-table-canary-paste-visual-studio-code.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/console-table-canary-paste-visual-studio-code.msft.png":::
-         `table` <span data-ttu-id="60680-149">Выходные данные API консоли из Microsoft Edge 86 или более поздней версии, вставленные в код Visual Studio</span><span class="sxs-lookup"><span data-stu-id="60680-149">Console API output from Microsoft Edge 86 or later pasted into Visual Studio Code</span></span>  
+         `table` <span data-ttu-id="d0eb6-149">Выходные данные API консоли из Microsoft Edge 86 или более поздней версии, вставленные в код Visual Studio</span><span class="sxs-lookup"><span data-stu-id="d0eb6-149">Console API output from Microsoft Edge 86 or later pasted into Visual Studio Code</span></span>  
       :::image-end:::  
    :::column-end:::
 :::row-end:::  
 
-<span data-ttu-id="60680-150">Ошибка Chromium: [#1115011] [CR1115011]</span><span class="sxs-lookup"><span data-stu-id="60680-150">Chromium issue: [#1115011][CR1115011]</span></span>  
+<span data-ttu-id="d0eb6-150">Ошибка Chromium: [#1115011] [CR1115011]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-150">Chromium issue: [#1115011][CR1115011]</span></span>  
 
-### <span data-ttu-id="60680-151">Средство просмотра заказов исходного кода для упрощения тестирования специальных возможностей</span><span class="sxs-lookup"><span data-stu-id="60680-151">Source Order Viewer for easier accessibility testing</span></span>  
+### <span data-ttu-id="d0eb6-151">Средство просмотра заказов исходного кода для упрощения тестирования специальных возможностей</span><span class="sxs-lookup"><span data-stu-id="d0eb6-151">Source Order Viewer for easier accessibility testing</span></span>  
 
 :::image type="complex" source="../../media/2020/06/experimental-tag-14px.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio":::
-   <span data-ttu-id="60680-153">Экспериментальная функция</span><span class="sxs-lookup"><span data-stu-id="60680-153">Experimental feature</span></span>  
+   <span data-ttu-id="d0eb6-153">Экспериментальная функция</span><span class="sxs-lookup"><span data-stu-id="d0eb6-153">Experimental feature</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-154">Новый вспомогательный модуль специальных возможностей отображает порядок элементов в источнике.</span><span class="sxs-lookup"><span data-stu-id="60680-154">The new accessibility helper displays the order of elements in the source.</span></span>  
+<span data-ttu-id="d0eb6-154">Новый вспомогательный модуль специальных возможностей отображает порядок элементов в источнике.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-154">The new accessibility helper displays the order of elements in the source.</span></span>  
 
 :::image type="complex" source="../../media/2020/08/source-order-viewer.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/source-order-viewer.msft.png":::
-   <span data-ttu-id="60680-156">Активация **порядка отображения исходного кода**</span><span class="sxs-lookup"><span data-stu-id="60680-156">Activate **Show source order**</span></span>  
+   <span data-ttu-id="d0eb6-156">Активация **порядка отображения исходного кода**</span><span class="sxs-lookup"><span data-stu-id="d0eb6-156">Activate **Show source order**</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-157">Эта функция упрощает тестирование того, как пользователи с помощью средства чтения с экрана и клавиатуры смогут работать на веб-сайте или в приложении.</span><span class="sxs-lookup"><span data-stu-id="60680-157">This feature makes it easier to test the way screen reader and keyboard users experience your website or app.</span></span>  <span data-ttu-id="60680-158">Средства чтения с экрана и навигация с помощью клавиатуры зависят от содержимого, которое размещается в определенном порядке в исходном коде вашего веб-сайта или приложения, чтобы оно соответствовало отображаемой странице.</span><span class="sxs-lookup"><span data-stu-id="60680-158">Screen readers and keyboard navigation depend on content being placed in a particular order in the source code of your website or app, so that it matches the rendered page.</span></span>  <span data-ttu-id="60680-159">В средстве просмотра исходного порядка отображаются потенциальные отличия между обработанной страницей и исходным кодом.</span><span class="sxs-lookup"><span data-stu-id="60680-159">The Source Order Viewer displays potential differences in order between the rendered page and the source code.</span></span>  
+<span data-ttu-id="d0eb6-157">Эта функция упрощает тестирование того, как пользователи с помощью средства чтения с экрана и клавиатуры смогут работать на веб-сайте или в приложении.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-157">This feature makes it easier to test the way screen reader and keyboard users experience your website or app.</span></span>  <span data-ttu-id="d0eb6-158">Средства чтения с экрана и навигация с помощью клавиатуры зависят от содержимого, которое размещается в определенном порядке в исходном коде вашего веб-сайта или приложения, чтобы оно соответствовало отображаемой странице.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-158">Screen readers and keyboard navigation depend on content being placed in a particular order in the source code of your website or app, so that it matches the rendered page.</span></span>  <span data-ttu-id="d0eb6-159">В средстве просмотра исходного порядка отображаются потенциальные отличия между обработанной страницей и исходным кодом.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-159">The Source Order Viewer displays potential differences in order between the rendered page and the source code.</span></span>  
 
-<span data-ttu-id="60680-160">Чтобы включить эту функцию экспериментальных, перейдите к разделу [Включение экспериментальных функций][DevtoolsExperimentalFeaturesTurnOnExperimentalFeatures] и установите флажок **включить средство просмотра заказов исходным кодом**.</span><span class="sxs-lookup"><span data-stu-id="60680-160">To turn on this experimental feature, navigate to [Turn on experimental features][DevtoolsExperimentalFeaturesTurnOnExperimentalFeatures] and choose the checkbox next to **Enable Source Order Viewer**.</span></span>  
+<span data-ttu-id="d0eb6-160">Чтобы включить эту функцию экспериментальных, перейдите к разделу [Включение экспериментальных функций][DevtoolsExperimentalFeaturesTurnOnExperimentalFeatures] и установите флажок **включить средство просмотра заказов исходным кодом**.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-160">To turn on this experimental feature, navigate to [Turn on experimental features][DevtoolsExperimentalFeaturesTurnOnExperimentalFeatures] and choose the checkbox next to **Enable Source Order Viewer**.</span></span>  
 
-<span data-ttu-id="60680-161">Чтобы получить дополнительные сведения об этом эксперименте, перейдите в раздел [Включение средства просмотра заказов исходного кода][DevtoolsExperimentalFeaturesEnableSourceOrderViewer].</span><span class="sxs-lookup"><span data-stu-id="60680-161">For more information about this experiment, navigate to [Enable Source Order Viewer][DevtoolsExperimentalFeaturesEnableSourceOrderViewer].</span></span>  
+<span data-ttu-id="d0eb6-161">Чтобы получить дополнительные сведения об этом эксперименте, перейдите в раздел [Включение средства просмотра заказов исходного кода][DevtoolsExperimentalFeaturesEnableSourceOrderViewer].</span><span class="sxs-lookup"><span data-stu-id="d0eb6-161">For more information about this experiment, navigate to [Enable Source Order Viewer][DevtoolsExperimentalFeaturesEnableSourceOrderViewer].</span></span>  
 
-<span data-ttu-id="60680-162">Ошибка Chromium: [#1094406][CR1094406]</span><span class="sxs-lookup"><span data-stu-id="60680-162">Chromium issue: [#1094406][CR1094406]</span></span>  
+<span data-ttu-id="d0eb6-162">Ошибка Chromium: [#1094406][CR1094406]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-162">Chromium issue: [#1094406][CR1094406]</span></span>  
 
 <!--
 ### DevTools language enhancements  
@@ -154,228 +154,228 @@ To meet your translation needs, the Microsoft Edge DevTools team is focused on i
 The current effort to improve translation quality enables easier support for more languages in the future.  
 -->  
 
-### <span data-ttu-id="60680-163">Инструмент "выделение всех результатов поиска" в элементах</span><span class="sxs-lookup"><span data-stu-id="60680-163">Highlight all search results in Elements tool</span></span>  
+### <span data-ttu-id="d0eb6-163">Инструмент "выделение всех результатов поиска" в элементах</span><span class="sxs-lookup"><span data-stu-id="d0eb6-163">Highlight all search results in Elements tool</span></span>  
 
-<span data-ttu-id="60680-164">В Microsoft Edge 84 и 85 первый результат поиска на панели **элементов** не выделяются.</span><span class="sxs-lookup"><span data-stu-id="60680-164">In Microsoft Edge 84 and 85, the first search result in the **Elements** panel did not highlight.</span></span>  <span data-ttu-id="60680-165">Оставшиеся результаты поиска выделены правильно.</span><span class="sxs-lookup"><span data-stu-id="60680-165">The remaining search results were highlighted correctly.</span></span>  
+<span data-ttu-id="d0eb6-164">В Microsoft Edge 84 и 85 первый результат поиска на панели **элементов** не выделяются.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-164">In Microsoft Edge 84 and 85, the first search result in the **Elements** panel did not highlight.</span></span>  <span data-ttu-id="d0eb6-165">Оставшиеся результаты поиска выделены правильно.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-165">The remaining search results were highlighted correctly.</span></span>  
 
-<span data-ttu-id="60680-166">Благодарим вас за отправку отзыва и помощь в улучшении Chromium.</span><span class="sxs-lookup"><span data-stu-id="60680-166">Thank you for sending your feedback and helping improve Chromium.</span></span>  <span data-ttu-id="60680-167">В проекте Chromium Open-Source возникла ошибка, связанная с [не#1103316ой][CR1103316] отзыва.</span><span class="sxs-lookup"><span data-stu-id="60680-167">Your feedback uncovered Issue [#1103316][CR1103316] in the open-source Chromium project.</span></span>  
+<span data-ttu-id="d0eb6-166">Благодарим вас за отправку отзыва и помощь в улучшении Chromium.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-166">Thank you for sending your feedback and helping improve Chromium.</span></span>  <span data-ttu-id="d0eb6-167">В проекте Chromium Open-Source возникла ошибка, связанная с [не#1103316ой][CR1103316] отзыва.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-167">Your feedback uncovered Issue [#1103316][CR1103316] in the open-source Chromium project.</span></span>  
 
 :::image type="complex" source="../../media/2020/08/elements- search-highlight-fixed.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/elements- search-highlight-fixed.msft.png":::
-   <span data-ttu-id="60680-169">Выделенный первый результат поиска на панели " **элементы** " в Microsoft Edge 84 или более поздней версии</span><span class="sxs-lookup"><span data-stu-id="60680-169">Highlighted first search result on **Elements** panel in Microsoft Edge 84 or later</span></span>  
+   <span data-ttu-id="d0eb6-169">Выделенный первый результат поиска на панели " **элементы** " в Microsoft Edge 84 или более поздней версии</span><span class="sxs-lookup"><span data-stu-id="d0eb6-169">Highlighted first search result on **Elements** panel in Microsoft Edge 84 or later</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-170">Теперь проблема устранена во всех версиях Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="60680-170">The issue is now fixed in all versions of Microsoft Edge.</span></span>  
+<span data-ttu-id="d0eb6-170">Теперь проблема устранена во всех версиях Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-170">The issue is now fixed in all versions of Microsoft Edge.</span></span>  
 
-<span data-ttu-id="60680-171">Ошибка Chromium: [#1103316][CR1103316]</span><span class="sxs-lookup"><span data-stu-id="60680-171">Chromium issue: [#1103316][CR1103316]</span></span>  
+<span data-ttu-id="d0eb6-171">Ошибка Chromium: [#1103316][CR1103316]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-171">Chromium issue: [#1103316][CR1103316]</span></span>  
 
-## <span data-ttu-id="60680-172">Объявления из проекта Chromium</span><span class="sxs-lookup"><span data-stu-id="60680-172">Announcements from the Chromium project</span></span>  
+## <span data-ttu-id="d0eb6-172">Объявления из проекта Chromium</span><span class="sxs-lookup"><span data-stu-id="d0eb6-172">Announcements from the Chromium project</span></span>  
 
 [!INCLUDE [contact DevTools team note](../../includes/chromium-whats-new-note.md)]  
 
-### <span data-ttu-id="60680-173">Новая панель мультимедиа</span><span class="sxs-lookup"><span data-stu-id="60680-173">New Media panel</span></span>  
+### <span data-ttu-id="d0eb6-173">Новая панель мультимедиа</span><span class="sxs-lookup"><span data-stu-id="d0eb6-173">New Media panel</span></span>  
 
-<span data-ttu-id="60680-174">DevTools теперь отображает сведения о проигрывателях мультимедиа на панели " [мультимедиа][DevtoolsMediaPanelIndex] ".</span><span class="sxs-lookup"><span data-stu-id="60680-174">DevTools now displays media players information in the [Media][DevtoolsMediaPanelIndex] panel.</span></span>  
+<span data-ttu-id="d0eb6-174">DevTools теперь отображает сведения о проигрывателях мультимедиа на панели " [мультимедиа][DevtoolsMediaPanelIndex] ".</span><span class="sxs-lookup"><span data-stu-id="d0eb6-174">DevTools now displays media players information in the [Media][DevtoolsMediaPanelIndex] panel.</span></span>  
 
-<span data-ttu-id="60680-175">Чтобы открыть новую панель **мультимедиа** , выполните указанные ниже действия.</span><span class="sxs-lookup"><span data-stu-id="60680-175">To open the new **Media** panel, complete the following step.</span></span>  
+<span data-ttu-id="d0eb6-175">Чтобы открыть новую панель **мультимедиа** , выполните указанные ниже действия.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-175">To open the new **Media** panel, complete the following step.</span></span>  
 
-1.  <span data-ttu-id="60680-176">Нажмите кнопку **Настройка и выберите DevTools** \ ( `...` \) > **другие инструменты**  >  **мультимедиа**.</span><span class="sxs-lookup"><span data-stu-id="60680-176">Choose **Customize and control DevTools** \(`...`\) > **More tools** > **Media**.</span></span>  
+1.  <span data-ttu-id="d0eb6-176">Нажмите кнопку **Настройка и выберите DevTools** \ ( `...` \) > **другие инструменты**  >  **мультимедиа**.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-176">Choose **Customize and control DevTools** \(`...`\) > **More tools** > **Media**.</span></span>  
     
     :::image type="complex" source="../../media/2020/08/media-panel.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/media-panel.msft.png":::
-       <span data-ttu-id="60680-178">Новая панель **мультимедиа**</span><span class="sxs-lookup"><span data-stu-id="60680-178">New **Media** panel</span></span>  
+       <span data-ttu-id="d0eb6-178">Новая панель **мультимедиа**</span><span class="sxs-lookup"><span data-stu-id="d0eb6-178">New **Media** panel</span></span>  
     :::image-end:::  
 
-<span data-ttu-id="60680-179">Перед новой панелью **мультимедиа** в DevTools сведения о регистрации и отладке видеопроигрывателей находятся в разделе " **последние игрока** ".</span><span class="sxs-lookup"><span data-stu-id="60680-179">Before the new **Media** panel in DevTools, the logging and debug information about video players was located under the **Recent Players** setting.</span></span>  <span data-ttu-id="60680-180">Чтобы открыть параметр " **недавние игрока** ", перейдите на `edge://media-internals` вкладку **игрока** и щелкните ее.</span><span class="sxs-lookup"><span data-stu-id="60680-180">To open the **Recent Players** setting, go to `edge://media-internals` and choose the **Players** tab.</span></span>  
+<span data-ttu-id="d0eb6-179">Перед новой панелью **мультимедиа** в DevTools сведения о регистрации и отладке видеопроигрывателей находятся в разделе " **последние игрока** ".</span><span class="sxs-lookup"><span data-stu-id="d0eb6-179">Before the new **Media** panel in DevTools, the logging and debug information about video players was located under the **Recent Players** setting.</span></span>  <span data-ttu-id="d0eb6-180">Чтобы открыть параметр " **недавние игрока** ", перейдите на `edge://media-internals` вкладку **игрока** и щелкните ее.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-180">To open the **Recent Players** setting, go to `edge://media-internals` and choose the **Players** tab.</span></span>  
 
-<span data-ttu-id="60680-181">Просматривайте содержимое в реальном времени и отучите возможные проблемы быстрее, в том числе в следующих примерах.</span><span class="sxs-lookup"><span data-stu-id="60680-181">View live content and inspect potential issues more quickly, including the following examples.</span></span>  
+<span data-ttu-id="d0eb6-181">Просматривайте содержимое в реальном времени и отучите возможные проблемы быстрее, в том числе в следующих примерах.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-181">View live content and inspect potential issues more quickly, including the following examples.</span></span>  
 
-*   <span data-ttu-id="60680-182">Почему кадры удаляются?</span><span class="sxs-lookup"><span data-stu-id="60680-182">Why frames are dropped?</span></span>  
-*   <span data-ttu-id="60680-183">Почему JavaScript взаимодействует с проигрывателем непредсказуемым образом?</span><span class="sxs-lookup"><span data-stu-id="60680-183">Why JavaScript is interacting with the player in an unexpected way?</span></span>  
+*   <span data-ttu-id="d0eb6-182">Почему кадры удаляются?</span><span class="sxs-lookup"><span data-stu-id="d0eb6-182">Why frames are dropped?</span></span>  
+*   <span data-ttu-id="d0eb6-183">Почему JavaScript взаимодействует с проигрывателем непредсказуемым образом?</span><span class="sxs-lookup"><span data-stu-id="d0eb6-183">Why JavaScript is interacting with the player in an unexpected way?</span></span>  
 
-### <span data-ttu-id="60680-184">Захват снимков узлов с помощью контекстного меню панели элементов</span><span class="sxs-lookup"><span data-stu-id="60680-184">Capture node screenshots using the Elements panel context menu</span></span>  
+### <span data-ttu-id="d0eb6-184">Захват снимков узлов с помощью контекстного меню панели элементов</span><span class="sxs-lookup"><span data-stu-id="d0eb6-184">Capture node screenshots using the Elements panel context menu</span></span>  
 
-<span data-ttu-id="60680-185">Теперь вы можете захватывать снимки узлов с помощью контекстного меню на панели " **элементы** ".</span><span class="sxs-lookup"><span data-stu-id="60680-185">You may now capture node screenshots using the context menu in the **Elements** panel.</span></span>  
+<span data-ttu-id="d0eb6-185">Теперь вы можете захватывать снимки узлов с помощью контекстного меню на панели " **элементы** ".</span><span class="sxs-lookup"><span data-stu-id="d0eb6-185">You may now capture node screenshots using the context menu in the **Elements** panel.</span></span>  
 
-<span data-ttu-id="60680-186">Например, чтобы сделать снимок экрана оглавлением, наведите на него указатель мыши, откройте контекстное меню, а затем выберите пункт **захватить снимок экрана узла**.</span><span class="sxs-lookup"><span data-stu-id="60680-186">For example, to take a screenshot of the table of contents, hover on the element, open the contextual menu \(right-click\), and select **Capture node screenshot**.</span></span>  
+<span data-ttu-id="d0eb6-186">Например, чтобы сделать снимок экрана оглавлением, наведите на него указатель мыши, откройте контекстное меню, а затем выберите пункт **захватить снимок экрана узла**.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-186">For example, to take a screenshot of the table of contents, hover on the element, open the contextual menu \(right-click\), and select **Capture node screenshot**.</span></span>  
 
 :::image type="complex" source="../../media/2020/08/capture-node-screenshot.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/capture-node-screenshot.msft.png":::
-   <span data-ttu-id="60680-188">Снимок экрана захвата узлов</span><span class="sxs-lookup"><span data-stu-id="60680-188">Capture node screenshots</span></span>  
+   <span data-ttu-id="d0eb6-188">Снимок экрана захвата узлов</span><span class="sxs-lookup"><span data-stu-id="d0eb6-188">Capture node screenshots</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-189">Ошибка Chromium: [#1100253][CR1100253]</span><span class="sxs-lookup"><span data-stu-id="60680-189">Chromium issue: [#1100253][CR1100253]</span></span>  
+<span data-ttu-id="d0eb6-189">Ошибка Chromium: [#1100253][CR1100253]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-189">Chromium issue: [#1100253][CR1100253]</span></span>  
 
-### <span data-ttu-id="60680-190">Обновления средства устранения проблем</span><span class="sxs-lookup"><span data-stu-id="60680-190">Issues tool updates</span></span>  
+### <span data-ttu-id="d0eb6-190">Обновления средства устранения проблем</span><span class="sxs-lookup"><span data-stu-id="d0eb6-190">Issues tool updates</span></span>  
 
-<span data-ttu-id="60680-191">Панель предупреждения "проблемы" на панели **консоли** теперь заменяется обычным сообщением.</span><span class="sxs-lookup"><span data-stu-id="60680-191">The Issues warning bar on the **Console** panel is now replaced with a regular message.</span></span>  
+<span data-ttu-id="d0eb6-191">Панель предупреждения "проблемы" на панели **консоли** теперь заменяется обычным сообщением.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-191">The Issues warning bar on the **Console** panel is now replaced with a regular message.</span></span>  
 
 <!--todo: this figure need to be updated  -->  
 
 :::image type="complex" source="../../media/2020/08/issue-console-msg.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/issue-console-msg.msft.png":::
-   <span data-ttu-id="60680-193">Проблемы в сообщении консоли</span><span class="sxs-lookup"><span data-stu-id="60680-193">Issues in console message</span></span>  
+   <span data-ttu-id="d0eb6-193">Проблемы в сообщении консоли</span><span class="sxs-lookup"><span data-stu-id="d0eb6-193">Issues in console message</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-194">Сторонние файлы cookie теперь по умолчанию скрыты в инструменте " **вопросы** ".</span><span class="sxs-lookup"><span data-stu-id="60680-194">Third-party cookie issues are now hidden by default in the **Issues** tool.</span></span>  <span data-ttu-id="60680-195">Чтобы просмотреть список проблем, установите флажок **Включить сторонние файлы cookie** .</span><span class="sxs-lookup"><span data-stu-id="60680-195">Enable the new **Include third-party cookie issues** checkbox to view the issues.</span></span>  
+<span data-ttu-id="d0eb6-194">Сторонние файлы cookie теперь по умолчанию скрыты в инструменте " **вопросы** ".</span><span class="sxs-lookup"><span data-stu-id="d0eb6-194">Third-party cookie issues are now hidden by default in the **Issues** tool.</span></span>  <span data-ttu-id="d0eb6-195">Чтобы просмотреть список проблем, установите флажок **Включить сторонние файлы cookie** .</span><span class="sxs-lookup"><span data-stu-id="d0eb6-195">Enable the new **Include third-party cookie issues** checkbox to view the issues.</span></span>  
 
 :::image type="complex" source="../../media/2020/08/third-party-cookies.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/third-party-cookies.msft.png":::
-   <span data-ttu-id="60680-197">флажок "вопросы и сторонние файлы cookie"</span><span class="sxs-lookup"><span data-stu-id="60680-197">third-party cookie issues checkbox</span></span>  
+   <span data-ttu-id="d0eb6-197">флажок "вопросы и сторонние файлы cookie"</span><span class="sxs-lookup"><span data-stu-id="d0eb6-197">third-party cookie issues checkbox</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-198">Проблемы с Chromium: [1096481][CR1096481], [1068116][CR1068116], [1080589][CR1080589]</span><span class="sxs-lookup"><span data-stu-id="60680-198">Chromium issues: [1096481][CR1096481], [1068116][CR1068116], [1080589][CR1080589]</span></span>  
+<span data-ttu-id="d0eb6-198">Проблемы с Chromium: [1096481][CR1096481], [1068116][CR1068116], [1080589][CR1080589]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-198">Chromium issues: [1096481][CR1096481], [1068116][CR1068116], [1080589][CR1080589]</span></span>  
 
-### <span data-ttu-id="60680-199">Эмуляция отсутствующих локальных шрифтов</span><span class="sxs-lookup"><span data-stu-id="60680-199">Emulate missing local fonts</span></span>  
+### <span data-ttu-id="d0eb6-199">Эмуляция отсутствующих локальных шрифтов</span><span class="sxs-lookup"><span data-stu-id="d0eb6-199">Emulate missing local fonts</span></span>  
 
-<span data-ttu-id="60680-200">Откройте [средство подготовки][DevtoolsEvaluatePerformanceReferenceAnalyzeRenderingPerformance] и воспользуйтесь новым компонентом **Отключить локальные шрифты** для эмуляции отсутствующих `local()` источников в `@font-face` правилах.</span><span class="sxs-lookup"><span data-stu-id="60680-200">Open the [Rendering tool][DevtoolsEvaluatePerformanceReferenceAnalyzeRenderingPerformance] and use the new **Disable local fonts** feature to emulate missing `local()` sources in `@font-face` rules.</span></span>  
+<span data-ttu-id="d0eb6-200">Откройте [средство подготовки][DevtoolsEvaluatePerformanceReferenceAnalyzeRenderingPerformance] и воспользуйтесь новым компонентом **Отключить локальные шрифты** для эмуляции отсутствующих `local()` источников в `@font-face` правилах.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-200">Open the [Rendering tool][DevtoolsEvaluatePerformanceReferenceAnalyzeRenderingPerformance] and use the new **Disable local fonts** feature to emulate missing `local()` sources in `@font-face` rules.</span></span>  
 
-<span data-ttu-id="60680-201">Например, если `Rubik` шрифт установлен на устройстве, а `@font-face src` правило использует его в качестве `local()` шрифта, Microsoft Edge использует локальный файл шрифта на устройстве.</span><span class="sxs-lookup"><span data-stu-id="60680-201">For example, when the `Rubik` font is installed on your device and the `@font-face src` rule uses it as a `local()` font, Microsoft Edge uses the local font file from your device.</span></span>  
+<span data-ttu-id="d0eb6-201">Например, если `Rubik` шрифт установлен на устройстве, а `@font-face src` правило использует его в качестве `local()` шрифта, Microsoft Edge использует локальный файл шрифта на устройстве.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-201">For example, when the `Rubik` font is installed on your device and the `@font-face src` rule uses it as a `local()` font, Microsoft Edge uses the local font file from your device.</span></span>  
 
-<span data-ttu-id="60680-202">При включении функции **Отключить локальные шрифты** DevTools игнорирует `local()` шрифты и извлекает их из сети.</span><span class="sxs-lookup"><span data-stu-id="60680-202">When **Disable local fonts** is enabled, DevTools ignores the `local()` fonts and fetches each from the network.</span></span>  
+<span data-ttu-id="d0eb6-202">При включении функции **Отключить локальные шрифты** DevTools игнорирует `local()` шрифты и извлекает их из сети.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-202">When **Disable local fonts** is enabled, DevTools ignores the `local()` fonts and fetches each from the network.</span></span>  
 
 :::image type="complex" source="../../media/2020/08/disable-font.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/disable-font.msft.png":::
-   <span data-ttu-id="60680-204">Эмуляция отсутствующих локальных шрифтов</span><span class="sxs-lookup"><span data-stu-id="60680-204">Emulate missing local fonts</span></span>  
+   <span data-ttu-id="d0eb6-204">Эмуляция отсутствующих локальных шрифтов</span><span class="sxs-lookup"><span data-stu-id="d0eb6-204">Emulate missing local fonts</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-205">При использовании двух разных копий одного и того же шрифта в процессе разработки (например, в приведенных ниже примерах).</span><span class="sxs-lookup"><span data-stu-id="60680-205">If you use two different copies of the same font during development, such as the following examples.</span></span>  
+<span data-ttu-id="d0eb6-205">При использовании двух разных копий одного и того же шрифта в процессе разработки (например, в приведенных ниже примерах).</span><span class="sxs-lookup"><span data-stu-id="d0eb6-205">If you use two different copies of the same font during development, such as the following examples.</span></span>  
 
-*   <span data-ttu-id="60680-206">Локальный шрифт для средств разработки.</span><span class="sxs-lookup"><span data-stu-id="60680-206">A local font for your design tools.</span></span>  
-*   <span data-ttu-id="60680-207">Веб-шрифт для вашего кода.</span><span class="sxs-lookup"><span data-stu-id="60680-207">A web font for your code.</span></span>  
+*   <span data-ttu-id="d0eb6-206">Локальный шрифт для средств разработки.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-206">A local font for your design tools.</span></span>  
+*   <span data-ttu-id="d0eb6-207">Веб-шрифт для вашего кода.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-207">A web font for your code.</span></span>  
 
-<span data-ttu-id="60680-208">Используйте **функцию отключить локальные шрифты** , чтобы упростить выполнение описанных ниже задач.</span><span class="sxs-lookup"><span data-stu-id="60680-208">Use **Disable local fonts** to make it easier for you to complete the following tasks.</span></span>  
+<span data-ttu-id="d0eb6-208">Используйте **функцию отключить локальные шрифты** , чтобы упростить выполнение описанных ниже задач.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-208">Use **Disable local fonts** to make it easier for you to complete the following tasks.</span></span>  
 
-*   <span data-ttu-id="60680-209">Отладка и оценка скорости загрузки и оптимизации веб-шрифтов.</span><span class="sxs-lookup"><span data-stu-id="60680-209">Debug and measure loading performance and optimization of web fonts.</span></span>  
-*   <span data-ttu-id="60680-210">Проверьте точность `@font-face` правил CSS.</span><span class="sxs-lookup"><span data-stu-id="60680-210">Verify accuracy of your CSS `@font-face` rules.</span></span>  
-*   <span data-ttu-id="60680-211">Обнаружение различий между локальными версиями, установленными на устройстве, и веб-шрифтом.</span><span class="sxs-lookup"><span data-stu-id="60680-211">Discover differences between local versions installed on your device and a web font.</span></span>  
+*   <span data-ttu-id="d0eb6-209">Отладка и оценка скорости загрузки и оптимизации веб-шрифтов.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-209">Debug and measure loading performance and optimization of web fonts.</span></span>  
+*   <span data-ttu-id="d0eb6-210">Проверьте точность `@font-face` правил CSS.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-210">Verify accuracy of your CSS `@font-face` rules.</span></span>  
+*   <span data-ttu-id="d0eb6-211">Обнаружение различий между локальными версиями, установленными на устройстве, и веб-шрифтом.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-211">Discover differences between local versions installed on your device and a web font.</span></span>  
 
-<span data-ttu-id="60680-212">Ошибка Chromium: [#384968][CR384968]</span><span class="sxs-lookup"><span data-stu-id="60680-212">Chromium issue: [#384968][CR384968]</span></span>  
+<span data-ttu-id="d0eb6-212">Ошибка Chromium: [#384968][CR384968]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-212">Chromium issue: [#384968][CR384968]</span></span>  
 
-### <span data-ttu-id="60680-213">Эмуляция неактивных пользователей</span><span class="sxs-lookup"><span data-stu-id="60680-213">Emulate inactive users</span></span>  
+### <span data-ttu-id="d0eb6-213">Эмуляция неактивных пользователей</span><span class="sxs-lookup"><span data-stu-id="d0eb6-213">Emulate inactive users</span></span>  
 
-<span data-ttu-id="60680-214">[API обнаружения простоя][WebDevIdleDetection] позволяет разработчикам обнаруживать неактивные пользователи и реагировать на изменения состояния простоя.</span><span class="sxs-lookup"><span data-stu-id="60680-214">The [Idle Detection API][WebDevIdleDetection] allows developers to detect inactive users and react on idle state changes.</span></span>  <span data-ttu-id="60680-215">Теперь вы можете использовать DevTools для эмуляции изменений состояния простоя в инструменте " **датчики** " и для состояния пользователя, и для состояния экрана вместо того, чтобы ждать изменения фактического состояния простоя.</span><span class="sxs-lookup"><span data-stu-id="60680-215">You are now able to use DevTools to emulate idle state changes in the **Sensors** tool for both the user state and the screen state instead of waiting for the actual idle state to change.</span></span>  <span data-ttu-id="60680-216">Вы можете открыть инструмент **Sensors (датчики** ) из [ящика][DevtoolsCustomizeIndexDrawer].</span><span class="sxs-lookup"><span data-stu-id="60680-216">You may open the **Sensors** tool from the [Drawer][DevtoolsCustomizeIndexDrawer].</span></span>  
+<span data-ttu-id="d0eb6-214">[API обнаружения простоя][WebDevIdleDetection] позволяет разработчикам обнаруживать неактивные пользователи и реагировать на изменения состояния простоя.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-214">The [Idle Detection API][WebDevIdleDetection] allows developers to detect inactive users and react on idle state changes.</span></span>  <span data-ttu-id="d0eb6-215">Теперь вы можете использовать DevTools для эмуляции изменений состояния простоя в инструменте " **датчики** " и для состояния пользователя, и для состояния экрана вместо того, чтобы ждать изменения фактического состояния простоя.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-215">You are now able to use DevTools to emulate idle state changes in the **Sensors** tool for both the user state and the screen state instead of waiting for the actual idle state to change.</span></span>  <span data-ttu-id="d0eb6-216">Вы можете открыть инструмент **Sensors (датчики** ) из [ящика][DevtoolsCustomizeIndexDrawer].</span><span class="sxs-lookup"><span data-stu-id="d0eb6-216">You may open the **Sensors** tool from the [Drawer][DevtoolsCustomizeIndexDrawer].</span></span>  
 
 :::image type="complex" source="../../media/2020/08/emulate-idle.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/emulate-idle.msft.png":::
-   <span data-ttu-id="60680-218">Эмуляция неактивных пользователей</span><span class="sxs-lookup"><span data-stu-id="60680-218">Emulate inactive users</span></span>  
+   <span data-ttu-id="d0eb6-218">Эмуляция неактивных пользователей</span><span class="sxs-lookup"><span data-stu-id="d0eb6-218">Emulate inactive users</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-219">Ошибка Chromium: [#1090802][CR1090802]</span><span class="sxs-lookup"><span data-stu-id="60680-219">Chromium issue: [#1090802][CR1090802]</span></span>  
+<span data-ttu-id="d0eb6-219">Ошибка Chromium: [#1090802][CR1090802]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-219">Chromium issue: [#1090802][CR1090802]</span></span>  
 
-### <span data-ttu-id="60680-220">Предпочтительные эмуляции — сокращенные данные</span><span class="sxs-lookup"><span data-stu-id="60680-220">Emulate prefers-reduced-data</span></span>  
+### <span data-ttu-id="d0eb6-220">Предпочтительные эмуляции — сокращенные данные</span><span class="sxs-lookup"><span data-stu-id="d0eb6-220">Emulate prefers-reduced-data</span></span>  
 
 > [!NOTE]
-> <span data-ttu-id="60680-221">Чтобы включить эту функцию в Microsoft Edge 86, перейдите на вкладку `edge://flags#enable-experimental-web-platform-features` **экспериментальные веб-платформа** и включите этот флажок.</span><span class="sxs-lookup"><span data-stu-id="60680-221">In Microsoft Edge 86, to enable this feature, go to `edge://flags#enable-experimental-web-platform-features` and turn on the **Experimental Web Platform features** flag.</span></span>  <span data-ttu-id="60680-222">Параметр эмуляции отображается только в том случае, если включен флаг.</span><span class="sxs-lookup"><span data-stu-id="60680-222">The emulation option is only displayed if the flag is enabled.</span></span>  
+> <span data-ttu-id="d0eb6-221">Чтобы включить эту функцию в Microsoft Edge 86, перейдите на вкладку `edge://flags#enable-experimental-web-platform-features` **экспериментальные веб-платформа** и включите этот флажок.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-221">In Microsoft Edge 86, to enable this feature, go to `edge://flags#enable-experimental-web-platform-features` and turn on the **Experimental Web Platform features** flag.</span></span>  <span data-ttu-id="d0eb6-222">Параметр эмуляции отображается только в том случае, если включен флаг.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-222">The emulation option is only displayed if the flag is enabled.</span></span>  
 
-<span data-ttu-id="60680-223">Запрос " [предпочтительный"-][CsswgDraftsMediaqueries5DescdefMediaPrefersReducedData] "мультимедиа" — это обнаружение параметров содержимого пользователя для уменьшения объема данных.</span><span class="sxs-lookup"><span data-stu-id="60680-223">The [prefers-reduced-data][CsswgDraftsMediaqueries5DescdefMediaPrefersReducedData] media query detects user content preferences for reduced data.</span></span>  <span data-ttu-id="60680-224">Если этот флажок установлен, пользователь получает содержимое страницы, которое использует меньшие данные.</span><span class="sxs-lookup"><span data-stu-id="60680-224">If selected, the user receives alternate page content that uses less data.</span></span>  
+<span data-ttu-id="d0eb6-223">Запрос " [предпочтительный"-][CsswgDraftsMediaqueries5DescdefMediaPrefersReducedData] "мультимедиа" — это обнаружение параметров содержимого пользователя для уменьшения объема данных.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-223">The [prefers-reduced-data][CsswgDraftsMediaqueries5DescdefMediaPrefersReducedData] media query detects user content preferences for reduced data.</span></span>  <span data-ttu-id="d0eb6-224">Если этот флажок установлен, пользователь получает содержимое страницы, которое использует меньшие данные.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-224">If selected, the user receives alternate page content that uses less data.</span></span>  
 
-<span data-ttu-id="60680-225">Теперь вы можете использовать DevTools для эмуляции `prefers-reduced-data` запроса мультимедиа.</span><span class="sxs-lookup"><span data-stu-id="60680-225">You may now use DevTools to emulate the `prefers-reduced-data` media query.</span></span>  
+<span data-ttu-id="d0eb6-225">Теперь вы можете использовать DevTools для эмуляции `prefers-reduced-data` запроса мультимедиа.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-225">You may now use DevTools to emulate the `prefers-reduced-data` media query.</span></span>  
 
 :::image type="complex" source="../../media/2020/08/emulate-prefers-reduced-data.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/emulate-prefers-reduced-data.msft.png":::
-   <span data-ttu-id="60680-227">Предпочтительные эмуляции — сокращенные данные</span><span class="sxs-lookup"><span data-stu-id="60680-227">Emulate prefers-reduced-data</span></span>  
+   <span data-ttu-id="d0eb6-227">Предпочтительные эмуляции — сокращенные данные</span><span class="sxs-lookup"><span data-stu-id="d0eb6-227">Emulate prefers-reduced-data</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-228">Ошибка Chromium: [#1096068][CR1096068]</span><span class="sxs-lookup"><span data-stu-id="60680-228">Chromium issue: [#1096068][CR1096068]</span></span>  
+<span data-ttu-id="d0eb6-228">Ошибка Chromium: [#1096068][CR1096068]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-228">Chromium issue: [#1096068][CR1096068]</span></span>  
 
-### <span data-ttu-id="60680-229">Поддержка новых функций JavaScript</span><span class="sxs-lookup"><span data-stu-id="60680-229">Support for new JavaScript features</span></span>  
+### <span data-ttu-id="d0eb6-229">Поддержка новых функций JavaScript</span><span class="sxs-lookup"><span data-stu-id="d0eb6-229">Support for new JavaScript features</span></span>  
 
-<span data-ttu-id="60680-230">DevTools теперь обладают улучшенными возможностями поддержки следующих функций языка JavaScript.</span><span class="sxs-lookup"><span data-stu-id="60680-230">DevTools now have better supported the following JavaScript language features.</span></span>  
+<span data-ttu-id="d0eb6-230">DevTools теперь обладают улучшенными возможностями поддержки следующих функций языка JavaScript.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-230">DevTools now have better supported the following JavaScript language features.</span></span>  
 
-| <span data-ttu-id="60680-231">Функция языка JavaScript</span><span class="sxs-lookup"><span data-stu-id="60680-231">JavaScript language feature</span></span> | <span data-ttu-id="60680-232">Сведения</span><span class="sxs-lookup"><span data-stu-id="60680-232">Details</span></span> |  
+| <span data-ttu-id="d0eb6-231">Функция языка JavaScript</span><span class="sxs-lookup"><span data-stu-id="d0eb6-231">JavaScript language feature</span></span> | <span data-ttu-id="d0eb6-232">Сведения</span><span class="sxs-lookup"><span data-stu-id="d0eb6-232">Details</span></span> |  
 |:--- |:--- |  
-| [<span data-ttu-id="60680-233">Логические операторы присваивания</span><span class="sxs-lookup"><span data-stu-id="60680-233">Logical assignment operators</span></span>][V8FeaturesLogicalAssignment] | <span data-ttu-id="60680-234">DevTools теперь поддерживает логическое назначение с помощью новых операторов "" "" " `&&=` `||=` и" `??=` "" на панели " **консоль** " и " **источники** ".</span><span class="sxs-lookup"><span data-stu-id="60680-234">DevTools now supports logical assignment with the new `&&=`, `||=`, and `??=` operators in the **Console** and **Sources** panels.</span></span>  |  
-| <span data-ttu-id="60680-235">Некачественная печать [числовых разделителей][V8FeaturesNumericSeparators]</span><span class="sxs-lookup"><span data-stu-id="60680-235">Pretty-print [numeric separators][V8FeaturesNumericSeparators]</span></span> | <span data-ttu-id="60680-236">Теперь DevTools правильно — печатает на панели « **источники** » числовые разделители.</span><span class="sxs-lookup"><span data-stu-id="60680-236">DevTools now properly pretty-prints the numeric separators in the **Sources** panel.</span></span>  |  
+| [<span data-ttu-id="d0eb6-233">Логические операторы присваивания</span><span class="sxs-lookup"><span data-stu-id="d0eb6-233">Logical assignment operators</span></span>][V8FeaturesLogicalAssignment] | <span data-ttu-id="d0eb6-234">DevTools теперь поддерживает логическое назначение с помощью новых операторов "" "" " `&&=` `||=` и" `??=` "" на панели " **консоль** " и " **источники** ".</span><span class="sxs-lookup"><span data-stu-id="d0eb6-234">DevTools now supports logical assignment with the new `&&=`, `||=`, and `??=` operators in the **Console** and **Sources** panels.</span></span>  |  
+| <span data-ttu-id="d0eb6-235">Некачественная печать [числовых разделителей][V8FeaturesNumericSeparators]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-235">Pretty-print [numeric separators][V8FeaturesNumericSeparators]</span></span> | <span data-ttu-id="d0eb6-236">Теперь DevTools правильно — печатает на панели « **источники** » числовые разделители.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-236">DevTools now properly pretty-prints the numeric separators in the **Sources** panel.</span></span>  |  
 
-<span data-ttu-id="60680-237">Проблемы с Chromium: [1086817][CR1086817], [1080569][CR1080569]</span><span class="sxs-lookup"><span data-stu-id="60680-237">Chromium issues: [1086817][CR1086817], [1080569][CR1080569]</span></span>  
+<span data-ttu-id="d0eb6-237">Проблемы с Chromium: [1086817][CR1086817], [1080569][CR1080569]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-237">Chromium issues: [1086817][CR1086817], [1080569][CR1080569]</span></span>  
 
-### <span data-ttu-id="60680-238">Lighthouse 6,2 на панели Lighthouse</span><span class="sxs-lookup"><span data-stu-id="60680-238">Lighthouse 6.2 in the Lighthouse panel</span></span>  
+### <span data-ttu-id="d0eb6-238">Lighthouse 6,2 на панели Lighthouse</span><span class="sxs-lookup"><span data-stu-id="d0eb6-238">Lighthouse 6.2 in the Lighthouse panel</span></span>  
 
-<span data-ttu-id="60680-239">Панель **Lighthouse** теперь работает под управлением Lighthouse 6,2.</span><span class="sxs-lookup"><span data-stu-id="60680-239">The **Lighthouse** panel is now running Lighthouse 6.2.</span></span>  <span data-ttu-id="60680-240">Полный список изменений можно найти в [заметках о выпуске Lighthouse][GithubGooglechromeLighthouseV620].</span><span class="sxs-lookup"><span data-stu-id="60680-240">For a full list of changes, go to the [Lighthouse release notes][GithubGooglechromeLighthouseV620].</span></span>  
+<span data-ttu-id="d0eb6-239">Панель **Lighthouse** теперь работает под управлением Lighthouse 6,2.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-239">The **Lighthouse** panel is now running Lighthouse 6.2.</span></span>  <span data-ttu-id="d0eb6-240">Полный список изменений можно найти в [заметках о выпуске Lighthouse][GithubGooglechromeLighthouseV620].</span><span class="sxs-lookup"><span data-stu-id="d0eb6-240">For a full list of changes, go to the [Lighthouse release notes][GithubGooglechromeLighthouseV620].</span></span>  
 
-<span data-ttu-id="60680-241">Ошибка Chromium: [#772558][CR772558]</span><span class="sxs-lookup"><span data-stu-id="60680-241">Chromium issue: [#772558][CR772558]</span></span>  
+<span data-ttu-id="d0eb6-241">Ошибка Chromium: [#772558][CR772558]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-241">Chromium issue: [#772558][CR772558]</span></span>  
 
-### <span data-ttu-id="60680-242">Устаревшие сведения о других источниках, перечисленные в области "работники службы"</span><span class="sxs-lookup"><span data-stu-id="60680-242">Deprecation of other origins listing in the Service Workers pane</span></span>  
+### <span data-ttu-id="d0eb6-242">Устаревшие сведения о других источниках, перечисленные в области "работники службы"</span><span class="sxs-lookup"><span data-stu-id="d0eb6-242">Deprecation of other origins listing in the Service Workers pane</span></span>  
 
-<span data-ttu-id="60680-243">DevTools теперь предоставляет ссылку из области "работа с **сотрудниками** \" (панель**приложения** > область " **сотрудники** "), чтобы просмотреть полный список работников служб из других источников.</span><span class="sxs-lookup"><span data-stu-id="60680-243">DevTools now provides a link from the **Service workers** pane \(**Application** panel > **Service workers** pane\) to view the full list of service workers from other origins.</span></span>  <span data-ttu-id="60680-244">Чтобы получить доступ к списку, не открывая DevTools, перейдите на `edge://service-worker-internals/?devtools` .</span><span class="sxs-lookup"><span data-stu-id="60680-244">To access the list without opening the DevTools, go to `edge://service-worker-internals/?devtools`.</span></span>  
+<span data-ttu-id="d0eb6-243">DevTools теперь предоставляет ссылку из области "работа с **сотрудниками** \" (панель**приложения** > область " **сотрудники** "), чтобы просмотреть полный список работников служб из других источников.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-243">DevTools now provides a link from the **Service workers** pane \(**Application** panel > **Service workers** pane\) to view the full list of service workers from other origins.</span></span>  <span data-ttu-id="d0eb6-244">Чтобы получить доступ к списку, не открывая DevTools, перейдите на `edge://service-worker-internals/?devtools` .</span><span class="sxs-lookup"><span data-stu-id="d0eb6-244">To access the list without opening the DevTools, go to `edge://service-worker-internals/?devtools`.</span></span>  
 
-<span data-ttu-id="60680-245">Ранее DevTools отображал список, вложенный в панель **приложения** , > области "работа с **сотрудниками службы** ".</span><span class="sxs-lookup"><span data-stu-id="60680-245">Previously DevTools displayed a list nested under the **Application** panel > **Service workers** pane.</span></span>  
+<span data-ttu-id="d0eb6-245">Ранее DevTools отображал список, вложенный в панель **приложения** , > области "работа с **сотрудниками службы** ".</span><span class="sxs-lookup"><span data-stu-id="d0eb6-245">Previously DevTools displayed a list nested under the **Application** panel > **Service workers** pane.</span></span>  
 
 :::image type="complex" source="../../media/2020/08/sw-other-origins.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/sw-other-origins.msft.png":::
-   <span data-ttu-id="60680-247">Ссылка на другие источники</span><span class="sxs-lookup"><span data-stu-id="60680-247">Link to other origins</span></span>  
+   <span data-ttu-id="d0eb6-247">Ссылка на другие источники</span><span class="sxs-lookup"><span data-stu-id="d0eb6-247">Link to other origins</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-248">Ошибка Chromium: [#807440][CR807440]</span><span class="sxs-lookup"><span data-stu-id="60680-248">Chromium issue: [#807440][CR807440]</span></span>  
+<span data-ttu-id="d0eb6-248">Ошибка Chromium: [#807440][CR807440]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-248">Chromium issue: [#807440][CR807440]</span></span>  
 
-### <span data-ttu-id="60680-249">Отображение сводки о покрытии для отфильтрованных элементов</span><span class="sxs-lookup"><span data-stu-id="60680-249">Show coverage summary for filtered items</span></span>  
+### <span data-ttu-id="d0eb6-249">Отображение сводки о покрытии для отфильтрованных элементов</span><span class="sxs-lookup"><span data-stu-id="d0eb6-249">Show coverage summary for filtered items</span></span>  
 
-<span data-ttu-id="60680-250">DevTools сейчас пересчитайте и отобразите сводную информацию о покрытии динамическими.</span><span class="sxs-lookup"><span data-stu-id="60680-250">DevTools now recalculate and display a summary of coverage information dynamically.</span></span>  <span data-ttu-id="60680-251">Динамическое отображение инициируется, когда фильтры применяются в инструменте [Coverage][DevtoolsCoverageIndex] .</span><span class="sxs-lookup"><span data-stu-id="60680-251">The dynamic display is triggered when filters are applied in the [Coverage][DevtoolsCoverageIndex] tool.</span></span>  <span data-ttu-id="60680-252">Перед тем, как средство **покрытия** всегда выводит сводку по всем сведениям о покрытии.</span><span class="sxs-lookup"><span data-stu-id="60680-252">Before the **Coverage** tool always displayed a summary of all coverage information.</span></span>  
+<span data-ttu-id="d0eb6-250">DevTools сейчас пересчитайте и отобразите сводную информацию о покрытии динамическими.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-250">DevTools now recalculate and display a summary of coverage information dynamically.</span></span>  <span data-ttu-id="d0eb6-251">Динамическое отображение инициируется, когда фильтры применяются в инструменте [Coverage][DevtoolsCoverageIndex] .</span><span class="sxs-lookup"><span data-stu-id="d0eb6-251">The dynamic display is triggered when filters are applied in the [Coverage][DevtoolsCoverageIndex] tool.</span></span>  <span data-ttu-id="d0eb6-252">Перед тем, как средство **покрытия** всегда выводит сводку по всем сведениям о покрытии.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-252">Before the **Coverage** tool always displayed a summary of all coverage information.</span></span>  
 
-<span data-ttu-id="60680-253">На первой из приведенных ниже рисунков сводка первоначально отображается `344 kB of 1.7 MB (20%) used so far.  1.4 MB unused.` и на второй из приведенных ниже рисунков показывается, `26.8 kB of 408 kB (7%) used so far.  381 kB unused.` когда будет применена фильтрация CSS.</span><span class="sxs-lookup"><span data-stu-id="60680-253">In the first of the following figures, the summary initially displays `344 kB of 1.7 MB (20%) used so far.  1.4 MB unused.` and in the second of the following figures, the summary displays `26.8 kB of 408 kB (7%) used so far.  381 kB unused.` after CSS filtering is applied.</span></span>  
+<span data-ttu-id="d0eb6-253">На первой из приведенных ниже рисунков сводка первоначально отображается `344 kB of 1.7 MB (20%) used so far.  1.4 MB unused.` и на второй из приведенных ниже рисунков показывается, `26.8 kB of 408 kB (7%) used so far.  381 kB unused.` когда будет применена фильтрация CSS.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-253">In the first of the following figures, the summary initially displays `344 kB of 1.7 MB (20%) used so far.  1.4 MB unused.` and in the second of the following figures, the summary displays `26.8 kB of 408 kB (7%) used so far.  381 kB unused.` after CSS filtering is applied.</span></span>  
 
 :::row:::
    :::column span="":::
       :::image type="complex" source="../../media/2020/08/coverage-compare.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/coverage-compare.msft.png":::
-         <span data-ttu-id="60680-255">Сводка о покрытии</span><span class="sxs-lookup"><span data-stu-id="60680-255">Coverage summary</span></span>  
+         <span data-ttu-id="d0eb6-255">Сводка о покрытии</span><span class="sxs-lookup"><span data-stu-id="d0eb6-255">Coverage summary</span></span>  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
       :::image type="complex" source="../../media/2020/08/coverage-compare-css-filter.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/coverage-compare-css-filter.msft.png":::
-         <span data-ttu-id="60680-257">Сводка покрытия для отфильтрованных элементов</span><span class="sxs-lookup"><span data-stu-id="60680-257">Coverage summary for filtered items</span></span>  
+         <span data-ttu-id="d0eb6-257">Сводка покрытия для отфильтрованных элементов</span><span class="sxs-lookup"><span data-stu-id="d0eb6-257">Coverage summary for filtered items</span></span>  
       :::image-end:::  
    :::column-end:::
 :::row-end:::
 
-<span data-ttu-id="60680-258">Ошибка Chromium: [#1061385][CR1090802]</span><span class="sxs-lookup"><span data-stu-id="60680-258">Chromium issue: [#1061385][CR1090802]</span></span>  
+<span data-ttu-id="d0eb6-258">Ошибка Chromium: [#1061385][CR1090802]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-258">Chromium issue: [#1061385][CR1090802]</span></span>  
 
-### <span data-ttu-id="60680-259">Новый вид сведений о кадре на панели приложения</span><span class="sxs-lookup"><span data-stu-id="60680-259">New frame details view in Application panel</span></span>  
+### <span data-ttu-id="d0eb6-259">Новый вид сведений о кадре на панели приложения</span><span class="sxs-lookup"><span data-stu-id="d0eb6-259">New frame details view in Application panel</span></span>  
 
-<span data-ttu-id="60680-260">DevTools теперь показывать подробное представление для каждого кадра.</span><span class="sxs-lookup"><span data-stu-id="60680-260">DevTools now show a detailed view for each frame.</span></span>  <span data-ttu-id="60680-261">Для доступа к нему выберите рамку в меню " **кадры** " на панели **приложения** .</span><span class="sxs-lookup"><span data-stu-id="60680-261">To access it, choose a frame under the **Frames** menu in the **Application** panel.</span></span>  
+<span data-ttu-id="d0eb6-260">DevTools теперь показывать подробное представление для каждого кадра.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-260">DevTools now show a detailed view for each frame.</span></span>  <span data-ttu-id="d0eb6-261">Для доступа к нему выберите рамку в меню " **кадры** " на панели **приложения** .</span><span class="sxs-lookup"><span data-stu-id="d0eb6-261">To access it, choose a frame under the **Frames** menu in the **Application** panel.</span></span>  
 
 :::image type="complex" source="../../media/2020/08/frame-details.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/frame-details.msft.png":::
-   <span data-ttu-id="60680-263">Новый подробный вид рамки на панели **приложения**</span><span class="sxs-lookup"><span data-stu-id="60680-263">New detailed view for a frame in **Application** panel</span></span>  
+   <span data-ttu-id="d0eb6-263">Новый подробный вид рамки на панели **приложения**</span><span class="sxs-lookup"><span data-stu-id="d0eb6-263">New detailed view for a frame in **Application** panel</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-264">Ошибка Chromium: [#1093247][CR1093247]</span><span class="sxs-lookup"><span data-stu-id="60680-264">Chromium issue: [#1093247][CR1093247]</span></span>  
+<span data-ttu-id="d0eb6-264">Ошибка Chromium: [#1093247][CR1093247]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-264">Chromium issue: [#1093247][CR1093247]</span></span>  
 
-#### <span data-ttu-id="60680-265">Сведения о кадре для открытых окон</span><span class="sxs-lookup"><span data-stu-id="60680-265">Frame details for opened windows</span></span>  
+#### <span data-ttu-id="d0eb6-265">Сведения о кадре для открытых окон</span><span class="sxs-lookup"><span data-stu-id="d0eb6-265">Frame details for opened windows</span></span>  
 
-<span data-ttu-id="60680-266">Теперь в дереве фреймов отображаются открытые окна и всплывающие окна.</span><span class="sxs-lookup"><span data-stu-id="60680-266">Open windows and pop-up windows now display under the frame tree as well.</span></span>  <span data-ttu-id="60680-267">Подробное представление открытых окон включает дополнительные сведения о безопасности.</span><span class="sxs-lookup"><span data-stu-id="60680-267">The detailed view of the opened windows includes additional security information.</span></span>  
+<span data-ttu-id="d0eb6-266">Теперь в дереве фреймов отображаются открытые окна и всплывающие окна.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-266">Open windows and pop-up windows now display under the frame tree as well.</span></span>  <span data-ttu-id="d0eb6-267">Подробное представление открытых окон включает дополнительные сведения о безопасности.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-267">The detailed view of the opened windows includes additional security information.</span></span>  
 
 :::image type="complex" source="../../media/2020/08/window-opener.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/window-opener.msft.png":::
-   <span data-ttu-id="60680-269">Подробный обзор нового кадра для открытых окон</span><span class="sxs-lookup"><span data-stu-id="60680-269">New frame detailed view for opened windows</span></span>  
+   <span data-ttu-id="d0eb6-269">Подробный обзор нового кадра для открытых окон</span><span class="sxs-lookup"><span data-stu-id="d0eb6-269">New frame detailed view for opened windows</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-270">Ошибка Chromium: [#1107766] [CR1107766]</span><span class="sxs-lookup"><span data-stu-id="60680-270">Chromium issue: [#1107766][CR1107766]</span></span>  
+<span data-ttu-id="d0eb6-270">Ошибка Chromium: [#1107766] [CR1107766]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-270">Chromium issue: [#1107766][CR1107766]</span></span>  
 
-#### <span data-ttu-id="60680-271">Сведения о безопасности и изоляции</span><span class="sxs-lookup"><span data-stu-id="60680-271">Security and isolation information</span></span>  
+#### <span data-ttu-id="d0eb6-271">Сведения о безопасности и изоляции</span><span class="sxs-lookup"><span data-stu-id="d0eb6-271">Security and isolation information</span></span>  
 
-<span data-ttu-id="60680-272">В разделе сведения о кадре отображаются безопасный контекст, [Политика встраивания с Межисточниками (COEP)][WebDevCoopCoep], а также меж- [Openerная политика (Coop)][WebDevCoopCoep] .</span><span class="sxs-lookup"><span data-stu-id="60680-272">Secure context, [Cross-Origin-Embedder-Policy (COEP)][WebDevCoopCoep], and [Cross-Origin-Opener-Policy (COOP)][WebDevCoopCoep] are now displayed in the frame details.</span></span>  
+<span data-ttu-id="d0eb6-272">В разделе сведения о кадре отображаются безопасный контекст, [Политика встраивания с Межисточниками (COEP)][WebDevCoopCoep], а также меж- [Openerная политика (Coop)][WebDevCoopCoep] .</span><span class="sxs-lookup"><span data-stu-id="d0eb6-272">Secure context, [Cross-Origin-Embedder-Policy (COEP)][WebDevCoopCoep], and [Cross-Origin-Opener-Policy (COOP)][WebDevCoopCoep] are now displayed in the frame details.</span></span>  
 
 :::image type="complex" source="../../media/2020/08/coep-coop.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/coep-coop.msft.png":::
-   <span data-ttu-id="60680-274">Сведения о безопасности и изоляции</span><span class="sxs-lookup"><span data-stu-id="60680-274">Security and isolation information</span></span>  
+   <span data-ttu-id="d0eb6-274">Сведения о безопасности и изоляции</span><span class="sxs-lookup"><span data-stu-id="d0eb6-274">Security and isolation information</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-275">В будущем группа Microsoft Edge DevTools и группа Chrome DevTools планирует добавить дополнительные сведения о безопасности в сведения о кадре.</span><span class="sxs-lookup"><span data-stu-id="60680-275">In the future, the Microsoft Edge DevTools team and the Chrome DevTools team are planning to add more security information to the frame details.</span></span>  
+<span data-ttu-id="d0eb6-275">В будущем группа Microsoft Edge DevTools и группа Chrome DevTools планирует добавить дополнительные сведения о безопасности в сведения о кадре.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-275">In the future, the Microsoft Edge DevTools team and the Chrome DevTools team are planning to add more security information to the frame details.</span></span>  
 
-<span data-ttu-id="60680-276">Ошибка Chromium: [#1051466][CR1051466]</span><span class="sxs-lookup"><span data-stu-id="60680-276">Chromium issue: [#1051466][CR1051466]</span></span>  
+<span data-ttu-id="d0eb6-276">Ошибка Chromium: [#1051466][CR1051466]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-276">Chromium issue: [#1051466][CR1051466]</span></span>  
 
-### <span data-ttu-id="60680-277">Элементы и обновления панели сети</span><span class="sxs-lookup"><span data-stu-id="60680-277">Elements and Network panel updates</span></span>  
+### <span data-ttu-id="d0eb6-277">Элементы и обновления панели сети</span><span class="sxs-lookup"><span data-stu-id="d0eb6-277">Elements and Network panel updates</span></span>  
 
-#### <span data-ttu-id="60680-278">Специальные возможности цвета в области "стили"</span><span class="sxs-lookup"><span data-stu-id="60680-278">Accessible color suggestion in the Styles pane</span></span>  
+#### <span data-ttu-id="d0eb6-278">Специальные возможности цвета в области "стили"</span><span class="sxs-lookup"><span data-stu-id="d0eb6-278">Accessible color suggestion in the Styles pane</span></span>  
 
-<span data-ttu-id="60680-279">DevTools теперь предлагает варианты цветов для текста с низким контрастом цвета.</span><span class="sxs-lookup"><span data-stu-id="60680-279">DevTools now provides color suggestions for low color contrast text.</span></span>  
+<span data-ttu-id="d0eb6-279">DevTools теперь предлагает варианты цветов для текста с низким контрастом цвета.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-279">DevTools now provides color suggestions for low color contrast text.</span></span>  
 
-<span data-ttu-id="60680-280">В примере ниже `h1` есть текст с низким контрастом.</span><span class="sxs-lookup"><span data-stu-id="60680-280">In the example below, `h1` has low contrast text.</span></span>  <span data-ttu-id="60680-281">Чтобы исправить ошибку, откройте окно выбора цвета `color` свойства в области **стили** .</span><span class="sxs-lookup"><span data-stu-id="60680-281">To fix it, open the color picker of the `color` property in the **Styles** pane.</span></span>  <span data-ttu-id="60680-282">После того как вы развернете раздел **коэффициент контрастности** , DevTools предоставляет варианты цветов AA и AAA.</span><span class="sxs-lookup"><span data-stu-id="60680-282">After you expand the **Contrast ratio** section, DevTools provides AA and AAA color suggestions.</span></span>  <span data-ttu-id="60680-283">Выберите предложенный цвет, чтобы применить его.</span><span class="sxs-lookup"><span data-stu-id="60680-283">Select the suggested color to apply the color.</span></span>  
+<span data-ttu-id="d0eb6-280">В примере ниже `h1` есть текст с низким контрастом.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-280">In the example below, `h1` has low contrast text.</span></span>  <span data-ttu-id="d0eb6-281">Чтобы исправить ошибку, откройте окно выбора цвета `color` свойства в области **стили** .</span><span class="sxs-lookup"><span data-stu-id="d0eb6-281">To fix it, open the color picker of the `color` property in the **Styles** pane.</span></span>  <span data-ttu-id="d0eb6-282">После того как вы развернете раздел **коэффициент контрастности** , DevTools предоставляет варианты цветов AA и AAA.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-282">After you expand the **Contrast ratio** section, DevTools provides AA and AAA color suggestions.</span></span>  <span data-ttu-id="d0eb6-283">Выберите предложенный цвет, чтобы применить его.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-283">Select the suggested color to apply the color.</span></span>  
 
 :::image type="complex" source="../../media/2020/08/contrast-color-suggestion.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/contrast-color-suggestion.msft.png":::
-   <span data-ttu-id="60680-285">Средство выбора цвета предлагает варианты цветов AA и AAA</span><span class="sxs-lookup"><span data-stu-id="60680-285">Color picker suggests AA and AAA color suggestions</span></span>  
+   <span data-ttu-id="d0eb6-285">Средство выбора цвета предлагает варианты цветов AA и AAA</span><span class="sxs-lookup"><span data-stu-id="d0eb6-285">Color picker suggests AA and AAA color suggestions</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-286">Ошибка Chromium: [#1093227][CR1093227]</span><span class="sxs-lookup"><span data-stu-id="60680-286">Chromium issue: [#1093227][CR1093227]</span></span>  
+<span data-ttu-id="d0eb6-286">Ошибка Chromium: [#1093227][CR1093227]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-286">Chromium issue: [#1093227][CR1093227]</span></span>  
 
-#### <span data-ttu-id="60680-287">Область "восстановить свойства" на панели "элементы"</span><span class="sxs-lookup"><span data-stu-id="60680-287">Reinstate Properties pane in the Elements panel</span></span>  
+#### <span data-ttu-id="d0eb6-287">Область "восстановить свойства" на панели "элементы"</span><span class="sxs-lookup"><span data-stu-id="d0eb6-287">Reinstate Properties pane in the Elements panel</span></span>  
 
-<span data-ttu-id="60680-288">Область **свойств** будет возвращена.</span><span class="sxs-lookup"><span data-stu-id="60680-288">The **Properties** pane is back.</span></span>  <span data-ttu-id="60680-289">Она была [признана устаревшей в Microsoft Edge 84][DevtoolsWhatsnew200205DevtoolsDeprecationPropertiesPaneElementsPanel].</span><span class="sxs-lookup"><span data-stu-id="60680-289">It was [deprecated in Microsoft Edge 84][DevtoolsWhatsnew200205DevtoolsDeprecationPropertiesPaneElementsPanel].</span></span>  <span data-ttu-id="60680-290">Группа Microsoft Edge DevTools и группа "Chrome DevTools" предназначены для планирования улучшений для проверки свойств элементов.</span><span class="sxs-lookup"><span data-stu-id="60680-290">The Microsoft Edge DevTools team and the Chrome DevTools team are planning improvements for inspecting properties of elements.</span></span>  
+<span data-ttu-id="d0eb6-288">Область **свойств** будет возвращена.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-288">The **Properties** pane is back.</span></span>  <span data-ttu-id="d0eb6-289">Она была [признана устаревшей в Microsoft Edge 84][DevtoolsWhatsnew200205DevtoolsDeprecationPropertiesPaneElementsPanel].</span><span class="sxs-lookup"><span data-stu-id="d0eb6-289">It was [deprecated in Microsoft Edge 84][DevtoolsWhatsnew200205DevtoolsDeprecationPropertiesPaneElementsPanel].</span></span>  <span data-ttu-id="d0eb6-290">Группа Microsoft Edge DevTools и группа "Chrome DevTools" предназначены для планирования улучшений для проверки свойств элементов.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-290">The Microsoft Edge DevTools team and the Chrome DevTools team are planning improvements for inspecting properties of elements.</span></span>  
 
 :::image type="complex" source="../../media/2020/08/properties-pane.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/properties-pane.msft.png":::
-   <span data-ttu-id="60680-292">Область " **Свойства** " на панели " **элементы** "</span><span class="sxs-lookup"><span data-stu-id="60680-292">**Properties** pane in the **Elements** panel</span></span>  
+   <span data-ttu-id="d0eb6-292">Область " **Свойства** " на панели " **элементы** "</span><span class="sxs-lookup"><span data-stu-id="d0eb6-292">**Properties** pane in the **Elements** panel</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-293">Ошибка Chromium:</span><span class="sxs-lookup"><span data-stu-id="60680-293">Chromium issue:</span></span>  <!--  [#1105205][CR1105205],  -->  <span data-ttu-id="60680-294">[#1116085] [CR1116085]</span><span class="sxs-lookup"><span data-stu-id="60680-294">[#1116085][CR1116085]</span></span>  
+<span data-ttu-id="d0eb6-293">Ошибка Chromium:</span><span class="sxs-lookup"><span data-stu-id="d0eb6-293">Chromium issue:</span></span>  <!--  [#1105205][CR1105205],  -->  <span data-ttu-id="d0eb6-294">[#1116085] [CR1116085]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-294">[#1116085][CR1116085]</span></span>  
 
 <!--  
 #### Human-readable X-Client-Data header values in the Network panel  
@@ -391,59 +391,59 @@ The `X-Client-Data` HTTP header contains a list of experiment IDs and Microsoft 
 Chromium issue: [#1103854][CR1103854]  
 -->  
 
-#### <span data-ttu-id="60680-295">Автозаполнение настраиваемых шрифтов в области "стили"</span><span class="sxs-lookup"><span data-stu-id="60680-295">Autocomplete custom fonts in the Styles pane</span></span>  
+#### <span data-ttu-id="d0eb6-295">Автозаполнение настраиваемых шрифтов в области "стили"</span><span class="sxs-lookup"><span data-stu-id="d0eb6-295">Autocomplete custom fonts in the Styles pane</span></span>  
 
-<span data-ttu-id="60680-296">Импортированные фрагменты шрифта теперь добавляются в список автозавершения CSS при редактировании `font-family` свойства в области **стили** .</span><span class="sxs-lookup"><span data-stu-id="60680-296">Imported font faces are now added to the list of CSS autocompletion when editing the `font-family` property in the **Styles** pane.</span></span>  
+<span data-ttu-id="d0eb6-296">Импортированные фрагменты шрифта теперь добавляются в список автозавершения CSS при редактировании `font-family` свойства в области **стили** .</span><span class="sxs-lookup"><span data-stu-id="d0eb6-296">Imported font faces are now added to the list of CSS autocompletion when editing the `font-family` property in the **Styles** pane.</span></span>  
 
-<span data-ttu-id="60680-297">Например, если `monospace` на локальном компьютере установлен настраиваемый шрифт, он отображается в списке завершения CSS.</span><span class="sxs-lookup"><span data-stu-id="60680-297">For example, if `monospace` is a custom font installed on the local machine, it's displayed in the CSS completion list.</span></span> <span data-ttu-id="60680-298">В предыдущих версиях Microsoft Edge шрифт не отображался.</span><span class="sxs-lookup"><span data-stu-id="60680-298">In previous versions of Microsoft Edge, the font wasn't displayed.</span></span>
+<span data-ttu-id="d0eb6-297">Например, если `monospace` на локальном компьютере установлен настраиваемый шрифт, он отображается в списке завершения CSS.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-297">For example, if `monospace` is a custom font installed on the local machine, it's displayed in the CSS completion list.</span></span> <span data-ttu-id="d0eb6-298">В предыдущих версиях Microsoft Edge шрифт не отображался.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-298">In previous versions of Microsoft Edge, the font wasn't displayed.</span></span>
 
 :::image type="complex" source="../../media/2020/08/font-auto-complete.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/font-auto-complete.msft.png":::
-   <span data-ttu-id="60680-300">Автозаполнение настраиваемых шрифтов</span><span class="sxs-lookup"><span data-stu-id="60680-300">Autocomplete custom fonts</span></span>  
+   <span data-ttu-id="d0eb6-300">Автозаполнение настраиваемых шрифтов</span><span class="sxs-lookup"><span data-stu-id="d0eb6-300">Autocomplete custom fonts</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-301">Ошибка Chromium: [#1106221] [CR1106221]</span><span class="sxs-lookup"><span data-stu-id="60680-301">Chromium issue: [#1106221][CR1106221]</span></span>  
+<span data-ttu-id="d0eb6-301">Ошибка Chromium: [#1106221] [CR1106221]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-301">Chromium issue: [#1106221][CR1106221]</span></span>  
 
-#### <span data-ttu-id="60680-302">Согласованное отображение типа ресурсов на панели "сеть"</span><span class="sxs-lookup"><span data-stu-id="60680-302">Consistently display resource type in Network panel</span></span>  
+#### <span data-ttu-id="d0eb6-302">Согласованное отображение типа ресурсов на панели "сеть"</span><span class="sxs-lookup"><span data-stu-id="d0eb6-302">Consistently display resource type in Network panel</span></span>  
 
-<span data-ttu-id="60680-303">DevTools теперь будет отображать тот же тип ресурса, что и исходный, и добавляет `/ Redirect` к значению столбца **Type** , когда происходит перенаправление \ (код состояния HTTP 302 \).</span><span class="sxs-lookup"><span data-stu-id="60680-303">DevTools now consistently display the same resource type as the original network request and appends `/ Redirect` to the **Type** column value when redirection \(HTTP status code 302\) happens.</span></span>  
+<span data-ttu-id="d0eb6-303">DevTools теперь будет отображать тот же тип ресурса, что и исходный, и добавляет `/ Redirect` к значению столбца **Type** , когда происходит перенаправление \ (код состояния HTTP 302 \).</span><span class="sxs-lookup"><span data-stu-id="d0eb6-303">DevTools now consistently display the same resource type as the original network request and appends `/ Redirect` to the **Type** column value when redirection \(HTTP status code 302\) happens.</span></span>  
 
-<span data-ttu-id="60680-304">Ранее DevTools изменил тип на " `Other` иногда".</span><span class="sxs-lookup"><span data-stu-id="60680-304">Previously DevTools changed the type to `Other` sometimes.</span></span>  
+<span data-ttu-id="d0eb6-304">Ранее DevTools изменил тип на " `Other` иногда".</span><span class="sxs-lookup"><span data-stu-id="d0eb6-304">Previously DevTools changed the type to `Other` sometimes.</span></span>  
 
 :::image type="complex" source="../../media/2020/08/network-redirect.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/network-redirect.msft.png":::
-   <span data-ttu-id="60680-306">Вывод типа ресурса перенаправления</span><span class="sxs-lookup"><span data-stu-id="60680-306">Display redirect resource type</span></span>  
+   <span data-ttu-id="d0eb6-306">Вывод типа ресурса перенаправления</span><span class="sxs-lookup"><span data-stu-id="d0eb6-306">Display redirect resource type</span></span>  
 :::image-end:::  
 
-<span data-ttu-id="60680-307">Ошибка Chromium: [#997694][CR997694]</span><span class="sxs-lookup"><span data-stu-id="60680-307">Chromium issue: [#997694][CR997694]</span></span>  
+<span data-ttu-id="d0eb6-307">Ошибка Chromium: [#997694][CR997694]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-307">Chromium issue: [#997694][CR997694]</span></span>  
 
-#### <span data-ttu-id="60680-308">Кнопки "очистить" на панелях "элементы" и "сеть"</span><span class="sxs-lookup"><span data-stu-id="60680-308">Clear buttons in the Elements and Network panels</span></span>  
+#### <span data-ttu-id="d0eb6-308">Кнопки "очистить" на панелях "элементы" и "сеть"</span><span class="sxs-lookup"><span data-stu-id="d0eb6-308">Clear buttons in the Elements and Network panels</span></span>  
 
-<span data-ttu-id="60680-309">В следующих текстовых полях теперь есть кнопки " **очистить** ".</span><span class="sxs-lookup"><span data-stu-id="60680-309">The following text boxes now have **Clear** buttons.</span></span>  
+<span data-ttu-id="d0eb6-309">В следующих текстовых полях теперь есть кнопки " **очистить** ".</span><span class="sxs-lookup"><span data-stu-id="d0eb6-309">The following text boxes now have **Clear** buttons.</span></span>  
 
-*   <span data-ttu-id="60680-310">Текстовые поля "фильтр" в области " **стили** " и на панели " **сеть** ".</span><span class="sxs-lookup"><span data-stu-id="60680-310">The filter text boxes in the **Styles** pane and **Network** panel.</span></span>  
-*   <span data-ttu-id="60680-311">Текстовое поле "Поиск DOM" на панели " **элементы** ".</span><span class="sxs-lookup"><span data-stu-id="60680-311">The DOM search text box in the **Elements** panel.</span></span>  
+*   <span data-ttu-id="d0eb6-310">Текстовые поля "фильтр" в области " **стили** " и на панели " **сеть** ".</span><span class="sxs-lookup"><span data-stu-id="d0eb6-310">The filter text boxes in the **Styles** pane and **Network** panel.</span></span>  
+*   <span data-ttu-id="d0eb6-311">Текстовое поле "Поиск DOM" на панели " **элементы** ".</span><span class="sxs-lookup"><span data-stu-id="d0eb6-311">The DOM search text box in the **Elements** panel.</span></span>  
 
-<span data-ttu-id="60680-312">Нажмите кнопку **очистить** , чтобы удалить введенный текст.</span><span class="sxs-lookup"><span data-stu-id="60680-312">Choose the **Clear** button to remove any inputted text.</span></span>  
+<span data-ttu-id="d0eb6-312">Нажмите кнопку **очистить** , чтобы удалить введенный текст.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-312">Choose the **Clear** button to remove any inputted text.</span></span>  
 
 :::row:::
    :::column span="":::
       :::image type="complex" source="../../media/2020/08/clear-button-elements.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/clear-button-elements.msft.png":::
-         <span data-ttu-id="60680-314">Кнопки "очистить" на панелях **элементов**</span><span class="sxs-lookup"><span data-stu-id="60680-314">Clear buttons in the **Elements** panels</span></span>  
+         <span data-ttu-id="d0eb6-314">Кнопки "очистить" на панелях **элементов**</span><span class="sxs-lookup"><span data-stu-id="d0eb6-314">Clear buttons in the **Elements** panels</span></span>  
       :::image-end:::  
    :::column-end:::
    :::column span="":::
       :::image type="complex" source="../../media/2020/08/clear-button-network.msft.png" alt-text="Соответствие сочетаний клавиш в DevTools с кодом Visual Studio" lightbox="../../media/2020/08/clear-button-network.msft.png":::
-         <span data-ttu-id="60680-316">Кнопки "очистить" на панели "  **сеть** "</span><span class="sxs-lookup"><span data-stu-id="60680-316">Clear buttons in the  **Network** panels</span></span>  
+         <span data-ttu-id="d0eb6-316">Кнопки "очистить" на панели "  **сеть** "</span><span class="sxs-lookup"><span data-stu-id="d0eb6-316">Clear buttons in the  **Network** panels</span></span>  
       :::image-end:::  
    :::column-end:::
 :::row-end:::  
 
-<span data-ttu-id="60680-317">Ошибка Chromium: [#1067184][CR1067184]</span><span class="sxs-lookup"><span data-stu-id="60680-317">Chromium issue: [#1067184][CR1067184]</span></span>  
+<span data-ttu-id="d0eb6-317">Ошибка Chromium: [#1067184][CR1067184]</span><span class="sxs-lookup"><span data-stu-id="d0eb6-317">Chromium issue: [#1067184][CR1067184]</span></span>  
 
-## <span data-ttu-id="60680-318">Загрузка каналов предварительной версии Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="60680-318">Download the Microsoft Edge preview channels</span></span>  
+## <span data-ttu-id="d0eb6-318">Загрузка каналов предварительной версии Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="d0eb6-318">Download the Microsoft Edge preview channels</span></span>  
 
-<span data-ttu-id="60680-319">Если вы используете Windows или macOS, рассматривайте в качестве браузера по умолчанию использование [каналов предварительного просмотра Microsoft Edge][MicrosoftEdgePreviewChannels] .</span><span class="sxs-lookup"><span data-stu-id="60680-319">If you are on Windows or macOS, consider using the [Microsoft Edge preview channels][MicrosoftEdgePreviewChannels] as your default development browser.</span></span>  <span data-ttu-id="60680-320">Каналы предварительного просмотра предоставляют доступ к последним функциям DevTools.</span><span class="sxs-lookup"><span data-stu-id="60680-320">The preview channels give you access to the latest DevTools features.</span></span>  
+<span data-ttu-id="d0eb6-319">Если вы используете Windows или macOS, рассматривайте в качестве браузера по умолчанию использование [каналов предварительного просмотра Microsoft Edge][MicrosoftEdgePreviewChannels] .</span><span class="sxs-lookup"><span data-stu-id="d0eb6-319">If you are on Windows or macOS, consider using the [Microsoft Edge preview channels][MicrosoftEdgePreviewChannels] as your default development browser.</span></span>  <span data-ttu-id="d0eb6-320">Каналы предварительного просмотра предоставляют доступ к последним функциям DevTools.</span><span class="sxs-lookup"><span data-stu-id="d0eb6-320">The preview channels give you access to the latest DevTools features.</span></span>  
 
-## <span data-ttu-id="60680-321">Знакомство с Microsoft Edge DevTools Team</span><span class="sxs-lookup"><span data-stu-id="60680-321">Getting in touch with Microsoft Edge DevTools team</span></span>  
+## <span data-ttu-id="d0eb6-321">Знакомство с Microsoft Edge DevTools Team</span><span class="sxs-lookup"><span data-stu-id="d0eb6-321">Getting in touch with Microsoft Edge DevTools team</span></span>  
 
 [!INCLUDE [contact DevTools team note](../../includes/contact-whats-new-note.md)]  
 
@@ -490,7 +490,7 @@ Chromium issue: [#1103854][CR1103854]
 [CR772558]: https://crbug.com/772558 "DevTools: обновление до последней версии Lighthouse | Ошибки Chromium"  
 [CR807440]: https://crbug.com/807440 "Блокировка хрома с большим количеством SWs | Ошибки Chromium"  
 [CR997694]: https://crbug.com/997694 "Запросы XHR с состоянием 302 не отображаются в разделе \ "XHR \" на панели "сеть" | Ошибки Chromium"  
-[CR1047356]: https://crbug.com/1047356 "Инструменты сетки/гибкого бокса или таблицы CSS"  
+[CR1047356]: https://crbug.com/1047356 "Сетка CSS/гибкая таблица/подсказка для таблиц | Ошибки Chromium"  
 [CR1051466]: https://crbug.com/1051466 "Поддержка отладки COOP/COEP в DevTools | Ошибки Chromium"  
 [CR1054281]: https://crbug.com/1054281 "Запрос функции: DevTools должен эмулировать складная и устройства с двумя экранами | Ошибки Chromium"  
 [CR1067184]: https://crbug.com/1067184 "Запрос компонента: очистить кнопку "фильтр" в элементах & сети — > фильтрах фильтров | Ошибки Chromium"  
@@ -529,11 +529,11 @@ Chromium issue: [#1103854][CR1103854]
 [WebDevNonCompositedAnimations]: https://web.dev/non-composited-animations "Предотвращение несложных анимаций | Web. dev"  
 
 > [!NOTE]
-> <span data-ttu-id="60680-382">Части этой страницы представляют собой изменения, основанные на работе, созданной и [предоставленной компанией Google][GoogleSitePolicies] и использованными в соответствии с условиями, описанными в [лицензии Creative Commons 4,0 международная лицензия][CCA4IL].</span><span class="sxs-lookup"><span data-stu-id="60680-382">Portions of this page are modifications based on work created and [shared by Google][GoogleSitePolicies] and used according to terms described in the [Creative Commons Attribution 4.0 International License][CCA4IL].</span></span>  
-> <span data-ttu-id="60680-383">Исходная страница [будет найдена, и](https://developers.google.com/web/updates/2020/08/devtools/index) ее можно создать с помощью [Jecelyn Yeen][JecelynYeen] \ (разработчик отвечает, Chrome DevTools \).</span><span class="sxs-lookup"><span data-stu-id="60680-383">The original page is found [here](https://developers.google.com/web/updates/2020/08/devtools/index) and is authored by [Jecelyn Yeen][JecelynYeen] \(Developer advocate, Chrome DevTools\).</span></span>  
+> <span data-ttu-id="d0eb6-382">Части этой страницы представляют собой изменения, основанные на работе, созданной и [предоставленной компанией Google][GoogleSitePolicies] и использованными в соответствии с условиями, описанными в [лицензии Creative Commons 4,0 международная лицензия][CCA4IL].</span><span class="sxs-lookup"><span data-stu-id="d0eb6-382">Portions of this page are modifications based on work created and [shared by Google][GoogleSitePolicies] and used according to terms described in the [Creative Commons Attribution 4.0 International License][CCA4IL].</span></span>  
+> <span data-ttu-id="d0eb6-383">Исходная страница [будет найдена, и](https://developers.google.com/web/updates/2020/08/devtools/index) ее можно создать с помощью [Jecelyn Yeen][JecelynYeen] \ (разработчик отвечает, Chrome DevTools \).</span><span class="sxs-lookup"><span data-stu-id="d0eb6-383">The original page is found [here](https://developers.google.com/web/updates/2020/08/devtools/index) and is authored by [Jecelyn Yeen][JecelynYeen] \(Developer advocate, Chrome DevTools\).</span></span>  
 
 [![Лицензия Creative Commons][CCby4Image]][CCA4IL]  
-<span data-ttu-id="60680-385">Эта работа предоставляется в рамках международной лицензии [Creative Commons Attribution 4.0 International License][CCA4IL].</span><span class="sxs-lookup"><span data-stu-id="60680-385">This work is licensed under a [Creative Commons Attribution 4.0 International License][CCA4IL].</span></span>  
+<span data-ttu-id="d0eb6-385">Эта работа предоставляется в рамках международной лицензии [Creative Commons Attribution 4.0 International License][CCA4IL].</span><span class="sxs-lookup"><span data-stu-id="d0eb6-385">This work is licensed under a [Creative Commons Attribution 4.0 International License][CCA4IL].</span></span>  
 
 [CCA4IL]: https://creativecommons.org/licenses/by/4.0  
 [CCby4Image]: https://i.creativecommons.org/l/by/4.0/88x31.png  
