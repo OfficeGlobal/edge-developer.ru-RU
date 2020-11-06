@@ -525,6 +525,8 @@
       items:
         - name: 'Совместимость сайта: влияние на изменения, которые поступают в Microsoft Edge'
           href: web-platform/site-impacting-changes.md
+        - name: Перемещение пользователей из Internet Explorer в Microsoft Edge
+          href: web-platform/ie-to-microsoft-edge-redirection.md
         - name: Защита от отслеживания в Microsoft Edge
           href: web-platform/tracking-prevention.md
         - name: Строка агента пользователя Microsoft Edge
